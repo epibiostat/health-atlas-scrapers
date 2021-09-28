@@ -28,19 +28,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,Monterey,2274,15
 2020-06-30,Napa,484,4
 2020-06-30,Nevada,158,1
-2020-06-30,Orange,24035,335
+2020-06-30,Orange,24036,335
 2020-06-30,Placer,997,11
 2020-06-30,Plumas,12,0
 2020-06-30,Riverside,24767,449
 2020-06-30,Sacramento,4571,64
 2020-06-30,San Benito,298,2
-2020-06-30,San Bernardino,19864,249
+2020-06-30,San Bernardino,19863,249
 2020-06-30,San Diego,17967,365
 2020-06-30,San Francisco,4107,50
 2020-06-30,San Joaquin,5621,52
 2020-06-30,San Luis Obispo,840,1
 2020-06-30,San Mateo,3735,84
-2020-06-30,Santa Barbara,4233,25
+2020-06-30,Santa Barbara,4234,25
 2020-06-30,Santa Clara,5771,157
 2020-06-30,Santa Cruz,484,2
 2020-06-30,Shasta,217,5
@@ -86,19 +86,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,Monterey,2202,14
 2020-06-29,Napa,463,4
 2020-06-29,Nevada,155,1
-2020-06-29,Orange,23044,324
+2020-06-29,Orange,23045,324
 2020-06-29,Placer,958,11
 2020-06-29,Plumas,12,0
 2020-06-29,Riverside,23734,432
 2020-06-29,Sacramento,4289,62
 2020-06-29,San Benito,283,2
-2020-06-29,San Bernardino,18902,245
+2020-06-29,San Bernardino,18901,245
 2020-06-29,San Diego,17391,361
 2020-06-29,San Francisco,4030,50
 2020-06-29,San Joaquin,5263,52
 2020-06-29,San Luis Obispo,806,1
 2020-06-29,San Mateo,3681,84
-2020-06-29,Santa Barbara,4123,25
+2020-06-29,Santa Barbara,4124,25
 2020-06-29,Santa Clara,5599,157
 2020-06-29,Santa Cruz,466,2
 2020-06-29,Shasta,209,5
@@ -144,19 +144,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,Monterey,2120,13
 2020-06-28,Napa,429,4
 2020-06-28,Nevada,144,1
-2020-06-28,Orange,22069,324
+2020-06-28,Orange,22070,324
 2020-06-28,Placer,918,11
 2020-06-28,Plumas,11,0
 2020-06-28,Riverside,22907,432
 2020-06-28,Sacramento,4061,63
 2020-06-28,San Benito,272,2
-2020-06-28,San Bernardino,18148,245
+2020-06-28,San Bernardino,18147,245
 2020-06-28,San Diego,16846,361
 2020-06-28,San Francisco,3951,50
 2020-06-28,San Joaquin,4928,52
 2020-06-28,San Luis Obispo,767,1
 2020-06-28,San Mateo,3603,84
-2020-06-28,Santa Barbara,3978,25
+2020-06-28,Santa Barbara,3979,25
 2020-06-28,Santa Clara,5439,156
 2020-06-28,Santa Cruz,443,2
 2020-06-28,Shasta,196,5
@@ -202,19 +202,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,Monterey,2056,12
 2020-06-27,Napa,419,3
 2020-06-27,Nevada,140,1
-2020-06-27,Orange,21561,320
+2020-06-27,Orange,21562,320
 2020-06-27,Placer,897,10
 2020-06-27,Plumas,11,0
 2020-06-27,Riverside,22518,432
 2020-06-27,Sacramento,3943,63
 2020-06-27,San Benito,265,2
-2020-06-27,San Bernardino,17770,243
+2020-06-27,San Bernardino,17769,243
 2020-06-27,San Diego,16481,360
 2020-06-27,San Francisco,3896,49
 2020-06-27,San Joaquin,4763,52
 2020-06-27,San Luis Obispo,743,1
 2020-06-27,San Mateo,3546,83
-2020-06-27,Santa Barbara,3906,25
+2020-06-27,Santa Barbara,3907,25
 2020-06-27,Santa Clara,5334,157
 2020-06-27,Santa Cruz,436,2
 2020-06-27,Shasta,191,5
@@ -260,19 +260,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,Monterey,2004,12
 2020-06-26,Napa,409,3
 2020-06-26,Nevada,136,1
-2020-06-26,Orange,20885,320
+2020-06-26,Orange,20886,320
 2020-06-26,Placer,870,10
 2020-06-26,Plumas,11,0
 2020-06-26,Riverside,22056,430
 2020-06-26,Sacramento,3779,63
 2020-06-26,San Benito,261,2
-2020-06-26,San Bernardino,17393,243
+2020-06-26,San Bernardino,17392,243
 2020-06-26,San Diego,16116,358
 2020-06-26,San Francisco,3840,49
 2020-06-26,San Joaquin,4549,52
 2020-06-26,San Luis Obispo,728,1
 2020-06-26,San Mateo,3494,83
-2020-06-26,Santa Barbara,3816,25
+2020-06-26,Santa Barbara,3817,25
 2020-06-26,Santa Clara,5233,156
 2020-06-26,Santa Cruz,429,2
 2020-06-26,Shasta,184,5
@@ -318,19 +318,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,Monterey,1916,12
 2020-06-25,Napa,391,3
 2020-06-25,Nevada,128,1
-2020-06-25,Orange,19963,311
+2020-06-25,Orange,19964,311
 2020-06-25,Placer,820,10
 2020-06-25,Plumas,10,0
 2020-06-25,Riverside,21302,427
 2020-06-25,Sacramento,3558,62
 2020-06-25,San Benito,253,2
-2020-06-25,San Bernardino,16641,242
+2020-06-25,San Bernardino,16640,242
 2020-06-25,San Diego,15577,352
 2020-06-25,San Francisco,3775,48
 2020-06-25,San Joaquin,4277,50
 2020-06-25,San Luis Obispo,696,1
 2020-06-25,San Mateo,3426,82
-2020-06-25,Santa Barbara,3710,25
+2020-06-25,Santa Barbara,3711,25
 2020-06-25,Santa Clara,5085,156
 2020-06-25,Santa Cruz,417,2
 2020-06-25,Shasta,174,5
@@ -376,19 +376,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,Monterey,1839,12
 2020-06-24,Napa,373,3
 2020-06-24,Nevada,122,1
-2020-06-24,Orange,18969,303
+2020-06-24,Orange,18970,303
 2020-06-24,Placer,781,10
 2020-06-24,Plumas,10,0
 2020-06-24,Riverside,20456,410
 2020-06-24,Sacramento,3354,62
 2020-06-24,San Benito,249,2
-2020-06-24,San Bernardino,15829,239
+2020-06-24,San Bernardino,15828,239
 2020-06-24,San Diego,15077,347
 2020-06-24,San Francisco,3712,48
 2020-06-24,San Joaquin,4055,49
 2020-06-24,San Luis Obispo,665,1
 2020-06-24,San Mateo,3369,82
-2020-06-24,Santa Barbara,3590,22
+2020-06-24,Santa Barbara,3591,22
 2020-06-24,Santa Clara,4955,155
 2020-06-24,Santa Cruz,405,2
 2020-06-24,Shasta,166,5
@@ -434,19 +434,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,Monterey,1769,12
 2020-06-23,Napa,358,3
 2020-06-23,Nevada,116,1
-2020-06-23,Orange,17999,278
+2020-06-23,Orange,18000,278
 2020-06-23,Placer,753,10
 2020-06-23,Plumas,9,0
 2020-06-23,Riverside,19437,406
 2020-06-23,Sacramento,3177,62
 2020-06-23,San Benito,235,2
-2020-06-23,San Bernardino,15045,229
+2020-06-23,San Bernardino,15044,229
 2020-06-23,San Diego,14557,341
 2020-06-23,San Francisco,3639,48
 2020-06-23,San Joaquin,3796,48
 2020-06-23,San Luis Obispo,635,1
 2020-06-23,San Mateo,3303,81
-2020-06-23,Santa Barbara,3494,22
+2020-06-23,Santa Barbara,3495,22
 2020-06-23,Santa Clara,4809,155
 2020-06-23,Santa Cruz,395,2
 2020-06-23,Shasta,157,5
@@ -492,19 +492,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,Monterey,1708,12
 2020-06-22,Napa,334,3
 2020-06-22,Nevada,111,1
-2020-06-22,Orange,17069,275
+2020-06-22,Orange,17070,275
 2020-06-22,Placer,728,9
 2020-06-22,Plumas,7,0
 2020-06-22,Riverside,18464,403
 2020-06-22,Sacramento,2963,62
 2020-06-22,San Benito,226,2
-2020-06-22,San Bernardino,14269,229
+2020-06-22,San Bernardino,14268,229
 2020-06-22,San Diego,14066,338
 2020-06-22,San Francisco,3546,47
 2020-06-22,San Joaquin,3549,48
 2020-06-22,San Luis Obispo,603,1
 2020-06-22,San Mateo,3231,81
-2020-06-22,Santa Barbara,3402,21
+2020-06-22,Santa Barbara,3403,21
 2020-06-22,Santa Clara,4649,155
 2020-06-22,Santa Cruz,382,3
 2020-06-22,Shasta,154,5
@@ -550,19 +550,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,Monterey,1635,12
 2020-06-21,Napa,319,3
 2020-06-21,Nevada,108,1
-2020-06-21,Orange,16232,275
+2020-06-21,Orange,16233,275
 2020-06-21,Placer,689,9
 2020-06-21,Plumas,7,0
 2020-06-21,Riverside,17759,402
 2020-06-21,Sacramento,2763,62
 2020-06-21,San Benito,212,2
-2020-06-21,San Bernardino,13493,229
+2020-06-21,San Bernardino,13492,229
 2020-06-21,San Diego,13521,338
 2020-06-21,San Francisco,3440,47
 2020-06-21,San Joaquin,3313,48
 2020-06-21,San Luis Obispo,578,1
 2020-06-21,San Mateo,3173,81
-2020-06-21,Santa Barbara,3295,21
+2020-06-21,Santa Barbara,3296,21
 2020-06-21,Santa Clara,4511,154
 2020-06-21,Santa Cruz,372,3
 2020-06-21,Shasta,144,5
@@ -608,19 +608,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,Monterey,1599,12
 2020-06-20,Napa,310,3
 2020-06-20,Nevada,105,1
-2020-06-20,Orange,15885,273
+2020-06-20,Orange,15886,273
 2020-06-20,Placer,665,9
 2020-06-20,Plumas,6,0
 2020-06-20,Riverside,17460,402
 2020-06-20,Sacramento,2694,63
 2020-06-20,San Benito,208,2
-2020-06-20,San Bernardino,13132,229
+2020-06-20,San Bernardino,13131,229
 2020-06-20,San Diego,13198,338
 2020-06-20,San Francisco,3397,47
 2020-06-20,San Joaquin,3230,48
 2020-06-20,San Luis Obispo,565,1
 2020-06-20,San Mateo,3125,81
-2020-06-20,Santa Barbara,3239,21
+2020-06-20,Santa Barbara,3240,21
 2020-06-20,Santa Clara,4439,154
 2020-06-20,Santa Cruz,370,3
 2020-06-20,Shasta,138,5
@@ -666,19 +666,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,Monterey,1570,12
 2020-06-19,Napa,300,3
 2020-06-19,Nevada,102,1
-2020-06-19,Orange,15360,260
+2020-06-19,Orange,15361,260
 2020-06-19,Placer,647,9
 2020-06-19,Plumas,6,0
 2020-06-19,Riverside,17054,398
 2020-06-19,Sacramento,2610,64
 2020-06-19,San Benito,207,2
-2020-06-19,San Bernardino,12726,226
+2020-06-19,San Bernardino,12725,226
 2020-06-19,San Diego,12835,332
 2020-06-19,San Francisco,3342,47
 2020-06-19,San Joaquin,3107,48
 2020-06-19,San Luis Obispo,550,1
 2020-06-19,San Mateo,3086,81
-2020-06-19,Santa Barbara,3166,21
+2020-06-19,Santa Barbara,3167,21
 2020-06-19,Santa Clara,4365,154
 2020-06-19,Santa Cruz,360,3
 2020-06-19,Shasta,134,5
@@ -724,19 +724,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,Monterey,1503,12
 2020-06-18,Napa,285,3
 2020-06-18,Nevada,98,1
-2020-06-18,Orange,14705,255
+2020-06-18,Orange,14706,255
 2020-06-18,Placer,625,9
 2020-06-18,Plumas,6,0
 2020-06-18,Riverside,16441,392
 2020-06-18,Sacramento,2495,63
 2020-06-18,San Benito,201,2
-2020-06-18,San Bernardino,12090,226
+2020-06-18,San Bernardino,12089,226
 2020-06-18,San Diego,12413,331
 2020-06-18,San Francisco,3293,47
 2020-06-18,San Joaquin,2955,47
 2020-06-18,San Luis Obispo,531,1
 2020-06-18,San Mateo,3047,78
-2020-06-18,Santa Barbara,3092,19
+2020-06-18,Santa Barbara,3093,19
 2020-06-18,Santa Clara,4265,152
 2020-06-18,Santa Cruz,343,3
 2020-06-18,Shasta,123,4
@@ -782,19 +782,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,Monterey,1451,12
 2020-06-17,Napa,270,3
 2020-06-17,Nevada,94,1
-2020-06-17,Orange,14102,230
+2020-06-17,Orange,14103,230
 2020-06-17,Placer,603,9
 2020-06-17,Plumas,6,0
 2020-06-17,Riverside,15808,370
 2020-06-17,Sacramento,2387,63
 2020-06-17,San Benito,196,2
-2020-06-17,San Bernardino,11538,225
+2020-06-17,San Bernardino,11537,225
 2020-06-17,San Diego,12034,327
 2020-06-17,San Francisco,3254,46
 2020-06-17,San Joaquin,2783,46
 2020-06-17,San Luis Obispo,514,1
 2020-06-17,San Mateo,3000,78
-2020-06-17,Santa Barbara,3019,19
+2020-06-17,Santa Barbara,3020,19
 2020-06-17,Santa Clara,4174,148
 2020-06-17,Santa Cruz,337,2
 2020-06-17,Shasta,121,4
@@ -840,19 +840,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,Monterey,1403,12
 2020-06-16,Napa,255,3
 2020-06-16,Nevada,91,1
-2020-06-16,Orange,13519,223
+2020-06-16,Orange,13520,223
 2020-06-16,Placer,569,9
 2020-06-16,Plumas,6,0
 2020-06-16,Riverside,15133,364
 2020-06-16,Sacramento,2277,60
 2020-06-16,San Benito,188,2
-2020-06-16,San Bernardino,10996,225
+2020-06-16,San Bernardino,10995,225
 2020-06-16,San Diego,11672,323
 2020-06-16,San Francisco,3203,46
 2020-06-16,San Joaquin,2631,47
 2020-06-16,San Luis Obispo,491,1
 2020-06-16,San Mateo,2946,77
-2020-06-16,Santa Barbara,2952,16
+2020-06-16,Santa Barbara,2953,16
 2020-06-16,Santa Clara,4068,148
 2020-06-16,Santa Cruz,321,2
 2020-06-16,Shasta,112,4
@@ -898,19 +898,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,Monterey,1337,12
 2020-06-15,Napa,247,3
 2020-06-15,Nevada,85,1
-2020-06-15,Orange,12955,212
+2020-06-15,Orange,12956,212
 2020-06-15,Placer,548,9
 2020-06-15,Plumas,6,0
 2020-06-15,Riverside,14511,364
 2020-06-15,Sacramento,2162,60
 2020-06-15,San Benito,182,2
-2020-06-15,San Bernardino,10491,224
+2020-06-15,San Bernardino,10490,224
 2020-06-15,San Diego,11332,320
 2020-06-15,San Francisco,3159,45
 2020-06-15,San Joaquin,2495,43
 2020-06-15,San Luis Obispo,478,1
 2020-06-15,San Mateo,2899,75
-2020-06-15,Santa Barbara,2884,16
+2020-06-15,Santa Barbara,2885,16
 2020-06-15,Santa Clara,3968,148
 2020-06-15,Santa Cruz,310,2
 2020-06-15,Shasta,106,4
@@ -956,19 +956,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,Monterey,1276,12
 2020-06-14,Napa,225,3
 2020-06-14,Nevada,81,1
-2020-06-14,Orange,12531,211
+2020-06-14,Orange,12532,211
 2020-06-14,Placer,522,9
 2020-06-14,Plumas,5,0
 2020-06-14,Riverside,14068,364
 2020-06-14,Sacramento,2077,60
 2020-06-14,San Benito,171,2
-2020-06-14,San Bernardino,9951,224
+2020-06-14,San Bernardino,9950,224
 2020-06-14,San Diego,10957,319
 2020-06-14,San Francisco,3119,45
 2020-06-14,San Joaquin,2344,43
 2020-06-14,San Luis Obispo,463,1
 2020-06-14,San Mateo,2842,75
-2020-06-14,Santa Barbara,2807,17
+2020-06-14,Santa Barbara,2808,17
 2020-06-14,Santa Clara,3876,148
 2020-06-14,Santa Cruz,296,2
 2020-06-14,Shasta,100,4
@@ -1014,19 +1014,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,Monterey,1238,11
 2020-06-13,Napa,222,3
 2020-06-13,Nevada,79,1
-2020-06-13,Orange,12288,211
+2020-06-13,Orange,12289,211
 2020-06-13,Placer,505,9
 2020-06-13,Plumas,5,0
 2020-06-13,Riverside,13788,364
 2020-06-13,Sacramento,2023,60
 2020-06-13,San Benito,164,2
-2020-06-13,San Bernardino,9726,224
+2020-06-13,San Bernardino,9725,224
 2020-06-13,San Diego,10785,319
 2020-06-13,San Francisco,3099,44
 2020-06-13,San Joaquin,2263,43
 2020-06-13,San Luis Obispo,452,1
 2020-06-13,San Mateo,2819,75
-2020-06-13,Santa Barbara,2749,15
+2020-06-13,Santa Barbara,2750,15
 2020-06-13,Santa Clara,3835,148
 2020-06-13,Santa Cruz,290,2
 2020-06-13,Shasta,98,4
@@ -1072,19 +1072,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,Monterey,1197,11
 2020-06-12,Napa,219,3
 2020-06-12,Nevada,73,1
-2020-06-12,Orange,11983,203
+2020-06-12,Orange,11984,203
 2020-06-12,Placer,489,9
 2020-06-12,Plumas,5,0
 2020-06-12,Riverside,13451,364
 2020-06-12,Sacramento,1968,60
 2020-06-12,San Benito,157,2
-2020-06-12,San Bernardino,9458,223
+2020-06-12,San Bernardino,9457,223
 2020-06-12,San Diego,10615,313
 2020-06-12,San Francisco,3065,44
 2020-06-12,San Joaquin,2183,43
 2020-06-12,San Luis Obispo,436,1
 2020-06-12,San Mateo,2784,75
-2020-06-12,Santa Barbara,2695,14
+2020-06-12,Santa Barbara,2696,14
 2020-06-12,Santa Clara,3793,149
 2020-06-12,Santa Cruz,282,2
 2020-06-12,Shasta,91,5
@@ -1130,19 +1130,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,Monterey,1150,11
 2020-06-11,Napa,210,3
 2020-06-11,Nevada,67,1
-2020-06-11,Orange,11675,188
+2020-06-11,Orange,11676,188
 2020-06-11,Placer,469,9
 2020-06-11,Plumas,5,0
 2020-06-11,Riverside,13099,361
 2020-06-11,Sacramento,1920,60
 2020-06-11,San Benito,151,2
-2020-06-11,San Bernardino,9161,221
+2020-06-11,San Bernardino,9160,221
 2020-06-11,San Diego,10385,308
 2020-06-11,San Francisco,3036,44
 2020-06-11,San Joaquin,2071,43
 2020-06-11,San Luis Obispo,422,1
 2020-06-11,San Mateo,2746,74
-2020-06-11,Santa Barbara,2630,14
+2020-06-11,Santa Barbara,2631,14
 2020-06-11,Santa Clara,3727,149
 2020-06-11,Santa Cruz,278,2
 2020-06-11,Shasta,84,5
@@ -1188,19 +1188,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,Monterey,1096,11
 2020-06-10,Napa,207,3
 2020-06-10,Nevada,65,1
-2020-06-10,Orange,11399,184
+2020-06-10,Orange,11400,184
 2020-06-10,Placer,443,9
 2020-06-10,Plumas,5,0
 2020-06-10,Riverside,12776,361
 2020-06-10,Sacramento,1881,59
 2020-06-10,San Benito,142,2
-2020-06-10,San Bernardino,8869,219
+2020-06-10,San Bernardino,8868,219
 2020-06-10,San Diego,10221,305
 2020-06-10,San Francisco,3011,44
 2020-06-10,San Joaquin,1942,41
 2020-06-10,San Luis Obispo,403,1
 2020-06-10,San Mateo,2705,74
-2020-06-10,Santa Barbara,2574,13
+2020-06-10,Santa Barbara,2575,13
 2020-06-10,Santa Clara,3676,149
 2020-06-10,Santa Cruz,274,2
 2020-06-10,Shasta,79,5
@@ -1246,19 +1246,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,Monterey,1055,11
 2020-06-09,Napa,197,3
 2020-06-09,Nevada,57,1
-2020-06-09,Orange,11158,174
+2020-06-09,Orange,11159,174
 2020-06-09,Placer,430,9
 2020-06-09,Plumas,5,0
 2020-06-09,Riverside,12398,354
 2020-06-09,Sacramento,1827,59
 2020-06-09,San Benito,136,2
-2020-06-09,San Bernardino,8545,217
+2020-06-09,San Bernardino,8544,217
 2020-06-09,San Diego,10036,301
 2020-06-09,San Francisco,2986,44
 2020-06-09,San Joaquin,1836,41
 2020-06-09,San Luis Obispo,390,1
 2020-06-09,San Mateo,2674,74
-2020-06-09,Santa Barbara,2512,13
+2020-06-09,Santa Barbara,2513,13
 2020-06-09,Santa Clara,3609,147
 2020-06-09,Santa Cruz,268,2
 2020-06-09,Shasta,75,4
@@ -1304,19 +1304,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,Monterey,1004,10
 2020-06-08,Napa,181,3
 2020-06-08,Nevada,56,1
-2020-06-08,Orange,10906,160
+2020-06-08,Orange,10907,160
 2020-06-08,Placer,414,9
 2020-06-08,Plumas,5,0
 2020-06-08,Riverside,12029,347
 2020-06-08,Sacramento,1777,59
 2020-06-08,San Benito,129,2
-2020-06-08,San Bernardino,8224,214
+2020-06-08,San Bernardino,8223,214
 2020-06-08,San Diego,9879,296
 2020-06-08,San Francisco,2959,43
 2020-06-08,San Joaquin,1729,40
 2020-06-08,San Luis Obispo,384,1
 2020-06-08,San Mateo,2643,74
-2020-06-08,Santa Barbara,2450,13
+2020-06-08,Santa Barbara,2451,13
 2020-06-08,Santa Clara,3563,146
 2020-06-08,Santa Cruz,267,2
 2020-06-08,Shasta,71,4
@@ -1362,19 +1362,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,Monterey,957,10
 2020-06-07,Napa,173,3
 2020-06-07,Nevada,55,1
-2020-06-07,Orange,10649,158
+2020-06-07,Orange,10650,158
 2020-06-07,Placer,392,9
 2020-06-07,Plumas,5,0
 2020-06-07,Riverside,11733,344
 2020-06-07,Sacramento,1731,59
 2020-06-07,San Benito,126,2
-2020-06-07,San Bernardino,7941,214
+2020-06-07,San Bernardino,7940,214
 2020-06-07,San Diego,9700,296
 2020-06-07,San Francisco,2915,43
 2020-06-07,San Joaquin,1628,37
 2020-06-07,San Luis Obispo,374,1
 2020-06-07,San Mateo,2616,73
-2020-06-07,Santa Barbara,2389,13
+2020-06-07,Santa Barbara,2390,13
 2020-06-07,Santa Clara,3512,146
 2020-06-07,Santa Cruz,259,2
 2020-06-07,Shasta,70,4
@@ -1420,19 +1420,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,Monterey,933,10
 2020-06-06,Napa,167,3
 2020-06-06,Nevada,54,1
-2020-06-06,Orange,10490,157
+2020-06-06,Orange,10491,157
 2020-06-06,Placer,381,9
 2020-06-06,Plumas,5,0
 2020-06-06,Riverside,11554,345
 2020-06-06,Sacramento,1708,59
 2020-06-06,San Benito,116,2
-2020-06-06,San Bernardino,7793,214
+2020-06-06,San Bernardino,7792,214
 2020-06-06,San Diego,9579,296
 2020-06-06,San Francisco,2900,43
 2020-06-06,San Joaquin,1588,37
 2020-06-06,San Luis Obispo,368,1
 2020-06-06,San Mateo,2601,72
-2020-06-06,Santa Barbara,2349,13
+2020-06-06,Santa Barbara,2350,13
 2020-06-06,Santa Clara,3471,144
 2020-06-06,Santa Cruz,257,2
 2020-06-06,Shasta,70,4
@@ -1478,19 +1478,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,Monterey,901,10
 2020-06-05,Napa,164,3
 2020-06-05,Nevada,54,1
-2020-06-05,Orange,10295,153
+2020-06-05,Orange,10296,153
 2020-06-05,Placer,371,9
 2020-06-05,Plumas,5,0
 2020-06-05,Riverside,11294,345
 2020-06-05,Sacramento,1686,59
 2020-06-05,San Benito,114,2
-2020-06-05,San Bernardino,7611,212
+2020-06-05,San Bernardino,7610,212
 2020-06-05,San Diego,9464,294
 2020-06-05,San Francisco,2882,43
 2020-06-05,San Joaquin,1509,36
 2020-06-05,San Luis Obispo,361,1
 2020-06-05,San Mateo,2576,72
-2020-06-05,Santa Barbara,2314,13
+2020-06-05,Santa Barbara,2315,13
 2020-06-05,Santa Clara,3446,144
 2020-06-05,Santa Cruz,254,2
 2020-06-05,Shasta,69,4
@@ -1536,19 +1536,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,Monterey,866,10
 2020-06-04,Napa,160,3
 2020-06-04,Nevada,53,1
-2020-06-04,Orange,10044,148
+2020-06-04,Orange,10045,148
 2020-06-04,Placer,354,9
 2020-06-04,Plumas,4,0
 2020-06-04,Riverside,11016,341
 2020-06-04,Sacramento,1659,58
 2020-06-04,San Benito,112,2
-2020-06-04,San Bernardino,7343,207
+2020-06-04,San Bernardino,7342,207
 2020-06-04,San Diego,9301,288
 2020-06-04,San Francisco,2849,43
 2020-06-04,San Joaquin,1447,36
 2020-06-04,San Luis Obispo,353,1
 2020-06-04,San Mateo,2550,72
-2020-06-04,Santa Barbara,2275,13
+2020-06-04,Santa Barbara,2276,13
 2020-06-04,Santa Clara,3414,144
 2020-06-04,Santa Cruz,248,2
 2020-06-04,Shasta,63,4
@@ -1594,19 +1594,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,Monterey,838,10
 2020-06-03,Napa,159,3
 2020-06-03,Nevada,52,1
-2020-06-03,Orange,9817,145
+2020-06-03,Orange,9818,145
 2020-06-03,Placer,336,9
 2020-06-03,Plumas,4,0
 2020-06-03,Riverside,10741,335
 2020-06-03,Sacramento,1629,58
 2020-06-03,San Benito,106,2
-2020-06-03,San Bernardino,7120,203
+2020-06-03,San Bernardino,7119,203
 2020-06-03,San Diego,9153,283
 2020-06-03,San Francisco,2818,43
 2020-06-03,San Joaquin,1382,35
 2020-06-03,San Luis Obispo,348,1
 2020-06-03,San Mateo,2522,71
-2020-06-03,Santa Barbara,2232,12
+2020-06-03,Santa Barbara,2233,12
 2020-06-03,Santa Clara,3375,144
 2020-06-03,Santa Cruz,242,2
 2020-06-03,Shasta,60,4
@@ -1652,19 +1652,19 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,Monterey,808,10
 2020-06-02,Napa,150,3
 2020-06-02,Nevada,51,1
-2020-06-02,Orange,9616,142
+2020-06-02,Orange,9617,142
 2020-06-02,Placer,322,9
 2020-06-02,Plumas,4,0
 2020-06-02,Riverside,10446,330
 2020-06-02,Sacramento,1600,58
 2020-06-02,San Benito,105,2
-2020-06-02,San Bernardino,6914,202
+2020-06-02,San Bernardino,6913,202
 2020-06-02,San Diego,9007,276
 2020-06-02,San Francisco,2783,43
 2020-06-02,San Joaquin,1316,35
 2020-06-02,San Luis Obispo,343,1
 2020-06-02,San Mateo,2487,71
-2020-06-02,Santa Barbara,2187,12
+2020-06-02,Santa Barbara,2188,12
 2020-06-02,Santa Clara,3325,144
 2020-06-02,Santa Cruz,237,2
 2020-06-02,Shasta,59,4
@@ -1710,13 +1710,13 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,Monterey,783,10
 2020-06-01,Napa,147,3
 2020-06-01,Nevada,51,1
-2020-06-01,Orange,9420,135
+2020-06-01,Orange,9421,135
 2020-06-01,Placer,310,9
 2020-06-01,Plumas,4,0
 2020-06-01,Riverside,9995,322
 2020-06-01,Sacramento,1561,58
 2020-06-01,San Benito,102,2
-2020-06-01,San Bernardino,6708,202
+2020-06-01,San Bernardino,6707,202
 2020-06-01,San Diego,8827,269
 2020-06-01,San Francisco,2746,43
 2020-06-01,San Joaquin,1251,35
@@ -1768,13 +1768,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,Monterey,710,10
 2020-05-31,Napa,145,3
 2020-05-31,Nevada,50,1
-2020-05-31,Orange,9209,135
+2020-05-31,Orange,9210,135
 2020-05-31,Placer,287,9
 2020-05-31,Plumas,4,0
 2020-05-31,Riverside,9739,321
 2020-05-31,Sacramento,1530,57
 2020-05-31,San Benito,96,2
-2020-05-31,San Bernardino,6440,198
+2020-05-31,San Bernardino,6439,198
 2020-05-31,San Diego,8633,269
 2020-05-31,San Francisco,2710,43
 2020-05-31,San Joaquin,1186,34
@@ -1826,13 +1826,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,Monterey,694,10
 2020-05-30,Napa,143,3
 2020-05-30,Nevada,50,1
-2020-05-30,Orange,9054,134
+2020-05-30,Orange,9055,134
 2020-05-30,Placer,279,9
 2020-05-30,Plumas,4,0
 2020-05-30,Riverside,9595,316
 2020-05-30,Sacramento,1519,57
 2020-05-30,San Benito,95,2
-2020-05-30,San Bernardino,6331,198
+2020-05-30,San Bernardino,6330,198
 2020-05-30,San Diego,8540,269
 2020-05-30,San Francisco,2685,41
 2020-05-30,San Joaquin,1148,34
@@ -1884,13 +1884,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,Monterey,664,10
 2020-05-29,Napa,140,3
 2020-05-29,Nevada,50,1
-2020-05-29,Orange,8859,133
+2020-05-29,Orange,8860,133
 2020-05-29,Placer,261,9
 2020-05-29,Plumas,4,0
 2020-05-29,Riverside,9409,313
 2020-05-29,Sacramento,1496,57
 2020-05-29,San Benito,95,2
-2020-05-29,San Bernardino,6224,196
+2020-05-29,San Bernardino,6223,196
 2020-05-29,San Diego,8417,266
 2020-05-29,San Francisco,2661,41
 2020-05-29,San Joaquin,1111,34
@@ -1942,13 +1942,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,Monterey,632,10
 2020-05-28,Napa,137,3
 2020-05-28,Nevada,45,1
-2020-05-28,Orange,8663,130
+2020-05-28,Orange,8664,130
 2020-05-28,Placer,254,9
 2020-05-28,Plumas,4,0
 2020-05-28,Riverside,9007,304
 2020-05-28,Sacramento,1476,57
 2020-05-28,San Benito,94,2
-2020-05-28,San Bernardino,6059,191
+2020-05-28,San Bernardino,6058,191
 2020-05-28,San Diego,8260,260
 2020-05-28,San Francisco,2627,40
 2020-05-28,San Joaquin,1076,34
@@ -2000,13 +2000,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,Monterey,592,8
 2020-05-27,Napa,132,3
 2020-05-27,Nevada,44,1
-2020-05-27,Orange,8507,121
+2020-05-27,Orange,8508,121
 2020-05-27,Placer,235,9
 2020-05-27,Plumas,4,0
 2020-05-27,Riverside,8628,299
 2020-05-27,Sacramento,1448,50
 2020-05-27,San Benito,91,2
-2020-05-27,San Bernardino,5875,183
+2020-05-27,San Bernardino,5874,183
 2020-05-27,San Diego,8110,255
 2020-05-27,San Francisco,2598,40
 2020-05-27,San Joaquin,1035,34
@@ -2058,13 +2058,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,Monterey,564,8
 2020-05-26,Napa,127,3
 2020-05-26,Nevada,43,1
-2020-05-26,Orange,8239,115
+2020-05-26,Orange,8240,115
 2020-05-26,Placer,230,9
 2020-05-26,Plumas,4,0
 2020-05-26,Riverside,8181,284
 2020-05-26,Sacramento,1422,50
 2020-05-26,San Benito,86,2
-2020-05-26,San Bernardino,5707,175
+2020-05-26,San Bernardino,5706,175
 2020-05-26,San Diego,7967,249
 2020-05-26,San Francisco,2565,40
 2020-05-26,San Joaquin,988,33
@@ -2116,13 +2116,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,Monterey,534,8
 2020-05-25,Napa,127,3
 2020-05-25,Nevada,43,1
-2020-05-25,Orange,8017,115
+2020-05-25,Orange,8018,115
 2020-05-25,Placer,227,9
 2020-05-25,Plumas,4,0
 2020-05-25,Riverside,7950,284
 2020-05-25,Sacramento,1402,50
 2020-05-25,San Benito,85,2
-2020-05-25,San Bernardino,5517,175
+2020-05-25,San Bernardino,5516,175
 2020-05-25,San Diego,7791,249
 2020-05-25,San Francisco,2528,40
 2020-05-25,San Joaquin,962,33
@@ -2174,13 +2174,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,Monterey,506,8
 2020-05-24,Napa,125,3
 2020-05-24,Nevada,43,1
-2020-05-24,Orange,7861,113
+2020-05-24,Orange,7862,113
 2020-05-24,Placer,219,9
 2020-05-24,Plumas,4,0
 2020-05-24,Riverside,7809,284
 2020-05-24,Sacramento,1385,50
 2020-05-24,San Benito,84,2
-2020-05-24,San Bernardino,5409,175
+2020-05-24,San Bernardino,5408,175
 2020-05-24,San Diego,7648,249
 2020-05-24,San Francisco,2504,40
 2020-05-24,San Joaquin,943,33
@@ -2232,13 +2232,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,Monterey,492,8
 2020-05-23,Napa,121,3
 2020-05-23,Nevada,43,1
-2020-05-23,Orange,7704,113
+2020-05-23,Orange,7705,113
 2020-05-23,Placer,213,9
 2020-05-23,Plumas,4,0
 2020-05-23,Riverside,7718,284
 2020-05-23,Sacramento,1369,50
 2020-05-23,San Benito,79,2
-2020-05-23,San Bernardino,5316,175
+2020-05-23,San Bernardino,5315,175
 2020-05-23,San Diego,7557,249
 2020-05-23,San Francisco,2485,40
 2020-05-23,San Joaquin,928,33
@@ -2290,13 +2290,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,Monterey,481,8
 2020-05-22,Napa,119,3
 2020-05-22,Nevada,42,1
-2020-05-22,Orange,7510,113
+2020-05-22,Orange,7511,113
 2020-05-22,Placer,213,9
 2020-05-22,Plumas,4,0
 2020-05-22,Riverside,7603,283
 2020-05-22,Sacramento,1353,50
 2020-05-22,San Benito,78,2
-2020-05-22,San Bernardino,5241,173
+2020-05-22,San Bernardino,5240,173
 2020-05-22,San Diego,7471,242
 2020-05-22,San Francisco,2467,40
 2020-05-22,San Joaquin,915,33
@@ -2348,13 +2348,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-21,Monterey,470,8
 2020-05-21,Napa,117,3
 2020-05-21,Nevada,42,1
-2020-05-21,Orange,7309,106
+2020-05-21,Orange,7310,106
 2020-05-21,Placer,206,8
 2020-05-21,Plumas,4,0
 2020-05-21,Riverside,7416,279
 2020-05-21,Sacramento,1340,56
 2020-05-21,San Benito,75,2
-2020-05-21,San Bernardino,5095,167
+2020-05-21,San Bernardino,5094,167
 2020-05-21,San Diego,7335,241
 2020-05-21,San Francisco,2443,37
 2020-05-21,San Joaquin,879,33
@@ -2406,13 +2406,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,Monterey,456,8
 2020-05-20,Napa,110,3
 2020-05-20,Nevada,42,1
-2020-05-20,Orange,7103,96
+2020-05-20,Orange,7104,96
 2020-05-20,Placer,204,8
 2020-05-20,Plumas,4,0
 2020-05-20,Riverside,7273,265
 2020-05-20,Sacramento,1330,56
 2020-05-20,San Benito,74,2
-2020-05-20,San Bernardino,4969,161
+2020-05-20,San Bernardino,4968,161
 2020-05-20,San Diego,7218,230
 2020-05-20,San Francisco,2420,37
 2020-05-20,San Joaquin,843,33
@@ -2464,13 +2464,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,Monterey,444,8
 2020-05-19,Napa,109,3
 2020-05-19,Nevada,42,1
-2020-05-19,Orange,6908,90
+2020-05-19,Orange,6909,90
 2020-05-19,Placer,202,8
 2020-05-19,Plumas,4,0
 2020-05-19,Riverside,7114,265
 2020-05-19,Sacramento,1316,57
 2020-05-19,San Benito,72,2
-2020-05-19,San Bernardino,4821,158
+2020-05-19,San Bernardino,4820,158
 2020-05-19,San Diego,7074,222
 2020-05-19,San Francisco,2386,37
 2020-05-19,San Joaquin,821,33
@@ -2522,13 +2522,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,Monterey,433,8
 2020-05-18,Napa,105,3
 2020-05-18,Nevada,42,1
-2020-05-18,Orange,6720,88
+2020-05-18,Orange,6721,88
 2020-05-18,Placer,200,8
 2020-05-18,Plumas,4,0
 2020-05-18,Riverside,6914,253
 2020-05-18,Sacramento,1310,57
 2020-05-18,San Benito,70,2
-2020-05-18,San Bernardino,4674,156
+2020-05-18,San Bernardino,4673,156
 2020-05-18,San Diego,6941,211
 2020-05-18,San Francisco,2363,36
 2020-05-18,San Joaquin,809,33
@@ -2580,13 +2580,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,Monterey,413,8
 2020-05-17,Napa,102,3
 2020-05-17,Nevada,42,1
-2020-05-17,Orange,6541,88
+2020-05-17,Orange,6542,88
 2020-05-17,Placer,194,8
 2020-05-17,Plumas,4,0
 2020-05-17,Riverside,6741,245
 2020-05-17,Sacramento,1299,56
 2020-05-17,San Benito,69,2
-2020-05-17,San Bernardino,4524,155
+2020-05-17,San Bernardino,4523,155
 2020-05-17,San Diego,6809,209
 2020-05-17,San Francisco,2336,36
 2020-05-17,San Joaquin,779,32
@@ -2638,13 +2638,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,Monterey,398,8
 2020-05-16,Napa,102,3
 2020-05-16,Nevada,42,1
-2020-05-16,Orange,6465,87
+2020-05-16,Orange,6466,87
 2020-05-16,Placer,192,8
 2020-05-16,Plumas,4,0
 2020-05-16,Riverside,6655,243
 2020-05-16,Sacramento,1292,55
 2020-05-16,San Benito,64,2
-2020-05-16,San Bernardino,4453,155
+2020-05-16,San Bernardino,4452,155
 2020-05-16,San Diego,6723,209
 2020-05-16,San Francisco,2313,36
 2020-05-16,San Joaquin,771,32
@@ -2696,13 +2696,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,Monterey,392,8
 2020-05-15,Napa,102,3
 2020-05-15,Nevada,42,1
-2020-05-15,Orange,6294,87
+2020-05-15,Orange,6295,87
 2020-05-15,Placer,190,8
 2020-05-15,Plumas,4,0
 2020-05-15,Riverside,6541,233
 2020-05-15,Sacramento,1282,55
 2020-05-15,San Benito,61,2
-2020-05-15,San Bernardino,4375,153
+2020-05-15,San Bernardino,4374,153
 2020-05-15,San Diego,6616,208
 2020-05-15,San Francisco,2297,36
 2020-05-15,San Joaquin,765,32
@@ -2754,13 +2754,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,Monterey,382,7
 2020-05-14,Napa,100,3
 2020-05-14,Nevada,41,1
-2020-05-14,Orange,6118,83
+2020-05-14,Orange,6119,83
 2020-05-14,Placer,190,8
 2020-05-14,Plumas,4,0
 2020-05-14,Riverside,6358,224
 2020-05-14,Sacramento,1270,55
 2020-05-14,San Benito,59,2
-2020-05-14,San Bernardino,4197,149
+2020-05-14,San Bernardino,4196,149
 2020-05-14,San Diego,6482,200
 2020-05-14,San Francisco,2264,36
 2020-05-14,San Joaquin,750,31
@@ -2812,13 +2812,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,Monterey,372,6
 2020-05-13,Napa,100,3
 2020-05-13,Nevada,41,1
-2020-05-13,Orange,5872,79
+2020-05-13,Orange,5873,79
 2020-05-13,Placer,189,8
 2020-05-13,Plumas,4,0
 2020-05-13,Riverside,6235,216
 2020-05-13,Sacramento,1255,53
 2020-05-13,San Benito,59,2
-2020-05-13,San Bernardino,3942,140
+2020-05-13,San Bernardino,3941,140
 2020-05-13,San Diego,6346,194
 2020-05-13,San Francisco,2236,35
 2020-05-13,San Joaquin,729,31
@@ -2870,13 +2870,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,Monterey,365,6
 2020-05-12,Napa,98,3
 2020-05-12,Nevada,41,1
-2020-05-12,Orange,5690,78
+2020-05-12,Orange,5691,78
 2020-05-12,Placer,188,8
 2020-05-12,Plumas,4,0
 2020-05-12,Riverside,6114,210
 2020-05-12,Sacramento,1235,52
 2020-05-12,San Benito,59,2
-2020-05-12,San Bernardino,3791,131
+2020-05-12,San Bernardino,3790,131
 2020-05-12,San Diego,6202,0
 2020-05-12,San Francisco,2201,35
 2020-05-12,San Joaquin,714,30
@@ -2928,13 +2928,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,Monterey,362,6
 2020-05-11,Napa,92,2
 2020-05-11,Nevada,41,1
-2020-05-11,Orange,5483,77
+2020-05-11,Orange,5484,77
 2020-05-11,Placer,188,8
 2020-05-11,Plumas,4,0
 2020-05-11,Riverside,5957,203
 2020-05-11,Sacramento,1220,52
 2020-05-11,San Benito,57,2
-2020-05-11,San Bernardino,3681,124
+2020-05-11,San Bernardino,3680,124
 2020-05-11,San Diego,6049,175
 2020-05-11,San Francisco,2154,35
 2020-05-11,San Joaquin,704,30
@@ -2986,13 +2986,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,Monterey,348,6
 2020-05-10,Napa,86,2
 2020-05-10,Nevada,41,1
-2020-05-10,Orange,5338,76
+2020-05-10,Orange,5339,76
 2020-05-10,Placer,187,8
 2020-05-10,Plumas,4,0
 2020-05-10,Riverside,5835,193
 2020-05-10,Sacramento,1204,52
 2020-05-10,San Benito,57,2
-2020-05-10,San Bernardino,3583,121
+2020-05-10,San Bernardino,3582,121
 2020-05-10,San Diego,5897,175
 2020-05-10,San Francisco,2136,35
 2020-05-10,San Joaquin,689,29
@@ -3044,13 +3044,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,Monterey,341,6
 2020-05-09,Napa,85,2
 2020-05-09,Nevada,41,1
-2020-05-09,Orange,5257,75
+2020-05-09,Orange,5258,75
 2020-05-09,Placer,186,8
 2020-05-09,Plumas,4,0
 2020-05-09,Riverside,5741,183
 2020-05-09,Sacramento,1200,52
 2020-05-09,San Benito,56,2
-2020-05-09,San Bernardino,3527,121
+2020-05-09,San Bernardino,3526,121
 2020-05-09,San Diego,5785,175
 2020-05-09,San Francisco,2121,34
 2020-05-09,San Joaquin,680,28
@@ -3102,13 +3102,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,Monterey,333,6
 2020-05-08,Napa,84,2
 2020-05-08,Nevada,41,1
-2020-05-08,Orange,5115,72
+2020-05-08,Orange,5116,72
 2020-05-08,Placer,184,8
 2020-05-08,Plumas,4,0
 2020-05-08,Riverside,5642,181
 2020-05-08,Sacramento,1195,51
 2020-05-08,San Benito,56,2
-2020-05-08,San Bernardino,3479,119
+2020-05-08,San Bernardino,3478,119
 2020-05-08,San Diego,5678,169
 2020-05-08,San Francisco,2103,33
 2020-05-08,San Joaquin,673,28
@@ -3160,13 +3160,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,Monterey,325,6
 2020-05-07,Napa,84,2
 2020-05-07,Nevada,41,1
-2020-05-07,Orange,4932,69
+2020-05-07,Orange,4933,69
 2020-05-07,Placer,184,8
 2020-05-07,Plumas,4,0
 2020-05-07,Riverside,5526,170
 2020-05-07,Sacramento,1189,50
 2020-05-07,San Benito,56,2
-2020-05-07,San Bernardino,3387,115
+2020-05-07,San Bernardino,3386,115
 2020-05-07,San Diego,5521,165
 2020-05-07,San Francisco,2072,33
 2020-05-07,San Joaquin,660,28
@@ -3218,13 +3218,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,Monterey,317,6
 2020-05-06,Napa,83,2
 2020-05-06,Nevada,41,1
-2020-05-06,Orange,4747,66
+2020-05-06,Orange,4748,66
 2020-05-06,Placer,181,8
 2020-05-06,Plumas,4,0
 2020-05-06,Riverside,5381,163
 2020-05-06,Sacramento,1182,49
 2020-05-06,San Benito,55,2
-2020-05-06,San Bernardino,3265,110
+2020-05-06,San Bernardino,3264,110
 2020-05-06,San Diego,5388,158
 2020-05-06,San Francisco,2047,32
 2020-05-06,San Joaquin,647,28
@@ -3276,13 +3276,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,Monterey,303,6
 2020-05-05,Napa,83,2
 2020-05-05,Nevada,41,1
-2020-05-05,Orange,4624,63
+2020-05-05,Orange,4625,63
 2020-05-05,Placer,181,8
 2020-05-05,Plumas,4,0
 2020-05-05,Riverside,5271,161
 2020-05-05,Sacramento,1175,48
 2020-05-05,San Benito,54,2
-2020-05-05,San Bernardino,3172,104
+2020-05-05,San Bernardino,3171,104
 2020-05-05,San Diego,5245,150
 2020-05-05,San Francisco,2012,31
 2020-05-05,San Joaquin,638,26
@@ -3334,13 +3334,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,Monterey,292,6
 2020-05-04,Napa,83,2
 2020-05-04,Nevada,41,1
-2020-05-04,Orange,4488,57
+2020-05-04,Orange,4489,57
 2020-05-04,Placer,179,8
 2020-05-04,Plumas,4,0
 2020-05-04,Riverside,5178,147
 2020-05-04,Sacramento,1165,44
 2020-05-04,San Benito,52,2
-2020-05-04,San Bernardino,3030,99
+2020-05-04,San Bernardino,3029,99
 2020-05-04,San Diego,5104,144
 2020-05-04,San Francisco,1974,31
 2020-05-04,San Joaquin,624,26
@@ -3392,13 +3392,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,Monterey,283,6
 2020-05-03,Napa,83,2
 2020-05-03,Nevada,41,1
-2020-05-03,Orange,4317,55
+2020-05-03,Orange,4318,55
 2020-05-03,Placer,179,8
 2020-05-03,Plumas,4,0
 2020-05-03,Riverside,5073,139
 2020-05-03,Sacramento,1156,43
 2020-05-03,San Benito,52,2
-2020-05-03,San Bernardino,2969,99
+2020-05-03,San Bernardino,2968,99
 2020-05-03,San Diego,4967,142
 2020-05-03,San Francisco,1946,30
 2020-05-03,San Joaquin,617,26
@@ -3450,13 +3450,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,Monterey,277,5
 2020-05-02,Napa,83,2
 2020-05-02,Nevada,41,1
-2020-05-02,Orange,4203,52
+2020-05-02,Orange,4204,52
 2020-05-02,Placer,177,8
 2020-05-02,Plumas,4,0
 2020-05-02,Riverside,5007,137
 2020-05-02,Sacramento,1153,43
 2020-05-02,San Benito,52,2
-2020-05-02,San Bernardino,2930,99
+2020-05-02,San Bernardino,2929,99
 2020-05-02,San Diego,4865,138
 2020-05-02,San Francisco,1923,29
 2020-05-02,San Joaquin,609,25
@@ -3508,13 +3508,13 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,Monterey,273,5
 2020-05-01,Napa,83,2
 2020-05-01,Nevada,41,1
-2020-05-01,Orange,4125,51
+2020-05-01,Orange,4126,51
 2020-05-01,Placer,176,8
 2020-05-01,Plumas,4,0
 2020-05-01,Riverside,4944,132
 2020-05-01,Sacramento,1148,43
 2020-05-01,San Benito,52,2
-2020-05-01,San Bernardino,2875,98
+2020-05-01,San Bernardino,2874,98
 2020-05-01,San Diego,4775,134
 2020-05-01,San Francisco,1879,29
 2020-05-01,San Joaquin,605,25
@@ -3566,13 +3566,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,Monterey,263,5
 2020-04-30,Napa,81,2
 2020-04-30,Nevada,41,1
-2020-04-30,Orange,3911,46
+2020-04-30,Orange,3912,46
 2020-04-30,Placer,175,8
 2020-04-30,Plumas,4,0
 2020-04-30,Riverside,4844,124
 2020-04-30,Sacramento,1142,43
 2020-04-30,San Benito,52,2
-2020-04-30,San Bernardino,2674,96
+2020-04-30,San Bernardino,2673,96
 2020-04-30,San Diego,4604,124
 2020-04-30,San Francisco,1845,26
 2020-04-30,San Joaquin,598,25
@@ -3624,13 +3624,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-29,Monterey,255,5
 2020-04-29,Napa,79,2
 2020-04-29,Nevada,41,1
-2020-04-29,Orange,3781,43
+2020-04-29,Orange,3782,43
 2020-04-29,Placer,173,8
 2020-04-29,Plumas,4,0
 2020-04-29,Riverside,4768,116
 2020-04-29,Sacramento,1120,41
 2020-04-29,San Benito,52,2
-2020-04-29,San Bernardino,2587,91
+2020-04-29,San Bernardino,2586,91
 2020-04-29,San Diego,4463,120
 2020-04-29,San Francisco,1817,23
 2020-04-29,San Joaquin,590,25
@@ -3682,13 +3682,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-28,Monterey,249,5
 2020-04-28,Napa,78,2
 2020-04-28,Nevada,41,1
-2020-04-28,Orange,3618,42
+2020-04-28,Orange,3619,42
 2020-04-28,Placer,163,8
 2020-04-28,Plumas,4,0
 2020-04-28,Riverside,4673,113
 2020-04-28,Sacramento,1106,41
 2020-04-28,San Benito,51,2
-2020-04-28,San Bernardino,2510,89
+2020-04-28,San Bernardino,2509,89
 2020-04-28,San Diego,4333,118
 2020-04-28,San Francisco,1782,23
 2020-04-28,San Joaquin,584,25
@@ -3740,13 +3740,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-27,Monterey,242,4
 2020-04-27,Napa,75,2
 2020-04-27,Nevada,41,1
-2020-04-27,Orange,3449,42
+2020-04-27,Orange,3450,42
 2020-04-27,Placer,163,8
 2020-04-27,Plumas,4,0
 2020-04-27,Riverside,4550,100
 2020-04-27,Sacramento,1091,41
 2020-04-27,San Benito,49,2
-2020-04-27,San Bernardino,2396,82
+2020-04-27,San Bernardino,2395,82
 2020-04-27,San Diego,4207,113
 2020-04-27,San Francisco,1728,23
 2020-04-27,San Joaquin,578,25
@@ -3798,13 +3798,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-26,Monterey,235,4
 2020-04-26,Napa,74,2
 2020-04-26,Nevada,41,1
-2020-04-26,Orange,3284,40
+2020-04-26,Orange,3285,40
 2020-04-26,Placer,163,8
 2020-04-26,Plumas,4,0
 2020-04-26,Riverside,4409,95
 2020-04-26,Sacramento,1082,41
 2020-04-26,San Benito,49,2
-2020-04-26,San Bernardino,2299,82
+2020-04-26,San Bernardino,2298,82
 2020-04-26,San Diego,4065,111
 2020-04-26,San Francisco,1689,23
 2020-04-26,San Joaquin,570,25
@@ -3856,13 +3856,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-25,Monterey,233,4
 2020-04-25,Napa,74,2
 2020-04-25,Nevada,41,1
-2020-04-25,Orange,3178,40
+2020-04-25,Orange,3179,40
 2020-04-25,Placer,163,8
 2020-04-25,Plumas,4,0
 2020-04-25,Riverside,4321,93
 2020-04-25,Sacramento,1080,41
 2020-04-25,San Benito,49,2
-2020-04-25,San Bernardino,2254,82
+2020-04-25,San Bernardino,2253,82
 2020-04-25,San Diego,3965,111
 2020-04-25,San Francisco,1664,22
 2020-04-25,San Joaquin,563,24
@@ -3914,13 +3914,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-24,Monterey,226,4
 2020-04-24,Napa,73,2
 2020-04-24,Nevada,41,1
-2020-04-24,Orange,3070,39
+2020-04-24,Orange,3071,39
 2020-04-24,Placer,161,8
 2020-04-24,Plumas,4,0
 2020-04-24,Riverside,4240,87
 2020-04-24,Sacramento,1074,41
 2020-04-24,San Benito,49,2
-2020-04-24,San Bernardino,2219,80
+2020-04-24,San Bernardino,2218,80
 2020-04-24,San Diego,3854,102
 2020-04-24,San Francisco,1606,22
 2020-04-24,San Joaquin,556,24
@@ -3972,13 +3972,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-23,Monterey,222,4
 2020-04-23,Napa,66,2
 2020-04-23,Nevada,41,1
-2020-04-23,Orange,2892,37
+2020-04-23,Orange,2893,37
 2020-04-23,Placer,158,8
 2020-04-23,Plumas,4,0
 2020-04-23,Riverside,4127,78
 2020-04-23,Sacramento,1062,41
 2020-04-23,San Benito,46,2
-2020-04-23,San Bernardino,2154,79
+2020-04-23,San Bernardino,2153,79
 2020-04-23,San Diego,3693,100
 2020-04-23,San Francisco,1581,21
 2020-04-23,San Joaquin,546,20
@@ -4030,13 +4030,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-22,Monterey,215,4
 2020-04-22,Napa,65,2
 2020-04-22,Nevada,41,1
-2020-04-22,Orange,2799,36
+2020-04-22,Orange,2800,36
 2020-04-22,Placer,156,8
 2020-04-22,Plumas,4,0
 2020-04-22,Riverside,4024,76
 2020-04-22,Sacramento,1057,36
 2020-04-22,San Benito,45,2
-2020-04-22,San Bernardino,2091,74
+2020-04-22,San Bernardino,2090,74
 2020-04-22,San Diego,3565,96
 2020-04-22,San Francisco,1544,21
 2020-04-22,San Joaquin,535,20
@@ -4088,13 +4088,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-21,Monterey,212,4
 2020-04-21,Napa,64,2
 2020-04-21,Nevada,41,1
-2020-04-21,Orange,2677,36
+2020-04-21,Orange,2678,36
 2020-04-21,Placer,154,8
 2020-04-21,Plumas,4,0
 2020-04-21,Riverside,3893,68
 2020-04-21,Sacramento,1047,33
 2020-04-21,San Benito,44,2
-2020-04-21,San Bernardino,2030,71
+2020-04-21,San Bernardino,2029,71
 2020-04-21,San Diego,3409,87
 2020-04-21,San Francisco,1514,20
 2020-04-21,San Joaquin,525,20
@@ -4146,13 +4146,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-20,Monterey,203,4
 2020-04-20,Napa,64,2
 2020-04-20,Nevada,41,1
-2020-04-20,Orange,2596,33
+2020-04-20,Orange,2597,33
 2020-04-20,Placer,153,8
 2020-04-20,Plumas,4,0
 2020-04-20,Riverside,3768,61
 2020-04-20,Sacramento,1036,32
 2020-04-20,San Benito,44,2
-2020-04-20,San Bernardino,1943,63
+2020-04-20,San Bernardino,1942,63
 2020-04-20,San Diego,3268,72
 2020-04-20,San Francisco,1482,19
 2020-04-20,San Joaquin,521,17
@@ -4204,13 +4204,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-19,Monterey,195,4
 2020-04-19,Napa,62,2
 2020-04-19,Nevada,40,1
-2020-04-19,Orange,2500,32
+2020-04-19,Orange,2501,32
 2020-04-19,Placer,152,8
 2020-04-19,Plumas,4,0
 2020-04-19,Riverside,3625,56
 2020-04-19,Sacramento,1010,32
 2020-04-19,San Benito,42,2
-2020-04-19,San Bernardino,1880,58
+2020-04-19,San Bernardino,1879,58
 2020-04-19,San Diego,3101,71
 2020-04-19,San Francisco,1449,19
 2020-04-19,San Joaquin,503,17
@@ -4262,13 +4262,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-18,Monterey,191,3
 2020-04-18,Napa,62,2
 2020-04-18,Nevada,39,1
-2020-04-18,Orange,2436,32
+2020-04-18,Orange,2437,32
 2020-04-18,Placer,150,8
 2020-04-18,Plumas,4,0
 2020-04-18,Riverside,3553,56
 2020-04-18,Sacramento,998,32
 2020-04-18,San Benito,42,2
-2020-04-18,San Bernardino,1835,58
+2020-04-18,San Bernardino,1834,58
 2020-04-18,San Diego,2999,71
 2020-04-18,San Francisco,1410,19
 2020-04-18,San Joaquin,494,17
@@ -4320,13 +4320,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-17,Monterey,186,3
 2020-04-17,Napa,60,2
 2020-04-17,Nevada,38,1
-2020-04-17,Orange,2386,31
+2020-04-17,Orange,2387,31
 2020-04-17,Placer,150,8
 2020-04-17,Plumas,4,0
 2020-04-17,Riverside,3427,50
 2020-04-17,Sacramento,991,32
 2020-04-17,San Benito,42,2
-2020-04-17,San Bernardino,1797,57
+2020-04-17,San Bernardino,1796,57
 2020-04-17,San Diego,2909,70
 2020-04-17,San Francisco,1384,19
 2020-04-17,San Joaquin,483,17
@@ -4378,13 +4378,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-16,Monterey,183,3
 2020-04-16,Napa,57,2
 2020-04-16,Nevada,38,1
-2020-04-16,Orange,2323,28
+2020-04-16,Orange,2324,28
 2020-04-16,Placer,148,7
 2020-04-16,Plumas,4,0
 2020-04-16,Riverside,3309,45
 2020-04-16,Sacramento,983,32
 2020-04-16,San Benito,42,2
-2020-04-16,San Bernardino,1714,54
+2020-04-16,San Bernardino,1713,54
 2020-04-16,San Diego,2801,63
 2020-04-16,San Francisco,1340,16
 2020-04-16,San Joaquin,468,17
@@ -4436,13 +4436,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-15,Monterey,175,3
 2020-04-15,Napa,55,2
 2020-04-15,Nevada,37,1
-2020-04-15,Orange,2221,24
+2020-04-15,Orange,2222,24
 2020-04-15,Placer,147,6
 2020-04-15,Plumas,4,0
 2020-04-15,Riverside,3114,42
 2020-04-15,Sacramento,974,32
 2020-04-15,San Benito,42,2
-2020-04-15,San Bernardino,1644,45
+2020-04-15,San Bernardino,1643,45
 2020-04-15,San Diego,2713,60
 2020-04-15,San Francisco,1304,16
 2020-04-15,San Joaquin,460,17
@@ -4494,13 +4494,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-14,Monterey,170,3
 2020-04-14,Napa,55,2
 2020-04-14,Nevada,37,1
-2020-04-14,Orange,2121,24
+2020-04-14,Orange,2122,24
 2020-04-14,Placer,146,5
 2020-04-14,Plumas,4,0
 2020-04-14,Riverside,2979,40
 2020-04-14,Sacramento,965,29
 2020-04-14,San Benito,39,2
-2020-04-14,San Bernardino,1589,37
+2020-04-14,San Bernardino,1588,37
 2020-04-14,San Diego,2618,53
 2020-04-14,San Francisco,1250,14
 2020-04-14,San Joaquin,450,17
@@ -4552,13 +4552,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-13,Monterey,164,3
 2020-04-13,Napa,54,2
 2020-04-13,Nevada,37,1
-2020-04-13,Orange,2048,21
+2020-04-13,Orange,2049,21
 2020-04-13,Placer,145,5
 2020-04-13,Plumas,4,0
 2020-04-13,Riverside,2839,35
 2020-04-13,Sacramento,953,25
 2020-04-13,San Benito,38,2
-2020-04-13,San Bernardino,1514,30
+2020-04-13,San Bernardino,1513,30
 2020-04-13,San Diego,2535,47
 2020-04-13,San Francisco,1212,12
 2020-04-13,San Joaquin,436,16
@@ -4610,13 +4610,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-12,Monterey,150,3
 2020-04-12,Napa,52,2
 2020-04-12,Nevada,37,1
-2020-04-12,Orange,1988,21
+2020-04-12,Orange,1989,21
 2020-04-12,Placer,144,4
 2020-04-12,Plumas,4,0
 2020-04-12,Riverside,2657,34
 2020-04-12,Sacramento,916,25
 2020-04-12,San Benito,36,2
-2020-04-12,San Bernardino,1438,30
+2020-04-12,San Bernardino,1437,30
 2020-04-12,San Diego,2445,45
 2020-04-12,San Francisco,1185,11
 2020-04-12,San Joaquin,418,15
@@ -4668,13 +4668,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-11,Monterey,144,3
 2020-04-11,Napa,52,2
 2020-04-11,Nevada,37,1
-2020-04-11,Orange,1927,21
+2020-04-11,Orange,1928,21
 2020-04-11,Placer,144,4
 2020-04-11,Plumas,4,0
 2020-04-11,Riverside,2578,33
 2020-04-11,Sacramento,905,25
 2020-04-11,San Benito,36,2
-2020-04-11,San Bernardino,1402,28
+2020-04-11,San Bernardino,1401,28
 2020-04-11,San Diego,2379,45
 2020-04-11,San Francisco,1163,11
 2020-04-11,San Joaquin,413,15
@@ -4726,13 +4726,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-10,Monterey,133,3
 2020-04-10,Napa,49,2
 2020-04-10,Nevada,37,1
-2020-04-10,Orange,1880,21
+2020-04-10,Orange,1881,21
 2020-04-10,Placer,143,4
 2020-04-10,Plumas,4,0
 2020-04-10,Riverside,2513,30
 2020-04-10,Sacramento,896,24
 2020-04-10,San Benito,36,2
-2020-04-10,San Bernardino,1354,27
+2020-04-10,San Bernardino,1353,27
 2020-04-10,San Diego,2319,44
 2020-04-10,San Francisco,1132,10
 2020-04-10,San Joaquin,401,14
@@ -4784,13 +4784,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-09,Monterey,115,3
 2020-04-09,Napa,45,2
 2020-04-09,Nevada,36,1
-2020-04-09,Orange,1804,19
+2020-04-09,Orange,1805,19
 2020-04-09,Placer,142,4
 2020-04-09,Plumas,4,0
 2020-04-09,Riverside,2371,29
 2020-04-09,Sacramento,873,21
 2020-04-09,San Benito,36,2
-2020-04-09,San Bernardino,1285,27
+2020-04-09,San Bernardino,1284,27
 2020-04-09,San Diego,2223,40
 2020-04-09,San Francisco,1112,8
 2020-04-09,San Joaquin,380,14
@@ -4842,13 +4842,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-08,Monterey,106,3
 2020-04-08,Napa,43,2
 2020-04-08,Nevada,36,1
-2020-04-08,Orange,1743,19
+2020-04-08,Orange,1744,19
 2020-04-08,Placer,142,4
 2020-04-08,Plumas,4,0
 2020-04-08,Riverside,2217,28
 2020-04-08,Sacramento,839,21
 2020-04-08,San Benito,36,2
-2020-04-08,San Bernardino,1228,22
+2020-04-08,San Bernardino,1227,22
 2020-04-08,San Diego,2149,36
 2020-04-08,San Francisco,1044,7
 2020-04-08,San Joaquin,363,12
@@ -4900,13 +4900,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-07,Monterey,98,2
 2020-04-07,Napa,41,2
 2020-04-07,Nevada,36,1
-2020-04-07,Orange,1696,19
+2020-04-07,Orange,1697,19
 2020-04-07,Placer,137,3
 2020-04-07,Plumas,4,0
 2020-04-07,Riverside,2061,25
 2020-04-07,Sacramento,809,18
 2020-04-07,San Benito,36,2
-2020-04-07,San Bernardino,1161,19
+2020-04-07,San Bernardino,1160,19
 2020-04-07,San Diego,2072,31
 2020-04-07,San Francisco,984,6
 2020-04-07,San Joaquin,345,12
@@ -4958,13 +4958,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-06,Monterey,93,2
 2020-04-06,Napa,41,2
 2020-04-06,Nevada,36,1
-2020-04-06,Orange,1652,17
+2020-04-06,Orange,1653,17
 2020-04-06,Placer,137,3
 2020-04-06,Plumas,4,0
 2020-04-06,Riverside,1935,17
 2020-04-06,Sacramento,779,15
 2020-04-06,San Benito,34,1
-2020-04-06,San Bernardino,1102,13
+2020-04-06,San Bernardino,1101,13
 2020-04-06,San Diego,1990,19
 2020-04-06,San Francisco,945,6
 2020-04-06,San Joaquin,330,10
@@ -5016,13 +5016,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-05,Monterey,86,2
 2020-04-05,Napa,39,2
 2020-04-05,Nevada,36,1
-2020-04-05,Orange,1595,15
+2020-04-05,Orange,1596,15
 2020-04-05,Placer,134,3
 2020-04-05,Plumas,3,0
 2020-04-05,Riverside,1806,17
 2020-04-05,Sacramento,749,11
 2020-04-05,San Benito,34,1
-2020-04-05,San Bernardino,1028,13
+2020-04-05,San Bernardino,1027,13
 2020-04-05,San Diego,1908,19
 2020-04-05,San Francisco,898,6
 2020-04-05,San Joaquin,315,10
@@ -5074,13 +5074,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-04,Monterey,83,2
 2020-04-04,Napa,39,2
 2020-04-04,Nevada,36,1
-2020-04-04,Orange,1553,15
+2020-04-04,Orange,1554,15
 2020-04-04,Placer,133,2
 2020-04-04,Plumas,3,0
 2020-04-04,Riverside,1705,15
 2020-04-04,Sacramento,731,11
 2020-04-04,San Benito,34,1
-2020-04-04,San Bernardino,980,13
+2020-04-04,San Bernardino,979,13
 2020-04-04,San Diego,1860,18
 2020-04-04,San Francisco,860,6
 2020-04-04,San Joaquin,292,10
@@ -5132,13 +5132,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-03,Monterey,80,2
 2020-04-03,Napa,38,1
 2020-04-03,Nevada,36,1
-2020-04-03,Orange,1514,13
+2020-04-03,Orange,1515,13
 2020-04-03,Placer,129,2
 2020-04-03,Plumas,3,0
 2020-04-03,Riverside,1626,14
 2020-04-03,Sacramento,709,11
 2020-04-03,San Benito,34,1
-2020-04-03,San Bernardino,935,11
+2020-04-03,San Bernardino,934,11
 2020-04-03,San Diego,1800,17
 2020-04-03,San Francisco,835,6
 2020-04-03,San Joaquin,280,10
@@ -5190,13 +5190,13 @@ date,county,confirmed_cases,reported_deaths
 2020-04-02,Monterey,79,2
 2020-04-02,Napa,38,0
 2020-04-02,Nevada,35,0
-2020-04-02,Orange,1462,12
+2020-04-02,Orange,1463,12
 2020-04-02,Placer,128,2
 2020-04-02,Plumas,3,0
 2020-04-02,Riverside,1510,13
 2020-04-02,Sacramento,691,9
 2020-04-02,San Benito,32,1
-2020-04-02,San Bernardino,880,8
+2020-04-02,San Bernardino,879,8
 2020-04-02,San Diego,1733,16
 2020-04-02,San Francisco,808,6
 2020-04-02,San Joaquin,262,9
@@ -5248,7 +5248,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-01,Monterey,78,2
 2020-04-01,Napa,36,0
 2020-04-01,Nevada,35,0
-2020-04-01,Orange,1408,11
+2020-04-01,Orange,1409,11
 2020-04-01,Placer,127,2
 2020-04-01,Plumas,3,0
 2020-04-01,Riverside,1342,11
