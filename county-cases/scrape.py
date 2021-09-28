@@ -13,7 +13,7 @@ DATA_DIR = THIS_DIR / "data"
 
 def write_quarterly_csv(df, quarter):
     fields = ['date', 'county', 'confirmed_cases', 'reported_deaths']
-    df[fields].to_csv(DATA_DIR / "county-cases-{}.csv".format(quarter), index=False)
+    df[fields].to_csv(DATA_DIR / "{}.csv".format(quarter), index=False)
 
 
 def write_state_csv(df):
