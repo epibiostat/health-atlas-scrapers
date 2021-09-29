@@ -1,5 +1,5 @@
 date,county,confirmed_cases,reported_deaths
-2020-06-30,Alameda,7316,137
+2020-06-30,Alameda,7317,137
 2020-06-30,Alpine,2,0
 2020-06-30,Amador,34,0
 2020-06-30,Butte,305,2
@@ -17,7 +17,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,Kings,2792,30
 2020-06-30,Lake,94,0
 2020-06-30,Lassen,245,0
-2020-06-30,Los Angeles,121306,3378
+2020-06-30,Los Angeles,121305,3378
 2020-06-30,Madera,994,4
 2020-06-30,Marin,3072,17
 2020-06-30,Mariposa,34,1
@@ -25,7 +25,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,Merced,1845,10
 2020-06-30,Modoc,1,0
 2020-06-30,Mono,49,1
-2020-06-30,Monterey,2274,15
+2020-06-30,Monterey,2275,15
 2020-06-30,Napa,484,4
 2020-06-30,Nevada,158,1
 2020-06-30,Orange,24036,335
@@ -40,8 +40,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,San Joaquin,5621,52
 2020-06-30,San Luis Obispo,840,1
 2020-06-30,San Mateo,3735,84
-2020-06-30,Santa Barbara,4234,25
-2020-06-30,Santa Clara,5771,157
+2020-06-30,Santa Barbara,4233,25
+2020-06-30,Santa Clara,5772,157
 2020-06-30,Santa Cruz,484,2
 2020-06-30,Shasta,217,5
 2020-06-30,Sierra,1,0
@@ -52,12 +52,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,Sutter,243,2
 2020-06-30,Tehama,104,1
 2020-06-30,Trinity,5,0
-2020-06-30,Tulare,5532,117
+2020-06-30,Tulare,5533,117
 2020-06-30,Tuolumne,51,0
 2020-06-30,Ventura,4426,40
 2020-06-30,Yolo,752,24
 2020-06-30,Yuba,105,1
-2020-06-29,Alameda,7106,135
+2020-06-29,Alameda,7107,135
 2020-06-29,Alpine,2,0
 2020-06-29,Amador,31,0
 2020-06-29,Butte,284,2
@@ -75,7 +75,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,Kings,2728,20
 2020-06-29,Lake,87,0
 2020-06-29,Lassen,237,0
-2020-06-29,Los Angeles,118256,3337
+2020-06-29,Los Angeles,118255,3337
 2020-06-29,Madera,937,4
 2020-06-29,Marin,2996,17
 2020-06-29,Mariposa,32,1
@@ -83,7 +83,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,Merced,1739,10
 2020-06-29,Modoc,1,0
 2020-06-29,Mono,47,1
-2020-06-29,Monterey,2202,14
+2020-06-29,Monterey,2203,14
 2020-06-29,Napa,463,4
 2020-06-29,Nevada,155,1
 2020-06-29,Orange,23045,324
@@ -98,8 +98,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,San Joaquin,5263,52
 2020-06-29,San Luis Obispo,806,1
 2020-06-29,San Mateo,3681,84
-2020-06-29,Santa Barbara,4124,25
-2020-06-29,Santa Clara,5599,157
+2020-06-29,Santa Barbara,4123,25
+2020-06-29,Santa Clara,5600,157
 2020-06-29,Santa Cruz,466,2
 2020-06-29,Shasta,209,5
 2020-06-29,Sierra,1,0
@@ -110,12 +110,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,Sutter,221,2
 2020-06-29,Tehama,100,1
 2020-06-29,Trinity,5,0
-2020-06-29,Tulare,5378,117
+2020-06-29,Tulare,5379,117
 2020-06-29,Tuolumne,47,0
 2020-06-29,Ventura,4279,40
 2020-06-29,Yolo,719,24
 2020-06-29,Yuba,92,1
-2020-06-28,Alameda,6847,135
+2020-06-28,Alameda,6848,135
 2020-06-28,Alpine,2,0
 2020-06-28,Amador,29,0
 2020-06-28,Butte,265,2
@@ -133,7 +133,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,Kings,2669,18
 2020-06-28,Lake,83,0
 2020-06-28,Lassen,237,0
-2020-06-28,Los Angeles,115052,3316
+2020-06-28,Los Angeles,115051,3316
 2020-06-28,Madera,890,4
 2020-06-28,Marin,2650,17
 2020-06-28,Mariposa,32,1
@@ -141,7 +141,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,Merced,1626,10
 2020-06-28,Modoc,1,0
 2020-06-28,Mono,47,1
-2020-06-28,Monterey,2120,13
+2020-06-28,Monterey,2121,13
 2020-06-28,Napa,429,4
 2020-06-28,Nevada,144,1
 2020-06-28,Orange,22070,324
@@ -156,8 +156,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,San Joaquin,4928,52
 2020-06-28,San Luis Obispo,767,1
 2020-06-28,San Mateo,3603,84
-2020-06-28,Santa Barbara,3979,25
-2020-06-28,Santa Clara,5439,156
+2020-06-28,Santa Barbara,3978,25
+2020-06-28,Santa Clara,5440,156
 2020-06-28,Santa Cruz,443,2
 2020-06-28,Shasta,196,5
 2020-06-28,Sierra,1,0
@@ -168,12 +168,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,Sutter,195,2
 2020-06-28,Tehama,93,1
 2020-06-28,Trinity,5,0
-2020-06-28,Tulare,5213,117
+2020-06-28,Tulare,5214,117
 2020-06-28,Tuolumne,42,0
 2020-06-28,Ventura,4121,40
 2020-06-28,Yolo,684,24
 2020-06-28,Yuba,88,1
-2020-06-27,Alameda,6752,135
+2020-06-27,Alameda,6753,135
 2020-06-27,Alpine,2,0
 2020-06-27,Amador,27,0
 2020-06-27,Butte,257,2
@@ -191,7 +191,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,Kings,2643,18
 2020-06-27,Lake,80,0
 2020-06-27,Lassen,237,0
-2020-06-27,Los Angeles,113311,3291
+2020-06-27,Los Angeles,113310,3291
 2020-06-27,Madera,847,4
 2020-06-27,Marin,2605,17
 2020-06-27,Mariposa,31,1
@@ -199,7 +199,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,Merced,1568,10
 2020-06-27,Modoc,1,0
 2020-06-27,Mono,46,1
-2020-06-27,Monterey,2056,12
+2020-06-27,Monterey,2057,12
 2020-06-27,Napa,419,3
 2020-06-27,Nevada,140,1
 2020-06-27,Orange,21562,320
@@ -214,8 +214,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,San Joaquin,4763,52
 2020-06-27,San Luis Obispo,743,1
 2020-06-27,San Mateo,3546,83
-2020-06-27,Santa Barbara,3907,25
-2020-06-27,Santa Clara,5334,157
+2020-06-27,Santa Barbara,3906,25
+2020-06-27,Santa Clara,5335,157
 2020-06-27,Santa Cruz,436,2
 2020-06-27,Shasta,191,5
 2020-06-27,Sierra,1,0
@@ -226,12 +226,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,Sutter,188,2
 2020-06-27,Tehama,90,1
 2020-06-27,Trinity,5,0
-2020-06-27,Tulare,5117,117
+2020-06-27,Tulare,5118,117
 2020-06-27,Tuolumne,41,0
 2020-06-27,Ventura,4022,40
 2020-06-27,Yolo,659,24
 2020-06-27,Yuba,80,1
-2020-06-26,Alameda,6666,132
+2020-06-26,Alameda,6667,132
 2020-06-26,Alpine,2,0
 2020-06-26,Amador,26,0
 2020-06-26,Butte,242,2
@@ -249,7 +249,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,Kings,2611,18
 2020-06-26,Lake,79,0
 2020-06-26,Lassen,236,0
-2020-06-26,Los Angeles,111146,3275
+2020-06-26,Los Angeles,111145,3275
 2020-06-26,Madera,815,4
 2020-06-26,Marin,2569,17
 2020-06-26,Mariposa,30,1
@@ -257,7 +257,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,Merced,1522,10
 2020-06-26,Modoc,1,0
 2020-06-26,Mono,45,1
-2020-06-26,Monterey,2004,12
+2020-06-26,Monterey,2005,12
 2020-06-26,Napa,409,3
 2020-06-26,Nevada,136,1
 2020-06-26,Orange,20886,320
@@ -272,8 +272,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,San Joaquin,4549,52
 2020-06-26,San Luis Obispo,728,1
 2020-06-26,San Mateo,3494,83
-2020-06-26,Santa Barbara,3817,25
-2020-06-26,Santa Clara,5233,156
+2020-06-26,Santa Barbara,3816,25
+2020-06-26,Santa Clara,5234,156
 2020-06-26,Santa Cruz,429,2
 2020-06-26,Shasta,184,5
 2020-06-26,Sierra,1,0
@@ -284,12 +284,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,Sutter,181,2
 2020-06-26,Tehama,87,1
 2020-06-26,Trinity,5,0
-2020-06-26,Tulare,5028,117
+2020-06-26,Tulare,5029,117
 2020-06-26,Tuolumne,39,0
 2020-06-26,Ventura,3936,40
 2020-06-26,Yolo,635,24
 2020-06-26,Yuba,74,1
-2020-06-25,Alameda,6476,130
+2020-06-25,Alameda,6477,130
 2020-06-25,Alpine,2,0
 2020-06-25,Amador,25,0
 2020-06-25,Butte,237,1
@@ -307,7 +307,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,Kings,2559,17
 2020-06-25,Lake,78,0
 2020-06-25,Lassen,230,0
-2020-06-25,Los Angeles,108381,3239
+2020-06-25,Los Angeles,108380,3239
 2020-06-25,Madera,771,4
 2020-06-25,Marin,2467,17
 2020-06-25,Mariposa,29,1
@@ -315,7 +315,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,Merced,1435,10
 2020-06-25,Modoc,1,0
 2020-06-25,Mono,44,1
-2020-06-25,Monterey,1916,12
+2020-06-25,Monterey,1917,12
 2020-06-25,Napa,391,3
 2020-06-25,Nevada,128,1
 2020-06-25,Orange,19964,311
@@ -330,8 +330,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,San Joaquin,4277,50
 2020-06-25,San Luis Obispo,696,1
 2020-06-25,San Mateo,3426,82
-2020-06-25,Santa Barbara,3711,25
-2020-06-25,Santa Clara,5085,156
+2020-06-25,Santa Barbara,3710,25
+2020-06-25,Santa Clara,5086,156
 2020-06-25,Santa Cruz,417,2
 2020-06-25,Shasta,174,5
 2020-06-25,Sierra,1,0
@@ -342,12 +342,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,Sutter,169,2
 2020-06-25,Tehama,83,1
 2020-06-25,Trinity,5,0
-2020-06-25,Tulare,4898,117
+2020-06-25,Tulare,4899,117
 2020-06-25,Tuolumne,38,0
 2020-06-25,Ventura,3754,40
 2020-06-25,Yolo,605,24
 2020-06-25,Yuba,63,1
-2020-06-24,Alameda,6315,123
+2020-06-24,Alameda,6316,123
 2020-06-24,Alpine,2,0
 2020-06-24,Amador,23,0
 2020-06-24,Butte,220,1
@@ -365,7 +365,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,Kings,2497,16
 2020-06-24,Lake,65,0
 2020-06-24,Lassen,229,0
-2020-06-24,Los Angeles,105623,3186
+2020-06-24,Los Angeles,105622,3186
 2020-06-24,Madera,750,4
 2020-06-24,Marin,2239,17
 2020-06-24,Mariposa,28,1
@@ -373,7 +373,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,Merced,1349,8
 2020-06-24,Modoc,1,0
 2020-06-24,Mono,42,1
-2020-06-24,Monterey,1839,12
+2020-06-24,Monterey,1840,12
 2020-06-24,Napa,373,3
 2020-06-24,Nevada,122,1
 2020-06-24,Orange,18970,303
@@ -388,8 +388,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,San Joaquin,4055,49
 2020-06-24,San Luis Obispo,665,1
 2020-06-24,San Mateo,3369,82
-2020-06-24,Santa Barbara,3591,22
-2020-06-24,Santa Clara,4955,155
+2020-06-24,Santa Barbara,3590,22
+2020-06-24,Santa Clara,4956,155
 2020-06-24,Santa Cruz,405,2
 2020-06-24,Shasta,166,5
 2020-06-24,Sierra,1,0
@@ -400,12 +400,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,Sutter,156,2
 2020-06-24,Tehama,81,1
 2020-06-24,Trinity,5,0
-2020-06-24,Tulare,4745,116
+2020-06-24,Tulare,4746,116
 2020-06-24,Tuolumne,33,0
 2020-06-24,Ventura,3413,42
 2020-06-24,Yolo,570,24
 2020-06-24,Yuba,57,1
-2020-06-23,Alameda,6134,121
+2020-06-23,Alameda,6135,121
 2020-06-23,Alpine,2,0
 2020-06-23,Amador,22,0
 2020-06-23,Butte,202,1
@@ -423,7 +423,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,Kings,2432,16
 2020-06-23,Lake,59,0
 2020-06-23,Lassen,225,0
-2020-06-23,Los Angeles,102688,3152
+2020-06-23,Los Angeles,102687,3152
 2020-06-23,Madera,711,4
 2020-06-23,Marin,1971,17
 2020-06-23,Mariposa,26,1
@@ -431,7 +431,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,Merced,1252,8
 2020-06-23,Modoc,1,0
 2020-06-23,Mono,42,1
-2020-06-23,Monterey,1769,12
+2020-06-23,Monterey,1770,12
 2020-06-23,Napa,358,3
 2020-06-23,Nevada,116,1
 2020-06-23,Orange,18000,278
@@ -446,8 +446,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,San Joaquin,3796,48
 2020-06-23,San Luis Obispo,635,1
 2020-06-23,San Mateo,3303,81
-2020-06-23,Santa Barbara,3495,22
-2020-06-23,Santa Clara,4809,155
+2020-06-23,Santa Barbara,3494,22
+2020-06-23,Santa Clara,4810,155
 2020-06-23,Santa Cruz,395,2
 2020-06-23,Shasta,157,5
 2020-06-23,Sierra,1,0
@@ -458,12 +458,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,Sutter,146,2
 2020-06-23,Tehama,79,1
 2020-06-23,Trinity,5,0
-2020-06-23,Tulare,4623,111
+2020-06-23,Tulare,4624,111
 2020-06-23,Tuolumne,28,0
 2020-06-23,Ventura,3253,40
 2020-06-23,Yolo,544,24
 2020-06-23,Yuba,54,1
-2020-06-22,Alameda,5983,121
+2020-06-22,Alameda,5984,121
 2020-06-22,Alpine,2,0
 2020-06-22,Amador,19,0
 2020-06-22,Butte,183,1
@@ -481,7 +481,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,Kings,2384,13
 2020-06-22,Lake,53,0
 2020-06-22,Lassen,115,0
-2020-06-22,Los Angeles,99792,3117
+2020-06-22,Los Angeles,99791,3117
 2020-06-22,Madera,686,4
 2020-06-22,Marin,1715,17
 2020-06-22,Mariposa,25,1
@@ -489,7 +489,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,Merced,1163,8
 2020-06-22,Modoc,1,0
 2020-06-22,Mono,42,1
-2020-06-22,Monterey,1708,12
+2020-06-22,Monterey,1709,12
 2020-06-22,Napa,334,3
 2020-06-22,Nevada,111,1
 2020-06-22,Orange,17070,275
@@ -504,8 +504,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,San Joaquin,3549,48
 2020-06-22,San Luis Obispo,603,1
 2020-06-22,San Mateo,3231,81
-2020-06-22,Santa Barbara,3403,21
-2020-06-22,Santa Clara,4649,155
+2020-06-22,Santa Barbara,3402,21
+2020-06-22,Santa Clara,4650,155
 2020-06-22,Santa Cruz,382,3
 2020-06-22,Shasta,154,5
 2020-06-22,Sierra,1,0
@@ -516,12 +516,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,Sutter,137,2
 2020-06-22,Tehama,75,1
 2020-06-22,Trinity,5,0
-2020-06-22,Tulare,4486,111
+2020-06-22,Tulare,4487,111
 2020-06-22,Tuolumne,19,0
 2020-06-22,Ventura,3104,39
 2020-06-22,Yolo,518,24
 2020-06-22,Yuba,49,1
-2020-06-21,Alameda,5789,121
+2020-06-21,Alameda,5790,121
 2020-06-21,Alpine,2,0
 2020-06-21,Amador,14,0
 2020-06-21,Butte,169,1
@@ -539,7 +539,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,Kings,2321,11
 2020-06-21,Lake,48,0
 2020-06-21,Lassen,22,0
-2020-06-21,Los Angeles,96915,3101
+2020-06-21,Los Angeles,96914,3101
 2020-06-21,Madera,652,4
 2020-06-21,Marin,1558,17
 2020-06-21,Mariposa,22,1
@@ -547,7 +547,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,Merced,1068,8
 2020-06-21,Modoc,1,0
 2020-06-21,Mono,42,1
-2020-06-21,Monterey,1635,12
+2020-06-21,Monterey,1636,12
 2020-06-21,Napa,319,3
 2020-06-21,Nevada,108,1
 2020-06-21,Orange,16233,275
@@ -562,8 +562,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,San Joaquin,3313,48
 2020-06-21,San Luis Obispo,578,1
 2020-06-21,San Mateo,3173,81
-2020-06-21,Santa Barbara,3296,21
-2020-06-21,Santa Clara,4511,154
+2020-06-21,Santa Barbara,3295,21
+2020-06-21,Santa Clara,4512,154
 2020-06-21,Santa Cruz,372,3
 2020-06-21,Shasta,144,5
 2020-06-21,Sierra,1,0
@@ -574,12 +574,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,Sutter,129,2
 2020-06-21,Tehama,64,1
 2020-06-21,Trinity,5,0
-2020-06-21,Tulare,4318,111
+2020-06-21,Tulare,4319,111
 2020-06-21,Tuolumne,17,0
 2020-06-21,Ventura,2926,39
 2020-06-21,Yolo,486,24
 2020-06-21,Yuba,45,1
-2020-06-20,Alameda,5727,119
+2020-06-20,Alameda,5728,119
 2020-06-20,Alpine,2,0
 2020-06-20,Amador,14,0
 2020-06-20,Butte,162,1
@@ -597,7 +597,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,Kings,2297,9
 2020-06-20,Lake,48,0
 2020-06-20,Lassen,21,0
-2020-06-20,Los Angeles,95343,3093
+2020-06-20,Los Angeles,95342,3093
 2020-06-20,Madera,619,4
 2020-06-20,Marin,1538,17
 2020-06-20,Mariposa,22,1
@@ -605,7 +605,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,Merced,1028,8
 2020-06-20,Modoc,1,0
 2020-06-20,Mono,42,1
-2020-06-20,Monterey,1599,12
+2020-06-20,Monterey,1600,12
 2020-06-20,Napa,310,3
 2020-06-20,Nevada,105,1
 2020-06-20,Orange,15886,273
@@ -620,8 +620,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,San Joaquin,3230,48
 2020-06-20,San Luis Obispo,565,1
 2020-06-20,San Mateo,3125,81
-2020-06-20,Santa Barbara,3240,21
-2020-06-20,Santa Clara,4439,154
+2020-06-20,Santa Barbara,3239,21
+2020-06-20,Santa Clara,4440,154
 2020-06-20,Santa Cruz,370,3
 2020-06-20,Shasta,138,5
 2020-06-20,Sierra,1,0
@@ -632,12 +632,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,Sutter,127,2
 2020-06-20,Tehama,62,1
 2020-06-20,Trinity,5,0
-2020-06-20,Tulare,4245,111
+2020-06-20,Tulare,4246,111
 2020-06-20,Tuolumne,14,0
 2020-06-20,Ventura,2861,37
 2020-06-20,Yolo,470,24
 2020-06-20,Yuba,43,1
-2020-06-19,Alameda,5656,119
+2020-06-19,Alameda,5657,119
 2020-06-19,Alpine,2,0
 2020-06-19,Amador,14,0
 2020-06-19,Butte,157,1
@@ -655,7 +655,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,Kings,2276,9
 2020-06-19,Lake,45,0
 2020-06-19,Lassen,20,0
-2020-06-19,Los Angeles,93364,3047
+2020-06-19,Los Angeles,93363,3047
 2020-06-19,Madera,599,4
 2020-06-19,Marin,1509,17
 2020-06-19,Mariposa,21,1
@@ -663,7 +663,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,Merced,983,8
 2020-06-19,Modoc,1,0
 2020-06-19,Mono,42,1
-2020-06-19,Monterey,1570,12
+2020-06-19,Monterey,1571,12
 2020-06-19,Napa,300,3
 2020-06-19,Nevada,102,1
 2020-06-19,Orange,15361,260
@@ -678,8 +678,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,San Joaquin,3107,48
 2020-06-19,San Luis Obispo,550,1
 2020-06-19,San Mateo,3086,81
-2020-06-19,Santa Barbara,3167,21
-2020-06-19,Santa Clara,4365,154
+2020-06-19,Santa Barbara,3166,21
+2020-06-19,Santa Clara,4366,154
 2020-06-19,Santa Cruz,360,3
 2020-06-19,Shasta,134,5
 2020-06-19,Sierra,1,0
@@ -690,12 +690,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,Sutter,126,2
 2020-06-19,Tehama,61,1
 2020-06-19,Trinity,5,0
-2020-06-19,Tulare,4173,107
+2020-06-19,Tulare,4174,107
 2020-06-19,Tuolumne,13,0
 2020-06-19,Ventura,2777,37
 2020-06-19,Yolo,451,24
 2020-06-19,Yuba,42,1
-2020-06-18,Alameda,5527,118
+2020-06-18,Alameda,5528,118
 2020-06-18,Alpine,2,0
 2020-06-18,Amador,13,0
 2020-06-18,Butte,152,1
@@ -713,7 +713,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,Kings,2217,8
 2020-06-18,Lake,44,0
 2020-06-18,Lassen,19,0
-2020-06-18,Los Angeles,91100,3009
+2020-06-18,Los Angeles,91099,3009
 2020-06-18,Madera,564,4
 2020-06-18,Marin,1446,17
 2020-06-18,Mariposa,19,1
@@ -721,7 +721,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,Merced,931,7
 2020-06-18,Modoc,1,0
 2020-06-18,Mono,42,1
-2020-06-18,Monterey,1503,12
+2020-06-18,Monterey,1504,12
 2020-06-18,Napa,285,3
 2020-06-18,Nevada,98,1
 2020-06-18,Orange,14706,255
@@ -736,8 +736,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,San Joaquin,2955,47
 2020-06-18,San Luis Obispo,531,1
 2020-06-18,San Mateo,3047,78
-2020-06-18,Santa Barbara,3093,19
-2020-06-18,Santa Clara,4265,152
+2020-06-18,Santa Barbara,3092,19
+2020-06-18,Santa Clara,4266,152
 2020-06-18,Santa Cruz,343,3
 2020-06-18,Shasta,123,4
 2020-06-18,Sierra,1,0
@@ -748,12 +748,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,Sutter,122,2
 2020-06-18,Tehama,56,1
 2020-06-18,Trinity,5,0
-2020-06-18,Tulare,4053,107
+2020-06-18,Tulare,4054,107
 2020-06-18,Tuolumne,12,0
 2020-06-18,Ventura,2651,37
 2020-06-18,Yolo,418,24
 2020-06-18,Yuba,41,1
-2020-06-17,Alameda,5404,117
+2020-06-17,Alameda,5405,117
 2020-06-17,Alpine,2,0
 2020-06-17,Amador,12,0
 2020-06-17,Butte,143,1
@@ -771,7 +771,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,Kings,2187,7
 2020-06-17,Lake,43,0
 2020-06-17,Lassen,15,0
-2020-06-17,Los Angeles,88792,2973
+2020-06-17,Los Angeles,88791,2973
 2020-06-17,Madera,542,4
 2020-06-17,Marin,1254,17
 2020-06-17,Mariposa,18,1
@@ -779,7 +779,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,Merced,860,7
 2020-06-17,Modoc,1,0
 2020-06-17,Mono,42,1
-2020-06-17,Monterey,1451,12
+2020-06-17,Monterey,1452,12
 2020-06-17,Napa,270,3
 2020-06-17,Nevada,94,1
 2020-06-17,Orange,14103,230
@@ -794,8 +794,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,San Joaquin,2783,46
 2020-06-17,San Luis Obispo,514,1
 2020-06-17,San Mateo,3000,78
-2020-06-17,Santa Barbara,3020,19
-2020-06-17,Santa Clara,4174,148
+2020-06-17,Santa Barbara,3019,19
+2020-06-17,Santa Clara,4175,148
 2020-06-17,Santa Cruz,337,2
 2020-06-17,Shasta,121,4
 2020-06-17,Sierra,1,0
@@ -806,12 +806,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,Sutter,116,2
 2020-06-17,Tehama,41,1
 2020-06-17,Trinity,5,0
-2020-06-17,Tulare,3944,106
+2020-06-17,Tulare,3945,106
 2020-06-17,Tuolumne,12,0
 2020-06-17,Ventura,2551,37
 2020-06-17,Yolo,398,24
 2020-06-17,Yuba,40,1
-2020-06-16,Alameda,5288,113
+2020-06-16,Alameda,5289,113
 2020-06-16,Alpine,2,0
 2020-06-16,Amador,12,0
 2020-06-16,Butte,139,1
@@ -829,7 +829,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,Kings,2141,6
 2020-06-16,Lake,43,0
 2020-06-16,Lassen,12,0
-2020-06-16,Los Angeles,86470,2942
+2020-06-16,Los Angeles,86469,2942
 2020-06-16,Madera,516,3
 2020-06-16,Marin,1201,17
 2020-06-16,Mariposa,18,1
@@ -837,7 +837,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,Merced,812,7
 2020-06-16,Modoc,1,0
 2020-06-16,Mono,42,1
-2020-06-16,Monterey,1403,12
+2020-06-16,Monterey,1404,12
 2020-06-16,Napa,255,3
 2020-06-16,Nevada,91,1
 2020-06-16,Orange,13520,223
@@ -852,8 +852,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,San Joaquin,2631,47
 2020-06-16,San Luis Obispo,491,1
 2020-06-16,San Mateo,2946,77
-2020-06-16,Santa Barbara,2953,16
-2020-06-16,Santa Clara,4068,148
+2020-06-16,Santa Barbara,2952,16
+2020-06-16,Santa Clara,4069,148
 2020-06-16,Santa Cruz,321,2
 2020-06-16,Shasta,112,4
 2020-06-16,Sierra,1,0
@@ -864,12 +864,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,Sutter,109,2
 2020-06-16,Tehama,37,1
 2020-06-16,Trinity,5,0
-2020-06-16,Tulare,3827,96
+2020-06-16,Tulare,3828,96
 2020-06-16,Tuolumne,12,0
 2020-06-16,Ventura,2450,37
 2020-06-16,Yolo,374,24
 2020-06-16,Yuba,39,1
-2020-06-15,Alameda,5163,112
+2020-06-15,Alameda,5164,112
 2020-06-15,Alpine,2,0
 2020-06-15,Amador,12,0
 2020-06-15,Butte,131,1
@@ -887,7 +887,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,Kings,2064,6
 2020-06-15,Lake,43,0
 2020-06-15,Lassen,12,0
-2020-06-15,Los Angeles,84282,2908
+2020-06-15,Los Angeles,84281,2908
 2020-06-15,Madera,494,3
 2020-06-15,Marin,1035,17
 2020-06-15,Mariposa,18,1
@@ -895,7 +895,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,Merced,767,7
 2020-06-15,Modoc,1,0
 2020-06-15,Mono,42,1
-2020-06-15,Monterey,1337,12
+2020-06-15,Monterey,1338,12
 2020-06-15,Napa,247,3
 2020-06-15,Nevada,85,1
 2020-06-15,Orange,12956,212
@@ -910,8 +910,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,San Joaquin,2495,43
 2020-06-15,San Luis Obispo,478,1
 2020-06-15,San Mateo,2899,75
-2020-06-15,Santa Barbara,2885,16
-2020-06-15,Santa Clara,3968,148
+2020-06-15,Santa Barbara,2884,16
+2020-06-15,Santa Clara,3969,148
 2020-06-15,Santa Cruz,310,2
 2020-06-15,Shasta,106,4
 2020-06-15,Sierra,1,0
@@ -922,12 +922,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,Sutter,99,2
 2020-06-15,Tehama,37,1
 2020-06-15,Trinity,4,0
-2020-06-15,Tulare,3713,96
+2020-06-15,Tulare,3714,96
 2020-06-15,Tuolumne,11,0
 2020-06-15,Ventura,2369,37
 2020-06-15,Yolo,354,24
 2020-06-15,Yuba,39,1
-2020-06-14,Alameda,5018,112
+2020-06-14,Alameda,5019,112
 2020-06-14,Alpine,2,0
 2020-06-14,Amador,12,0
 2020-06-14,Butte,124,1
@@ -945,7 +945,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,Kings,2013,6
 2020-06-14,Lake,40,0
 2020-06-14,Lassen,12,0
-2020-06-14,Los Angeles,81956,2887
+2020-06-14,Los Angeles,81955,2887
 2020-06-14,Madera,476,3
 2020-06-14,Marin,870,17
 2020-06-14,Mariposa,18,1
@@ -953,7 +953,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,Merced,716,7
 2020-06-14,Modoc,1,0
 2020-06-14,Mono,42,1
-2020-06-14,Monterey,1276,12
+2020-06-14,Monterey,1277,12
 2020-06-14,Napa,225,3
 2020-06-14,Nevada,81,1
 2020-06-14,Orange,12532,211
@@ -968,8 +968,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,San Joaquin,2344,43
 2020-06-14,San Luis Obispo,463,1
 2020-06-14,San Mateo,2842,75
-2020-06-14,Santa Barbara,2808,17
-2020-06-14,Santa Clara,3876,148
+2020-06-14,Santa Barbara,2807,17
+2020-06-14,Santa Clara,3877,148
 2020-06-14,Santa Cruz,296,2
 2020-06-14,Shasta,100,4
 2020-06-14,Sierra,1,0
@@ -980,12 +980,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,Sutter,94,2
 2020-06-14,Tehama,34,1
 2020-06-14,Trinity,4,0
-2020-06-14,Tulare,3581,96
+2020-06-14,Tulare,3582,96
 2020-06-14,Tuolumne,11,0
 2020-06-14,Ventura,2271,37
 2020-06-14,Yolo,338,24
 2020-06-14,Yuba,38,1
-2020-06-13,Alameda,4955,112
+2020-06-13,Alameda,4956,112
 2020-06-13,Alpine,2,0
 2020-06-13,Amador,11,0
 2020-06-13,Butte,115,1
@@ -1003,7 +1003,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,Kings,1993,6
 2020-06-13,Lake,39,0
 2020-06-13,Lassen,12,0
-2020-06-13,Los Angeles,80917,2874
+2020-06-13,Los Angeles,80916,2874
 2020-06-13,Madera,472,3
 2020-06-13,Marin,839,17
 2020-06-13,Mariposa,18,1
@@ -1011,7 +1011,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,Merced,698,7
 2020-06-13,Modoc,1,0
 2020-06-13,Mono,42,1
-2020-06-13,Monterey,1238,11
+2020-06-13,Monterey,1239,11
 2020-06-13,Napa,222,3
 2020-06-13,Nevada,79,1
 2020-06-13,Orange,12289,211
@@ -1026,8 +1026,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,San Joaquin,2263,43
 2020-06-13,San Luis Obispo,452,1
 2020-06-13,San Mateo,2819,75
-2020-06-13,Santa Barbara,2750,15
-2020-06-13,Santa Clara,3835,148
+2020-06-13,Santa Barbara,2749,15
+2020-06-13,Santa Clara,3836,148
 2020-06-13,Santa Cruz,290,2
 2020-06-13,Shasta,98,4
 2020-06-13,Sierra,1,0
@@ -1038,12 +1038,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,Sutter,93,2
 2020-06-13,Tehama,33,1
 2020-06-13,Trinity,4,0
-2020-06-13,Tulare,3549,96
+2020-06-13,Tulare,3550,96
 2020-06-13,Tuolumne,10,0
 2020-06-13,Ventura,2225,37
 2020-06-13,Yolo,317,24
 2020-06-13,Yuba,38,1
-2020-06-12,Alameda,4882,109
+2020-06-12,Alameda,4883,109
 2020-06-12,Alpine,2,0
 2020-06-12,Amador,11,0
 2020-06-12,Butte,111,1
@@ -1061,7 +1061,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,Kings,1980,6
 2020-06-12,Lake,38,0
 2020-06-12,Lassen,12,0
-2020-06-12,Los Angeles,79509,2814
+2020-06-12,Los Angeles,79508,2814
 2020-06-12,Madera,447,3
 2020-06-12,Marin,836,17
 2020-06-12,Mariposa,18,1
@@ -1069,7 +1069,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,Merced,663,7
 2020-06-12,Modoc,1,0
 2020-06-12,Mono,39,1
-2020-06-12,Monterey,1197,11
+2020-06-12,Monterey,1198,11
 2020-06-12,Napa,219,3
 2020-06-12,Nevada,73,1
 2020-06-12,Orange,11984,203
@@ -1084,8 +1084,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,San Joaquin,2183,43
 2020-06-12,San Luis Obispo,436,1
 2020-06-12,San Mateo,2784,75
-2020-06-12,Santa Barbara,2696,14
-2020-06-12,Santa Clara,3793,149
+2020-06-12,Santa Barbara,2695,14
+2020-06-12,Santa Clara,3794,149
 2020-06-12,Santa Cruz,282,2
 2020-06-12,Shasta,91,5
 2020-06-12,Sierra,1,0
@@ -1096,12 +1096,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,Sutter,92,2
 2020-06-12,Tehama,32,1
 2020-06-12,Trinity,4,0
-2020-06-12,Tulare,3495,95
+2020-06-12,Tulare,3496,95
 2020-06-12,Tuolumne,10,0
 2020-06-12,Ventura,2173,35
 2020-06-12,Yolo,305,24
 2020-06-12,Yuba,36,1
-2020-06-11,Alameda,4752,108
+2020-06-11,Alameda,4753,108
 2020-06-11,Alpine,2,0
 2020-06-11,Amador,10,0
 2020-06-11,Butte,105,1
@@ -1119,7 +1119,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,Kings,1946,6
 2020-06-11,Lake,38,0
 2020-06-11,Lassen,12,0
-2020-06-11,Los Angeles,77841,2800
+2020-06-11,Los Angeles,77840,2800
 2020-06-11,Madera,429,3
 2020-06-11,Marin,788,17
 2020-06-11,Mariposa,18,1
@@ -1127,7 +1127,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,Merced,623,7
 2020-06-11,Modoc,1,0
 2020-06-11,Mono,39,1
-2020-06-11,Monterey,1150,11
+2020-06-11,Monterey,1151,11
 2020-06-11,Napa,210,3
 2020-06-11,Nevada,67,1
 2020-06-11,Orange,11676,188
@@ -1142,8 +1142,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,San Joaquin,2071,43
 2020-06-11,San Luis Obispo,422,1
 2020-06-11,San Mateo,2746,74
-2020-06-11,Santa Barbara,2631,14
-2020-06-11,Santa Clara,3727,149
+2020-06-11,Santa Barbara,2630,14
+2020-06-11,Santa Clara,3728,149
 2020-06-11,Santa Cruz,278,2
 2020-06-11,Shasta,84,5
 2020-06-11,Sierra,1,0
@@ -1154,12 +1154,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,Sutter,89,2
 2020-06-11,Tehama,27,1
 2020-06-11,Trinity,3,0
-2020-06-11,Tulare,3398,95
+2020-06-11,Tulare,3399,95
 2020-06-11,Tuolumne,10,0
 2020-06-11,Ventura,2096,34
 2020-06-11,Yolo,297,24
 2020-06-11,Yuba,36,1
-2020-06-10,Alameda,4652,107
+2020-06-10,Alameda,4653,107
 2020-06-10,Alpine,2,0
 2020-06-10,Amador,10,0
 2020-06-10,Butte,102,1
@@ -1177,7 +1177,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,Kings,1899,6
 2020-06-10,Lake,38,0
 2020-06-10,Lassen,12,0
-2020-06-10,Los Angeles,76321,2752
+2020-06-10,Los Angeles,76320,2752
 2020-06-10,Madera,415,3
 2020-06-10,Marin,756,17
 2020-06-10,Mariposa,17,1
@@ -1185,7 +1185,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,Merced,590,7
 2020-06-10,Modoc,1,0
 2020-06-10,Mono,39,1
-2020-06-10,Monterey,1096,11
+2020-06-10,Monterey,1097,11
 2020-06-10,Napa,207,3
 2020-06-10,Nevada,65,1
 2020-06-10,Orange,11400,184
@@ -1200,8 +1200,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,San Joaquin,1942,41
 2020-06-10,San Luis Obispo,403,1
 2020-06-10,San Mateo,2705,74
-2020-06-10,Santa Barbara,2575,13
-2020-06-10,Santa Clara,3676,149
+2020-06-10,Santa Barbara,2574,13
+2020-06-10,Santa Clara,3677,149
 2020-06-10,Santa Cruz,274,2
 2020-06-10,Shasta,79,5
 2020-06-10,Sierra,1,0
@@ -1212,12 +1212,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,Sutter,88,2
 2020-06-10,Tehama,25,1
 2020-06-10,Trinity,3,0
-2020-06-10,Tulare,3306,95
+2020-06-10,Tulare,3307,95
 2020-06-10,Tuolumne,10,0
 2020-06-10,Ventura,2050,34
 2020-06-10,Yolo,289,24
 2020-06-10,Yuba,35,1
-2020-06-09,Alameda,4542,103
+2020-06-09,Alameda,4543,103
 2020-06-09,Alpine,2,0
 2020-06-09,Amador,10,0
 2020-06-09,Butte,101,1
@@ -1235,7 +1235,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,Kings,1867,6
 2020-06-09,Lake,38,0
 2020-06-09,Lassen,12,0
-2020-06-09,Los Angeles,74664,2692
+2020-06-09,Los Angeles,74663,2692
 2020-06-09,Madera,400,3
 2020-06-09,Marin,720,17
 2020-06-09,Mariposa,17,1
@@ -1243,7 +1243,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,Merced,561,7
 2020-06-09,Modoc,1,0
 2020-06-09,Mono,39,1
-2020-06-09,Monterey,1055,11
+2020-06-09,Monterey,1056,11
 2020-06-09,Napa,197,3
 2020-06-09,Nevada,57,1
 2020-06-09,Orange,11159,174
@@ -1258,8 +1258,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,San Joaquin,1836,41
 2020-06-09,San Luis Obispo,390,1
 2020-06-09,San Mateo,2674,74
-2020-06-09,Santa Barbara,2513,13
-2020-06-09,Santa Clara,3609,147
+2020-06-09,Santa Barbara,2512,13
+2020-06-09,Santa Clara,3610,147
 2020-06-09,Santa Cruz,268,2
 2020-06-09,Shasta,75,4
 2020-06-09,Sierra,1,0
@@ -1270,12 +1270,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,Sutter,85,2
 2020-06-09,Tehama,25,1
 2020-06-09,Trinity,3,0
-2020-06-09,Tulare,3240,91
+2020-06-09,Tulare,3241,91
 2020-06-09,Tuolumne,10,0
 2020-06-09,Ventura,1984,34
 2020-06-09,Yolo,278,24
 2020-06-09,Yuba,34,1
-2020-06-08,Alameda,4462,103
+2020-06-08,Alameda,4463,103
 2020-06-08,Alpine,2,0
 2020-06-08,Amador,10,0
 2020-06-08,Butte,97,1
@@ -1293,7 +1293,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,Kings,1791,6
 2020-06-08,Lake,38,0
 2020-06-08,Lassen,12,0
-2020-06-08,Los Angeles,73202,2640
+2020-06-08,Los Angeles,73201,2640
 2020-06-08,Madera,370,3
 2020-06-08,Marin,679,17
 2020-06-08,Mariposa,16,1
@@ -1301,7 +1301,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,Merced,527,7
 2020-06-08,Modoc,1,0
 2020-06-08,Mono,39,1
-2020-06-08,Monterey,1004,10
+2020-06-08,Monterey,1005,10
 2020-06-08,Napa,181,3
 2020-06-08,Nevada,56,1
 2020-06-08,Orange,10907,160
@@ -1316,8 +1316,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,San Joaquin,1729,40
 2020-06-08,San Luis Obispo,384,1
 2020-06-08,San Mateo,2643,74
-2020-06-08,Santa Barbara,2451,13
-2020-06-08,Santa Clara,3563,146
+2020-06-08,Santa Barbara,2450,13
+2020-06-08,Santa Clara,3565,146
 2020-06-08,Santa Cruz,267,2
 2020-06-08,Shasta,71,4
 2020-06-08,Sierra,1,0
@@ -1328,12 +1328,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,Sutter,78,2
 2020-06-08,Tehama,19,1
 2020-06-08,Trinity,3,0
-2020-06-08,Tulare,3157,91
+2020-06-08,Tulare,3158,91
 2020-06-08,Tuolumne,9,0
 2020-06-08,Ventura,1926,30
 2020-06-08,Yolo,267,24
 2020-06-08,Yuba,32,1
-2020-06-07,Alameda,4349,102
+2020-06-07,Alameda,4350,102
 2020-06-07,Alpine,2,0
 2020-06-07,Amador,10,0
 2020-06-07,Butte,95,1
@@ -1351,7 +1351,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,Kings,1742,6
 2020-06-07,Lake,35,0
 2020-06-07,Lassen,11,0
-2020-06-07,Los Angeles,71499,2629
+2020-06-07,Los Angeles,71498,2629
 2020-06-07,Madera,353,3
 2020-06-07,Marin,665,17
 2020-06-07,Mariposa,16,1
@@ -1359,7 +1359,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,Merced,494,7
 2020-06-07,Modoc,1,0
 2020-06-07,Mono,39,1
-2020-06-07,Monterey,957,10
+2020-06-07,Monterey,958,10
 2020-06-07,Napa,173,3
 2020-06-07,Nevada,55,1
 2020-06-07,Orange,10650,158
@@ -1374,8 +1374,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,San Joaquin,1628,37
 2020-06-07,San Luis Obispo,374,1
 2020-06-07,San Mateo,2616,73
-2020-06-07,Santa Barbara,2390,13
-2020-06-07,Santa Clara,3512,146
+2020-06-07,Santa Barbara,2389,13
+2020-06-07,Santa Clara,3514,146
 2020-06-07,Santa Cruz,259,2
 2020-06-07,Shasta,70,4
 2020-06-07,Sierra,1,0
@@ -1386,12 +1386,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,Sutter,70,2
 2020-06-07,Tehama,16,1
 2020-06-07,Trinity,2,0
-2020-06-07,Tulare,3035,90
+2020-06-07,Tulare,3036,90
 2020-06-07,Tuolumne,9,0
 2020-06-07,Ventura,1861,30
 2020-06-07,Yolo,257,24
 2020-06-07,Yuba,32,1
-2020-06-06,Alameda,4304,102
+2020-06-06,Alameda,4305,102
 2020-06-06,Alpine,2,0
 2020-06-06,Amador,10,0
 2020-06-06,Butte,94,1
@@ -1409,7 +1409,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,Kings,1723,6
 2020-06-06,Lake,35,0
 2020-06-06,Lassen,11,0
-2020-06-06,Los Angeles,70752,2607
+2020-06-06,Los Angeles,70751,2607
 2020-06-06,Madera,344,3
 2020-06-06,Marin,660,17
 2020-06-06,Mariposa,16,1
@@ -1417,7 +1417,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,Merced,492,7
 2020-06-06,Modoc,1,0
 2020-06-06,Mono,39,1
-2020-06-06,Monterey,933,10
+2020-06-06,Monterey,934,10
 2020-06-06,Napa,167,3
 2020-06-06,Nevada,54,1
 2020-06-06,Orange,10491,157
@@ -1432,8 +1432,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,San Joaquin,1588,37
 2020-06-06,San Luis Obispo,368,1
 2020-06-06,San Mateo,2601,72
-2020-06-06,Santa Barbara,2350,13
-2020-06-06,Santa Clara,3471,144
+2020-06-06,Santa Barbara,2349,13
+2020-06-06,Santa Clara,3473,144
 2020-06-06,Santa Cruz,257,2
 2020-06-06,Shasta,70,4
 2020-06-06,Sierra,1,0
@@ -1444,12 +1444,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,Sutter,70,2
 2020-06-06,Tehama,15,1
 2020-06-06,Trinity,2,0
-2020-06-06,Tulare,3002,90
+2020-06-06,Tulare,3003,90
 2020-06-06,Tuolumne,9,0
 2020-06-06,Ventura,1837,30
 2020-06-06,Yolo,255,24
 2020-06-06,Yuba,32,1
-2020-06-05,Alameda,4253,102
+2020-06-05,Alameda,4254,102
 2020-06-05,Alpine,2,0
 2020-06-05,Amador,10,0
 2020-06-05,Butte,91,1
@@ -1467,7 +1467,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,Kings,1708,6
 2020-06-05,Lake,35,0
 2020-06-05,Lassen,10,0
-2020-06-05,Los Angeles,69604,2553
+2020-06-05,Los Angeles,69603,2553
 2020-06-05,Madera,322,3
 2020-06-05,Marin,651,17
 2020-06-05,Mariposa,16,1
@@ -1475,7 +1475,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,Merced,490,7
 2020-06-05,Modoc,1,0
 2020-06-05,Mono,39,1
-2020-06-05,Monterey,901,10
+2020-06-05,Monterey,902,10
 2020-06-05,Napa,164,3
 2020-06-05,Nevada,54,1
 2020-06-05,Orange,10296,153
@@ -1490,8 +1490,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,San Joaquin,1509,36
 2020-06-05,San Luis Obispo,361,1
 2020-06-05,San Mateo,2576,72
-2020-06-05,Santa Barbara,2315,13
-2020-06-05,Santa Clara,3446,144
+2020-06-05,Santa Barbara,2314,13
+2020-06-05,Santa Clara,3448,144
 2020-06-05,Santa Cruz,254,2
 2020-06-05,Shasta,69,4
 2020-06-05,Sierra,1,0
@@ -1502,12 +1502,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,Sutter,70,2
 2020-06-05,Tehama,15,1
 2020-06-05,Trinity,2,0
-2020-06-05,Tulare,2953,90
+2020-06-05,Tulare,2954,90
 2020-06-05,Tuolumne,9,0
 2020-06-05,Ventura,1804,30
 2020-06-05,Yolo,254,24
 2020-06-05,Yuba,32,1
-2020-06-04,Alameda,4154,99
+2020-06-04,Alameda,4155,99
 2020-06-04,Alpine,2,0
 2020-06-04,Amador,10,0
 2020-06-04,Butte,87,1
@@ -1525,7 +1525,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,Kings,1638,6
 2020-06-04,Lake,34,0
 2020-06-04,Lassen,8,0
-2020-06-04,Los Angeles,68136,2515
+2020-06-04,Los Angeles,68135,2515
 2020-06-04,Madera,314,3
 2020-06-04,Marin,629,14
 2020-06-04,Mariposa,16,1
@@ -1533,7 +1533,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,Merced,470,7
 2020-06-04,Modoc,1,0
 2020-06-04,Mono,39,1
-2020-06-04,Monterey,866,10
+2020-06-04,Monterey,867,10
 2020-06-04,Napa,160,3
 2020-06-04,Nevada,53,1
 2020-06-04,Orange,10045,148
@@ -1548,8 +1548,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,San Joaquin,1447,36
 2020-06-04,San Luis Obispo,353,1
 2020-06-04,San Mateo,2550,72
-2020-06-04,Santa Barbara,2276,13
-2020-06-04,Santa Clara,3414,144
+2020-06-04,Santa Barbara,2275,13
+2020-06-04,Santa Clara,3416,144
 2020-06-04,Santa Cruz,248,2
 2020-06-04,Shasta,63,4
 2020-06-04,Sierra,1,0
@@ -1560,12 +1560,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,Sutter,65,2
 2020-06-04,Tehama,14,1
 2020-06-04,Trinity,2,0
-2020-06-04,Tulare,2837,90
+2020-06-04,Tulare,2838,90
 2020-06-04,Tuolumne,8,0
 2020-06-04,Ventura,1761,30
 2020-06-04,Yolo,249,24
 2020-06-04,Yuba,31,1
-2020-06-03,Alameda,4095,99
+2020-06-03,Alameda,4096,99
 2020-06-03,Alpine,2,0
 2020-06-03,Amador,10,0
 2020-06-03,Butte,85,1
@@ -1583,7 +1583,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,Kings,1573,6
 2020-06-03,Lake,32,0
 2020-06-03,Lassen,8,0
-2020-06-03,Los Angeles,66530,2472
+2020-06-03,Los Angeles,66529,2472
 2020-06-03,Madera,306,3
 2020-06-03,Marin,611,14
 2020-06-03,Mariposa,16,1
@@ -1591,7 +1591,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,Merced,456,7
 2020-06-03,Modoc,1,0
 2020-06-03,Mono,39,1
-2020-06-03,Monterey,838,10
+2020-06-03,Monterey,839,10
 2020-06-03,Napa,159,3
 2020-06-03,Nevada,52,1
 2020-06-03,Orange,9818,145
@@ -1606,8 +1606,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,San Joaquin,1382,35
 2020-06-03,San Luis Obispo,348,1
 2020-06-03,San Mateo,2522,71
-2020-06-03,Santa Barbara,2233,12
-2020-06-03,Santa Clara,3375,144
+2020-06-03,Santa Barbara,2232,12
+2020-06-03,Santa Clara,3376,144
 2020-06-03,Santa Cruz,242,2
 2020-06-03,Shasta,60,4
 2020-06-03,Sierra,1,0
@@ -1618,12 +1618,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,Sutter,57,2
 2020-06-03,Tehama,14,1
 2020-06-03,Trinity,2,0
-2020-06-03,Tulare,2768,88
+2020-06-03,Tulare,2769,88
 2020-06-03,Tuolumne,6,0
 2020-06-03,Ventura,1697,30
 2020-06-03,Yolo,245,24
 2020-06-03,Yuba,31,1
-2020-06-02,Alameda,4019,99
+2020-06-02,Alameda,4020,99
 2020-06-02,Alpine,2,0
 2020-06-02,Amador,10,0
 2020-06-02,Butte,81,1
@@ -1641,7 +1641,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,Kings,1545,5
 2020-06-02,Lake,32,0
 2020-06-02,Lassen,7,0
-2020-06-02,Los Angeles,65129,2430
+2020-06-02,Los Angeles,65128,2430
 2020-06-02,Madera,285,2
 2020-06-02,Marin,584,14
 2020-06-02,Mariposa,16,1
@@ -1649,7 +1649,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,Merced,440,6
 2020-06-02,Modoc,1,0
 2020-06-02,Mono,39,1
-2020-06-02,Monterey,808,10
+2020-06-02,Monterey,809,10
 2020-06-02,Napa,150,3
 2020-06-02,Nevada,51,1
 2020-06-02,Orange,9617,142
@@ -1664,8 +1664,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,San Joaquin,1316,35
 2020-06-02,San Luis Obispo,343,1
 2020-06-02,San Mateo,2487,71
-2020-06-02,Santa Barbara,2188,12
-2020-06-02,Santa Clara,3325,144
+2020-06-02,Santa Barbara,2187,12
+2020-06-02,Santa Clara,3326,144
 2020-06-02,Santa Cruz,237,2
 2020-06-02,Shasta,59,4
 2020-06-02,Sierra,1,0
@@ -1676,12 +1676,12 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,Sutter,54,2
 2020-06-02,Tehama,14,1
 2020-06-02,Trinity,2,0
-2020-06-02,Tulare,2688,86
+2020-06-02,Tulare,2689,86
 2020-06-02,Tuolumne,6,0
 2020-06-02,Ventura,1647,30
 2020-06-02,Yolo,243,24
 2020-06-02,Yuba,31,1
-2020-06-01,Alameda,3954,98
+2020-06-01,Alameda,3955,98
 2020-06-01,Alpine,2,0
 2020-06-01,Amador,10,0
 2020-06-01,Butte,80,1
@@ -1699,7 +1699,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,Kings,1277,4
 2020-06-01,Lake,32,0
 2020-06-01,Lassen,7,0
-2020-06-01,Los Angeles,63664,2367
+2020-06-01,Los Angeles,63663,2367
 2020-06-01,Madera,273,2
 2020-06-01,Marin,543,14
 2020-06-01,Mariposa,16,1
@@ -1707,7 +1707,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,Merced,421,6
 2020-06-01,Modoc,1,0
 2020-06-01,Mono,39,1
-2020-06-01,Monterey,783,10
+2020-06-01,Monterey,784,10
 2020-06-01,Napa,147,3
 2020-06-01,Nevada,51,1
 2020-06-01,Orange,9421,135
@@ -1723,7 +1723,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,San Luis Obispo,339,1
 2020-06-01,San Mateo,2457,71
 2020-06-01,Santa Barbara,2147,10
-2020-06-01,Santa Clara,3286,142
+2020-06-01,Santa Clara,3287,142
 2020-06-01,Santa Cruz,233,2
 2020-06-01,Shasta,59,4
 2020-06-01,Sierra,1,0
@@ -1739,7 +1739,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,Ventura,1597,29
 2020-06-01,Yolo,240,24
 2020-06-01,Yuba,30,1
-2020-05-31,Alameda,3848,98
+2020-05-31,Alameda,3849,98
 2020-05-31,Alpine,2,0
 2020-05-31,Amador,10,0
 2020-05-31,Butte,78,0
@@ -1757,7 +1757,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,Kings,1240,3
 2020-05-31,Lake,32,0
 2020-05-31,Lassen,7,0
-2020-05-31,Los Angeles,62375,2344
+2020-05-31,Los Angeles,62374,2344
 2020-05-31,Madera,255,2
 2020-05-31,Marin,533,14
 2020-05-31,Mariposa,16,1
@@ -1765,7 +1765,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,Merced,394,6
 2020-05-31,Modoc,0,0
 2020-05-31,Mono,39,1
-2020-05-31,Monterey,710,10
+2020-05-31,Monterey,711,10
 2020-05-31,Napa,145,3
 2020-05-31,Nevada,50,1
 2020-05-31,Orange,9210,135
@@ -1781,7 +1781,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,San Luis Obispo,329,1
 2020-05-31,San Mateo,2411,71
 2020-05-31,Santa Barbara,2091,9
-2020-05-31,Santa Clara,3242,142
+2020-05-31,Santa Clara,3243,142
 2020-05-31,Santa Cruz,230,2
 2020-05-31,Shasta,57,4
 2020-05-31,Sierra,1,0
@@ -1797,7 +1797,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,Ventura,1542,30
 2020-05-31,Yolo,234,24
 2020-05-31,Yuba,30,1
-2020-05-30,Alameda,3822,96
+2020-05-30,Alameda,3823,96
 2020-05-30,Alpine,2,0
 2020-05-30,Amador,10,0
 2020-05-30,Butte,77,0
@@ -1815,7 +1815,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,Kings,1226,3
 2020-05-30,Lake,31,0
 2020-05-30,Lassen,7,0
-2020-05-30,Los Angeles,61839,2319
+2020-05-30,Los Angeles,61838,2319
 2020-05-30,Madera,250,2
 2020-05-30,Marin,533,14
 2020-05-30,Mariposa,16,1
@@ -1823,7 +1823,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,Merced,393,6
 2020-05-30,Modoc,0,0
 2020-05-30,Mono,39,1
-2020-05-30,Monterey,694,10
+2020-05-30,Monterey,695,10
 2020-05-30,Napa,143,3
 2020-05-30,Nevada,50,1
 2020-05-30,Orange,9055,134
@@ -1839,7 +1839,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,San Luis Obispo,324,1
 2020-05-30,San Mateo,2387,71
 2020-05-30,Santa Barbara,2064,9
-2020-05-30,Santa Clara,3226,141
+2020-05-30,Santa Clara,3227,141
 2020-05-30,Santa Cruz,230,2
 2020-05-30,Shasta,57,4
 2020-05-30,Sierra,1,0
@@ -1855,7 +1855,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,Ventura,1525,30
 2020-05-30,Yolo,230,24
 2020-05-30,Yuba,30,1
-2020-05-29,Alameda,3787,96
+2020-05-29,Alameda,3788,96
 2020-05-29,Alpine,2,0
 2020-05-29,Amador,10,0
 2020-05-29,Butte,72,0
@@ -1873,7 +1873,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,Kings,1215,3
 2020-05-29,Lake,30,0
 2020-05-29,Lassen,7,0
-2020-05-29,Los Angeles,60883,2273
+2020-05-29,Los Angeles,60882,2273
 2020-05-29,Madera,235,2
 2020-05-29,Marin,525,14
 2020-05-29,Mariposa,16,1
@@ -1881,7 +1881,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,Merced,388,7
 2020-05-29,Modoc,0,0
 2020-05-29,Mono,38,1
-2020-05-29,Monterey,664,10
+2020-05-29,Monterey,665,10
 2020-05-29,Napa,140,3
 2020-05-29,Nevada,50,1
 2020-05-29,Orange,8860,133
@@ -1897,7 +1897,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,San Luis Obispo,320,1
 2020-05-29,San Mateo,2371,71
 2020-05-29,Santa Barbara,2033,9
-2020-05-29,Santa Clara,3198,141
+2020-05-29,Santa Clara,3199,141
 2020-05-29,Santa Cruz,227,2
 2020-05-29,Shasta,57,4
 2020-05-29,Sierra,1,0
@@ -1913,7 +1913,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,Ventura,1502,29
 2020-05-29,Yolo,226,24
 2020-05-29,Yuba,29,1
-2020-05-28,Alameda,3688,94
+2020-05-28,Alameda,3689,94
 2020-05-28,Alpine,2,0
 2020-05-28,Amador,10,0
 2020-05-28,Butte,71,0
@@ -1931,7 +1931,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,Kings,878,3
 2020-05-28,Lake,29,0
 2020-05-28,Lassen,7,0
-2020-05-28,Los Angeles,59305,2222
+2020-05-28,Los Angeles,59304,2222
 2020-05-28,Madera,217,2
 2020-05-28,Marin,500,14
 2020-05-28,Mariposa,16,1
@@ -1939,7 +1939,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,Merced,379,7
 2020-05-28,Modoc,0,0
 2020-05-28,Mono,38,1
-2020-05-28,Monterey,632,10
+2020-05-28,Monterey,633,10
 2020-05-28,Napa,137,3
 2020-05-28,Nevada,45,1
 2020-05-28,Orange,8664,130
@@ -1955,7 +1955,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,San Luis Obispo,317,1
 2020-05-28,San Mateo,2344,71
 2020-05-28,Santa Barbara,1987,9
-2020-05-28,Santa Clara,3159,140
+2020-05-28,Santa Clara,3160,140
 2020-05-28,Santa Cruz,226,2
 2020-05-28,Shasta,55,4
 2020-05-28,Sierra,1,0
@@ -1971,7 +1971,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,Ventura,1472,29
 2020-05-28,Yolo,223,22
 2020-05-28,Yuba,28,1
-2020-05-27,Alameda,3606,94
+2020-05-27,Alameda,3607,94
 2020-05-27,Alpine,2,0
 2020-05-27,Amador,10,0
 2020-05-27,Butte,68,0
@@ -1989,7 +1989,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,Kings,851,3
 2020-05-27,Lake,29,0
 2020-05-27,Lassen,7,0
-2020-05-27,Los Angeles,57927,2177
+2020-05-27,Los Angeles,57926,2177
 2020-05-27,Madera,208,2
 2020-05-27,Marin,471,14
 2020-05-27,Mariposa,16,1
@@ -1997,7 +1997,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,Merced,375,7
 2020-05-27,Modoc,0,0
 2020-05-27,Mono,38,1
-2020-05-27,Monterey,592,8
+2020-05-27,Monterey,593,8
 2020-05-27,Napa,132,3
 2020-05-27,Nevada,44,1
 2020-05-27,Orange,8508,121
@@ -2013,7 +2013,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,San Luis Obispo,312,1
 2020-05-27,San Mateo,2304,71
 2020-05-27,Santa Barbara,1968,9
-2020-05-27,Santa Clara,3127,140
+2020-05-27,Santa Clara,3128,140
 2020-05-27,Santa Cruz,222,2
 2020-05-27,Shasta,52,4
 2020-05-27,Sierra,1,0
@@ -2029,7 +2029,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,Ventura,1450,28
 2020-05-27,Yolo,222,22
 2020-05-27,Yuba,28,1
-2020-05-26,Alameda,3513,92
+2020-05-26,Alameda,3514,92
 2020-05-26,Alpine,2,0
 2020-05-26,Amador,10,0
 2020-05-26,Butte,66,0
@@ -2047,7 +2047,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,Kings,783,2
 2020-05-26,Lake,27,0
 2020-05-26,Lassen,6,0
-2020-05-26,Los Angeles,56460,2121
+2020-05-26,Los Angeles,56459,2121
 2020-05-26,Madera,193,2
 2020-05-26,Marin,459,14
 2020-05-26,Mariposa,16,1
@@ -2055,7 +2055,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,Merced,361,7
 2020-05-26,Modoc,0,0
 2020-05-26,Mono,37,1
-2020-05-26,Monterey,564,8
+2020-05-26,Monterey,565,8
 2020-05-26,Napa,127,3
 2020-05-26,Nevada,43,1
 2020-05-26,Orange,8240,115
@@ -2071,7 +2071,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,San Luis Obispo,310,1
 2020-05-26,San Mateo,2266,71
 2020-05-26,Santa Barbara,1944,9
-2020-05-26,Santa Clara,3094,139
+2020-05-26,Santa Clara,3095,139
 2020-05-26,Santa Cruz,220,2
 2020-05-26,Shasta,52,4
 2020-05-26,Sierra,1,0
@@ -2087,7 +2087,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,Ventura,1416,27
 2020-05-26,Yolo,216,22
 2020-05-26,Yuba,27,1
-2020-05-25,Alameda,3420,92
+2020-05-25,Alameda,3421,92
 2020-05-25,Alpine,2,0
 2020-05-25,Amador,10,0
 2020-05-25,Butte,63,0
@@ -2105,7 +2105,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,Kings,754,2
 2020-05-25,Lake,25,0
 2020-05-25,Lassen,6,0
-2020-05-25,Los Angeles,54645,2094
+2020-05-25,Los Angeles,54644,2094
 2020-05-25,Madera,181,2
 2020-05-25,Marin,441,14
 2020-05-25,Mariposa,16,1
@@ -2113,7 +2113,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,Merced,354,6
 2020-05-25,Modoc,0,0
 2020-05-25,Mono,37,1
-2020-05-25,Monterey,534,8
+2020-05-25,Monterey,535,8
 2020-05-25,Napa,127,3
 2020-05-25,Nevada,43,1
 2020-05-25,Orange,8018,115
@@ -2129,7 +2129,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,San Luis Obispo,308,1
 2020-05-25,San Mateo,2230,71
 2020-05-25,Santa Barbara,1927,9
-2020-05-25,Santa Clara,3062,139
+2020-05-25,Santa Clara,3063,139
 2020-05-25,Santa Cruz,218,2
 2020-05-25,Shasta,51,4
 2020-05-25,Sierra,1,0
@@ -2145,7 +2145,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,Ventura,1377,27
 2020-05-25,Yolo,214,22
 2020-05-25,Yuba,26,1
-2020-05-24,Alameda,3347,92
+2020-05-24,Alameda,3348,92
 2020-05-24,Alpine,2,0
 2020-05-24,Amador,10,0
 2020-05-24,Butte,61,0
@@ -2163,7 +2163,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,Kings,743,2
 2020-05-24,Lake,24,0
 2020-05-24,Lassen,5,0
-2020-05-24,Los Angeles,53631,2085
+2020-05-24,Los Angeles,53630,2085
 2020-05-24,Madera,176,2
 2020-05-24,Marin,439,14
 2020-05-24,Mariposa,16,1
@@ -2171,7 +2171,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,Merced,353,6
 2020-05-24,Modoc,0,0
 2020-05-24,Mono,37,1
-2020-05-24,Monterey,506,8
+2020-05-24,Monterey,507,8
 2020-05-24,Napa,125,3
 2020-05-24,Nevada,43,1
 2020-05-24,Orange,7862,113
@@ -2187,7 +2187,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,San Luis Obispo,306,1
 2020-05-24,San Mateo,2195,71
 2020-05-24,Santa Barbara,1912,9
-2020-05-24,Santa Clara,3043,139
+2020-05-24,Santa Clara,3044,139
 2020-05-24,Santa Cruz,215,2
 2020-05-24,Shasta,50,4
 2020-05-24,Sierra,1,0
@@ -2203,7 +2203,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,Ventura,1365,27
 2020-05-24,Yolo,212,22
 2020-05-24,Yuba,26,1
-2020-05-23,Alameda,3306,91
+2020-05-23,Alameda,3307,91
 2020-05-23,Alpine,2,0
 2020-05-23,Amador,10,0
 2020-05-23,Butte,60,0
@@ -2221,7 +2221,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,Kings,739,2
 2020-05-23,Lake,23,0
 2020-05-23,Lassen,5,0
-2020-05-23,Los Angeles,53090,2069
+2020-05-23,Los Angeles,53089,2069
 2020-05-23,Madera,172,2
 2020-05-23,Marin,439,14
 2020-05-23,Mariposa,16,1
@@ -2229,7 +2229,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,Merced,350,6
 2020-05-23,Modoc,0,0
 2020-05-23,Mono,36,1
-2020-05-23,Monterey,492,8
+2020-05-23,Monterey,493,8
 2020-05-23,Napa,121,3
 2020-05-23,Nevada,43,1
 2020-05-23,Orange,7705,113
@@ -2245,7 +2245,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,San Luis Obispo,303,1
 2020-05-23,San Mateo,2167,71
 2020-05-23,Santa Barbara,1901,9
-2020-05-23,Santa Clara,3030,139
+2020-05-23,Santa Clara,3031,139
 2020-05-23,Santa Cruz,213,2
 2020-05-23,Shasta,50,4
 2020-05-23,Sierra,1,0
@@ -2261,7 +2261,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,Ventura,1345,27
 2020-05-23,Yolo,211,22
 2020-05-23,Yuba,26,1
-2020-05-22,Alameda,3252,91
+2020-05-22,Alameda,3253,91
 2020-05-22,Alpine,2,0
 2020-05-22,Amador,10,0
 2020-05-22,Butte,58,0
@@ -2279,7 +2279,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,Kings,736,2
 2020-05-22,Lake,22,0
 2020-05-22,Lassen,3,0
-2020-05-22,Los Angeles,52297,2027
+2020-05-22,Los Angeles,52296,2027
 2020-05-22,Madera,168,2
 2020-05-22,Marin,435,14
 2020-05-22,Mariposa,16,1
@@ -2287,7 +2287,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,Merced,350,6
 2020-05-22,Modoc,0,0
 2020-05-22,Mono,36,1
-2020-05-22,Monterey,481,8
+2020-05-22,Monterey,482,8
 2020-05-22,Napa,119,3
 2020-05-22,Nevada,42,1
 2020-05-22,Orange,7511,113
@@ -2303,7 +2303,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,San Luis Obispo,303,1
 2020-05-22,San Mateo,2148,71
 2020-05-22,Santa Barbara,1885,9
-2020-05-22,Santa Clara,3012,139
+2020-05-22,Santa Clara,3013,139
 2020-05-22,Santa Cruz,210,2
 2020-05-22,Shasta,50,4
 2020-05-22,Sierra,1,0
@@ -2319,7 +2319,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,Ventura,1327,27
 2020-05-22,Yolo,209,22
 2020-05-22,Yuba,26,1
-2020-05-21,Alameda,3187,89
+2020-05-21,Alameda,3188,89
 2020-05-21,Alpine,2,0
 2020-05-21,Amador,10,0
 2020-05-21,Butte,57,0
@@ -2337,7 +2337,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-21,Kings,715,2
 2020-05-21,Lake,17,0
 2020-05-21,Lassen,3,0
-2020-05-21,Los Angeles,51258,1996
+2020-05-21,Los Angeles,51257,1996
 2020-05-21,Madera,165,2
 2020-05-21,Marin,424,14
 2020-05-21,Mariposa,16,1
@@ -2345,7 +2345,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-21,Merced,339,6
 2020-05-21,Modoc,0,0
 2020-05-21,Mono,36,1
-2020-05-21,Monterey,470,8
+2020-05-21,Monterey,471,8
 2020-05-21,Napa,117,3
 2020-05-21,Nevada,42,1
 2020-05-21,Orange,7310,106
@@ -2377,7 +2377,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-21,Ventura,1280,30
 2020-05-21,Yolo,206,22
 2020-05-21,Yuba,26,1
-2020-05-20,Alameda,3114,89
+2020-05-20,Alameda,3115,89
 2020-05-20,Alpine,2,0
 2020-05-20,Amador,10,0
 2020-05-20,Butte,54,0
@@ -2395,7 +2395,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,Kings,572,2
 2020-05-20,Lake,17,0
 2020-05-20,Lassen,2,0
-2020-05-20,Los Angeles,50261,1955
+2020-05-20,Los Angeles,50260,1955
 2020-05-20,Madera,163,2
 2020-05-20,Marin,397,14
 2020-05-20,Mariposa,16,1
@@ -2403,7 +2403,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,Merced,332,6
 2020-05-20,Modoc,0,0
 2020-05-20,Mono,36,1
-2020-05-20,Monterey,456,8
+2020-05-20,Monterey,457,8
 2020-05-20,Napa,110,3
 2020-05-20,Nevada,42,1
 2020-05-20,Orange,7104,96
@@ -2435,7 +2435,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,Ventura,1248,29
 2020-05-20,Yolo,203,22
 2020-05-20,Yuba,26,1
-2020-05-19,Alameda,3039,88
+2020-05-19,Alameda,3040,88
 2020-05-19,Alpine,2,0
 2020-05-19,Amador,10,0
 2020-05-19,Butte,52,0
@@ -2453,7 +2453,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,Kings,563,2
 2020-05-19,Lake,14,0
 2020-05-19,Lassen,2,0
-2020-05-19,Los Angeles,49054,1906
+2020-05-19,Los Angeles,49053,1906
 2020-05-19,Madera,160,2
 2020-05-19,Marin,373,14
 2020-05-19,Mariposa,16,1
@@ -2461,7 +2461,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,Merced,324,5
 2020-05-19,Modoc,0,0
 2020-05-19,Mono,36,1
-2020-05-19,Monterey,444,8
+2020-05-19,Monterey,445,8
 2020-05-19,Napa,109,3
 2020-05-19,Nevada,42,1
 2020-05-19,Orange,6909,90
@@ -2493,7 +2493,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,Ventura,1211,28
 2020-05-19,Yolo,201,22
 2020-05-19,Yuba,26,1
-2020-05-18,Alameda,2966,84
+2020-05-18,Alameda,2967,84
 2020-05-18,Alpine,1,0
 2020-05-18,Amador,10,0
 2020-05-18,Butte,50,0
@@ -2511,7 +2511,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,Kings,532,2
 2020-05-18,Lake,13,0
 2020-05-18,Lassen,2,0
-2020-05-18,Los Angeles,48033,1825
+2020-05-18,Los Angeles,48032,1825
 2020-05-18,Madera,155,2
 2020-05-18,Marin,360,14
 2020-05-18,Mariposa,16,1
@@ -2519,7 +2519,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,Merced,315,5
 2020-05-18,Modoc,0,0
 2020-05-18,Mono,36,1
-2020-05-18,Monterey,433,8
+2020-05-18,Monterey,434,8
 2020-05-18,Napa,105,3
 2020-05-18,Nevada,42,1
 2020-05-18,Orange,6721,88
@@ -2551,7 +2551,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,Ventura,1189,27
 2020-05-18,Yolo,196,22
 2020-05-18,Yuba,26,1
-2020-05-17,Alameda,2871,83
+2020-05-17,Alameda,2872,83
 2020-05-17,Alpine,1,0
 2020-05-17,Amador,10,0
 2020-05-17,Butte,50,0
@@ -2569,7 +2569,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,Kings,485,2
 2020-05-17,Lake,13,0
 2020-05-17,Lassen,2,0
-2020-05-17,Los Angeles,46799,1807
+2020-05-17,Los Angeles,46798,1807
 2020-05-17,Madera,153,2
 2020-05-17,Marin,349,14
 2020-05-17,Mariposa,15,1
@@ -2577,7 +2577,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,Merced,304,5
 2020-05-17,Modoc,0,0
 2020-05-17,Mono,36,1
-2020-05-17,Monterey,413,8
+2020-05-17,Monterey,414,8
 2020-05-17,Napa,102,3
 2020-05-17,Nevada,42,1
 2020-05-17,Orange,6542,88
@@ -2609,7 +2609,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,Ventura,1147,27
 2020-05-17,Yolo,194,22
 2020-05-17,Yuba,26,1
-2020-05-16,Alameda,2821,83
+2020-05-16,Alameda,2822,83
 2020-05-16,Alpine,1,0
 2020-05-16,Amador,10,0
 2020-05-16,Butte,45,0
@@ -2627,7 +2627,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,Kings,476,2
 2020-05-16,Lake,13,0
 2020-05-16,Lassen,1,0
-2020-05-16,Los Angeles,46222,1778
+2020-05-16,Los Angeles,46221,1778
 2020-05-16,Madera,151,2
 2020-05-16,Marin,345,14
 2020-05-16,Mariposa,15,1
@@ -2635,7 +2635,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,Merced,302,5
 2020-05-16,Modoc,0,0
 2020-05-16,Mono,36,1
-2020-05-16,Monterey,398,8
+2020-05-16,Monterey,399,8
 2020-05-16,Napa,102,3
 2020-05-16,Nevada,42,1
 2020-05-16,Orange,6466,87
@@ -2667,7 +2667,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,Ventura,1122,25
 2020-05-16,Yolo,193,22
 2020-05-16,Yuba,26,1
-2020-05-15,Alameda,2787,83
+2020-05-15,Alameda,2788,83
 2020-05-15,Alpine,1,0
 2020-05-15,Amador,10,0
 2020-05-15,Butte,43,0
@@ -2685,7 +2685,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,Kings,473,2
 2020-05-15,Lake,13,0
 2020-05-15,Lassen,1,0
-2020-05-15,Los Angeles,45435,1734
+2020-05-15,Los Angeles,45434,1734
 2020-05-15,Madera,150,2
 2020-05-15,Marin,337,14
 2020-05-15,Mariposa,15,1
@@ -2693,7 +2693,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,Merced,299,5
 2020-05-15,Modoc,0,0
 2020-05-15,Mono,36,1
-2020-05-15,Monterey,392,8
+2020-05-15,Monterey,393,8
 2020-05-15,Napa,102,3
 2020-05-15,Nevada,42,1
 2020-05-15,Orange,6295,87
@@ -2725,7 +2725,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,Ventura,1105,25
 2020-05-15,Yolo,192,22
 2020-05-15,Yuba,26,1
-2020-05-14,Alameda,2696,80
+2020-05-14,Alameda,2697,80
 2020-05-14,Alpine,1,0
 2020-05-14,Amador,10,0
 2020-05-14,Butte,41,0
@@ -2743,7 +2743,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,Kings,457,1
 2020-05-14,Lake,13,0
 2020-05-14,Lassen,1,0
-2020-05-14,Los Angeles,44259,1693
+2020-05-14,Los Angeles,44258,1693
 2020-05-14,Madera,141,2
 2020-05-14,Marin,319,14
 2020-05-14,Mariposa,15,0
@@ -2751,7 +2751,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,Merced,289,3
 2020-05-14,Modoc,0,0
 2020-05-14,Mono,36,1
-2020-05-14,Monterey,382,7
+2020-05-14,Monterey,383,7
 2020-05-14,Napa,100,3
 2020-05-14,Nevada,41,1
 2020-05-14,Orange,6119,83
@@ -2783,7 +2783,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,Ventura,1077,25
 2020-05-14,Yolo,192,22
 2020-05-14,Yuba,26,1
-2020-05-13,Alameda,2638,78
+2020-05-13,Alameda,2639,78
 2020-05-13,Alpine,1,0
 2020-05-13,Amador,10,0
 2020-05-13,Butte,40,0
@@ -2801,7 +2801,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,Kings,444,1
 2020-05-13,Lake,13,0
 2020-05-13,Lassen,1,0
-2020-05-13,Los Angeles,42949,1643
+2020-05-13,Los Angeles,42948,1643
 2020-05-13,Madera,132,2
 2020-05-13,Marin,306,14
 2020-05-13,Mariposa,15,0
@@ -2809,7 +2809,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,Merced,286,3
 2020-05-13,Modoc,0,0
 2020-05-13,Mono,35,1
-2020-05-13,Monterey,372,6
+2020-05-13,Monterey,373,6
 2020-05-13,Napa,100,3
 2020-05-13,Nevada,41,1
 2020-05-13,Orange,5873,79
@@ -2841,7 +2841,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,Ventura,1050,25
 2020-05-13,Yolo,190,22
 2020-05-13,Yuba,24,1
-2020-05-12,Alameda,2576,74
+2020-05-12,Alameda,2577,74
 2020-05-12,Alpine,1,0
 2020-05-12,Amador,10,0
 2020-05-12,Butte,38,0
@@ -2859,7 +2859,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,Kings,423,1
 2020-05-12,Lake,13,0
 2020-05-12,Lassen,1,0
-2020-05-12,Los Angeles,41953,1601
+2020-05-12,Los Angeles,41952,1601
 2020-05-12,Madera,128,2
 2020-05-12,Marin,301,14
 2020-05-12,Mariposa,15,0
@@ -2867,7 +2867,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,Merced,275,3
 2020-05-12,Modoc,0,0
 2020-05-12,Mono,35,1
-2020-05-12,Monterey,365,6
+2020-05-12,Monterey,366,6
 2020-05-12,Napa,98,3
 2020-05-12,Nevada,41,1
 2020-05-12,Orange,5691,78
@@ -2899,7 +2899,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,Ventura,1013,20
 2020-05-12,Yolo,189,22
 2020-05-12,Yuba,24,1
-2020-05-11,Alameda,2526,71
+2020-05-11,Alameda,2527,71
 2020-05-11,Alpine,1,0
 2020-05-11,Amador,10,0
 2020-05-11,Butte,37,0
@@ -2917,7 +2917,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,Kings,400,1
 2020-05-11,Lake,12,0
 2020-05-11,Lassen,1,0
-2020-05-11,Los Angeles,40775,1553
+2020-05-11,Los Angeles,40774,1553
 2020-05-11,Madera,120,2
 2020-05-11,Marin,292,14
 2020-05-11,Mariposa,15,0
@@ -2925,7 +2925,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,Merced,260,3
 2020-05-11,Modoc,0,0
 2020-05-11,Mono,35,1
-2020-05-11,Monterey,362,6
+2020-05-11,Monterey,363,6
 2020-05-11,Napa,92,2
 2020-05-11,Nevada,41,1
 2020-05-11,Orange,5484,77
@@ -2957,7 +2957,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,Ventura,969,19
 2020-05-11,Yolo,189,20
 2020-05-11,Yuba,24,1
-2020-05-10,Alameda,2449,71
+2020-05-10,Alameda,2450,71
 2020-05-10,Alpine,1,0
 2020-05-10,Amador,10,0
 2020-05-10,Butte,33,0
@@ -2975,7 +2975,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,Kings,387,1
 2020-05-10,Lake,12,0
 2020-05-10,Lassen,1,0
-2020-05-10,Los Angeles,39515,1514
+2020-05-10,Los Angeles,39514,1514
 2020-05-10,Madera,118,2
 2020-05-10,Marin,284,14
 2020-05-10,Mariposa,15,0
@@ -2983,7 +2983,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,Merced,245,3
 2020-05-10,Modoc,0,0
 2020-05-10,Mono,35,1
-2020-05-10,Monterey,348,6
+2020-05-10,Monterey,349,6
 2020-05-10,Napa,86,2
 2020-05-10,Nevada,41,1
 2020-05-10,Orange,5339,76
@@ -3015,7 +3015,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,Ventura,921,19
 2020-05-10,Yolo,189,20
 2020-05-10,Yuba,23,1
-2020-05-09,Alameda,2406,71
+2020-05-09,Alameda,2407,71
 2020-05-09,Alpine,1,0
 2020-05-09,Amador,9,0
 2020-05-09,Butte,32,0
@@ -3033,7 +3033,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,Kings,382,1
 2020-05-09,Lake,12,0
 2020-05-09,Lassen,1,0
-2020-05-09,Los Angeles,38892,1499
+2020-05-09,Los Angeles,38891,1499
 2020-05-09,Madera,117,2
 2020-05-09,Marin,283,14
 2020-05-09,Mariposa,15,0
@@ -3041,7 +3041,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,Merced,241,3
 2020-05-09,Modoc,0,0
 2020-05-09,Mono,35,1
-2020-05-09,Monterey,341,6
+2020-05-09,Monterey,342,6
 2020-05-09,Napa,85,2
 2020-05-09,Nevada,41,1
 2020-05-09,Orange,5258,75
@@ -3073,7 +3073,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,Ventura,900,19
 2020-05-09,Yolo,189,18
 2020-05-09,Yuba,23,1
-2020-05-08,Alameda,2363,70
+2020-05-08,Alameda,2364,70
 2020-05-08,Alpine,1,0
 2020-05-08,Amador,9,0
 2020-05-08,Butte,32,0
@@ -3091,7 +3091,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,Kings,373,1
 2020-05-08,Lake,12,0
 2020-05-08,Lassen,1,0
-2020-05-08,Los Angeles,38163,1447
+2020-05-08,Los Angeles,38162,1447
 2020-05-08,Madera,114,2
 2020-05-08,Marin,283,14
 2020-05-08,Mariposa,15,0
@@ -3099,7 +3099,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,Merced,240,3
 2020-05-08,Modoc,0,0
 2020-05-08,Mono,32,1
-2020-05-08,Monterey,333,6
+2020-05-08,Monterey,334,6
 2020-05-08,Napa,84,2
 2020-05-08,Nevada,41,1
 2020-05-08,Orange,5116,72
@@ -3131,7 +3131,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,Ventura,883,19
 2020-05-08,Yolo,188,18
 2020-05-08,Yuba,22,1
-2020-05-07,Alameda,2303,68
+2020-05-07,Alameda,2304,68
 2020-05-07,Alpine,1,0
 2020-05-07,Amador,9,0
 2020-05-07,Butte,32,0
@@ -3149,7 +3149,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,Kings,351,1
 2020-05-07,Lake,11,0
 2020-05-07,Lassen,1,0
-2020-05-07,Los Angeles,37041,1399
+2020-05-07,Los Angeles,37040,1399
 2020-05-07,Madera,110,2
 2020-05-07,Marin,276,14
 2020-05-07,Mariposa,15,0
@@ -3157,7 +3157,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,Merced,232,3
 2020-05-07,Modoc,0,0
 2020-05-07,Mono,32,1
-2020-05-07,Monterey,325,6
+2020-05-07,Monterey,326,6
 2020-05-07,Napa,84,2
 2020-05-07,Nevada,41,1
 2020-05-07,Orange,4933,69
@@ -3189,7 +3189,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,Ventura,861,19
 2020-05-07,Yolo,187,18
 2020-05-07,Yuba,22,1
-2020-05-06,Alameda,2266,67
+2020-05-06,Alameda,2267,67
 2020-05-06,Alpine,1,0
 2020-05-06,Amador,9,0
 2020-05-06,Butte,31,0
@@ -3207,7 +3207,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,Kings,333,1
 2020-05-06,Lake,11,0
 2020-05-06,Lassen,1,0
-2020-05-06,Los Angeles,36038,1347
+2020-05-06,Los Angeles,36037,1347
 2020-05-06,Madera,108,2
 2020-05-06,Marin,269,14
 2020-05-06,Mariposa,15,0
@@ -3215,7 +3215,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,Merced,225,3
 2020-05-06,Modoc,0,0
 2020-05-06,Mono,32,1
-2020-05-06,Monterey,317,6
+2020-05-06,Monterey,318,6
 2020-05-06,Napa,83,2
 2020-05-06,Nevada,41,1
 2020-05-06,Orange,4748,66
@@ -3247,7 +3247,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,Ventura,836,19
 2020-05-06,Yolo,186,18
 2020-05-06,Yuba,22,1
-2020-05-05,Alameda,2223,67
+2020-05-05,Alameda,2224,67
 2020-05-05,Alpine,1,0
 2020-05-05,Amador,9,0
 2020-05-05,Butte,30,0
@@ -3265,7 +3265,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,Kings,317,1
 2020-05-05,Lake,10,0
 2020-05-05,Lassen,1,0
-2020-05-05,Los Angeles,34970,1289
+2020-05-05,Los Angeles,34969,1289
 2020-05-05,Madera,105,2
 2020-05-05,Marin,263,14
 2020-05-05,Mariposa,15,0
@@ -3273,7 +3273,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,Merced,220,3
 2020-05-05,Modoc,0,0
 2020-05-05,Mono,32,1
-2020-05-05,Monterey,303,6
+2020-05-05,Monterey,304,6
 2020-05-05,Napa,83,2
 2020-05-05,Nevada,41,1
 2020-05-05,Orange,4625,63
@@ -3305,7 +3305,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,Ventura,813,19
 2020-05-05,Yolo,184,18
 2020-05-05,Yuba,22,1
-2020-05-04,Alameda,2164,65
+2020-05-04,Alameda,2165,65
 2020-05-04,Alpine,1,0
 2020-05-04,Amador,8,0
 2020-05-04,Butte,29,0
@@ -3323,7 +3323,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,Kings,300,1
 2020-05-04,Lake,9,0
 2020-05-04,Lassen,1,0
-2020-05-04,Los Angeles,33670,1235
+2020-05-04,Los Angeles,33669,1235
 2020-05-04,Madera,104,2
 2020-05-04,Marin,258,13
 2020-05-04,Mariposa,15,0
@@ -3331,7 +3331,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,Merced,220,3
 2020-05-04,Modoc,0,0
 2020-05-04,Mono,32,1
-2020-05-04,Monterey,292,6
+2020-05-04,Monterey,293,6
 2020-05-04,Napa,83,2
 2020-05-04,Nevada,41,1
 2020-05-04,Orange,4489,57
@@ -3363,7 +3363,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,Ventura,793,19
 2020-05-04,Yolo,183,18
 2020-05-04,Yuba,19,1
-2020-05-03,Alameda,2108,64
+2020-05-03,Alameda,2109,64
 2020-05-03,Alpine,1,0
 2020-05-03,Amador,8,0
 2020-05-03,Butte,29,0
@@ -3381,7 +3381,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,Kings,280,1
 2020-05-03,Lake,9,0
 2020-05-03,Lassen,1,0
-2020-05-03,Los Angeles,32687,1210
+2020-05-03,Los Angeles,32686,1210
 2020-05-03,Madera,97,2
 2020-05-03,Marin,253,13
 2020-05-03,Mariposa,15,0
@@ -3389,7 +3389,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,Merced,212,3
 2020-05-03,Modoc,0,0
 2020-05-03,Mono,32,1
-2020-05-03,Monterey,283,6
+2020-05-03,Monterey,284,6
 2020-05-03,Napa,83,2
 2020-05-03,Nevada,41,1
 2020-05-03,Orange,4318,55
@@ -3421,7 +3421,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,Ventura,762,19
 2020-05-03,Yolo,182,18
 2020-05-03,Yuba,19,1
-2020-05-02,Alameda,2071,63
+2020-05-02,Alameda,2072,63
 2020-05-02,Alpine,1,0
 2020-05-02,Amador,8,0
 2020-05-02,Butte,29,0
@@ -3439,7 +3439,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,Kings,277,1
 2020-05-02,Lake,9,0
 2020-05-02,Lassen,1,0
-2020-05-02,Los Angeles,32159,1192
+2020-05-02,Los Angeles,32158,1192
 2020-05-02,Madera,97,2
 2020-05-02,Marin,252,13
 2020-05-02,Mariposa,15,0
@@ -3447,7 +3447,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,Merced,209,3
 2020-05-02,Modoc,0,0
 2020-05-02,Mono,32,1
-2020-05-02,Monterey,277,5
+2020-05-02,Monterey,278,5
 2020-05-02,Napa,83,2
 2020-05-02,Nevada,41,1
 2020-05-02,Orange,4204,52
@@ -3479,7 +3479,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,Ventura,748,19
 2020-05-02,Yolo,182,17
 2020-05-02,Yuba,19,1
-2020-05-01,Alameda,2034,63
+2020-05-01,Alameda,2035,63
 2020-05-01,Alpine,1,0
 2020-05-01,Amador,8,0
 2020-05-01,Butte,29,0
@@ -3497,7 +3497,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,Kings,260,1
 2020-05-01,Lake,9,0
 2020-05-01,Lassen,1,0
-2020-05-01,Los Angeles,31405,1155
+2020-05-01,Los Angeles,31404,1155
 2020-05-01,Madera,93,2
 2020-05-01,Marin,252,13
 2020-05-01,Mariposa,15,0
@@ -3505,7 +3505,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,Merced,206,3
 2020-05-01,Modoc,0,0
 2020-05-01,Mono,32,1
-2020-05-01,Monterey,273,5
+2020-05-01,Monterey,274,5
 2020-05-01,Napa,83,2
 2020-05-01,Nevada,41,1
 2020-05-01,Orange,4126,51
@@ -3537,7 +3537,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,Ventura,735,18
 2020-05-01,Yolo,182,18
 2020-05-01,Yuba,19,1
-2020-04-30,Alameda,1974,60
+2020-04-30,Alameda,1975,60
 2020-04-30,Alpine,1,0
 2020-04-30,Amador,8,0
 2020-04-30,Butte,29,0
@@ -3555,7 +3555,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,Kings,248,1
 2020-04-30,Lake,9,0
 2020-04-30,Lassen,1,0
-2020-04-30,Los Angeles,30398,1099
+2020-04-30,Los Angeles,30397,1099
 2020-04-30,Madera,82,2
 2020-04-30,Marin,252,13
 2020-04-30,Mariposa,15,0
@@ -3563,7 +3563,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,Merced,199,3
 2020-04-30,Modoc,0,0
 2020-04-30,Mono,31,1
-2020-04-30,Monterey,263,5
+2020-04-30,Monterey,264,5
 2020-04-30,Napa,81,2
 2020-04-30,Nevada,41,1
 2020-04-30,Orange,3912,46
@@ -3595,7 +3595,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,Ventura,707,18
 2020-04-30,Yolo,181,16
 2020-04-30,Yuba,19,1
-2020-04-29,Alameda,1916,60
+2020-04-29,Alameda,1917,60
 2020-04-29,Alpine,1,0
 2020-04-29,Amador,8,0
 2020-04-29,Butte,29,0
@@ -3613,7 +3613,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-29,Kings,229,1
 2020-04-29,Lake,9,0
 2020-04-29,Lassen,1,0
-2020-04-29,Los Angeles,29422,1043
+2020-04-29,Los Angeles,29421,1043
 2020-04-29,Madera,81,2
 2020-04-29,Marin,249,13
 2020-04-29,Mariposa,15,0
@@ -3621,7 +3621,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-29,Merced,192,3
 2020-04-29,Modoc,0,0
 2020-04-29,Mono,31,1
-2020-04-29,Monterey,255,5
+2020-04-29,Monterey,256,5
 2020-04-29,Napa,79,2
 2020-04-29,Nevada,41,1
 2020-04-29,Orange,3782,43
@@ -3653,7 +3653,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-29,Ventura,684,18
 2020-04-29,Yolo,178,11
 2020-04-29,Yuba,19,1
-2020-04-28,Alameda,1859,55
+2020-04-28,Alameda,1860,55
 2020-04-28,Alpine,1,0
 2020-04-28,Amador,8,0
 2020-04-28,Butte,29,0
@@ -3671,7 +3671,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-28,Kings,216,1
 2020-04-28,Lake,9,0
 2020-04-28,Lassen,1,0
-2020-04-28,Los Angeles,28358,984
+2020-04-28,Los Angeles,28357,984
 2020-04-28,Madera,81,2
 2020-04-28,Marin,248,12
 2020-04-28,Mariposa,15,0
@@ -3679,7 +3679,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-28,Merced,185,3
 2020-04-28,Modoc,0,0
 2020-04-28,Mono,31,1
-2020-04-28,Monterey,249,5
+2020-04-28,Monterey,250,5
 2020-04-28,Napa,78,2
 2020-04-28,Nevada,41,1
 2020-04-28,Orange,3619,42
@@ -3711,7 +3711,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-28,Ventura,666,17
 2020-04-28,Yolo,178,10
 2020-04-28,Yuba,19,1
-2020-04-27,Alameda,1799,53
+2020-04-27,Alameda,1800,53
 2020-04-27,Alpine,1,0
 2020-04-27,Amador,8,0
 2020-04-27,Butte,28,0
@@ -3729,7 +3729,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-27,Kings,193,1
 2020-04-27,Lake,8,0
 2020-04-27,Lassen,1,0
-2020-04-27,Los Angeles,27341,931
+2020-04-27,Los Angeles,27340,931
 2020-04-27,Madera,79,2
 2020-04-27,Marin,243,12
 2020-04-27,Mariposa,14,0
@@ -3737,7 +3737,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-27,Merced,182,3
 2020-04-27,Modoc,0,0
 2020-04-27,Mono,31,1
-2020-04-27,Monterey,242,4
+2020-04-27,Monterey,243,4
 2020-04-27,Napa,75,2
 2020-04-27,Nevada,41,1
 2020-04-27,Orange,3450,42
@@ -3769,7 +3769,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-27,Ventura,649,17
 2020-04-27,Yolo,175,9
 2020-04-27,Yuba,19,1
-2020-04-26,Alameda,1738,52
+2020-04-26,Alameda,1739,52
 2020-04-26,Alpine,1,0
 2020-04-26,Amador,8,0
 2020-04-26,Butte,28,0
@@ -3787,7 +3787,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-26,Kings,168,1
 2020-04-26,Lake,8,0
 2020-04-26,Lassen,1,0
-2020-04-26,Los Angeles,26192,901
+2020-04-26,Los Angeles,26191,901
 2020-04-26,Madera,77,2
 2020-04-26,Marin,237,12
 2020-04-26,Mariposa,14,0
@@ -3795,7 +3795,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-26,Merced,166,3
 2020-04-26,Modoc,0,0
 2020-04-26,Mono,31,1
-2020-04-26,Monterey,235,4
+2020-04-26,Monterey,236,4
 2020-04-26,Napa,74,2
 2020-04-26,Nevada,41,1
 2020-04-26,Orange,3285,40
@@ -3827,7 +3827,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-26,Ventura,634,17
 2020-04-26,Yolo,174,8
 2020-04-26,Yuba,18,1
-2020-04-25,Alameda,1713,52
+2020-04-25,Alameda,1714,52
 2020-04-25,Alpine,1,0
 2020-04-25,Amador,8,0
 2020-04-25,Butte,27,0
@@ -3845,7 +3845,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-25,Kings,156,1
 2020-04-25,Lake,6,0
 2020-04-25,Lassen,1,0
-2020-04-25,Los Angeles,25558,881
+2020-04-25,Los Angeles,25557,881
 2020-04-25,Madera,74,2
 2020-04-25,Marin,237,12
 2020-04-25,Mariposa,14,0
@@ -3853,7 +3853,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-25,Merced,166,3
 2020-04-25,Modoc,0,0
 2020-04-25,Mono,31,1
-2020-04-25,Monterey,233,4
+2020-04-25,Monterey,234,4
 2020-04-25,Napa,74,2
 2020-04-25,Nevada,41,1
 2020-04-25,Orange,3179,40
@@ -3885,7 +3885,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-25,Ventura,620,16
 2020-04-25,Yolo,174,8
 2020-04-25,Yuba,17,1
-2020-04-24,Alameda,1682,50
+2020-04-24,Alameda,1683,50
 2020-04-24,Alpine,1,0
 2020-04-24,Amador,8,0
 2020-04-24,Butte,27,0
@@ -3903,7 +3903,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-24,Kings,127,1
 2020-04-24,Lake,6,0
 2020-04-24,Lassen,1,0
-2020-04-24,Los Angeles,24626,836
+2020-04-24,Los Angeles,24625,836
 2020-04-24,Madera,74,2
 2020-04-24,Marin,237,11
 2020-04-24,Mariposa,8,0
@@ -3911,7 +3911,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-24,Merced,163,3
 2020-04-24,Modoc,0,0
 2020-04-24,Mono,30,1
-2020-04-24,Monterey,226,4
+2020-04-24,Monterey,227,4
 2020-04-24,Napa,73,2
 2020-04-24,Nevada,41,1
 2020-04-24,Orange,3071,39
@@ -3943,7 +3943,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-24,Ventura,611,16
 2020-04-24,Yolo,173,8
 2020-04-24,Yuba,16,1
-2020-04-23,Alameda,1644,46
+2020-04-23,Alameda,1645,46
 2020-04-23,Alpine,1,0
 2020-04-23,Amador,8,0
 2020-04-23,Butte,26,0
@@ -3961,7 +3961,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-23,Kings,112,1
 2020-04-23,Lake,6,0
 2020-04-23,Lassen,1,0
-2020-04-23,Los Angeles,23566,784
+2020-04-23,Los Angeles,23565,784
 2020-04-23,Madera,72,2
 2020-04-23,Marin,224,11
 2020-04-23,Mariposa,7,0
@@ -3969,7 +3969,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-23,Merced,159,3
 2020-04-23,Modoc,0,0
 2020-04-23,Mono,30,1
-2020-04-23,Monterey,222,4
+2020-04-23,Monterey,223,4
 2020-04-23,Napa,66,2
 2020-04-23,Nevada,41,1
 2020-04-23,Orange,2893,37
@@ -4001,7 +4001,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-23,Ventura,597,16
 2020-04-23,Yolo,170,8
 2020-04-23,Yuba,16,1
-2020-04-22,Alameda,1595,46
+2020-04-22,Alameda,1596,46
 2020-04-22,Alpine,1,0
 2020-04-22,Amador,8,0
 2020-04-22,Butte,25,0
@@ -4019,7 +4019,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-22,Kings,91,1
 2020-04-22,Lake,6,0
 2020-04-22,Lassen,1,0
-2020-04-22,Los Angeles,22537,715
+2020-04-22,Los Angeles,22536,715
 2020-04-22,Madera,70,2
 2020-04-22,Marin,222,11
 2020-04-22,Mariposa,6,0
@@ -4027,7 +4027,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-22,Merced,147,3
 2020-04-22,Modoc,0,0
 2020-04-22,Mono,29,1
-2020-04-22,Monterey,215,4
+2020-04-22,Monterey,216,4
 2020-04-22,Napa,65,2
 2020-04-22,Nevada,41,1
 2020-04-22,Orange,2800,36
@@ -4059,7 +4059,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-22,Ventura,587,15
 2020-04-22,Yolo,170,8
 2020-04-22,Yuba,16,1
-2020-04-21,Alameda,1565,46
+2020-04-21,Alameda,1566,46
 2020-04-21,Alpine,1,0
 2020-04-21,Amador,8,0
 2020-04-21,Butte,24,0
@@ -4077,7 +4077,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-21,Kings,78,1
 2020-04-21,Lake,6,0
 2020-04-21,Lassen,1,0
-2020-04-21,Los Angeles,21677,650
+2020-04-21,Los Angeles,21676,650
 2020-04-21,Madera,70,2
 2020-04-21,Marin,216,10
 2020-04-21,Mariposa,5,0
@@ -4085,7 +4085,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-21,Merced,143,3
 2020-04-21,Modoc,0,0
 2020-04-21,Mono,29,1
-2020-04-21,Monterey,212,4
+2020-04-21,Monterey,213,4
 2020-04-21,Napa,64,2
 2020-04-21,Nevada,41,1
 2020-04-21,Orange,2678,36
@@ -4117,7 +4117,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-21,Ventura,575,14
 2020-04-21,Yolo,168,8
 2020-04-21,Yuba,16,1
-2020-04-20,Alameda,1532,42
+2020-04-20,Alameda,1533,42
 2020-04-20,Alpine,1,0
 2020-04-20,Amador,8,0
 2020-04-20,Butte,24,0
@@ -4135,7 +4135,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-20,Kings,67,1
 2020-04-20,Lake,6,0
 2020-04-20,Lassen,1,0
-2020-04-20,Los Angeles,20763,608
+2020-04-20,Los Angeles,20762,608
 2020-04-20,Madera,69,2
 2020-04-20,Marin,212,10
 2020-04-20,Mariposa,5,0
@@ -4143,7 +4143,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-20,Merced,136,3
 2020-04-20,Modoc,0,0
 2020-04-20,Mono,29,1
-2020-04-20,Monterey,203,4
+2020-04-20,Monterey,204,4
 2020-04-20,Napa,64,2
 2020-04-20,Nevada,41,1
 2020-04-20,Orange,2597,33
@@ -4175,7 +4175,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-20,Ventura,563,13
 2020-04-20,Yolo,167,5
 2020-04-20,Yuba,16,1
-2020-04-19,Alameda,1482,41
+2020-04-19,Alameda,1483,41
 2020-04-19,Alpine,1,0
 2020-04-19,Amador,7,0
 2020-04-19,Butte,23,0
@@ -4193,7 +4193,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-19,Kings,57,1
 2020-04-19,Lake,6,0
 2020-04-19,Lassen,1,0
-2020-04-19,Los Angeles,19767,589
+2020-04-19,Los Angeles,19766,589
 2020-04-19,Madera,67,2
 2020-04-19,Marin,211,10
 2020-04-19,Mariposa,2,0
@@ -4201,7 +4201,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-19,Merced,131,3
 2020-04-19,Modoc,0,0
 2020-04-19,Mono,29,1
-2020-04-19,Monterey,195,4
+2020-04-19,Monterey,196,4
 2020-04-19,Napa,62,2
 2020-04-19,Nevada,40,1
 2020-04-19,Orange,2501,32
@@ -4233,7 +4233,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-19,Ventura,555,13
 2020-04-19,Yolo,167,5
 2020-04-19,Yuba,16,1
-2020-04-18,Alameda,1457,40
+2020-04-18,Alameda,1458,40
 2020-04-18,Alpine,1,0
 2020-04-18,Amador,7,0
 2020-04-18,Butte,22,0
@@ -4251,7 +4251,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-18,Kings,56,1
 2020-04-18,Lake,6,0
 2020-04-18,Lassen,1,0
-2020-04-18,Los Angeles,19243,566
+2020-04-18,Los Angeles,19242,566
 2020-04-18,Madera,66,2
 2020-04-18,Marin,209,10
 2020-04-18,Mariposa,2,0
@@ -4259,7 +4259,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-18,Merced,129,3
 2020-04-18,Modoc,0,0
 2020-04-18,Mono,29,1
-2020-04-18,Monterey,191,3
+2020-04-18,Monterey,192,3
 2020-04-18,Napa,62,2
 2020-04-18,Nevada,39,1
 2020-04-18,Orange,2437,32
@@ -4291,7 +4291,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-18,Ventura,547,13
 2020-04-18,Yolo,165,5
 2020-04-18,Yuba,16,1
-2020-04-17,Alameda,1402,40
+2020-04-17,Alameda,1403,40
 2020-04-17,Alpine,1,0
 2020-04-17,Amador,7,0
 2020-04-17,Butte,22,0
@@ -4309,7 +4309,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-17,Kings,54,1
 2020-04-17,Lake,6,0
 2020-04-17,Lassen,1,0
-2020-04-17,Los Angeles,18600,489
+2020-04-17,Los Angeles,18599,489
 2020-04-17,Madera,66,2
 2020-04-17,Marin,206,10
 2020-04-17,Mariposa,1,0
@@ -4317,7 +4317,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-17,Merced,128,3
 2020-04-17,Modoc,0,0
 2020-04-17,Mono,29,1
-2020-04-17,Monterey,186,3
+2020-04-17,Monterey,187,3
 2020-04-17,Napa,60,2
 2020-04-17,Nevada,38,1
 2020-04-17,Orange,2387,31
@@ -4349,7 +4349,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-17,Ventura,542,13
 2020-04-17,Yolo,164,5
 2020-04-17,Yuba,16,1
-2020-04-16,Alameda,1369,39
+2020-04-16,Alameda,1370,39
 2020-04-16,Alpine,1,0
 2020-04-16,Amador,7,0
 2020-04-16,Butte,21,0
@@ -4367,7 +4367,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-16,Kings,50,1
 2020-04-16,Lake,6,0
 2020-04-16,Lassen,1,0
-2020-04-16,Los Angeles,17715,447
+2020-04-16,Los Angeles,17714,447
 2020-04-16,Madera,64,2
 2020-04-16,Marin,202,10
 2020-04-16,Mariposa,1,0
@@ -4375,7 +4375,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-16,Merced,122,3
 2020-04-16,Modoc,0,0
 2020-04-16,Mono,29,1
-2020-04-16,Monterey,183,3
+2020-04-16,Monterey,184,3
 2020-04-16,Napa,57,2
 2020-04-16,Nevada,38,1
 2020-04-16,Orange,2324,28
@@ -4407,7 +4407,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-16,Ventura,530,13
 2020-04-16,Yolo,162,4
 2020-04-16,Yuba,15,1
-2020-04-15,Alameda,1319,38
+2020-04-15,Alameda,1320,38
 2020-04-15,Alpine,1,0
 2020-04-15,Amador,7,0
 2020-04-15,Butte,21,0
@@ -4425,7 +4425,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-15,Kings,46,1
 2020-04-15,Lake,6,0
 2020-04-15,Lassen,1,0
-2020-04-15,Los Angeles,16894,394
+2020-04-15,Los Angeles,16893,394
 2020-04-15,Madera,64,2
 2020-04-15,Marin,199,10
 2020-04-15,Mariposa,0,0
@@ -4433,7 +4433,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-15,Merced,120,3
 2020-04-15,Modoc,0,0
 2020-04-15,Mono,29,1
-2020-04-15,Monterey,175,3
+2020-04-15,Monterey,176,3
 2020-04-15,Napa,55,2
 2020-04-15,Nevada,37,1
 2020-04-15,Orange,2222,24
@@ -4465,7 +4465,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-15,Ventura,515,13
 2020-04-15,Yolo,158,3
 2020-04-15,Yuba,15,1
-2020-04-14,Alameda,1274,30
+2020-04-14,Alameda,1275,30
 2020-04-14,Alpine,1,0
 2020-04-14,Amador,7,0
 2020-04-14,Butte,21,0
@@ -4483,7 +4483,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-14,Kings,45,1
 2020-04-14,Lake,6,0
 2020-04-14,Lassen,1,0
-2020-04-14,Los Angeles,16000,357
+2020-04-14,Los Angeles,15999,357
 2020-04-14,Madera,63,2
 2020-04-14,Marin,195,9
 2020-04-14,Mariposa,0,0
@@ -4491,7 +4491,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-14,Merced,113,3
 2020-04-14,Modoc,0,0
 2020-04-14,Mono,29,1
-2020-04-14,Monterey,170,3
+2020-04-14,Monterey,171,3
 2020-04-14,Napa,55,2
 2020-04-14,Nevada,37,1
 2020-04-14,Orange,2122,24
@@ -4523,7 +4523,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-14,Ventura,502,11
 2020-04-14,Yolo,154,3
 2020-04-14,Yuba,14,1
-2020-04-13,Alameda,1235,23
+2020-04-13,Alameda,1236,23
 2020-04-13,Alpine,1,0
 2020-04-13,Amador,7,0
 2020-04-13,Butte,21,0
@@ -4541,7 +4541,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-13,Kings,41,0
 2020-04-13,Lake,6,0
 2020-04-13,Lassen,1,0
-2020-04-13,Los Angeles,15286,317
+2020-04-13,Los Angeles,15285,317
 2020-04-13,Madera,61,2
 2020-04-13,Marin,191,6
 2020-04-13,Mariposa,0,0
@@ -4549,7 +4549,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-13,Merced,112,3
 2020-04-13,Modoc,0,0
 2020-04-13,Mono,29,1
-2020-04-13,Monterey,164,3
+2020-04-13,Monterey,165,3
 2020-04-13,Napa,54,2
 2020-04-13,Nevada,37,1
 2020-04-13,Orange,2049,21
@@ -4581,7 +4581,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-13,Ventura,481,9
 2020-04-13,Yolo,148,3
 2020-04-13,Yuba,14,1
-2020-04-12,Alameda,1192,23
+2020-04-12,Alameda,1193,23
 2020-04-12,Alpine,1,0
 2020-04-12,Amador,7,0
 2020-04-12,Butte,21,0
@@ -4599,7 +4599,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-12,Kings,39,0
 2020-04-12,Lake,6,0
 2020-04-12,Lassen,1,0
-2020-04-12,Los Angeles,14576,294
+2020-04-12,Los Angeles,14575,294
 2020-04-12,Madera,60,2
 2020-04-12,Marin,180,6
 2020-04-12,Mariposa,0,0
@@ -4607,7 +4607,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-12,Merced,106,3
 2020-04-12,Modoc,0,0
 2020-04-12,Mono,29,1
-2020-04-12,Monterey,150,3
+2020-04-12,Monterey,151,3
 2020-04-12,Napa,52,2
 2020-04-12,Nevada,37,1
 2020-04-12,Orange,1989,21
@@ -4639,7 +4639,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-12,Ventura,472,9
 2020-04-12,Yolo,135,3
 2020-04-12,Yuba,14,1
-2020-04-11,Alameda,1151,23
+2020-04-11,Alameda,1152,23
 2020-04-11,Alpine,1,0
 2020-04-11,Amador,7,0
 2020-04-11,Butte,21,0
@@ -4657,7 +4657,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-11,Kings,36,0
 2020-04-11,Lake,6,0
 2020-04-11,Lassen,1,0
-2020-04-11,Los Angeles,14106,262
+2020-04-11,Los Angeles,14105,262
 2020-04-11,Madera,59,2
 2020-04-11,Marin,177,6
 2020-04-11,Mariposa,0,0
@@ -4665,7 +4665,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-11,Merced,103,3
 2020-04-11,Modoc,0,0
 2020-04-11,Mono,29,1
-2020-04-11,Monterey,144,3
+2020-04-11,Monterey,145,3
 2020-04-11,Napa,52,2
 2020-04-11,Nevada,37,1
 2020-04-11,Orange,1928,21
@@ -4697,7 +4697,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-11,Ventura,462,9
 2020-04-11,Yolo,132,3
 2020-04-11,Yuba,14,1
-2020-04-10,Alameda,1110,21
+2020-04-10,Alameda,1111,21
 2020-04-10,Alpine,1,0
 2020-04-10,Amador,7,0
 2020-04-10,Butte,21,0
@@ -4715,7 +4715,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-10,Kings,33,0
 2020-04-10,Lake,6,0
 2020-04-10,Lassen,1,0
-2020-04-10,Los Angeles,13593,239
+2020-04-10,Los Angeles,13592,239
 2020-04-10,Madera,58,2
 2020-04-10,Marin,172,6
 2020-04-10,Mariposa,0,0
@@ -4723,7 +4723,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-10,Merced,100,3
 2020-04-10,Modoc,0,0
 2020-04-10,Mono,29,1
-2020-04-10,Monterey,133,3
+2020-04-10,Monterey,134,3
 2020-04-10,Napa,49,2
 2020-04-10,Nevada,37,1
 2020-04-10,Orange,1881,21
@@ -4755,7 +4755,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-10,Ventura,454,9
 2020-04-10,Yolo,130,3
 2020-04-10,Yuba,14,1
-2020-04-09,Alameda,1060,17
+2020-04-09,Alameda,1061,17
 2020-04-09,Alpine,1,0
 2020-04-09,Amador,7,0
 2020-04-09,Butte,20,0
@@ -4773,7 +4773,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-09,Kings,31,0
 2020-04-09,Lake,5,0
 2020-04-09,Lassen,1,0
-2020-04-09,Los Angeles,12966,220
+2020-04-09,Los Angeles,12965,220
 2020-04-09,Madera,58,2
 2020-04-09,Marin,170,7
 2020-04-09,Mariposa,0,0
@@ -4781,7 +4781,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-09,Merced,97,3
 2020-04-09,Modoc,0,0
 2020-04-09,Mono,29,1
-2020-04-09,Monterey,115,3
+2020-04-09,Monterey,116,3
 2020-04-09,Napa,45,2
 2020-04-09,Nevada,36,1
 2020-04-09,Orange,1805,19
@@ -4813,7 +4813,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-09,Ventura,435,9
 2020-04-09,Yolo,121,3
 2020-04-09,Yuba,14,0
-2020-04-08,Alameda,1019,15
+2020-04-08,Alameda,1020,15
 2020-04-08,Alpine,1,0
 2020-04-08,Amador,7,0
 2020-04-08,Butte,19,0
@@ -4831,7 +4831,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-08,Kings,31,0
 2020-04-08,Lake,5,0
 2020-04-08,Lassen,1,0
-2020-04-08,Los Angeles,12366,196
+2020-04-08,Los Angeles,12365,196
 2020-04-08,Madera,57,2
 2020-04-08,Marin,164,7
 2020-04-08,Mariposa,0,0
@@ -4839,7 +4839,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-08,Merced,82,1
 2020-04-08,Modoc,0,0
 2020-04-08,Mono,29,1
-2020-04-08,Monterey,106,3
+2020-04-08,Monterey,107,3
 2020-04-08,Napa,43,2
 2020-04-08,Nevada,36,1
 2020-04-08,Orange,1744,19
@@ -4871,7 +4871,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-08,Ventura,426,7
 2020-04-08,Yolo,104,3
 2020-04-08,Yuba,14,0
-2020-04-07,Alameda,984,14
+2020-04-07,Alameda,985,14
 2020-04-07,Alpine,1,0
 2020-04-07,Amador,7,0
 2020-04-07,Butte,18,0
@@ -4889,7 +4889,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-07,Kings,29,0
 2020-04-07,Lake,4,0
 2020-04-07,Lassen,1,0
-2020-04-07,Los Angeles,11717,170
+2020-04-07,Los Angeles,11716,170
 2020-04-07,Madera,56,2
 2020-04-07,Marin,162,7
 2020-04-07,Mariposa,0,0
@@ -4897,7 +4897,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-07,Merced,67,1
 2020-04-07,Modoc,0,0
 2020-04-07,Mono,28,1
-2020-04-07,Monterey,98,2
+2020-04-07,Monterey,99,2
 2020-04-07,Napa,41,2
 2020-04-07,Nevada,36,1
 2020-04-07,Orange,1697,19
@@ -4929,7 +4929,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-07,Ventura,409,6
 2020-04-07,Yolo,97,2
 2020-04-07,Yuba,14,0
-2020-04-06,Alameda,954,13
+2020-04-06,Alameda,955,13
 2020-04-06,Alpine,1,0
 2020-04-06,Amador,6,0
 2020-04-06,Butte,17,0
@@ -4947,7 +4947,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-06,Kings,29,0
 2020-04-06,Lake,4,0
 2020-04-06,Lassen,1,0
-2020-04-06,Los Angeles,10985,145
+2020-04-06,Los Angeles,10984,145
 2020-04-06,Madera,54,2
 2020-04-06,Marin,159,7
 2020-04-06,Mariposa,0,0
@@ -4955,7 +4955,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-06,Merced,60,1
 2020-04-06,Modoc,0,0
 2020-04-06,Mono,28,1
-2020-04-06,Monterey,93,2
+2020-04-06,Monterey,94,2
 2020-04-06,Napa,41,2
 2020-04-06,Nevada,36,1
 2020-04-06,Orange,1653,17
@@ -4987,7 +4987,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-06,Ventura,391,6
 2020-04-06,Yolo,93,1
 2020-04-06,Yuba,14,0
-2020-04-05,Alameda,912,12
+2020-04-05,Alameda,913,12
 2020-04-05,Alpine,1,0
 2020-04-05,Amador,6,0
 2020-04-05,Butte,17,0
@@ -5005,7 +5005,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-05,Kings,28,0
 2020-04-05,Lake,4,0
 2020-04-05,Lassen,1,0
-2020-04-05,Los Angeles,10416,130
+2020-04-05,Los Angeles,10415,130
 2020-04-05,Madera,53,2
 2020-04-05,Marin,159,6
 2020-04-05,Mariposa,0,0
@@ -5013,7 +5013,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-05,Merced,53,0
 2020-04-05,Modoc,0,0
 2020-04-05,Mono,28,1
-2020-04-05,Monterey,86,2
+2020-04-05,Monterey,87,2
 2020-04-05,Napa,39,2
 2020-04-05,Nevada,36,1
 2020-04-05,Orange,1596,15
@@ -5045,7 +5045,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-05,Ventura,377,6
 2020-04-05,Yolo,75,2
 2020-04-05,Yuba,14,0
-2020-04-04,Alameda,889,12
+2020-04-04,Alameda,890,12
 2020-04-04,Alpine,1,0
 2020-04-04,Amador,5,0
 2020-04-04,Butte,17,0
@@ -5063,7 +5063,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-04,Kings,28,0
 2020-04-04,Lake,4,0
 2020-04-04,Lassen,1,0
-2020-04-04,Los Angeles,9800,117
+2020-04-04,Los Angeles,9799,117
 2020-04-04,Madera,51,2
 2020-04-04,Marin,157,6
 2020-04-04,Mariposa,0,0
@@ -5071,7 +5071,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-04,Merced,49,0
 2020-04-04,Modoc,0,0
 2020-04-04,Mono,28,1
-2020-04-04,Monterey,83,2
+2020-04-04,Monterey,84,2
 2020-04-04,Napa,39,2
 2020-04-04,Nevada,36,1
 2020-04-04,Orange,1554,15
@@ -5103,7 +5103,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-04,Ventura,364,6
 2020-04-04,Yolo,73,2
 2020-04-04,Yuba,13,0
-2020-04-03,Alameda,853,11
+2020-04-03,Alameda,854,11
 2020-04-03,Alpine,1,0
 2020-04-03,Amador,5,0
 2020-04-03,Butte,17,0
@@ -5121,7 +5121,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-03,Kings,26,0
 2020-04-03,Lake,3,0
 2020-04-03,Lassen,1,0
-2020-04-03,Los Angeles,9185,91
+2020-04-03,Los Angeles,9184,91
 2020-04-03,Madera,50,2
 2020-04-03,Marin,155,6
 2020-04-03,Mariposa,0,0
@@ -5129,7 +5129,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-03,Merced,46,0
 2020-04-03,Modoc,0,0
 2020-04-03,Mono,28,1
-2020-04-03,Monterey,80,2
+2020-04-03,Monterey,81,2
 2020-04-03,Napa,38,1
 2020-04-03,Nevada,36,1
 2020-04-03,Orange,1515,13
@@ -5161,7 +5161,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-03,Ventura,354,6
 2020-04-03,Yolo,72,1
 2020-04-03,Yuba,13,0
-2020-04-02,Alameda,802,10
+2020-04-02,Alameda,803,10
 2020-04-02,Alpine,1,0
 2020-04-02,Amador,5,0
 2020-04-02,Butte,17,0
@@ -5179,7 +5179,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-02,Kings,26,0
 2020-04-02,Lake,3,0
 2020-04-02,Lassen,1,0
-2020-04-02,Los Angeles,8353,79
+2020-04-02,Los Angeles,8352,79
 2020-04-02,Madera,48,1
 2020-04-02,Marin,149,1
 2020-04-02,Mariposa,0,0
@@ -5219,7 +5219,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-02,Ventura,336,5
 2020-04-02,Yolo,70,1
 2020-04-02,Yuba,10,0
-2020-04-01,Alameda,776,8
+2020-04-01,Alameda,777,8
 2020-04-01,Alpine,1,0
 2020-04-01,Amador,5,0
 2020-04-01,Butte,17,0
@@ -5237,7 +5237,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-01,Kings,24,0
 2020-04-01,Lake,3,0
 2020-04-01,Lassen,1,0
-2020-04-01,Los Angeles,7700,66
+2020-04-01,Los Angeles,7699,66
 2020-04-01,Madera,46,1
 2020-04-01,Marin,145,1
 2020-04-01,Mariposa,0,0
