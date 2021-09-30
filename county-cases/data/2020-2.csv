@@ -1,5 +1,5 @@
 date,county,confirmed_cases,reported_deaths
-2020-06-30,Alameda,7317,137
+2020-06-30,Alameda,7316,137
 2020-06-30,Alpine,2,0
 2020-06-30,Amador,34,0
 2020-06-30,Butte,305,2
@@ -8,7 +8,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,Contra Costa,4126,75
 2020-06-30,Del Norte,59,0
 2020-06-30,El Dorado,290,0
-2020-06-30,Fresno,9878,75
+2020-06-30,Fresno,9880,75
 2020-06-30,Glenn,165,0
 2020-06-30,Humboldt,160,3
 2020-06-30,Imperial,8213,45
@@ -17,7 +17,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,Kings,2792,30
 2020-06-30,Lake,94,0
 2020-06-30,Lassen,245,0
-2020-06-30,Los Angeles,121305,3378
+2020-06-30,Los Angeles,121304,3378
 2020-06-30,Madera,994,4
 2020-06-30,Marin,3072,17
 2020-06-30,Mariposa,34,1
@@ -39,25 +39,25 @@ date,county,confirmed_cases,reported_deaths
 2020-06-30,San Francisco,4107,50
 2020-06-30,San Joaquin,5621,52
 2020-06-30,San Luis Obispo,840,1
-2020-06-30,San Mateo,3735,84
-2020-06-30,Santa Barbara,4233,25
-2020-06-30,Santa Clara,5772,157
+2020-06-30,San Mateo,3734,84
+2020-06-30,Santa Barbara,4234,25
+2020-06-30,Santa Clara,5773,157
 2020-06-30,Santa Cruz,484,2
 2020-06-30,Shasta,217,5
 2020-06-30,Sierra,1,0
 2020-06-30,Siskiyou,34,0
 2020-06-30,Solano,1931,21
 2020-06-30,Sonoma,1550,6
-2020-06-30,Stanislaus,4264,41
+2020-06-30,Stanislaus,4261,41
 2020-06-30,Sutter,243,2
 2020-06-30,Tehama,104,1
 2020-06-30,Trinity,5,0
-2020-06-30,Tulare,5533,117
+2020-06-30,Tulare,5532,117
 2020-06-30,Tuolumne,51,0
 2020-06-30,Ventura,4426,40
 2020-06-30,Yolo,752,24
 2020-06-30,Yuba,105,1
-2020-06-29,Alameda,7107,135
+2020-06-29,Alameda,7106,135
 2020-06-29,Alpine,2,0
 2020-06-29,Amador,31,0
 2020-06-29,Butte,284,2
@@ -66,7 +66,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,Contra Costa,3963,75
 2020-06-29,Del Norte,59,0
 2020-06-29,El Dorado,276,0
-2020-06-29,Fresno,9530,74
+2020-06-29,Fresno,9532,74
 2020-06-29,Glenn,156,0
 2020-06-29,Humboldt,159,3
 2020-06-29,Imperial,8082,45
@@ -75,7 +75,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,Kings,2728,20
 2020-06-29,Lake,87,0
 2020-06-29,Lassen,237,0
-2020-06-29,Los Angeles,118255,3337
+2020-06-29,Los Angeles,118254,3337
 2020-06-29,Madera,937,4
 2020-06-29,Marin,2996,17
 2020-06-29,Mariposa,32,1
@@ -97,25 +97,25 @@ date,county,confirmed_cases,reported_deaths
 2020-06-29,San Francisco,4030,50
 2020-06-29,San Joaquin,5263,52
 2020-06-29,San Luis Obispo,806,1
-2020-06-29,San Mateo,3681,84
-2020-06-29,Santa Barbara,4123,25
-2020-06-29,Santa Clara,5600,157
+2020-06-29,San Mateo,3680,84
+2020-06-29,Santa Barbara,4124,25
+2020-06-29,Santa Clara,5601,157
 2020-06-29,Santa Cruz,466,2
 2020-06-29,Shasta,209,5
 2020-06-29,Sierra,1,0
 2020-06-29,Siskiyou,34,0
 2020-06-29,Solano,1829,21
 2020-06-29,Sonoma,1478,5
-2020-06-29,Stanislaus,4058,36
+2020-06-29,Stanislaus,4055,36
 2020-06-29,Sutter,221,2
 2020-06-29,Tehama,100,1
 2020-06-29,Trinity,5,0
-2020-06-29,Tulare,5379,117
+2020-06-29,Tulare,5378,117
 2020-06-29,Tuolumne,47,0
 2020-06-29,Ventura,4279,40
 2020-06-29,Yolo,719,24
 2020-06-29,Yuba,92,1
-2020-06-28,Alameda,6848,135
+2020-06-28,Alameda,6847,135
 2020-06-28,Alpine,2,0
 2020-06-28,Amador,29,0
 2020-06-28,Butte,265,2
@@ -124,7 +124,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,Contra Costa,3773,73
 2020-06-28,Del Norte,58,0
 2020-06-28,El Dorado,264,0
-2020-06-28,Fresno,9169,74
+2020-06-28,Fresno,9171,74
 2020-06-28,Glenn,148,0
 2020-06-28,Humboldt,156,3
 2020-06-28,Imperial,7893,45
@@ -133,7 +133,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,Kings,2669,18
 2020-06-28,Lake,83,0
 2020-06-28,Lassen,237,0
-2020-06-28,Los Angeles,115051,3316
+2020-06-28,Los Angeles,115050,3316
 2020-06-28,Madera,890,4
 2020-06-28,Marin,2650,17
 2020-06-28,Mariposa,32,1
@@ -155,25 +155,25 @@ date,county,confirmed_cases,reported_deaths
 2020-06-28,San Francisco,3951,50
 2020-06-28,San Joaquin,4928,52
 2020-06-28,San Luis Obispo,767,1
-2020-06-28,San Mateo,3603,84
-2020-06-28,Santa Barbara,3978,25
-2020-06-28,Santa Clara,5440,156
+2020-06-28,San Mateo,3602,84
+2020-06-28,Santa Barbara,3979,25
+2020-06-28,Santa Clara,5441,156
 2020-06-28,Santa Cruz,443,2
 2020-06-28,Shasta,196,5
 2020-06-28,Sierra,1,0
 2020-06-28,Siskiyou,34,0
 2020-06-28,Solano,1754,21
 2020-06-28,Sonoma,1424,5
-2020-06-28,Stanislaus,3852,36
+2020-06-28,Stanislaus,3849,36
 2020-06-28,Sutter,195,2
 2020-06-28,Tehama,93,1
 2020-06-28,Trinity,5,0
-2020-06-28,Tulare,5214,117
+2020-06-28,Tulare,5213,117
 2020-06-28,Tuolumne,42,0
 2020-06-28,Ventura,4121,40
 2020-06-28,Yolo,684,24
 2020-06-28,Yuba,88,1
-2020-06-27,Alameda,6753,135
+2020-06-27,Alameda,6752,135
 2020-06-27,Alpine,2,0
 2020-06-27,Amador,27,0
 2020-06-27,Butte,257,2
@@ -182,7 +182,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,Contra Costa,3678,72
 2020-06-27,Del Norte,58,0
 2020-06-27,El Dorado,258,0
-2020-06-27,Fresno,8923,74
+2020-06-27,Fresno,8925,74
 2020-06-27,Glenn,144,0
 2020-06-27,Humboldt,154,3
 2020-06-27,Imperial,7831,45
@@ -191,7 +191,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,Kings,2643,18
 2020-06-27,Lake,80,0
 2020-06-27,Lassen,237,0
-2020-06-27,Los Angeles,113310,3291
+2020-06-27,Los Angeles,113309,3291
 2020-06-27,Madera,847,4
 2020-06-27,Marin,2605,17
 2020-06-27,Mariposa,31,1
@@ -213,25 +213,25 @@ date,county,confirmed_cases,reported_deaths
 2020-06-27,San Francisco,3896,49
 2020-06-27,San Joaquin,4763,52
 2020-06-27,San Luis Obispo,743,1
-2020-06-27,San Mateo,3546,83
-2020-06-27,Santa Barbara,3906,25
-2020-06-27,Santa Clara,5335,157
+2020-06-27,San Mateo,3545,83
+2020-06-27,Santa Barbara,3907,25
+2020-06-27,Santa Clara,5336,157
 2020-06-27,Santa Cruz,436,2
 2020-06-27,Shasta,191,5
 2020-06-27,Sierra,1,0
 2020-06-27,Siskiyou,34,0
 2020-06-27,Solano,1721,21
 2020-06-27,Sonoma,1393,5
-2020-06-27,Stanislaus,3753,36
+2020-06-27,Stanislaus,3750,36
 2020-06-27,Sutter,188,2
 2020-06-27,Tehama,90,1
 2020-06-27,Trinity,5,0
-2020-06-27,Tulare,5118,117
+2020-06-27,Tulare,5117,117
 2020-06-27,Tuolumne,41,0
 2020-06-27,Ventura,4022,40
 2020-06-27,Yolo,659,24
 2020-06-27,Yuba,80,1
-2020-06-26,Alameda,6667,132
+2020-06-26,Alameda,6666,132
 2020-06-26,Alpine,2,0
 2020-06-26,Amador,26,0
 2020-06-26,Butte,242,2
@@ -240,7 +240,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,Contra Costa,3565,72
 2020-06-26,Del Norte,57,0
 2020-06-26,El Dorado,250,0
-2020-06-26,Fresno,8697,74
+2020-06-26,Fresno,8699,74
 2020-06-26,Glenn,137,0
 2020-06-26,Humboldt,152,3
 2020-06-26,Imperial,7767,44
@@ -249,7 +249,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,Kings,2611,18
 2020-06-26,Lake,79,0
 2020-06-26,Lassen,236,0
-2020-06-26,Los Angeles,111145,3275
+2020-06-26,Los Angeles,111144,3275
 2020-06-26,Madera,815,4
 2020-06-26,Marin,2569,17
 2020-06-26,Mariposa,30,1
@@ -271,25 +271,25 @@ date,county,confirmed_cases,reported_deaths
 2020-06-26,San Francisco,3840,49
 2020-06-26,San Joaquin,4549,52
 2020-06-26,San Luis Obispo,728,1
-2020-06-26,San Mateo,3494,83
-2020-06-26,Santa Barbara,3816,25
-2020-06-26,Santa Clara,5234,156
+2020-06-26,San Mateo,3493,83
+2020-06-26,Santa Barbara,3817,25
+2020-06-26,Santa Clara,5235,156
 2020-06-26,Santa Cruz,429,2
 2020-06-26,Shasta,184,5
 2020-06-26,Sierra,1,0
 2020-06-26,Siskiyou,33,0
 2020-06-26,Solano,1679,21
 2020-06-26,Sonoma,1361,5
-2020-06-26,Stanislaus,3639,36
+2020-06-26,Stanislaus,3637,36
 2020-06-26,Sutter,181,2
 2020-06-26,Tehama,87,1
 2020-06-26,Trinity,5,0
-2020-06-26,Tulare,5029,117
+2020-06-26,Tulare,5028,117
 2020-06-26,Tuolumne,39,0
 2020-06-26,Ventura,3936,40
 2020-06-26,Yolo,635,24
 2020-06-26,Yuba,74,1
-2020-06-25,Alameda,6477,130
+2020-06-25,Alameda,6476,130
 2020-06-25,Alpine,2,0
 2020-06-25,Amador,25,0
 2020-06-25,Butte,237,1
@@ -298,7 +298,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,Contra Costa,3380,71
 2020-06-25,Del Norte,55,0
 2020-06-25,El Dorado,242,0
-2020-06-25,Fresno,8384,71
+2020-06-25,Fresno,8386,71
 2020-06-25,Glenn,132,0
 2020-06-25,Humboldt,151,3
 2020-06-25,Imperial,7638,44
@@ -307,7 +307,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,Kings,2559,17
 2020-06-25,Lake,78,0
 2020-06-25,Lassen,230,0
-2020-06-25,Los Angeles,108380,3239
+2020-06-25,Los Angeles,108379,3239
 2020-06-25,Madera,771,4
 2020-06-25,Marin,2467,17
 2020-06-25,Mariposa,29,1
@@ -329,25 +329,25 @@ date,county,confirmed_cases,reported_deaths
 2020-06-25,San Francisco,3775,48
 2020-06-25,San Joaquin,4277,50
 2020-06-25,San Luis Obispo,696,1
-2020-06-25,San Mateo,3426,82
-2020-06-25,Santa Barbara,3710,25
-2020-06-25,Santa Clara,5086,156
+2020-06-25,San Mateo,3425,82
+2020-06-25,Santa Barbara,3711,25
+2020-06-25,Santa Clara,5087,156
 2020-06-25,Santa Cruz,417,2
 2020-06-25,Shasta,174,5
 2020-06-25,Sierra,1,0
 2020-06-25,Siskiyou,32,0
 2020-06-25,Solano,1626,21
 2020-06-25,Sonoma,1314,5
-2020-06-25,Stanislaus,3427,36
+2020-06-25,Stanislaus,3425,36
 2020-06-25,Sutter,169,2
 2020-06-25,Tehama,83,1
 2020-06-25,Trinity,5,0
-2020-06-25,Tulare,4899,117
+2020-06-25,Tulare,4898,117
 2020-06-25,Tuolumne,38,0
 2020-06-25,Ventura,3754,40
 2020-06-25,Yolo,605,24
 2020-06-25,Yuba,63,1
-2020-06-24,Alameda,6316,123
+2020-06-24,Alameda,6315,123
 2020-06-24,Alpine,2,0
 2020-06-24,Amador,23,0
 2020-06-24,Butte,220,1
@@ -356,7 +356,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,Contra Costa,3226,66
 2020-06-24,Del Norte,49,0
 2020-06-24,El Dorado,226,0
-2020-06-24,Fresno,8053,71
+2020-06-24,Fresno,8055,71
 2020-06-24,Glenn,124,0
 2020-06-24,Humboldt,151,3
 2020-06-24,Imperial,7520,38
@@ -365,7 +365,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,Kings,2497,16
 2020-06-24,Lake,65,0
 2020-06-24,Lassen,229,0
-2020-06-24,Los Angeles,105622,3186
+2020-06-24,Los Angeles,105621,3186
 2020-06-24,Madera,750,4
 2020-06-24,Marin,2239,17
 2020-06-24,Mariposa,28,1
@@ -387,16 +387,16 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,San Francisco,3712,48
 2020-06-24,San Joaquin,4055,49
 2020-06-24,San Luis Obispo,665,1
-2020-06-24,San Mateo,3369,82
-2020-06-24,Santa Barbara,3590,22
-2020-06-24,Santa Clara,4956,155
+2020-06-24,San Mateo,3368,82
+2020-06-24,Santa Barbara,3591,22
+2020-06-24,Santa Clara,4957,155
 2020-06-24,Santa Cruz,405,2
 2020-06-24,Shasta,166,5
 2020-06-24,Sierra,1,0
 2020-06-24,Siskiyou,31,0
 2020-06-24,Solano,1536,21
 2020-06-24,Sonoma,1265,4
-2020-06-24,Stanislaus,3248,36
+2020-06-24,Stanislaus,3246,36
 2020-06-24,Sutter,156,2
 2020-06-24,Tehama,81,1
 2020-06-24,Trinity,5,0
@@ -405,16 +405,16 @@ date,county,confirmed_cases,reported_deaths
 2020-06-24,Ventura,3413,42
 2020-06-24,Yolo,570,24
 2020-06-24,Yuba,57,1
-2020-06-23,Alameda,6135,121
+2020-06-23,Alameda,6134,121
 2020-06-23,Alpine,2,0
 2020-06-23,Amador,22,0
 2020-06-23,Butte,202,1
 2020-06-23,Calaveras,40,0
 2020-06-23,Colusa,40,0
-2020-06-23,Contra Costa,3099,60
+2020-06-23,Contra Costa,3100,60
 2020-06-23,Del Norte,48,0
 2020-06-23,El Dorado,217,0
-2020-06-23,Fresno,7405,67
+2020-06-23,Fresno,7407,67
 2020-06-23,Glenn,120,0
 2020-06-23,Humboldt,151,3
 2020-06-23,Imperial,7357,38
@@ -423,7 +423,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,Kings,2432,16
 2020-06-23,Lake,59,0
 2020-06-23,Lassen,225,0
-2020-06-23,Los Angeles,102687,3152
+2020-06-23,Los Angeles,102686,3152
 2020-06-23,Madera,711,4
 2020-06-23,Marin,1971,17
 2020-06-23,Mariposa,26,1
@@ -446,15 +446,15 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,San Joaquin,3796,48
 2020-06-23,San Luis Obispo,635,1
 2020-06-23,San Mateo,3303,81
-2020-06-23,Santa Barbara,3494,22
-2020-06-23,Santa Clara,4810,155
+2020-06-23,Santa Barbara,3495,22
+2020-06-23,Santa Clara,4811,155
 2020-06-23,Santa Cruz,395,2
 2020-06-23,Shasta,157,5
 2020-06-23,Sierra,1,0
 2020-06-23,Siskiyou,29,0
 2020-06-23,Solano,1479,21
 2020-06-23,Sonoma,1212,4
-2020-06-23,Stanislaus,3071,35
+2020-06-23,Stanislaus,3070,35
 2020-06-23,Sutter,146,2
 2020-06-23,Tehama,79,1
 2020-06-23,Trinity,5,0
@@ -463,16 +463,16 @@ date,county,confirmed_cases,reported_deaths
 2020-06-23,Ventura,3253,40
 2020-06-23,Yolo,544,24
 2020-06-23,Yuba,54,1
-2020-06-22,Alameda,5984,121
+2020-06-22,Alameda,5983,121
 2020-06-22,Alpine,2,0
 2020-06-22,Amador,19,0
 2020-06-22,Butte,183,1
 2020-06-22,Calaveras,38,0
 2020-06-22,Colusa,37,0
-2020-06-22,Contra Costa,2957,60
+2020-06-22,Contra Costa,2958,60
 2020-06-22,Del Norte,48,0
 2020-06-22,El Dorado,208,0
-2020-06-22,Fresno,6873,67
+2020-06-22,Fresno,6875,67
 2020-06-22,Glenn,111,0
 2020-06-22,Humboldt,148,3
 2020-06-22,Imperial,7201,38
@@ -481,7 +481,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,Kings,2384,13
 2020-06-22,Lake,53,0
 2020-06-22,Lassen,115,0
-2020-06-22,Los Angeles,99791,3117
+2020-06-22,Los Angeles,99790,3117
 2020-06-22,Madera,686,4
 2020-06-22,Marin,1715,17
 2020-06-22,Mariposa,25,1
@@ -504,8 +504,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,San Joaquin,3549,48
 2020-06-22,San Luis Obispo,603,1
 2020-06-22,San Mateo,3231,81
-2020-06-22,Santa Barbara,3402,21
-2020-06-22,Santa Clara,4650,155
+2020-06-22,Santa Barbara,3403,21
+2020-06-22,Santa Clara,4651,155
 2020-06-22,Santa Cruz,382,3
 2020-06-22,Shasta,154,5
 2020-06-22,Sierra,1,0
@@ -521,16 +521,16 @@ date,county,confirmed_cases,reported_deaths
 2020-06-22,Ventura,3104,39
 2020-06-22,Yolo,518,24
 2020-06-22,Yuba,49,1
-2020-06-21,Alameda,5790,121
+2020-06-21,Alameda,5789,121
 2020-06-21,Alpine,2,0
 2020-06-21,Amador,14,0
 2020-06-21,Butte,169,1
 2020-06-21,Calaveras,38,0
 2020-06-21,Colusa,29,0
-2020-06-21,Contra Costa,2831,60
+2020-06-21,Contra Costa,2832,60
 2020-06-21,Del Norte,47,0
 2020-06-21,El Dorado,199,0
-2020-06-21,Fresno,6303,67
+2020-06-21,Fresno,6305,67
 2020-06-21,Glenn,102,0
 2020-06-21,Humboldt,143,3
 2020-06-21,Imperial,7017,38
@@ -539,7 +539,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,Kings,2321,11
 2020-06-21,Lake,48,0
 2020-06-21,Lassen,22,0
-2020-06-21,Los Angeles,96914,3101
+2020-06-21,Los Angeles,96913,3101
 2020-06-21,Madera,652,4
 2020-06-21,Marin,1558,17
 2020-06-21,Mariposa,22,1
@@ -562,8 +562,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,San Joaquin,3313,48
 2020-06-21,San Luis Obispo,578,1
 2020-06-21,San Mateo,3173,81
-2020-06-21,Santa Barbara,3295,21
-2020-06-21,Santa Clara,4512,154
+2020-06-21,Santa Barbara,3296,21
+2020-06-21,Santa Clara,4513,154
 2020-06-21,Santa Cruz,372,3
 2020-06-21,Shasta,144,5
 2020-06-21,Sierra,1,0
@@ -579,16 +579,16 @@ date,county,confirmed_cases,reported_deaths
 2020-06-21,Ventura,2926,39
 2020-06-21,Yolo,486,24
 2020-06-21,Yuba,45,1
-2020-06-20,Alameda,5728,119
+2020-06-20,Alameda,5727,119
 2020-06-20,Alpine,2,0
 2020-06-20,Amador,14,0
 2020-06-20,Butte,162,1
 2020-06-20,Calaveras,38,0
 2020-06-20,Colusa,26,0
-2020-06-20,Contra Costa,2773,54
+2020-06-20,Contra Costa,2774,54
 2020-06-20,Del Norte,47,0
 2020-06-20,El Dorado,194,0
-2020-06-20,Fresno,6178,67
+2020-06-20,Fresno,6180,67
 2020-06-20,Glenn,97,0
 2020-06-20,Humboldt,143,3
 2020-06-20,Imperial,6936,37
@@ -597,7 +597,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,Kings,2297,9
 2020-06-20,Lake,48,0
 2020-06-20,Lassen,21,0
-2020-06-20,Los Angeles,95342,3093
+2020-06-20,Los Angeles,95341,3093
 2020-06-20,Madera,619,4
 2020-06-20,Marin,1538,17
 2020-06-20,Mariposa,22,1
@@ -620,8 +620,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,San Joaquin,3230,48
 2020-06-20,San Luis Obispo,565,1
 2020-06-20,San Mateo,3125,81
-2020-06-20,Santa Barbara,3239,21
-2020-06-20,Santa Clara,4440,154
+2020-06-20,Santa Barbara,3240,21
+2020-06-20,Santa Clara,4441,154
 2020-06-20,Santa Cruz,370,3
 2020-06-20,Shasta,138,5
 2020-06-20,Sierra,1,0
@@ -637,16 +637,16 @@ date,county,confirmed_cases,reported_deaths
 2020-06-20,Ventura,2861,37
 2020-06-20,Yolo,470,24
 2020-06-20,Yuba,43,1
-2020-06-19,Alameda,5657,119
+2020-06-19,Alameda,5656,119
 2020-06-19,Alpine,2,0
 2020-06-19,Amador,14,0
 2020-06-19,Butte,157,1
 2020-06-19,Calaveras,37,0
 2020-06-19,Colusa,24,0
-2020-06-19,Contra Costa,2693,54
+2020-06-19,Contra Costa,2694,54
 2020-06-19,Del Norte,47,0
 2020-06-19,El Dorado,185,0
-2020-06-19,Fresno,6016,61
+2020-06-19,Fresno,6018,61
 2020-06-19,Glenn,91,0
 2020-06-19,Humboldt,141,3
 2020-06-19,Imperial,6845,36
@@ -655,7 +655,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,Kings,2276,9
 2020-06-19,Lake,45,0
 2020-06-19,Lassen,20,0
-2020-06-19,Los Angeles,93363,3047
+2020-06-19,Los Angeles,93362,3047
 2020-06-19,Madera,599,4
 2020-06-19,Marin,1509,17
 2020-06-19,Mariposa,21,1
@@ -678,8 +678,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,San Joaquin,3107,48
 2020-06-19,San Luis Obispo,550,1
 2020-06-19,San Mateo,3086,81
-2020-06-19,Santa Barbara,3166,21
-2020-06-19,Santa Clara,4366,154
+2020-06-19,Santa Barbara,3167,21
+2020-06-19,Santa Clara,4367,154
 2020-06-19,Santa Cruz,360,3
 2020-06-19,Shasta,134,5
 2020-06-19,Sierra,1,0
@@ -695,7 +695,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-19,Ventura,2777,37
 2020-06-19,Yolo,451,24
 2020-06-19,Yuba,42,1
-2020-06-18,Alameda,5528,118
+2020-06-18,Alameda,5527,118
 2020-06-18,Alpine,2,0
 2020-06-18,Amador,13,0
 2020-06-18,Butte,152,1
@@ -704,7 +704,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,Contra Costa,2588,53
 2020-06-18,Del Norte,47,0
 2020-06-18,El Dorado,181,0
-2020-06-18,Fresno,5749,57
+2020-06-18,Fresno,5751,57
 2020-06-18,Glenn,82,0
 2020-06-18,Humboldt,140,3
 2020-06-18,Imperial,6696,36
@@ -713,7 +713,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,Kings,2217,8
 2020-06-18,Lake,44,0
 2020-06-18,Lassen,19,0
-2020-06-18,Los Angeles,91099,3009
+2020-06-18,Los Angeles,91098,3009
 2020-06-18,Madera,564,4
 2020-06-18,Marin,1446,17
 2020-06-18,Mariposa,19,1
@@ -736,8 +736,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,San Joaquin,2955,47
 2020-06-18,San Luis Obispo,531,1
 2020-06-18,San Mateo,3047,78
-2020-06-18,Santa Barbara,3092,19
-2020-06-18,Santa Clara,4266,152
+2020-06-18,Santa Barbara,3093,19
+2020-06-18,Santa Clara,4267,152
 2020-06-18,Santa Cruz,343,3
 2020-06-18,Shasta,123,4
 2020-06-18,Sierra,1,0
@@ -753,7 +753,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-18,Ventura,2651,37
 2020-06-18,Yolo,418,24
 2020-06-18,Yuba,41,1
-2020-06-17,Alameda,5405,117
+2020-06-17,Alameda,5404,117
 2020-06-17,Alpine,2,0
 2020-06-17,Amador,12,0
 2020-06-17,Butte,143,1
@@ -762,7 +762,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,Contra Costa,2491,45
 2020-06-17,Del Norte,47,0
 2020-06-17,El Dorado,174,0
-2020-06-17,Fresno,5525,56
+2020-06-17,Fresno,5527,56
 2020-06-17,Glenn,75,0
 2020-06-17,Humboldt,138,3
 2020-06-17,Imperial,6524,36
@@ -794,8 +794,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,San Joaquin,2783,46
 2020-06-17,San Luis Obispo,514,1
 2020-06-17,San Mateo,3000,78
-2020-06-17,Santa Barbara,3019,19
-2020-06-17,Santa Clara,4175,148
+2020-06-17,Santa Barbara,3020,19
+2020-06-17,Santa Clara,4176,148
 2020-06-17,Santa Cruz,337,2
 2020-06-17,Shasta,121,4
 2020-06-17,Sierra,1,0
@@ -811,7 +811,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-17,Ventura,2551,37
 2020-06-17,Yolo,398,24
 2020-06-17,Yuba,40,1
-2020-06-16,Alameda,5289,113
+2020-06-16,Alameda,5288,113
 2020-06-16,Alpine,2,0
 2020-06-16,Amador,12,0
 2020-06-16,Butte,139,1
@@ -820,7 +820,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,Contra Costa,2400,45
 2020-06-16,Del Norte,47,0
 2020-06-16,El Dorado,168,0
-2020-06-16,Fresno,5288,50
+2020-06-16,Fresno,5290,50
 2020-06-16,Glenn,71,0
 2020-06-16,Humboldt,135,3
 2020-06-16,Imperial,6364,36
@@ -852,8 +852,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,San Joaquin,2631,47
 2020-06-16,San Luis Obispo,491,1
 2020-06-16,San Mateo,2946,77
-2020-06-16,Santa Barbara,2952,16
-2020-06-16,Santa Clara,4069,148
+2020-06-16,Santa Barbara,2953,16
+2020-06-16,Santa Clara,4070,148
 2020-06-16,Santa Cruz,321,2
 2020-06-16,Shasta,112,4
 2020-06-16,Sierra,1,0
@@ -869,7 +869,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-16,Ventura,2450,37
 2020-06-16,Yolo,374,24
 2020-06-16,Yuba,39,1
-2020-06-15,Alameda,5164,112
+2020-06-15,Alameda,5163,112
 2020-06-15,Alpine,2,0
 2020-06-15,Amador,12,0
 2020-06-15,Butte,131,1
@@ -878,7 +878,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,Contra Costa,2323,43
 2020-06-15,Del Norte,47,0
 2020-06-15,El Dorado,158,0
-2020-06-15,Fresno,5077,48
+2020-06-15,Fresno,5079,48
 2020-06-15,Glenn,66,0
 2020-06-15,Humboldt,133,3
 2020-06-15,Imperial,6189,36
@@ -910,8 +910,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,San Joaquin,2495,43
 2020-06-15,San Luis Obispo,478,1
 2020-06-15,San Mateo,2899,75
-2020-06-15,Santa Barbara,2884,16
-2020-06-15,Santa Clara,3969,148
+2020-06-15,Santa Barbara,2885,16
+2020-06-15,Santa Clara,3970,148
 2020-06-15,Santa Cruz,310,2
 2020-06-15,Shasta,106,4
 2020-06-15,Sierra,1,0
@@ -927,7 +927,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-15,Ventura,2369,37
 2020-06-15,Yolo,354,24
 2020-06-15,Yuba,39,1
-2020-06-14,Alameda,5019,112
+2020-06-14,Alameda,5018,112
 2020-06-14,Alpine,2,0
 2020-06-14,Amador,12,0
 2020-06-14,Butte,124,1
@@ -936,7 +936,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,Contra Costa,2254,43
 2020-06-14,Del Norte,47,0
 2020-06-14,El Dorado,154,0
-2020-06-14,Fresno,4892,48
+2020-06-14,Fresno,4894,48
 2020-06-14,Glenn,51,0
 2020-06-14,Humboldt,129,3
 2020-06-14,Imperial,5956,36
@@ -968,8 +968,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,San Joaquin,2344,43
 2020-06-14,San Luis Obispo,463,1
 2020-06-14,San Mateo,2842,75
-2020-06-14,Santa Barbara,2807,17
-2020-06-14,Santa Clara,3877,148
+2020-06-14,Santa Barbara,2808,17
+2020-06-14,Santa Clara,3878,148
 2020-06-14,Santa Cruz,296,2
 2020-06-14,Shasta,100,4
 2020-06-14,Sierra,1,0
@@ -985,7 +985,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-14,Ventura,2271,37
 2020-06-14,Yolo,338,24
 2020-06-14,Yuba,38,1
-2020-06-13,Alameda,4956,112
+2020-06-13,Alameda,4955,112
 2020-06-13,Alpine,2,0
 2020-06-13,Amador,11,0
 2020-06-13,Butte,115,1
@@ -994,7 +994,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,Contra Costa,2218,43
 2020-06-13,Del Norte,47,0
 2020-06-13,El Dorado,150,0
-2020-06-13,Fresno,4794,48
+2020-06-13,Fresno,4796,48
 2020-06-13,Glenn,49,0
 2020-06-13,Humboldt,128,3
 2020-06-13,Imperial,5883,36
@@ -1026,8 +1026,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,San Joaquin,2263,43
 2020-06-13,San Luis Obispo,452,1
 2020-06-13,San Mateo,2819,75
-2020-06-13,Santa Barbara,2749,15
-2020-06-13,Santa Clara,3836,148
+2020-06-13,Santa Barbara,2750,15
+2020-06-13,Santa Clara,3837,148
 2020-06-13,Santa Cruz,290,2
 2020-06-13,Shasta,98,4
 2020-06-13,Sierra,1,0
@@ -1043,7 +1043,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-13,Ventura,2225,37
 2020-06-13,Yolo,317,24
 2020-06-13,Yuba,38,1
-2020-06-12,Alameda,4883,109
+2020-06-12,Alameda,4882,109
 2020-06-12,Alpine,2,0
 2020-06-12,Amador,11,0
 2020-06-12,Butte,111,1
@@ -1052,7 +1052,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,Contra Costa,2181,43
 2020-06-12,Del Norte,47,0
 2020-06-12,El Dorado,150,0
-2020-06-12,Fresno,4658,47
+2020-06-12,Fresno,4660,47
 2020-06-12,Glenn,46,0
 2020-06-12,Humboldt,126,3
 2020-06-12,Imperial,5799,36
@@ -1084,8 +1084,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,San Joaquin,2183,43
 2020-06-12,San Luis Obispo,436,1
 2020-06-12,San Mateo,2784,75
-2020-06-12,Santa Barbara,2695,14
-2020-06-12,Santa Clara,3794,149
+2020-06-12,Santa Barbara,2696,14
+2020-06-12,Santa Clara,3795,149
 2020-06-12,Santa Cruz,282,2
 2020-06-12,Shasta,91,5
 2020-06-12,Sierra,1,0
@@ -1101,7 +1101,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-12,Ventura,2173,35
 2020-06-12,Yolo,305,24
 2020-06-12,Yuba,36,1
-2020-06-11,Alameda,4753,108
+2020-06-11,Alameda,4752,108
 2020-06-11,Alpine,2,0
 2020-06-11,Amador,10,0
 2020-06-11,Butte,105,1
@@ -1110,7 +1110,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,Contra Costa,2127,43
 2020-06-11,Del Norte,47,0
 2020-06-11,El Dorado,142,0
-2020-06-11,Fresno,4503,45
+2020-06-11,Fresno,4505,45
 2020-06-11,Glenn,42,0
 2020-06-11,Humboldt,122,3
 2020-06-11,Imperial,5642,36
@@ -1142,8 +1142,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,San Joaquin,2071,43
 2020-06-11,San Luis Obispo,422,1
 2020-06-11,San Mateo,2746,74
-2020-06-11,Santa Barbara,2630,14
-2020-06-11,Santa Clara,3728,149
+2020-06-11,Santa Barbara,2631,14
+2020-06-11,Santa Clara,3729,149
 2020-06-11,Santa Cruz,278,2
 2020-06-11,Shasta,84,5
 2020-06-11,Sierra,1,0
@@ -1159,7 +1159,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-11,Ventura,2096,34
 2020-06-11,Yolo,297,24
 2020-06-11,Yuba,36,1
-2020-06-10,Alameda,4653,107
+2020-06-10,Alameda,4652,107
 2020-06-10,Alpine,2,0
 2020-06-10,Amador,10,0
 2020-06-10,Butte,102,1
@@ -1168,7 +1168,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,Contra Costa,2083,43
 2020-06-10,Del Norte,47,0
 2020-06-10,El Dorado,139,0
-2020-06-10,Fresno,4327,45
+2020-06-10,Fresno,4329,45
 2020-06-10,Glenn,39,0
 2020-06-10,Humboldt,118,3
 2020-06-10,Imperial,5494,36
@@ -1200,8 +1200,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,San Joaquin,1942,41
 2020-06-10,San Luis Obispo,403,1
 2020-06-10,San Mateo,2705,74
-2020-06-10,Santa Barbara,2574,13
-2020-06-10,Santa Clara,3677,149
+2020-06-10,Santa Barbara,2575,13
+2020-06-10,Santa Clara,3678,149
 2020-06-10,Santa Cruz,274,2
 2020-06-10,Shasta,79,5
 2020-06-10,Sierra,1,0
@@ -1217,7 +1217,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-10,Ventura,2050,34
 2020-06-10,Yolo,289,24
 2020-06-10,Yuba,35,1
-2020-06-09,Alameda,4543,103
+2020-06-09,Alameda,4542,103
 2020-06-09,Alpine,2,0
 2020-06-09,Amador,10,0
 2020-06-09,Butte,101,1
@@ -1226,7 +1226,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,Contra Costa,2043,42
 2020-06-09,Del Norte,47,0
 2020-06-09,El Dorado,133,0
-2020-06-09,Fresno,4175,43
+2020-06-09,Fresno,4177,43
 2020-06-09,Glenn,38,0
 2020-06-09,Humboldt,116,2
 2020-06-09,Imperial,5342,36
@@ -1258,8 +1258,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,San Joaquin,1836,41
 2020-06-09,San Luis Obispo,390,1
 2020-06-09,San Mateo,2674,74
-2020-06-09,Santa Barbara,2512,13
-2020-06-09,Santa Clara,3610,147
+2020-06-09,Santa Barbara,2513,13
+2020-06-09,Santa Clara,3611,147
 2020-06-09,Santa Cruz,268,2
 2020-06-09,Shasta,75,4
 2020-06-09,Sierra,1,0
@@ -1275,7 +1275,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-09,Ventura,1984,34
 2020-06-09,Yolo,278,24
 2020-06-09,Yuba,34,1
-2020-06-08,Alameda,4463,103
+2020-06-08,Alameda,4462,103
 2020-06-08,Alpine,2,0
 2020-06-08,Amador,10,0
 2020-06-08,Butte,97,1
@@ -1284,7 +1284,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,Contra Costa,2000,41
 2020-06-08,Del Norte,47,0
 2020-06-08,El Dorado,129,0
-2020-06-08,Fresno,4050,42
+2020-06-08,Fresno,4052,42
 2020-06-08,Glenn,36,0
 2020-06-08,Humboldt,116,2
 2020-06-08,Imperial,5190,21
@@ -1316,8 +1316,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,San Joaquin,1729,40
 2020-06-08,San Luis Obispo,384,1
 2020-06-08,San Mateo,2643,74
-2020-06-08,Santa Barbara,2450,13
-2020-06-08,Santa Clara,3565,146
+2020-06-08,Santa Barbara,2451,13
+2020-06-08,Santa Clara,3566,146
 2020-06-08,Santa Cruz,267,2
 2020-06-08,Shasta,71,4
 2020-06-08,Sierra,1,0
@@ -1333,7 +1333,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-08,Ventura,1926,30
 2020-06-08,Yolo,267,24
 2020-06-08,Yuba,32,1
-2020-06-07,Alameda,4350,102
+2020-06-07,Alameda,4349,102
 2020-06-07,Alpine,2,0
 2020-06-07,Amador,10,0
 2020-06-07,Butte,95,1
@@ -1342,7 +1342,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,Contra Costa,1949,38
 2020-06-07,Del Norte,45,0
 2020-06-07,El Dorado,129,0
-2020-06-07,Fresno,3920,41
+2020-06-07,Fresno,3922,41
 2020-06-07,Glenn,29,0
 2020-06-07,Humboldt,116,2
 2020-06-07,Imperial,5038,19
@@ -1374,8 +1374,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,San Joaquin,1628,37
 2020-06-07,San Luis Obispo,374,1
 2020-06-07,San Mateo,2616,73
-2020-06-07,Santa Barbara,2389,13
-2020-06-07,Santa Clara,3514,146
+2020-06-07,Santa Barbara,2390,13
+2020-06-07,Santa Clara,3515,146
 2020-06-07,Santa Cruz,259,2
 2020-06-07,Shasta,70,4
 2020-06-07,Sierra,1,0
@@ -1391,7 +1391,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-07,Ventura,1861,30
 2020-06-07,Yolo,257,24
 2020-06-07,Yuba,32,1
-2020-06-06,Alameda,4305,102
+2020-06-06,Alameda,4304,102
 2020-06-06,Alpine,2,0
 2020-06-06,Amador,10,0
 2020-06-06,Butte,94,1
@@ -1400,7 +1400,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,Contra Costa,1928,37
 2020-06-06,Del Norte,45,0
 2020-06-06,El Dorado,126,0
-2020-06-06,Fresno,3867,41
+2020-06-06,Fresno,3869,41
 2020-06-06,Glenn,27,0
 2020-06-06,Humboldt,116,2
 2020-06-06,Imperial,4962,19
@@ -1432,8 +1432,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,San Joaquin,1588,37
 2020-06-06,San Luis Obispo,368,1
 2020-06-06,San Mateo,2601,72
-2020-06-06,Santa Barbara,2349,13
-2020-06-06,Santa Clara,3473,144
+2020-06-06,Santa Barbara,2350,13
+2020-06-06,Santa Clara,3474,144
 2020-06-06,Santa Cruz,257,2
 2020-06-06,Shasta,70,4
 2020-06-06,Sierra,1,0
@@ -1449,7 +1449,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-06,Ventura,1837,30
 2020-06-06,Yolo,255,24
 2020-06-06,Yuba,32,1
-2020-06-05,Alameda,4254,102
+2020-06-05,Alameda,4253,102
 2020-06-05,Alpine,2,0
 2020-06-05,Amador,10,0
 2020-06-05,Butte,91,1
@@ -1458,7 +1458,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,Contra Costa,1913,37
 2020-06-05,Del Norte,45,0
 2020-06-05,El Dorado,125,0
-2020-06-05,Fresno,3803,38
+2020-06-05,Fresno,3805,38
 2020-06-05,Glenn,25,0
 2020-06-05,Humboldt,115,2
 2020-06-05,Imperial,4856,19
@@ -1490,8 +1490,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,San Joaquin,1509,36
 2020-06-05,San Luis Obispo,361,1
 2020-06-05,San Mateo,2576,72
-2020-06-05,Santa Barbara,2314,13
-2020-06-05,Santa Clara,3448,144
+2020-06-05,Santa Barbara,2315,13
+2020-06-05,Santa Clara,3449,144
 2020-06-05,Santa Cruz,254,2
 2020-06-05,Shasta,69,4
 2020-06-05,Sierra,1,0
@@ -1507,7 +1507,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-05,Ventura,1804,30
 2020-06-05,Yolo,254,24
 2020-06-05,Yuba,32,1
-2020-06-04,Alameda,4155,99
+2020-06-04,Alameda,4154,99
 2020-06-04,Alpine,2,0
 2020-06-04,Amador,10,0
 2020-06-04,Butte,87,1
@@ -1516,7 +1516,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,Contra Costa,1855,37
 2020-06-04,Del Norte,45,0
 2020-06-04,El Dorado,123,0
-2020-06-04,Fresno,3697,35
+2020-06-04,Fresno,3699,35
 2020-06-04,Glenn,22,0
 2020-06-04,Humboldt,115,2
 2020-06-04,Imperial,4673,19
@@ -1548,8 +1548,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,San Joaquin,1447,36
 2020-06-04,San Luis Obispo,353,1
 2020-06-04,San Mateo,2550,72
-2020-06-04,Santa Barbara,2275,13
-2020-06-04,Santa Clara,3416,144
+2020-06-04,Santa Barbara,2276,13
+2020-06-04,Santa Clara,3417,144
 2020-06-04,Santa Cruz,248,2
 2020-06-04,Shasta,63,4
 2020-06-04,Sierra,1,0
@@ -1565,7 +1565,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-04,Ventura,1761,30
 2020-06-04,Yolo,249,24
 2020-06-04,Yuba,31,1
-2020-06-03,Alameda,4096,99
+2020-06-03,Alameda,4095,99
 2020-06-03,Alpine,2,0
 2020-06-03,Amador,10,0
 2020-06-03,Butte,85,1
@@ -1574,7 +1574,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,Contra Costa,1807,37
 2020-06-03,Del Norte,45,0
 2020-06-03,El Dorado,120,0
-2020-06-03,Fresno,3601,35
+2020-06-03,Fresno,3603,35
 2020-06-03,Glenn,22,0
 2020-06-03,Humboldt,115,2
 2020-06-03,Imperial,4501,19
@@ -1606,8 +1606,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,San Joaquin,1382,35
 2020-06-03,San Luis Obispo,348,1
 2020-06-03,San Mateo,2522,71
-2020-06-03,Santa Barbara,2232,12
-2020-06-03,Santa Clara,3376,144
+2020-06-03,Santa Barbara,2233,12
+2020-06-03,Santa Clara,3377,144
 2020-06-03,Santa Cruz,242,2
 2020-06-03,Shasta,60,4
 2020-06-03,Sierra,1,0
@@ -1623,7 +1623,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-03,Ventura,1697,30
 2020-06-03,Yolo,245,24
 2020-06-03,Yuba,31,1
-2020-06-02,Alameda,4020,99
+2020-06-02,Alameda,4019,99
 2020-06-02,Alpine,2,0
 2020-06-02,Amador,10,0
 2020-06-02,Butte,81,1
@@ -1632,7 +1632,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,Contra Costa,1775,37
 2020-06-02,Del Norte,45,0
 2020-06-02,El Dorado,119,0
-2020-06-02,Fresno,3490,34
+2020-06-02,Fresno,3492,34
 2020-06-02,Glenn,21,0
 2020-06-02,Humboldt,115,2
 2020-06-02,Imperial,4308,19
@@ -1664,8 +1664,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,San Joaquin,1316,35
 2020-06-02,San Luis Obispo,343,1
 2020-06-02,San Mateo,2487,71
-2020-06-02,Santa Barbara,2187,12
-2020-06-02,Santa Clara,3326,144
+2020-06-02,Santa Barbara,2188,12
+2020-06-02,Santa Clara,3327,144
 2020-06-02,Santa Cruz,237,2
 2020-06-02,Shasta,59,4
 2020-06-02,Sierra,1,0
@@ -1681,7 +1681,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-02,Ventura,1647,30
 2020-06-02,Yolo,243,24
 2020-06-02,Yuba,31,1
-2020-06-01,Alameda,3955,98
+2020-06-01,Alameda,3954,98
 2020-06-01,Alpine,2,0
 2020-06-01,Amador,10,0
 2020-06-01,Butte,80,1
@@ -1690,7 +1690,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,Contra Costa,1739,37
 2020-06-01,Del Norte,45,0
 2020-06-01,El Dorado,117,0
-2020-06-01,Fresno,3396,33
+2020-06-01,Fresno,3398,33
 2020-06-01,Glenn,21,0
 2020-06-01,Humboldt,115,2
 2020-06-01,Imperial,4085,14
@@ -1722,8 +1722,8 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,San Joaquin,1251,35
 2020-06-01,San Luis Obispo,339,1
 2020-06-01,San Mateo,2457,71
-2020-06-01,Santa Barbara,2147,10
-2020-06-01,Santa Clara,3287,142
+2020-06-01,Santa Barbara,2148,10
+2020-06-01,Santa Clara,3288,142
 2020-06-01,Santa Cruz,233,2
 2020-06-01,Shasta,59,4
 2020-06-01,Sierra,1,0
@@ -1739,7 +1739,7 @@ date,county,confirmed_cases,reported_deaths
 2020-06-01,Ventura,1597,29
 2020-06-01,Yolo,240,24
 2020-06-01,Yuba,30,1
-2020-05-31,Alameda,3849,98
+2020-05-31,Alameda,3848,98
 2020-05-31,Alpine,2,0
 2020-05-31,Amador,10,0
 2020-05-31,Butte,78,0
@@ -1748,7 +1748,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,Contra Costa,1705,37
 2020-05-31,Del Norte,45,0
 2020-05-31,El Dorado,113,0
-2020-05-31,Fresno,3237,31
+2020-05-31,Fresno,3239,31
 2020-05-31,Glenn,20,0
 2020-05-31,Humboldt,113,2
 2020-05-31,Imperial,3818,14
@@ -1780,8 +1780,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,San Joaquin,1186,34
 2020-05-31,San Luis Obispo,329,1
 2020-05-31,San Mateo,2411,71
-2020-05-31,Santa Barbara,2091,9
-2020-05-31,Santa Clara,3243,142
+2020-05-31,Santa Barbara,2092,9
+2020-05-31,Santa Clara,3244,142
 2020-05-31,Santa Cruz,230,2
 2020-05-31,Shasta,57,4
 2020-05-31,Sierra,1,0
@@ -1797,7 +1797,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-31,Ventura,1542,30
 2020-05-31,Yolo,234,24
 2020-05-31,Yuba,30,1
-2020-05-30,Alameda,3823,96
+2020-05-30,Alameda,3822,96
 2020-05-30,Alpine,2,0
 2020-05-30,Amador,10,0
 2020-05-30,Butte,77,0
@@ -1806,7 +1806,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,Contra Costa,1690,37
 2020-05-30,Del Norte,45,0
 2020-05-30,El Dorado,112,0
-2020-05-30,Fresno,3176,31
+2020-05-30,Fresno,3178,31
 2020-05-30,Glenn,19,0
 2020-05-30,Humboldt,112,2
 2020-05-30,Imperial,3728,14
@@ -1838,8 +1838,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,San Joaquin,1148,34
 2020-05-30,San Luis Obispo,324,1
 2020-05-30,San Mateo,2387,71
-2020-05-30,Santa Barbara,2064,9
-2020-05-30,Santa Clara,3227,141
+2020-05-30,Santa Barbara,2065,9
+2020-05-30,Santa Clara,3228,141
 2020-05-30,Santa Cruz,230,2
 2020-05-30,Shasta,57,4
 2020-05-30,Sierra,1,0
@@ -1855,7 +1855,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-30,Ventura,1525,30
 2020-05-30,Yolo,230,24
 2020-05-30,Yuba,30,1
-2020-05-29,Alameda,3788,96
+2020-05-29,Alameda,3787,96
 2020-05-29,Alpine,2,0
 2020-05-29,Amador,10,0
 2020-05-29,Butte,72,0
@@ -1864,7 +1864,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,Contra Costa,1674,37
 2020-05-29,Del Norte,45,0
 2020-05-29,El Dorado,111,0
-2020-05-29,Fresno,3128,31
+2020-05-29,Fresno,3130,31
 2020-05-29,Glenn,19,0
 2020-05-29,Humboldt,111,2
 2020-05-29,Imperial,3610,14
@@ -1896,8 +1896,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,San Joaquin,1111,34
 2020-05-29,San Luis Obispo,320,1
 2020-05-29,San Mateo,2371,71
-2020-05-29,Santa Barbara,2033,9
-2020-05-29,Santa Clara,3199,141
+2020-05-29,Santa Barbara,2034,9
+2020-05-29,Santa Clara,3200,141
 2020-05-29,Santa Cruz,227,2
 2020-05-29,Shasta,57,4
 2020-05-29,Sierra,1,0
@@ -1913,7 +1913,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-29,Ventura,1502,29
 2020-05-29,Yolo,226,24
 2020-05-29,Yuba,29,1
-2020-05-28,Alameda,3689,94
+2020-05-28,Alameda,3688,94
 2020-05-28,Alpine,2,0
 2020-05-28,Amador,10,0
 2020-05-28,Butte,71,0
@@ -1922,7 +1922,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,Contra Costa,1635,37
 2020-05-28,Del Norte,45,0
 2020-05-28,El Dorado,108,0
-2020-05-28,Fresno,3048,31
+2020-05-28,Fresno,3050,31
 2020-05-28,Glenn,18,0
 2020-05-28,Humboldt,110,2
 2020-05-28,Imperial,3415,14
@@ -1954,8 +1954,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,San Joaquin,1076,34
 2020-05-28,San Luis Obispo,317,1
 2020-05-28,San Mateo,2344,71
-2020-05-28,Santa Barbara,1987,9
-2020-05-28,Santa Clara,3160,140
+2020-05-28,Santa Barbara,1988,9
+2020-05-28,Santa Clara,3161,140
 2020-05-28,Santa Cruz,226,2
 2020-05-28,Shasta,55,4
 2020-05-28,Sierra,1,0
@@ -1971,7 +1971,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-28,Ventura,1472,29
 2020-05-28,Yolo,223,22
 2020-05-28,Yuba,28,1
-2020-05-27,Alameda,3607,94
+2020-05-27,Alameda,3606,94
 2020-05-27,Alpine,2,0
 2020-05-27,Amador,10,0
 2020-05-27,Butte,68,0
@@ -1980,7 +1980,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,Contra Costa,1595,37
 2020-05-27,Del Norte,45,0
 2020-05-27,El Dorado,107,0
-2020-05-27,Fresno,2961,27
+2020-05-27,Fresno,2963,27
 2020-05-27,Glenn,18,0
 2020-05-27,Humboldt,110,2
 2020-05-27,Imperial,3235,14
@@ -2012,8 +2012,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,San Joaquin,1035,34
 2020-05-27,San Luis Obispo,312,1
 2020-05-27,San Mateo,2304,71
-2020-05-27,Santa Barbara,1968,9
-2020-05-27,Santa Clara,3128,140
+2020-05-27,Santa Barbara,1969,9
+2020-05-27,Santa Clara,3129,140
 2020-05-27,Santa Cruz,222,2
 2020-05-27,Shasta,52,4
 2020-05-27,Sierra,1,0
@@ -2029,7 +2029,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-27,Ventura,1450,28
 2020-05-27,Yolo,222,22
 2020-05-27,Yuba,28,1
-2020-05-26,Alameda,3514,92
+2020-05-26,Alameda,3513,92
 2020-05-26,Alpine,2,0
 2020-05-26,Amador,10,0
 2020-05-26,Butte,66,0
@@ -2038,7 +2038,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,Contra Costa,1560,37
 2020-05-26,Del Norte,44,0
 2020-05-26,El Dorado,103,0
-2020-05-26,Fresno,2876,22
+2020-05-26,Fresno,2878,22
 2020-05-26,Glenn,16,0
 2020-05-26,Humboldt,108,2
 2020-05-26,Imperial,3019,14
@@ -2070,8 +2070,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,San Joaquin,988,33
 2020-05-26,San Luis Obispo,310,1
 2020-05-26,San Mateo,2266,71
-2020-05-26,Santa Barbara,1944,9
-2020-05-26,Santa Clara,3095,139
+2020-05-26,Santa Barbara,1945,9
+2020-05-26,Santa Clara,3096,139
 2020-05-26,Santa Cruz,220,2
 2020-05-26,Shasta,52,4
 2020-05-26,Sierra,1,0
@@ -2087,7 +2087,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-26,Ventura,1416,27
 2020-05-26,Yolo,216,22
 2020-05-26,Yuba,27,1
-2020-05-25,Alameda,3421,92
+2020-05-25,Alameda,3420,92
 2020-05-25,Alpine,2,0
 2020-05-25,Amador,10,0
 2020-05-25,Butte,63,0
@@ -2096,7 +2096,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,Contra Costa,1528,37
 2020-05-25,Del Norte,44,0
 2020-05-25,El Dorado,95,0
-2020-05-25,Fresno,2774,22
+2020-05-25,Fresno,2776,22
 2020-05-25,Glenn,16,0
 2020-05-25,Humboldt,107,2
 2020-05-25,Imperial,2808,14
@@ -2128,8 +2128,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,San Joaquin,962,33
 2020-05-25,San Luis Obispo,308,1
 2020-05-25,San Mateo,2230,71
-2020-05-25,Santa Barbara,1927,9
-2020-05-25,Santa Clara,3063,139
+2020-05-25,Santa Barbara,1928,9
+2020-05-25,Santa Clara,3064,139
 2020-05-25,Santa Cruz,218,2
 2020-05-25,Shasta,51,4
 2020-05-25,Sierra,1,0
@@ -2145,7 +2145,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-25,Ventura,1377,27
 2020-05-25,Yolo,214,22
 2020-05-25,Yuba,26,1
-2020-05-24,Alameda,3348,92
+2020-05-24,Alameda,3347,92
 2020-05-24,Alpine,2,0
 2020-05-24,Amador,10,0
 2020-05-24,Butte,61,0
@@ -2154,7 +2154,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,Contra Costa,1500,37
 2020-05-24,Del Norte,43,0
 2020-05-24,El Dorado,94,0
-2020-05-24,Fresno,2708,22
+2020-05-24,Fresno,2710,22
 2020-05-24,Glenn,15,0
 2020-05-24,Humboldt,107,2
 2020-05-24,Imperial,2682,14
@@ -2186,8 +2186,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,San Joaquin,943,33
 2020-05-24,San Luis Obispo,306,1
 2020-05-24,San Mateo,2195,71
-2020-05-24,Santa Barbara,1912,9
-2020-05-24,Santa Clara,3044,139
+2020-05-24,Santa Barbara,1913,9
+2020-05-24,Santa Clara,3045,139
 2020-05-24,Santa Cruz,215,2
 2020-05-24,Shasta,50,4
 2020-05-24,Sierra,1,0
@@ -2203,7 +2203,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-24,Ventura,1365,27
 2020-05-24,Yolo,212,22
 2020-05-24,Yuba,26,1
-2020-05-23,Alameda,3307,91
+2020-05-23,Alameda,3306,91
 2020-05-23,Alpine,2,0
 2020-05-23,Amador,10,0
 2020-05-23,Butte,60,0
@@ -2212,7 +2212,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,Contra Costa,1489,36
 2020-05-23,Del Norte,43,0
 2020-05-23,El Dorado,94,0
-2020-05-23,Fresno,2688,21
+2020-05-23,Fresno,2690,21
 2020-05-23,Glenn,15,0
 2020-05-23,Humboldt,105,2
 2020-05-23,Imperial,2594,14
@@ -2244,8 +2244,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,San Joaquin,928,33
 2020-05-23,San Luis Obispo,303,1
 2020-05-23,San Mateo,2167,71
-2020-05-23,Santa Barbara,1901,9
-2020-05-23,Santa Clara,3031,139
+2020-05-23,Santa Barbara,1902,9
+2020-05-23,Santa Clara,3032,139
 2020-05-23,Santa Cruz,213,2
 2020-05-23,Shasta,50,4
 2020-05-23,Sierra,1,0
@@ -2261,7 +2261,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-23,Ventura,1345,27
 2020-05-23,Yolo,211,22
 2020-05-23,Yuba,26,1
-2020-05-22,Alameda,3253,91
+2020-05-22,Alameda,3252,91
 2020-05-22,Alpine,2,0
 2020-05-22,Amador,10,0
 2020-05-22,Butte,58,0
@@ -2270,7 +2270,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,Contra Costa,1477,36
 2020-05-22,Del Norte,41,0
 2020-05-22,El Dorado,91,0
-2020-05-22,Fresno,2630,20
+2020-05-22,Fresno,2632,20
 2020-05-22,Glenn,15,0
 2020-05-22,Humboldt,105,2
 2020-05-22,Imperial,2494,14
@@ -2302,8 +2302,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,San Joaquin,915,33
 2020-05-22,San Luis Obispo,303,1
 2020-05-22,San Mateo,2148,71
-2020-05-22,Santa Barbara,1885,9
-2020-05-22,Santa Clara,3013,139
+2020-05-22,Santa Barbara,1886,9
+2020-05-22,Santa Clara,3014,139
 2020-05-22,Santa Cruz,210,2
 2020-05-22,Shasta,50,4
 2020-05-22,Sierra,1,0
@@ -2319,7 +2319,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-22,Ventura,1327,27
 2020-05-22,Yolo,209,22
 2020-05-22,Yuba,26,1
-2020-05-21,Alameda,3188,89
+2020-05-21,Alameda,3187,89
 2020-05-21,Alpine,2,0
 2020-05-21,Amador,10,0
 2020-05-21,Butte,57,0
@@ -2328,7 +2328,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-21,Contra Costa,1441,36
 2020-05-21,Del Norte,38,0
 2020-05-21,El Dorado,90,0
-2020-05-21,Fresno,2540,20
+2020-05-21,Fresno,2542,20
 2020-05-21,Glenn,14,0
 2020-05-21,Humboldt,104,0
 2020-05-21,Imperial,2332,14
@@ -2360,8 +2360,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-21,San Joaquin,879,33
 2020-05-21,San Luis Obispo,303,1
 2020-05-21,San Mateo,2111,74
-2020-05-21,Santa Barbara,1865,10
-2020-05-21,Santa Clara,2993,138
+2020-05-21,Santa Barbara,1866,10
+2020-05-21,Santa Clara,2994,138
 2020-05-21,Santa Cruz,202,3
 2020-05-21,Shasta,48,4
 2020-05-21,Sierra,1,0
@@ -2377,7 +2377,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-21,Ventura,1280,30
 2020-05-21,Yolo,206,22
 2020-05-21,Yuba,26,1
-2020-05-20,Alameda,3115,89
+2020-05-20,Alameda,3114,89
 2020-05-20,Alpine,2,0
 2020-05-20,Amador,10,0
 2020-05-20,Butte,54,0
@@ -2386,7 +2386,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,Contra Costa,1411,33
 2020-05-20,Del Norte,31,0
 2020-05-20,El Dorado,89,0
-2020-05-20,Fresno,2468,17
+2020-05-20,Fresno,2470,17
 2020-05-20,Glenn,13,0
 2020-05-20,Humboldt,101,0
 2020-05-20,Imperial,2221,14
@@ -2395,7 +2395,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,Kings,572,2
 2020-05-20,Lake,17,0
 2020-05-20,Lassen,2,0
-2020-05-20,Los Angeles,50260,1955
+2020-05-20,Los Angeles,50261,1955
 2020-05-20,Madera,163,2
 2020-05-20,Marin,397,14
 2020-05-20,Mariposa,16,1
@@ -2418,8 +2418,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,San Joaquin,843,33
 2020-05-20,San Luis Obispo,297,1
 2020-05-20,San Mateo,2058,74
-2020-05-20,Santa Barbara,1843,10
-2020-05-20,Santa Clara,2973,138
+2020-05-20,Santa Barbara,1844,10
+2020-05-20,Santa Clara,2974,138
 2020-05-20,Santa Cruz,199,3
 2020-05-20,Shasta,48,4
 2020-05-20,Sierra,1,0
@@ -2435,7 +2435,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-20,Ventura,1248,29
 2020-05-20,Yolo,203,22
 2020-05-20,Yuba,26,1
-2020-05-19,Alameda,3040,88
+2020-05-19,Alameda,3039,88
 2020-05-19,Alpine,2,0
 2020-05-19,Amador,10,0
 2020-05-19,Butte,52,0
@@ -2444,7 +2444,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,Contra Costa,1388,33
 2020-05-19,Del Norte,28,0
 2020-05-19,El Dorado,86,0
-2020-05-19,Fresno,2363,15
+2020-05-19,Fresno,2365,15
 2020-05-19,Glenn,13,0
 2020-05-19,Humboldt,101,0
 2020-05-19,Imperial,2060,14
@@ -2453,7 +2453,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,Kings,563,2
 2020-05-19,Lake,14,0
 2020-05-19,Lassen,2,0
-2020-05-19,Los Angeles,49053,1906
+2020-05-19,Los Angeles,49054,1906
 2020-05-19,Madera,160,2
 2020-05-19,Marin,373,14
 2020-05-19,Mariposa,16,1
@@ -2476,8 +2476,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,San Joaquin,821,33
 2020-05-19,San Luis Obispo,297,1
 2020-05-19,San Mateo,2017,71
-2020-05-19,Santa Barbara,1826,10
-2020-05-19,Santa Clara,2926,138
+2020-05-19,Santa Barbara,1827,10
+2020-05-19,Santa Clara,2927,138
 2020-05-19,Santa Cruz,188,3
 2020-05-19,Shasta,48,4
 2020-05-19,Sierra,0,0
@@ -2493,7 +2493,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-19,Ventura,1211,28
 2020-05-19,Yolo,201,22
 2020-05-19,Yuba,26,1
-2020-05-18,Alameda,2967,84
+2020-05-18,Alameda,2966,84
 2020-05-18,Alpine,1,0
 2020-05-18,Amador,10,0
 2020-05-18,Butte,50,0
@@ -2502,7 +2502,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,Contra Costa,1357,33
 2020-05-18,Del Norte,23,0
 2020-05-18,El Dorado,84,0
-2020-05-18,Fresno,2290,14
+2020-05-18,Fresno,2292,14
 2020-05-18,Glenn,13,0
 2020-05-18,Humboldt,101,0
 2020-05-18,Imperial,1905,14
@@ -2511,7 +2511,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,Kings,532,2
 2020-05-18,Lake,13,0
 2020-05-18,Lassen,2,0
-2020-05-18,Los Angeles,48032,1825
+2020-05-18,Los Angeles,48033,1825
 2020-05-18,Madera,155,2
 2020-05-18,Marin,360,14
 2020-05-18,Mariposa,16,1
@@ -2534,8 +2534,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,San Joaquin,809,33
 2020-05-18,San Luis Obispo,293,1
 2020-05-18,San Mateo,1979,68
-2020-05-18,Santa Barbara,1809,10
-2020-05-18,Santa Clara,2895,137
+2020-05-18,Santa Barbara,1810,10
+2020-05-18,Santa Clara,2896,137
 2020-05-18,Santa Cruz,186,3
 2020-05-18,Shasta,47,4
 2020-05-18,Sierra,0,0
@@ -2551,7 +2551,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-18,Ventura,1189,27
 2020-05-18,Yolo,196,22
 2020-05-18,Yuba,26,1
-2020-05-17,Alameda,2872,83
+2020-05-17,Alameda,2871,83
 2020-05-17,Alpine,1,0
 2020-05-17,Amador,10,0
 2020-05-17,Butte,50,0
@@ -2560,7 +2560,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,Contra Costa,1319,33
 2020-05-17,Del Norte,23,0
 2020-05-17,El Dorado,84,0
-2020-05-17,Fresno,2192,14
+2020-05-17,Fresno,2194,14
 2020-05-17,Glenn,13,0
 2020-05-17,Humboldt,94,0
 2020-05-17,Imperial,1756,14
@@ -2569,7 +2569,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,Kings,485,2
 2020-05-17,Lake,13,0
 2020-05-17,Lassen,2,0
-2020-05-17,Los Angeles,46798,1807
+2020-05-17,Los Angeles,46799,1807
 2020-05-17,Madera,153,2
 2020-05-17,Marin,349,14
 2020-05-17,Mariposa,15,1
@@ -2592,8 +2592,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,San Joaquin,779,32
 2020-05-17,San Luis Obispo,291,1
 2020-05-17,San Mateo,1942,68
-2020-05-17,Santa Barbara,1783,10
-2020-05-17,Santa Clara,2857,135
+2020-05-17,Santa Barbara,1784,10
+2020-05-17,Santa Clara,2858,135
 2020-05-17,Santa Cruz,175,3
 2020-05-17,Shasta,46,4
 2020-05-17,Sierra,0,0
@@ -2609,7 +2609,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-17,Ventura,1147,27
 2020-05-17,Yolo,194,22
 2020-05-17,Yuba,26,1
-2020-05-16,Alameda,2822,83
+2020-05-16,Alameda,2821,83
 2020-05-16,Alpine,1,0
 2020-05-16,Amador,10,0
 2020-05-16,Butte,45,0
@@ -2618,7 +2618,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,Contra Costa,1301,33
 2020-05-16,Del Norte,19,0
 2020-05-16,El Dorado,84,0
-2020-05-16,Fresno,2137,14
+2020-05-16,Fresno,2139,14
 2020-05-16,Glenn,13,0
 2020-05-16,Humboldt,92,0
 2020-05-16,Imperial,1691,14
@@ -2627,7 +2627,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,Kings,476,2
 2020-05-16,Lake,13,0
 2020-05-16,Lassen,1,0
-2020-05-16,Los Angeles,46221,1778
+2020-05-16,Los Angeles,46222,1778
 2020-05-16,Madera,151,2
 2020-05-16,Marin,345,14
 2020-05-16,Mariposa,15,1
@@ -2650,8 +2650,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,San Joaquin,771,32
 2020-05-16,San Luis Obispo,290,1
 2020-05-16,San Mateo,1927,68
-2020-05-16,Santa Barbara,1771,10
-2020-05-16,Santa Clara,2842,135
+2020-05-16,Santa Barbara,1772,10
+2020-05-16,Santa Clara,2843,135
 2020-05-16,Santa Cruz,172,3
 2020-05-16,Shasta,46,4
 2020-05-16,Sierra,0,0
@@ -2667,7 +2667,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-16,Ventura,1122,25
 2020-05-16,Yolo,193,22
 2020-05-16,Yuba,26,1
-2020-05-15,Alameda,2788,83
+2020-05-15,Alameda,2787,83
 2020-05-15,Alpine,1,0
 2020-05-15,Amador,10,0
 2020-05-15,Butte,43,0
@@ -2676,7 +2676,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,Contra Costa,1283,33
 2020-05-15,Del Norte,14,0
 2020-05-15,El Dorado,84,0
-2020-05-15,Fresno,2071,14
+2020-05-15,Fresno,2073,14
 2020-05-15,Glenn,13,0
 2020-05-15,Humboldt,91,0
 2020-05-15,Imperial,1608,14
@@ -2685,7 +2685,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,Kings,473,2
 2020-05-15,Lake,13,0
 2020-05-15,Lassen,1,0
-2020-05-15,Los Angeles,45434,1734
+2020-05-15,Los Angeles,45435,1734
 2020-05-15,Madera,150,2
 2020-05-15,Marin,337,14
 2020-05-15,Mariposa,15,1
@@ -2708,8 +2708,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,San Joaquin,765,32
 2020-05-15,San Luis Obispo,289,1
 2020-05-15,San Mateo,1905,68
-2020-05-15,Santa Barbara,1757,10
-2020-05-15,Santa Clara,2816,135
+2020-05-15,Santa Barbara,1758,10
+2020-05-15,Santa Clara,2817,135
 2020-05-15,Santa Cruz,171,3
 2020-05-15,Shasta,45,4
 2020-05-15,Sierra,0,0
@@ -2725,7 +2725,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-15,Ventura,1105,25
 2020-05-15,Yolo,192,22
 2020-05-15,Yuba,26,1
-2020-05-14,Alameda,2697,80
+2020-05-14,Alameda,2696,80
 2020-05-14,Alpine,1,0
 2020-05-14,Amador,10,0
 2020-05-14,Butte,41,0
@@ -2734,7 +2734,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,Contra Costa,1257,32
 2020-05-14,Del Norte,14,0
 2020-05-14,El Dorado,75,0
-2020-05-14,Fresno,2019,12
+2020-05-14,Fresno,2021,12
 2020-05-14,Glenn,12,0
 2020-05-14,Humboldt,89,0
 2020-05-14,Imperial,1491,13
@@ -2743,7 +2743,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,Kings,457,1
 2020-05-14,Lake,13,0
 2020-05-14,Lassen,1,0
-2020-05-14,Los Angeles,44258,1693
+2020-05-14,Los Angeles,44259,1693
 2020-05-14,Madera,141,2
 2020-05-14,Marin,319,14
 2020-05-14,Mariposa,15,0
@@ -2766,8 +2766,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,San Joaquin,750,31
 2020-05-14,San Luis Obispo,286,1
 2020-05-14,San Mateo,1873,67
-2020-05-14,Santa Barbara,1739,11
-2020-05-14,Santa Clara,2795,134
+2020-05-14,Santa Barbara,1740,11
+2020-05-14,Santa Clara,2796,134
 2020-05-14,Santa Cruz,169,3
 2020-05-14,Shasta,45,4
 2020-05-14,Sierra,0,0
@@ -2783,7 +2783,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-14,Ventura,1077,25
 2020-05-14,Yolo,192,22
 2020-05-14,Yuba,26,1
-2020-05-13,Alameda,2639,78
+2020-05-13,Alameda,2638,78
 2020-05-13,Alpine,1,0
 2020-05-13,Amador,10,0
 2020-05-13,Butte,40,0
@@ -2792,7 +2792,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,Contra Costa,1235,32
 2020-05-13,Del Norte,13,0
 2020-05-13,El Dorado,74,0
-2020-05-13,Fresno,1930,10
+2020-05-13,Fresno,1932,10
 2020-05-13,Glenn,11,0
 2020-05-13,Humboldt,83,0
 2020-05-13,Imperial,1421,11
@@ -2801,7 +2801,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,Kings,444,1
 2020-05-13,Lake,13,0
 2020-05-13,Lassen,1,0
-2020-05-13,Los Angeles,42948,1643
+2020-05-13,Los Angeles,42949,1643
 2020-05-13,Madera,132,2
 2020-05-13,Marin,306,14
 2020-05-13,Mariposa,15,0
@@ -2824,8 +2824,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,San Joaquin,729,31
 2020-05-13,San Luis Obispo,284,1
 2020-05-13,San Mateo,1841,66
-2020-05-13,Santa Barbara,1723,10
-2020-05-13,Santa Clara,2776,132
+2020-05-13,Santa Barbara,1724,10
+2020-05-13,Santa Clara,2777,132
 2020-05-13,Santa Cruz,165,2
 2020-05-13,Shasta,45,4
 2020-05-13,Sierra,0,0
@@ -2841,7 +2841,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-13,Ventura,1050,25
 2020-05-13,Yolo,190,22
 2020-05-13,Yuba,24,1
-2020-05-12,Alameda,2577,74
+2020-05-12,Alameda,2576,74
 2020-05-12,Alpine,1,0
 2020-05-12,Amador,10,0
 2020-05-12,Butte,38,0
@@ -2850,7 +2850,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,Contra Costa,1204,32
 2020-05-12,Del Norte,10,0
 2020-05-12,El Dorado,71,0
-2020-05-12,Fresno,1849,9
+2020-05-12,Fresno,1851,9
 2020-05-12,Glenn,10,0
 2020-05-12,Humboldt,80,0
 2020-05-12,Imperial,1290,9
@@ -2859,7 +2859,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,Kings,423,1
 2020-05-12,Lake,13,0
 2020-05-12,Lassen,1,0
-2020-05-12,Los Angeles,41952,1601
+2020-05-12,Los Angeles,41953,1601
 2020-05-12,Madera,128,2
 2020-05-12,Marin,301,14
 2020-05-12,Mariposa,15,0
@@ -2882,8 +2882,8 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,San Joaquin,714,30
 2020-05-12,San Luis Obispo,281,1
 2020-05-12,San Mateo,1815,66
-2020-05-12,Santa Barbara,1684,10
-2020-05-12,Santa Clara,2746,131
+2020-05-12,Santa Barbara,1685,10
+2020-05-12,Santa Clara,2747,131
 2020-05-12,Santa Cruz,163,2
 2020-05-12,Shasta,44,4
 2020-05-12,Sierra,0,0
@@ -2899,7 +2899,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-12,Ventura,1013,20
 2020-05-12,Yolo,189,22
 2020-05-12,Yuba,24,1
-2020-05-11,Alameda,2527,71
+2020-05-11,Alameda,2526,71
 2020-05-11,Alpine,1,0
 2020-05-11,Amador,10,0
 2020-05-11,Butte,37,0
@@ -2908,7 +2908,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,Contra Costa,1190,32
 2020-05-11,Del Norte,8,0
 2020-05-11,El Dorado,71,0
-2020-05-11,Fresno,1764,8
+2020-05-11,Fresno,1766,8
 2020-05-11,Glenn,10,0
 2020-05-11,Humboldt,77,0
 2020-05-11,Imperial,1184,9
@@ -2917,7 +2917,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,Kings,400,1
 2020-05-11,Lake,12,0
 2020-05-11,Lassen,1,0
-2020-05-11,Los Angeles,40774,1553
+2020-05-11,Los Angeles,40775,1553
 2020-05-11,Madera,120,2
 2020-05-11,Marin,292,14
 2020-05-11,Mariposa,15,0
@@ -2941,7 +2941,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,San Luis Obispo,279,1
 2020-05-11,San Mateo,1789,66
 2020-05-11,Santa Barbara,1664,10
-2020-05-11,Santa Clara,2730,129
+2020-05-11,Santa Clara,2731,129
 2020-05-11,Santa Cruz,160,2
 2020-05-11,Shasta,44,4
 2020-05-11,Sierra,0,0
@@ -2957,7 +2957,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-11,Ventura,969,19
 2020-05-11,Yolo,189,20
 2020-05-11,Yuba,24,1
-2020-05-10,Alameda,2450,71
+2020-05-10,Alameda,2449,71
 2020-05-10,Alpine,1,0
 2020-05-10,Amador,10,0
 2020-05-10,Butte,33,0
@@ -2966,7 +2966,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,Contra Costa,1176,31
 2020-05-10,Del Norte,7,0
 2020-05-10,El Dorado,71,0
-2020-05-10,Fresno,1684,8
+2020-05-10,Fresno,1685,8
 2020-05-10,Glenn,10,0
 2020-05-10,Humboldt,73,0
 2020-05-10,Imperial,1088,7
@@ -2975,7 +2975,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,Kings,387,1
 2020-05-10,Lake,12,0
 2020-05-10,Lassen,1,0
-2020-05-10,Los Angeles,39514,1514
+2020-05-10,Los Angeles,39515,1514
 2020-05-10,Madera,118,2
 2020-05-10,Marin,284,14
 2020-05-10,Mariposa,15,0
@@ -2999,7 +2999,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,San Luis Obispo,276,1
 2020-05-10,San Mateo,1767,65
 2020-05-10,Santa Barbara,1643,10
-2020-05-10,Santa Clara,2706,129
+2020-05-10,Santa Clara,2707,129
 2020-05-10,Santa Cruz,159,2
 2020-05-10,Shasta,44,4
 2020-05-10,Sierra,0,0
@@ -3015,7 +3015,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-10,Ventura,921,19
 2020-05-10,Yolo,189,20
 2020-05-10,Yuba,23,1
-2020-05-09,Alameda,2407,71
+2020-05-09,Alameda,2406,71
 2020-05-09,Alpine,1,0
 2020-05-09,Amador,9,0
 2020-05-09,Butte,32,0
@@ -3024,7 +3024,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,Contra Costa,1162,31
 2020-05-09,Del Norte,7,0
 2020-05-09,El Dorado,68,0
-2020-05-09,Fresno,1648,8
+2020-05-09,Fresno,1649,8
 2020-05-09,Glenn,9,0
 2020-05-09,Humboldt,71,0
 2020-05-09,Imperial,1032,7
@@ -3033,7 +3033,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,Kings,382,1
 2020-05-09,Lake,12,0
 2020-05-09,Lassen,1,0
-2020-05-09,Los Angeles,38891,1499
+2020-05-09,Los Angeles,38892,1499
 2020-05-09,Madera,117,2
 2020-05-09,Marin,283,14
 2020-05-09,Mariposa,15,0
@@ -3057,7 +3057,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,San Luis Obispo,272,1
 2020-05-09,San Mateo,1748,65
 2020-05-09,Santa Barbara,1630,10
-2020-05-09,Santa Clara,2695,128
+2020-05-09,Santa Clara,2696,128
 2020-05-09,Santa Cruz,158,2
 2020-05-09,Shasta,44,4
 2020-05-09,Sierra,0,0
@@ -3073,7 +3073,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-09,Ventura,900,19
 2020-05-09,Yolo,189,18
 2020-05-09,Yuba,23,1
-2020-05-08,Alameda,2364,70
+2020-05-08,Alameda,2363,70
 2020-05-08,Alpine,1,0
 2020-05-08,Amador,9,0
 2020-05-08,Butte,32,0
@@ -3082,7 +3082,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,Contra Costa,1150,29
 2020-05-08,Del Norte,7,0
 2020-05-08,El Dorado,67,0
-2020-05-08,Fresno,1614,8
+2020-05-08,Fresno,1615,8
 2020-05-08,Glenn,8,0
 2020-05-08,Humboldt,68,0
 2020-05-08,Imperial,986,7
@@ -3091,7 +3091,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,Kings,373,1
 2020-05-08,Lake,12,0
 2020-05-08,Lassen,1,0
-2020-05-08,Los Angeles,38162,1447
+2020-05-08,Los Angeles,38163,1447
 2020-05-08,Madera,114,2
 2020-05-08,Marin,283,14
 2020-05-08,Mariposa,15,0
@@ -3115,7 +3115,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,San Luis Obispo,269,1
 2020-05-08,San Mateo,1663,62
 2020-05-08,Santa Barbara,1617,8
-2020-05-08,Santa Clara,2673,128
+2020-05-08,Santa Clara,2674,128
 2020-05-08,Santa Cruz,154,2
 2020-05-08,Shasta,44,4
 2020-05-08,Sierra,0,0
@@ -3131,7 +3131,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-08,Ventura,883,19
 2020-05-08,Yolo,188,18
 2020-05-08,Yuba,22,1
-2020-05-07,Alameda,2304,68
+2020-05-07,Alameda,2303,68
 2020-05-07,Alpine,1,0
 2020-05-07,Amador,9,0
 2020-05-07,Butte,32,0
@@ -3140,7 +3140,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,Contra Costa,1136,29
 2020-05-07,Del Norte,6,0
 2020-05-07,El Dorado,66,0
-2020-05-07,Fresno,1535,8
+2020-05-07,Fresno,1536,8
 2020-05-07,Glenn,8,0
 2020-05-07,Humboldt,67,0
 2020-05-07,Imperial,923,6
@@ -3149,7 +3149,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,Kings,351,1
 2020-05-07,Lake,11,0
 2020-05-07,Lassen,1,0
-2020-05-07,Los Angeles,37040,1399
+2020-05-07,Los Angeles,37041,1399
 2020-05-07,Madera,110,2
 2020-05-07,Marin,276,14
 2020-05-07,Mariposa,15,0
@@ -3173,7 +3173,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,San Luis Obispo,258,1
 2020-05-07,San Mateo,1641,58
 2020-05-07,Santa Barbara,1587,8
-2020-05-07,Santa Clara,2636,127
+2020-05-07,Santa Clara,2637,127
 2020-05-07,Santa Cruz,151,2
 2020-05-07,Shasta,43,4
 2020-05-07,Sierra,0,0
@@ -3189,7 +3189,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-07,Ventura,861,19
 2020-05-07,Yolo,187,18
 2020-05-07,Yuba,22,1
-2020-05-06,Alameda,2267,67
+2020-05-06,Alameda,2266,67
 2020-05-06,Alpine,1,0
 2020-05-06,Amador,9,0
 2020-05-06,Butte,31,0
@@ -3198,7 +3198,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,Contra Costa,1115,29
 2020-05-06,Del Norte,6,0
 2020-05-06,El Dorado,64,0
-2020-05-06,Fresno,1474,8
+2020-05-06,Fresno,1475,8
 2020-05-06,Glenn,8,0
 2020-05-06,Humboldt,66,0
 2020-05-06,Imperial,855,6
@@ -3207,7 +3207,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,Kings,333,1
 2020-05-06,Lake,11,0
 2020-05-06,Lassen,1,0
-2020-05-06,Los Angeles,36037,1347
+2020-05-06,Los Angeles,36038,1347
 2020-05-06,Madera,108,2
 2020-05-06,Marin,269,14
 2020-05-06,Mariposa,15,0
@@ -3231,7 +3231,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,San Luis Obispo,255,1
 2020-05-06,San Mateo,1610,57
 2020-05-06,Santa Barbara,1540,8
-2020-05-06,Santa Clara,2621,127
+2020-05-06,Santa Clara,2622,127
 2020-05-06,Santa Cruz,147,2
 2020-05-06,Shasta,43,4
 2020-05-06,Sierra,0,0
@@ -3247,7 +3247,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-06,Ventura,836,19
 2020-05-06,Yolo,186,18
 2020-05-06,Yuba,22,1
-2020-05-05,Alameda,2224,67
+2020-05-05,Alameda,2223,67
 2020-05-05,Alpine,1,0
 2020-05-05,Amador,9,0
 2020-05-05,Butte,30,0
@@ -3256,7 +3256,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,Contra Costa,1097,29
 2020-05-05,Del Norte,6,0
 2020-05-05,El Dorado,62,0
-2020-05-05,Fresno,1405,8
+2020-05-05,Fresno,1406,8
 2020-05-05,Glenn,8,0
 2020-05-05,Humboldt,63,0
 2020-05-05,Imperial,800,6
@@ -3265,7 +3265,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,Kings,317,1
 2020-05-05,Lake,10,0
 2020-05-05,Lassen,1,0
-2020-05-05,Los Angeles,34969,1289
+2020-05-05,Los Angeles,34970,1289
 2020-05-05,Madera,105,2
 2020-05-05,Marin,263,14
 2020-05-05,Mariposa,15,0
@@ -3289,7 +3289,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,San Luis Obispo,254,1
 2020-05-05,San Mateo,1578,56
 2020-05-05,Santa Barbara,1314,7
-2020-05-05,Santa Clara,2579,124
+2020-05-05,Santa Clara,2580,124
 2020-05-05,Santa Cruz,144,2
 2020-05-05,Shasta,42,4
 2020-05-05,Sierra,0,0
@@ -3305,7 +3305,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-05,Ventura,813,19
 2020-05-05,Yolo,184,18
 2020-05-05,Yuba,22,1
-2020-05-04,Alameda,2165,65
+2020-05-04,Alameda,2164,65
 2020-05-04,Alpine,1,0
 2020-05-04,Amador,8,0
 2020-05-04,Butte,29,0
@@ -3314,7 +3314,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,Contra Costa,1079,28
 2020-05-04,Del Norte,5,0
 2020-05-04,El Dorado,61,0
-2020-05-04,Fresno,1338,8
+2020-05-04,Fresno,1339,8
 2020-05-04,Glenn,8,0
 2020-05-04,Humboldt,61,0
 2020-05-04,Imperial,747,6
@@ -3323,7 +3323,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,Kings,300,1
 2020-05-04,Lake,9,0
 2020-05-04,Lassen,1,0
-2020-05-04,Los Angeles,33669,1235
+2020-05-04,Los Angeles,33670,1235
 2020-05-04,Madera,104,2
 2020-05-04,Marin,258,13
 2020-05-04,Mariposa,15,0
@@ -3347,7 +3347,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,San Luis Obispo,251,1
 2020-05-04,San Mateo,1553,53
 2020-05-04,Santa Barbara,1058,7
-2020-05-04,Santa Clara,2565,119
+2020-05-04,Santa Clara,2566,119
 2020-05-04,Santa Cruz,143,2
 2020-05-04,Shasta,40,4
 2020-05-04,Sierra,0,0
@@ -3363,7 +3363,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-04,Ventura,793,19
 2020-05-04,Yolo,183,18
 2020-05-04,Yuba,19,1
-2020-05-03,Alameda,2109,64
+2020-05-03,Alameda,2108,64
 2020-05-03,Alpine,1,0
 2020-05-03,Amador,8,0
 2020-05-03,Butte,29,0
@@ -3372,7 +3372,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,Contra Costa,1063,28
 2020-05-03,Del Norte,5,0
 2020-05-03,El Dorado,59,0
-2020-05-03,Fresno,1246,8
+2020-05-03,Fresno,1247,8
 2020-05-03,Glenn,7,0
 2020-05-03,Humboldt,60,0
 2020-05-03,Imperial,690,6
@@ -3381,7 +3381,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,Kings,280,1
 2020-05-03,Lake,9,0
 2020-05-03,Lassen,1,0
-2020-05-03,Los Angeles,32686,1210
+2020-05-03,Los Angeles,32687,1210
 2020-05-03,Madera,97,2
 2020-05-03,Marin,253,13
 2020-05-03,Mariposa,15,0
@@ -3405,7 +3405,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,San Luis Obispo,248,1
 2020-05-03,San Mateo,1525,53
 2020-05-03,Santa Barbara,690,7
-2020-05-03,Santa Clara,2538,116
+2020-05-03,Santa Clara,2539,116
 2020-05-03,Santa Cruz,143,2
 2020-05-03,Shasta,38,4
 2020-05-03,Sierra,0,0
@@ -3421,7 +3421,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-03,Ventura,762,19
 2020-05-03,Yolo,182,18
 2020-05-03,Yuba,19,1
-2020-05-02,Alameda,2072,63
+2020-05-02,Alameda,2071,63
 2020-05-02,Alpine,1,0
 2020-05-02,Amador,8,0
 2020-05-02,Butte,29,0
@@ -3430,7 +3430,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,Contra Costa,1046,28
 2020-05-02,Del Norte,5,0
 2020-05-02,El Dorado,59,0
-2020-05-02,Fresno,1224,8
+2020-05-02,Fresno,1225,8
 2020-05-02,Glenn,7,0
 2020-05-02,Humboldt,60,0
 2020-05-02,Imperial,663,6
@@ -3439,7 +3439,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,Kings,277,1
 2020-05-02,Lake,9,0
 2020-05-02,Lassen,1,0
-2020-05-02,Los Angeles,32158,1192
+2020-05-02,Los Angeles,32159,1192
 2020-05-02,Madera,97,2
 2020-05-02,Marin,252,13
 2020-05-02,Mariposa,15,0
@@ -3463,7 +3463,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,San Luis Obispo,242,1
 2020-05-02,San Mateo,1509,52
 2020-05-02,Santa Barbara,678,7
-2020-05-02,Santa Clara,2528,115
+2020-05-02,Santa Clara,2529,115
 2020-05-02,Santa Cruz,142,2
 2020-05-02,Shasta,38,4
 2020-05-02,Sierra,0,0
@@ -3479,7 +3479,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-02,Ventura,748,19
 2020-05-02,Yolo,182,17
 2020-05-02,Yuba,19,1
-2020-05-01,Alameda,2035,63
+2020-05-01,Alameda,2034,63
 2020-05-01,Alpine,1,0
 2020-05-01,Amador,8,0
 2020-05-01,Butte,29,0
@@ -3488,7 +3488,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,Contra Costa,1032,28
 2020-05-01,Del Norte,5,0
 2020-05-01,El Dorado,59,0
-2020-05-01,Fresno,1193,7
+2020-05-01,Fresno,1194,7
 2020-05-01,Glenn,7,0
 2020-05-01,Humboldt,60,0
 2020-05-01,Imperial,626,6
@@ -3497,7 +3497,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,Kings,260,1
 2020-05-01,Lake,9,0
 2020-05-01,Lassen,1,0
-2020-05-01,Los Angeles,31404,1155
+2020-05-01,Los Angeles,31405,1155
 2020-05-01,Madera,93,2
 2020-05-01,Marin,252,13
 2020-05-01,Mariposa,15,0
@@ -3521,7 +3521,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,San Luis Obispo,239,1
 2020-05-01,San Mateo,1487,52
 2020-05-01,Santa Barbara,670,7
-2020-05-01,Santa Clara,2518,112
+2020-05-01,Santa Clara,2519,112
 2020-05-01,Santa Cruz,142,2
 2020-05-01,Shasta,38,4
 2020-05-01,Sierra,0,0
@@ -3537,7 +3537,7 @@ date,county,confirmed_cases,reported_deaths
 2020-05-01,Ventura,735,18
 2020-05-01,Yolo,182,18
 2020-05-01,Yuba,19,1
-2020-04-30,Alameda,1975,60
+2020-04-30,Alameda,1974,60
 2020-04-30,Alpine,1,0
 2020-04-30,Amador,8,0
 2020-04-30,Butte,29,0
@@ -3546,7 +3546,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,Contra Costa,1010,25
 2020-04-30,Del Norte,4,0
 2020-04-30,El Dorado,59,0
-2020-04-30,Fresno,1131,7
+2020-04-30,Fresno,1132,7
 2020-04-30,Glenn,7,0
 2020-04-30,Humboldt,60,0
 2020-04-30,Imperial,579,6
@@ -3555,7 +3555,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,Kings,248,1
 2020-04-30,Lake,9,0
 2020-04-30,Lassen,1,0
-2020-04-30,Los Angeles,30397,1099
+2020-04-30,Los Angeles,30398,1099
 2020-04-30,Madera,82,2
 2020-04-30,Marin,252,13
 2020-04-30,Mariposa,15,0
@@ -3579,7 +3579,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,San Luis Obispo,236,1
 2020-04-30,San Mateo,1457,52
 2020-04-30,Santa Barbara,652,7
-2020-04-30,Santa Clara,2482,111
+2020-04-30,Santa Clara,2483,111
 2020-04-30,Santa Cruz,141,2
 2020-04-30,Shasta,37,4
 2020-04-30,Sierra,0,0
@@ -3595,7 +3595,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-30,Ventura,707,18
 2020-04-30,Yolo,181,16
 2020-04-30,Yuba,19,1
-2020-04-29,Alameda,1917,60
+2020-04-29,Alameda,1916,60
 2020-04-29,Alpine,1,0
 2020-04-29,Amador,8,0
 2020-04-29,Butte,29,0
@@ -3604,7 +3604,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-29,Contra Costa,991,25
 2020-04-29,Del Norte,4,0
 2020-04-29,El Dorado,57,0
-2020-04-29,Fresno,1079,7
+2020-04-29,Fresno,1080,7
 2020-04-29,Glenn,7,0
 2020-04-29,Humboldt,60,0
 2020-04-29,Imperial,550,6
@@ -3637,7 +3637,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-29,San Luis Obispo,234,1
 2020-04-29,San Mateo,1431,50
 2020-04-29,Santa Barbara,638,7
-2020-04-29,Santa Clara,2462,108
+2020-04-29,Santa Clara,2463,108
 2020-04-29,Santa Cruz,140,2
 2020-04-29,Shasta,37,4
 2020-04-29,Sierra,0,0
@@ -3653,7 +3653,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-29,Ventura,684,18
 2020-04-29,Yolo,178,11
 2020-04-29,Yuba,19,1
-2020-04-28,Alameda,1860,55
+2020-04-28,Alameda,1859,55
 2020-04-28,Alpine,1,0
 2020-04-28,Amador,8,0
 2020-04-28,Butte,29,0
@@ -3662,7 +3662,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-28,Contra Costa,984,25
 2020-04-28,Del Norte,4,0
 2020-04-28,El Dorado,56,0
-2020-04-28,Fresno,1029,7
+2020-04-28,Fresno,1030,7
 2020-04-28,Glenn,5,0
 2020-04-28,Humboldt,59,0
 2020-04-28,Imperial,516,6
@@ -3695,7 +3695,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-28,San Luis Obispo,228,1
 2020-04-28,San Mateo,1418,48
 2020-04-28,Santa Barbara,631,7
-2020-04-28,Santa Clara,2432,106
+2020-04-28,Santa Clara,2433,106
 2020-04-28,Santa Cruz,140,2
 2020-04-28,Shasta,37,4
 2020-04-28,Sierra,0,0
@@ -3711,7 +3711,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-28,Ventura,666,17
 2020-04-28,Yolo,178,10
 2020-04-28,Yuba,19,1
-2020-04-27,Alameda,1800,53
+2020-04-27,Alameda,1799,53
 2020-04-27,Alpine,1,0
 2020-04-27,Amador,8,0
 2020-04-27,Butte,28,0
@@ -3720,7 +3720,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-27,Contra Costa,972,25
 2020-04-27,Del Norte,4,0
 2020-04-27,El Dorado,55,0
-2020-04-27,Fresno,926,7
+2020-04-27,Fresno,927,7
 2020-04-27,Glenn,5,0
 2020-04-27,Humboldt,59,0
 2020-04-27,Imperial,486,6
@@ -3753,7 +3753,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-27,San Luis Obispo,221,1
 2020-04-27,San Mateo,1396,46
 2020-04-27,Santa Barbara,618,7
-2020-04-27,Santa Clara,2412,105
+2020-04-27,Santa Clara,2413,105
 2020-04-27,Santa Cruz,140,2
 2020-04-27,Shasta,37,4
 2020-04-27,Sierra,0,0
@@ -3769,7 +3769,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-27,Ventura,649,17
 2020-04-27,Yolo,175,9
 2020-04-27,Yuba,19,1
-2020-04-26,Alameda,1739,52
+2020-04-26,Alameda,1738,52
 2020-04-26,Alpine,1,0
 2020-04-26,Amador,8,0
 2020-04-26,Butte,28,0
@@ -3778,7 +3778,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-26,Contra Costa,956,25
 2020-04-26,Del Norte,3,0
 2020-04-26,El Dorado,53,0
-2020-04-26,Fresno,835,7
+2020-04-26,Fresno,836,7
 2020-04-26,Glenn,5,0
 2020-04-26,Humboldt,59,0
 2020-04-26,Imperial,452,6
@@ -3811,7 +3811,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-26,San Luis Obispo,218,1
 2020-04-26,San Mateo,1370,46
 2020-04-26,Santa Barbara,606,7
-2020-04-26,Santa Clara,2393,102
+2020-04-26,Santa Clara,2394,102
 2020-04-26,Santa Cruz,140,2
 2020-04-26,Shasta,34,4
 2020-04-26,Sierra,0,0
@@ -3827,7 +3827,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-26,Ventura,634,17
 2020-04-26,Yolo,174,8
 2020-04-26,Yuba,18,1
-2020-04-25,Alameda,1714,52
+2020-04-25,Alameda,1713,52
 2020-04-25,Alpine,1,0
 2020-04-25,Amador,8,0
 2020-04-25,Butte,27,0
@@ -3836,7 +3836,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-25,Contra Costa,942,24
 2020-04-25,Del Norte,2,0
 2020-04-25,El Dorado,52,0
-2020-04-25,Fresno,805,7
+2020-04-25,Fresno,806,7
 2020-04-25,Glenn,5,0
 2020-04-25,Humboldt,59,0
 2020-04-25,Imperial,435,6
@@ -3869,7 +3869,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-25,San Luis Obispo,217,1
 2020-04-25,San Mateo,1352,46
 2020-04-25,Santa Barbara,598,7
-2020-04-25,Santa Clara,2375,99
+2020-04-25,Santa Clara,2376,99
 2020-04-25,Santa Cruz,140,2
 2020-04-25,Shasta,34,4
 2020-04-25,Sierra,0,0
@@ -3885,7 +3885,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-25,Ventura,620,16
 2020-04-25,Yolo,174,8
 2020-04-25,Yuba,17,1
-2020-04-24,Alameda,1683,50
+2020-04-24,Alameda,1682,50
 2020-04-24,Alpine,1,0
 2020-04-24,Amador,8,0
 2020-04-24,Butte,27,0
@@ -3894,7 +3894,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-24,Contra Costa,933,23
 2020-04-24,Del Norte,2,0
 2020-04-24,El Dorado,51,0
-2020-04-24,Fresno,786,7
+2020-04-24,Fresno,787,7
 2020-04-24,Glenn,5,0
 2020-04-24,Humboldt,59,0
 2020-04-24,Imperial,419,6
@@ -3927,7 +3927,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-24,San Luis Obispo,214,1
 2020-04-24,San Mateo,1329,43
 2020-04-24,Santa Barbara,591,6
-2020-04-24,Santa Clara,2347,98
+2020-04-24,Santa Clara,2348,98
 2020-04-24,Santa Cruz,136,2
 2020-04-24,Shasta,34,4
 2020-04-24,Sierra,0,0
@@ -3943,7 +3943,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-24,Ventura,611,16
 2020-04-24,Yolo,173,8
 2020-04-24,Yuba,16,1
-2020-04-23,Alameda,1645,46
+2020-04-23,Alameda,1644,46
 2020-04-23,Alpine,1,0
 2020-04-23,Amador,8,0
 2020-04-23,Butte,26,0
@@ -3985,7 +3985,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-23,San Luis Obispo,210,1
 2020-04-23,San Mateo,1289,42
 2020-04-23,Santa Barbara,581,6
-2020-04-23,Santa Clara,2317,95
+2020-04-23,Santa Clara,2318,95
 2020-04-23,Santa Cruz,135,2
 2020-04-23,Shasta,34,3
 2020-04-23,Sierra,0,0
@@ -4001,7 +4001,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-23,Ventura,597,16
 2020-04-23,Yolo,170,8
 2020-04-23,Yuba,16,1
-2020-04-22,Alameda,1596,46
+2020-04-22,Alameda,1595,46
 2020-04-22,Alpine,1,0
 2020-04-22,Amador,8,0
 2020-04-22,Butte,25,0
@@ -4043,7 +4043,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-22,San Luis Obispo,201,1
 2020-04-22,San Mateo,1266,40
 2020-04-22,Santa Barbara,573,6
-2020-04-22,Santa Clara,2304,95
+2020-04-22,Santa Clara,2305,95
 2020-04-22,Santa Cruz,131,2
 2020-04-22,Shasta,33,3
 2020-04-22,Sierra,0,0
@@ -4059,7 +4059,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-22,Ventura,587,15
 2020-04-22,Yolo,170,8
 2020-04-22,Yuba,16,1
-2020-04-21,Alameda,1566,46
+2020-04-21,Alameda,1565,46
 2020-04-21,Alpine,1,0
 2020-04-21,Amador,8,0
 2020-04-21,Butte,24,0
@@ -4117,7 +4117,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-21,Ventura,575,14
 2020-04-21,Yolo,168,8
 2020-04-21,Yuba,16,1
-2020-04-20,Alameda,1533,42
+2020-04-20,Alameda,1532,42
 2020-04-20,Alpine,1,0
 2020-04-20,Amador,8,0
 2020-04-20,Butte,24,0
@@ -4175,7 +4175,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-20,Ventura,563,13
 2020-04-20,Yolo,167,5
 2020-04-20,Yuba,16,1
-2020-04-19,Alameda,1483,41
+2020-04-19,Alameda,1482,41
 2020-04-19,Alpine,1,0
 2020-04-19,Amador,7,0
 2020-04-19,Butte,23,0
@@ -4233,7 +4233,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-19,Ventura,555,13
 2020-04-19,Yolo,167,5
 2020-04-19,Yuba,16,1
-2020-04-18,Alameda,1458,40
+2020-04-18,Alameda,1457,40
 2020-04-18,Alpine,1,0
 2020-04-18,Amador,7,0
 2020-04-18,Butte,22,0
@@ -4291,7 +4291,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-18,Ventura,547,13
 2020-04-18,Yolo,165,5
 2020-04-18,Yuba,16,1
-2020-04-17,Alameda,1403,40
+2020-04-17,Alameda,1402,40
 2020-04-17,Alpine,1,0
 2020-04-17,Amador,7,0
 2020-04-17,Butte,22,0
@@ -4349,7 +4349,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-17,Ventura,542,13
 2020-04-17,Yolo,164,5
 2020-04-17,Yuba,16,1
-2020-04-16,Alameda,1370,39
+2020-04-16,Alameda,1369,39
 2020-04-16,Alpine,1,0
 2020-04-16,Amador,7,0
 2020-04-16,Butte,21,0
@@ -4407,7 +4407,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-16,Ventura,530,13
 2020-04-16,Yolo,162,4
 2020-04-16,Yuba,15,1
-2020-04-15,Alameda,1320,38
+2020-04-15,Alameda,1319,38
 2020-04-15,Alpine,1,0
 2020-04-15,Amador,7,0
 2020-04-15,Butte,21,0
@@ -4465,7 +4465,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-15,Ventura,515,13
 2020-04-15,Yolo,158,3
 2020-04-15,Yuba,15,1
-2020-04-14,Alameda,1275,30
+2020-04-14,Alameda,1274,30
 2020-04-14,Alpine,1,0
 2020-04-14,Amador,7,0
 2020-04-14,Butte,21,0
@@ -4523,7 +4523,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-14,Ventura,502,11
 2020-04-14,Yolo,154,3
 2020-04-14,Yuba,14,1
-2020-04-13,Alameda,1236,23
+2020-04-13,Alameda,1235,23
 2020-04-13,Alpine,1,0
 2020-04-13,Amador,7,0
 2020-04-13,Butte,21,0
@@ -4581,7 +4581,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-13,Ventura,481,9
 2020-04-13,Yolo,148,3
 2020-04-13,Yuba,14,1
-2020-04-12,Alameda,1193,23
+2020-04-12,Alameda,1192,23
 2020-04-12,Alpine,1,0
 2020-04-12,Amador,7,0
 2020-04-12,Butte,21,0
@@ -4639,7 +4639,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-12,Ventura,472,9
 2020-04-12,Yolo,135,3
 2020-04-12,Yuba,14,1
-2020-04-11,Alameda,1152,23
+2020-04-11,Alameda,1151,23
 2020-04-11,Alpine,1,0
 2020-04-11,Amador,7,0
 2020-04-11,Butte,21,0
@@ -4697,7 +4697,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-11,Ventura,462,9
 2020-04-11,Yolo,132,3
 2020-04-11,Yuba,14,1
-2020-04-10,Alameda,1111,21
+2020-04-10,Alameda,1110,21
 2020-04-10,Alpine,1,0
 2020-04-10,Amador,7,0
 2020-04-10,Butte,21,0
@@ -4755,7 +4755,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-10,Ventura,454,9
 2020-04-10,Yolo,130,3
 2020-04-10,Yuba,14,1
-2020-04-09,Alameda,1061,17
+2020-04-09,Alameda,1060,17
 2020-04-09,Alpine,1,0
 2020-04-09,Amador,7,0
 2020-04-09,Butte,20,0
@@ -4813,7 +4813,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-09,Ventura,435,9
 2020-04-09,Yolo,121,3
 2020-04-09,Yuba,14,0
-2020-04-08,Alameda,1020,15
+2020-04-08,Alameda,1019,15
 2020-04-08,Alpine,1,0
 2020-04-08,Amador,7,0
 2020-04-08,Butte,19,0
@@ -4871,7 +4871,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-08,Ventura,426,7
 2020-04-08,Yolo,104,3
 2020-04-08,Yuba,14,0
-2020-04-07,Alameda,985,14
+2020-04-07,Alameda,984,14
 2020-04-07,Alpine,1,0
 2020-04-07,Amador,7,0
 2020-04-07,Butte,18,0
@@ -4929,7 +4929,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-07,Ventura,409,6
 2020-04-07,Yolo,97,2
 2020-04-07,Yuba,14,0
-2020-04-06,Alameda,955,13
+2020-04-06,Alameda,954,13
 2020-04-06,Alpine,1,0
 2020-04-06,Amador,6,0
 2020-04-06,Butte,17,0
@@ -4987,7 +4987,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-06,Ventura,391,6
 2020-04-06,Yolo,93,1
 2020-04-06,Yuba,14,0
-2020-04-05,Alameda,913,12
+2020-04-05,Alameda,912,12
 2020-04-05,Alpine,1,0
 2020-04-05,Amador,6,0
 2020-04-05,Butte,17,0
@@ -5045,7 +5045,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-05,Ventura,377,6
 2020-04-05,Yolo,75,2
 2020-04-05,Yuba,14,0
-2020-04-04,Alameda,890,12
+2020-04-04,Alameda,889,12
 2020-04-04,Alpine,1,0
 2020-04-04,Amador,5,0
 2020-04-04,Butte,17,0
@@ -5103,7 +5103,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-04,Ventura,364,6
 2020-04-04,Yolo,73,2
 2020-04-04,Yuba,13,0
-2020-04-03,Alameda,854,11
+2020-04-03,Alameda,853,11
 2020-04-03,Alpine,1,0
 2020-04-03,Amador,5,0
 2020-04-03,Butte,17,0
@@ -5161,7 +5161,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-03,Ventura,354,6
 2020-04-03,Yolo,72,1
 2020-04-03,Yuba,13,0
-2020-04-02,Alameda,803,10
+2020-04-02,Alameda,802,10
 2020-04-02,Alpine,1,0
 2020-04-02,Amador,5,0
 2020-04-02,Butte,17,0
@@ -5219,7 +5219,7 @@ date,county,confirmed_cases,reported_deaths
 2020-04-02,Ventura,336,5
 2020-04-02,Yolo,70,1
 2020-04-02,Yuba,10,0
-2020-04-01,Alameda,777,8
+2020-04-01,Alameda,776,8
 2020-04-01,Alpine,1,0
 2020-04-01,Amador,5,0
 2020-04-01,Butte,17,0

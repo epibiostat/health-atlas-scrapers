@@ -1,5 +1,5 @@
 date,county,confirmed_cases,reported_deaths
-2020-03-31,Alameda,709,7
+2020-03-31,Alameda,708,7
 2020-03-31,Alpine,1,0
 2020-03-31,Amador,5,0
 2020-03-31,Butte,17,0
@@ -57,7 +57,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Ventura,312,4
 2020-03-31,Yolo,58,1
 2020-03-31,Yuba,9,0
-2020-03-30,Alameda,669,7
+2020-03-30,Alameda,668,7
 2020-03-30,Alpine,1,0
 2020-03-30,Amador,5,0
 2020-03-30,Butte,15,0
@@ -115,7 +115,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,Ventura,301,2
 2020-03-30,Yolo,56,1
 2020-03-30,Yuba,8,0
-2020-03-29,Alameda,635,6
+2020-03-29,Alameda,634,6
 2020-03-29,Alpine,1,0
 2020-03-29,Amador,5,0
 2020-03-29,Butte,15,0
@@ -173,7 +173,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,Ventura,274,2
 2020-03-29,Yolo,51,1
 2020-03-29,Yuba,8,0
-2020-03-28,Alameda,608,12
+2020-03-28,Alameda,607,12
 2020-03-28,Alpine,1,0
 2020-03-28,Amador,5,0
 2020-03-28,Butte,15,0
@@ -231,7 +231,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,Ventura,270,4
 2020-03-28,Yolo,50,2
 2020-03-28,Yuba,8,0
-2020-03-27,Alameda,589,4
+2020-03-27,Alameda,588,4
 2020-03-27,Alpine,1,0
 2020-03-27,Amador,4,0
 2020-03-27,Butte,13,0
@@ -289,7 +289,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,Ventura,261,2
 2020-03-27,Yolo,49,1
 2020-03-27,Yuba,7,0
-2020-03-26,Alameda,549,4
+2020-03-26,Alameda,548,4
 2020-03-26,Alpine,1,0
 2020-03-26,Amador,4,0
 2020-03-26,Butte,13,0
@@ -347,7 +347,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,Ventura,245,1
 2020-03-26,Yolo,45,1
 2020-03-26,Yuba,7,0
-2020-03-25,Alameda,528,3
+2020-03-25,Alameda,527,3
 2020-03-25,Alpine,1,0
 2020-03-25,Amador,4,0
 2020-03-25,Butte,13,0
@@ -405,7 +405,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-25,Ventura,229,1
 2020-03-25,Yolo,43,1
 2020-03-25,Yuba,7,0
-2020-03-24,Alameda,496,2
+2020-03-24,Alameda,495,2
 2020-03-24,Alpine,1,0
 2020-03-24,Amador,2,0
 2020-03-24,Butte,12,0
@@ -820,7 +820,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-17,Contra Costa,210,0
 2020-03-17,Del Norte,0,0
 2020-03-17,El Dorado,16,0
-2020-03-17,Fresno,69,0
+2020-03-17,Fresno,68,0
 2020-03-17,Glenn,1,0
 2020-03-17,Humboldt,17,0
 2020-03-17,Imperial,28,0
@@ -878,7 +878,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-16,Contra Costa,186,0
 2020-03-16,Del Norte,0,0
 2020-03-16,El Dorado,15,0
-2020-03-16,Fresno,54,0
+2020-03-16,Fresno,53,0
 2020-03-16,Glenn,0,0
 2020-03-16,Humboldt,13,0
 2020-03-16,Imperial,23,0
@@ -936,7 +936,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-15,Contra Costa,161,0
 2020-03-15,Del Norte,0,0
 2020-03-15,El Dorado,14,0
-2020-03-15,Fresno,34,0
+2020-03-15,Fresno,33,0
 2020-03-15,Glenn,0,0
 2020-03-15,Humboldt,11,0
 2020-03-15,Imperial,18,0
@@ -994,7 +994,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-14,Contra Costa,139,0
 2020-03-14,Del Norte,0,0
 2020-03-14,El Dorado,12,0
-2020-03-14,Fresno,26,0
+2020-03-14,Fresno,25,0
 2020-03-14,Glenn,0,0
 2020-03-14,Humboldt,7,0
 2020-03-14,Imperial,14,0
@@ -1052,7 +1052,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-13,Contra Costa,125,0
 2020-03-13,Del Norte,0,0
 2020-03-13,El Dorado,11,0
-2020-03-13,Fresno,21,0
+2020-03-13,Fresno,20,0
 2020-03-13,Glenn,0,0
 2020-03-13,Humboldt,7,0
 2020-03-13,Imperial,13,0
