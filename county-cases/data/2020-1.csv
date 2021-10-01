@@ -41,7 +41,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,San Luis Obispo,116,0
 2020-03-31,San Mateo,740,12
 2020-03-31,Santa Barbara,266,0
-2020-03-31,Santa Clara,1398,30
+2020-03-31,Santa Clara,1399,30
 2020-03-31,Santa Cruz,83,1
 2020-03-31,Shasta,21,1
 2020-03-31,Sierra,0,0
@@ -99,7 +99,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,San Luis Obispo,114,0
 2020-03-30,San Mateo,716,11
 2020-03-30,Santa Barbara,256,0
-2020-03-30,Santa Clara,1367,31
+2020-03-30,Santa Clara,1368,31
 2020-03-30,Santa Cruz,80,1
 2020-03-30,Shasta,20,1
 2020-03-30,Sierra,0,0
@@ -157,7 +157,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,San Luis Obispo,109,0
 2020-03-29,San Mateo,691,12
 2020-03-29,Santa Barbara,245,0
-2020-03-29,Santa Clara,1312,30
+2020-03-29,Santa Clara,1313,30
 2020-03-29,Santa Cruz,80,1
 2020-03-29,Shasta,19,1
 2020-03-29,Sierra,0,0
@@ -215,7 +215,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,San Luis Obispo,107,0
 2020-03-28,San Mateo,671,17
 2020-03-28,Santa Barbara,234,0
-2020-03-28,Santa Clara,1293,54
+2020-03-28,Santa Clara,1294,54
 2020-03-28,Santa Cruz,79,0
 2020-03-28,Shasta,19,2
 2020-03-28,Sierra,0,0
@@ -273,7 +273,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,San Luis Obispo,105,0
 2020-03-27,San Mateo,645,7
 2020-03-27,Santa Barbara,218,0
-2020-03-27,Santa Clara,1256,25
+2020-03-27,Santa Clara,1257,25
 2020-03-27,Santa Cruz,78,0
 2020-03-27,Shasta,16,1
 2020-03-27,Sierra,0,0
@@ -331,7 +331,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,San Luis Obispo,100,0
 2020-03-26,San Mateo,612,5
 2020-03-26,Santa Barbara,202,0
-2020-03-26,Santa Clara,1213,20
+2020-03-26,Santa Clara,1214,20
 2020-03-26,Santa Cruz,74,0
 2020-03-26,Shasta,16,1
 2020-03-26,Sierra,0,0
@@ -389,7 +389,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-25,San Luis Obispo,96,0
 2020-03-25,San Mateo,577,5
 2020-03-25,Santa Barbara,191,0
-2020-03-25,Santa Clara,1169,20
+2020-03-25,Santa Clara,1170,20
 2020-03-25,Santa Cruz,71,0
 2020-03-25,Shasta,15,1
 2020-03-25,Sierra,0,0
@@ -447,7 +447,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-24,San Luis Obispo,94,0
 2020-03-24,San Mateo,536,2
 2020-03-24,Santa Barbara,185,0
-2020-03-24,Santa Clara,1100,17
+2020-03-24,Santa Clara,1101,17
 2020-03-24,Santa Cruz,66,0
 2020-03-24,Shasta,14,0
 2020-03-24,Sierra,0,0
@@ -505,7 +505,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-23,San Luis Obispo,88,0
 2020-03-23,San Mateo,498,1
 2020-03-23,Santa Barbara,164,0
-2020-03-23,Santa Clara,1053,13
+2020-03-23,Santa Clara,1054,13
 2020-03-23,Santa Cruz,64,0
 2020-03-23,Shasta,12,0
 2020-03-23,Sierra,0,0
@@ -563,7 +563,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-22,San Luis Obispo,83,0
 2020-03-22,San Mateo,465,1
 2020-03-22,Santa Barbara,147,0
-2020-03-22,Santa Clara,991,13
+2020-03-22,Santa Clara,992,13
 2020-03-22,Santa Cruz,63,0
 2020-03-22,Shasta,12,0
 2020-03-22,Sierra,0,0
@@ -621,7 +621,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-21,San Luis Obispo,79,0
 2020-03-21,San Mateo,427,1
 2020-03-21,Santa Barbara,132,0
-2020-03-21,Santa Clara,931,10
+2020-03-21,Santa Clara,932,10
 2020-03-21,Santa Cruz,61,0
 2020-03-21,Shasta,11,0
 2020-03-21,Sierra,0,0
@@ -679,7 +679,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-20,San Luis Obispo,76,0
 2020-03-20,San Mateo,397,1
 2020-03-20,Santa Barbara,116,0
-2020-03-20,Santa Clara,895,8
+2020-03-20,Santa Clara,896,8
 2020-03-20,Santa Cruz,59,0
 2020-03-20,Shasta,10,0
 2020-03-20,Sierra,0,0
@@ -737,7 +737,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-19,San Luis Obispo,74,0
 2020-03-19,San Mateo,362,1
 2020-03-19,Santa Barbara,101,0
-2020-03-19,Santa Clara,829,8
+2020-03-19,Santa Clara,830,8
 2020-03-19,Santa Cruz,56,0
 2020-03-19,Shasta,9,0
 2020-03-19,Sierra,0,0
