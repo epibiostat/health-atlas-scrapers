@@ -2,10 +2,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Alameda,708,7
 2020-03-31,Alpine,1,0
 2020-03-31,Amador,5,0
-2020-03-31,Butte,17,0
+2020-03-31,Butte,16,0
 2020-03-31,Calaveras,6,0
 2020-03-31,Colusa,3,0
-2020-03-31,Contra Costa,492,3
+2020-03-31,Contra Costa,494,3
 2020-03-31,Del Norte,1,0
 2020-03-31,El Dorado,31,0
 2020-03-31,Fresno,243,0
@@ -17,7 +17,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Kings,22,0
 2020-03-31,Lake,1,0
 2020-03-31,Lassen,1,0
-2020-03-31,Los Angeles,7035,53
+2020-03-31,Los Angeles,7036,53
 2020-03-31,Madera,45,1
 2020-03-31,Marin,136,1
 2020-03-31,Mariposa,0,0
@@ -28,7 +28,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Monterey,76,2
 2020-03-31,Napa,35,0
 2020-03-31,Nevada,35,0
-2020-03-31,Orange,1341,7
+2020-03-31,Orange,1343,7
 2020-03-31,Placer,120,2
 2020-03-31,Plumas,1,0
 2020-03-31,Riverside,1195,8
@@ -38,9 +38,9 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,San Diego,1581,9
 2020-03-31,San Francisco,745,5
 2020-03-31,San Joaquin,235,7
-2020-03-31,San Luis Obispo,116,0
+2020-03-31,San Luis Obispo,117,0
 2020-03-31,San Mateo,740,12
-2020-03-31,Santa Barbara,266,0
+2020-03-31,Santa Barbara,267,0
 2020-03-31,Santa Clara,1399,30
 2020-03-31,Santa Cruz,83,1
 2020-03-31,Shasta,21,1
@@ -60,10 +60,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,Alameda,668,7
 2020-03-30,Alpine,1,0
 2020-03-30,Amador,5,0
-2020-03-30,Butte,15,0
+2020-03-30,Butte,14,0
 2020-03-30,Calaveras,6,0
 2020-03-30,Colusa,3,0
-2020-03-30,Contra Costa,466,3
+2020-03-30,Contra Costa,468,3
 2020-03-30,Del Norte,0,0
 2020-03-30,El Dorado,31,0
 2020-03-30,Fresno,219,0
@@ -86,7 +86,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,Monterey,71,1
 2020-03-30,Napa,34,0
 2020-03-30,Nevada,34,0
-2020-03-30,Orange,1277,5
+2020-03-30,Orange,1278,5
 2020-03-30,Placer,117,2
 2020-03-30,Plumas,1,0
 2020-03-30,Riverside,1114,7
@@ -96,9 +96,9 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,San Diego,1511,7
 2020-03-30,San Francisco,705,5
 2020-03-30,San Joaquin,228,5
-2020-03-30,San Luis Obispo,114,0
+2020-03-30,San Luis Obispo,115,0
 2020-03-30,San Mateo,716,11
-2020-03-30,Santa Barbara,256,0
+2020-03-30,Santa Barbara,257,0
 2020-03-30,Santa Clara,1368,31
 2020-03-30,Santa Cruz,80,1
 2020-03-30,Shasta,20,1
@@ -118,10 +118,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,Alameda,634,6
 2020-03-29,Alpine,1,0
 2020-03-29,Amador,5,0
-2020-03-29,Butte,15,0
+2020-03-29,Butte,14,0
 2020-03-29,Calaveras,6,0
 2020-03-29,Colusa,3,0
-2020-03-29,Contra Costa,436,3
+2020-03-29,Contra Costa,438,3
 2020-03-29,Del Norte,0,0
 2020-03-29,El Dorado,30,0
 2020-03-29,Fresno,195,0
@@ -144,7 +144,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,Monterey,66,1
 2020-03-29,Napa,32,0
 2020-03-29,Nevada,32,0
-2020-03-29,Orange,1204,2
+2020-03-29,Orange,1205,2
 2020-03-29,Placer,116,2
 2020-03-29,Plumas,1,0
 2020-03-29,Riverside,990,7
@@ -154,9 +154,9 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,San Diego,1439,7
 2020-03-29,San Francisco,661,5
 2020-03-29,San Joaquin,219,4
-2020-03-29,San Luis Obispo,109,0
+2020-03-29,San Luis Obispo,110,0
 2020-03-29,San Mateo,691,12
-2020-03-29,Santa Barbara,245,0
+2020-03-29,Santa Barbara,246,0
 2020-03-29,Santa Clara,1313,30
 2020-03-29,Santa Cruz,80,1
 2020-03-29,Shasta,19,1
@@ -176,10 +176,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,Alameda,607,12
 2020-03-28,Alpine,1,0
 2020-03-28,Amador,5,0
-2020-03-28,Butte,15,0
+2020-03-28,Butte,14,0
 2020-03-28,Calaveras,6,0
 2020-03-28,Colusa,3,0
-2020-03-28,Contra Costa,413,4
+2020-03-28,Contra Costa,415,4
 2020-03-28,Del Norte,0,0
 2020-03-28,El Dorado,29,0
 2020-03-28,Fresno,185,0
@@ -202,7 +202,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,Monterey,65,2
 2020-03-28,Napa,27,0
 2020-03-28,Nevada,32,0
-2020-03-28,Orange,1168,4
+2020-03-28,Orange,1169,4
 2020-03-28,Placer,111,2
 2020-03-28,Plumas,1,0
 2020-03-28,Riverside,922,14
@@ -212,9 +212,9 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,San Diego,1380,14
 2020-03-28,San Francisco,637,6
 2020-03-28,San Joaquin,212,8
-2020-03-28,San Luis Obispo,107,0
+2020-03-28,San Luis Obispo,108,0
 2020-03-28,San Mateo,671,17
-2020-03-28,Santa Barbara,234,0
+2020-03-28,Santa Barbara,235,0
 2020-03-28,Santa Clara,1294,54
 2020-03-28,Santa Cruz,79,0
 2020-03-28,Shasta,19,2
@@ -234,10 +234,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,Alameda,588,4
 2020-03-27,Alpine,1,0
 2020-03-27,Amador,4,0
-2020-03-27,Butte,13,0
+2020-03-27,Butte,12,0
 2020-03-27,Calaveras,6,0
 2020-03-27,Colusa,3,0
-2020-03-27,Contra Costa,392,2
+2020-03-27,Contra Costa,394,2
 2020-03-27,Del Norte,0,0
 2020-03-27,El Dorado,27,0
 2020-03-27,Fresno,173,0
@@ -260,7 +260,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,Monterey,62,1
 2020-03-27,Napa,27,0
 2020-03-27,Nevada,32,0
-2020-03-27,Orange,1116,2
+2020-03-27,Orange,1117,2
 2020-03-27,Placer,108,1
 2020-03-27,Plumas,0,0
 2020-03-27,Riverside,866,7
@@ -270,9 +270,9 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,San Diego,1323,5
 2020-03-27,San Francisco,612,2
 2020-03-27,San Joaquin,201,3
-2020-03-27,San Luis Obispo,105,0
+2020-03-27,San Luis Obispo,106,0
 2020-03-27,San Mateo,645,7
-2020-03-27,Santa Barbara,218,0
+2020-03-27,Santa Barbara,219,0
 2020-03-27,Santa Clara,1257,25
 2020-03-27,Santa Cruz,78,0
 2020-03-27,Shasta,16,1
@@ -292,10 +292,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,Alameda,548,4
 2020-03-26,Alpine,1,0
 2020-03-26,Amador,4,0
-2020-03-26,Butte,13,0
+2020-03-26,Butte,12,0
 2020-03-26,Calaveras,6,0
 2020-03-26,Colusa,3,0
-2020-03-26,Contra Costa,382,2
+2020-03-26,Contra Costa,384,2
 2020-03-26,Del Norte,0,0
 2020-03-26,El Dorado,26,0
 2020-03-26,Fresno,164,0
@@ -318,7 +318,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,Monterey,59,1
 2020-03-26,Napa,26,0
 2020-03-26,Nevada,32,0
-2020-03-26,Orange,1054,1
+2020-03-26,Orange,1055,1
 2020-03-26,Placer,104,1
 2020-03-26,Plumas,0,0
 2020-03-26,Riverside,796,7
@@ -328,9 +328,9 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,San Diego,1256,2
 2020-03-26,San Francisco,585,1
 2020-03-26,San Joaquin,190,3
-2020-03-26,San Luis Obispo,100,0
+2020-03-26,San Luis Obispo,101,0
 2020-03-26,San Mateo,612,5
-2020-03-26,Santa Barbara,202,0
+2020-03-26,Santa Barbara,203,0
 2020-03-26,Santa Clara,1214,20
 2020-03-26,Santa Cruz,74,0
 2020-03-26,Shasta,16,1
@@ -350,10 +350,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-25,Alameda,527,3
 2020-03-25,Alpine,1,0
 2020-03-25,Amador,4,0
-2020-03-25,Butte,13,0
+2020-03-25,Butte,12,0
 2020-03-25,Calaveras,6,0
 2020-03-25,Colusa,2,0
-2020-03-25,Contra Costa,368,1
+2020-03-25,Contra Costa,370,1
 2020-03-25,Del Norte,0,0
 2020-03-25,El Dorado,26,0
 2020-03-25,Fresno,149,0
@@ -376,7 +376,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-25,Monterey,56,1
 2020-03-25,Napa,26,0
 2020-03-25,Nevada,31,0
-2020-03-25,Orange,996,1
+2020-03-25,Orange,997,1
 2020-03-25,Placer,98,1
 2020-03-25,Plumas,0,0
 2020-03-25,Riverside,725,5
@@ -388,7 +388,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-25,San Joaquin,177,2
 2020-03-25,San Luis Obispo,96,0
 2020-03-25,San Mateo,577,5
-2020-03-25,Santa Barbara,191,0
+2020-03-25,Santa Barbara,192,0
 2020-03-25,Santa Clara,1170,20
 2020-03-25,Santa Cruz,71,0
 2020-03-25,Shasta,15,1
@@ -408,10 +408,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-24,Alameda,495,2
 2020-03-24,Alpine,1,0
 2020-03-24,Amador,2,0
-2020-03-24,Butte,12,0
+2020-03-24,Butte,11,0
 2020-03-24,Calaveras,5,0
 2020-03-24,Colusa,2,0
-2020-03-24,Contra Costa,355,1
+2020-03-24,Contra Costa,356,1
 2020-03-24,Del Norte,0,0
 2020-03-24,El Dorado,26,0
 2020-03-24,Fresno,130,0
@@ -434,7 +434,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-24,Monterey,52,1
 2020-03-24,Napa,23,0
 2020-03-24,Nevada,30,0
-2020-03-24,Orange,934,0
+2020-03-24,Orange,935,0
 2020-03-24,Placer,92,1
 2020-03-24,Plumas,0,0
 2020-03-24,Riverside,658,5
@@ -446,7 +446,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-24,San Joaquin,166,2
 2020-03-24,San Luis Obispo,94,0
 2020-03-24,San Mateo,536,2
-2020-03-24,Santa Barbara,185,0
+2020-03-24,Santa Barbara,186,0
 2020-03-24,Santa Clara,1101,17
 2020-03-24,Santa Cruz,66,0
 2020-03-24,Shasta,14,0
@@ -466,10 +466,10 @@ date,county,confirmed_cases,reported_deaths
 2020-03-23,Alameda,465,1
 2020-03-23,Alpine,1,0
 2020-03-23,Amador,2,0
-2020-03-23,Butte,12,0
+2020-03-23,Butte,11,0
 2020-03-23,Calaveras,5,0
 2020-03-23,Colusa,1,0
-2020-03-23,Contra Costa,335,2
+2020-03-23,Contra Costa,336,2
 2020-03-23,Del Norte,0,0
 2020-03-23,El Dorado,25,0
 2020-03-23,Fresno,120,0
@@ -492,7 +492,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-23,Monterey,47,1
 2020-03-23,Napa,21,0
 2020-03-23,Nevada,27,0
-2020-03-23,Orange,880,0
+2020-03-23,Orange,881,0
 2020-03-23,Placer,89,1
 2020-03-23,Plumas,0,0
 2020-03-23,Riverside,617,5
@@ -504,7 +504,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-23,San Joaquin,154,2
 2020-03-23,San Luis Obispo,88,0
 2020-03-23,San Mateo,498,1
-2020-03-23,Santa Barbara,164,0
+2020-03-23,Santa Barbara,165,0
 2020-03-23,Santa Clara,1054,13
 2020-03-23,Santa Cruz,64,0
 2020-03-23,Shasta,12,0
@@ -524,7 +524,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-22,Alameda,426,1
 2020-03-22,Alpine,1,0
 2020-03-22,Amador,2,0
-2020-03-22,Butte,9,0
+2020-03-22,Butte,8,0
 2020-03-22,Calaveras,4,0
 2020-03-22,Colusa,1,0
 2020-03-22,Contra Costa,309,1
@@ -550,7 +550,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-22,Monterey,45,1
 2020-03-22,Napa,17,0
 2020-03-22,Nevada,23,0
-2020-03-22,Orange,814,0
+2020-03-22,Orange,815,0
 2020-03-22,Placer,87,1
 2020-03-22,Plumas,0,0
 2020-03-22,Riverside,539,5
@@ -582,7 +582,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-21,Alameda,403,0
 2020-03-21,Alpine,1,0
 2020-03-21,Amador,2,0
-2020-03-21,Butte,8,0
+2020-03-21,Butte,7,0
 2020-03-21,Calaveras,4,0
 2020-03-21,Colusa,1,0
 2020-03-21,Contra Costa,298,1
@@ -608,7 +608,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-21,Monterey,43,1
 2020-03-21,Napa,17,0
 2020-03-21,Nevada,23,0
-2020-03-21,Orange,765,0
+2020-03-21,Orange,766,0
 2020-03-21,Placer,78,1
 2020-03-21,Plumas,0,0
 2020-03-21,Riverside,496,3
@@ -640,7 +640,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-20,Alameda,382,0
 2020-03-20,Alpine,1,0
 2020-03-20,Amador,1,0
-2020-03-20,Butte,8,0
+2020-03-20,Butte,7,0
 2020-03-20,Calaveras,4,0
 2020-03-20,Colusa,1,0
 2020-03-20,Contra Costa,269,1
@@ -666,7 +666,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-20,Monterey,42,0
 2020-03-20,Napa,16,0
 2020-03-20,Nevada,20,0
-2020-03-20,Orange,718,2
+2020-03-20,Orange,719,2
 2020-03-20,Placer,72,1
 2020-03-20,Plumas,0,0
 2020-03-20,Riverside,443,3
@@ -698,7 +698,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-19,Alameda,346,0
 2020-03-19,Alpine,1,0
 2020-03-19,Amador,1,0
-2020-03-19,Butte,6,0
+2020-03-19,Butte,5,0
 2020-03-19,Calaveras,4,0
 2020-03-19,Colusa,0,0
 2020-03-19,Contra Costa,253,0
@@ -756,7 +756,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-18,Alameda,318,0
 2020-03-18,Alpine,1,0
 2020-03-18,Amador,1,0
-2020-03-18,Butte,5,0
+2020-03-18,Butte,4,0
 2020-03-18,Calaveras,4,0
 2020-03-18,Colusa,0,0
 2020-03-18,Contra Costa,232,0
@@ -814,7 +814,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-17,Alameda,287,0
 2020-03-17,Alpine,0,0
 2020-03-17,Amador,1,0
-2020-03-17,Butte,5,0
+2020-03-17,Butte,4,0
 2020-03-17,Calaveras,4,0
 2020-03-17,Colusa,0,0
 2020-03-17,Contra Costa,210,0
@@ -872,7 +872,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-16,Alameda,258,0
 2020-03-16,Alpine,0,0
 2020-03-16,Amador,1,0
-2020-03-16,Butte,4,0
+2020-03-16,Butte,3,0
 2020-03-16,Calaveras,4,0
 2020-03-16,Colusa,0,0
 2020-03-16,Contra Costa,186,0
@@ -930,7 +930,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-15,Alameda,212,0
 2020-03-15,Alpine,0,0
 2020-03-15,Amador,1,0
-2020-03-15,Butte,4,0
+2020-03-15,Butte,3,0
 2020-03-15,Calaveras,2,0
 2020-03-15,Colusa,0,0
 2020-03-15,Contra Costa,161,0
@@ -988,7 +988,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-14,Alameda,194,0
 2020-03-14,Alpine,0,0
 2020-03-14,Amador,1,0
-2020-03-14,Butte,3,0
+2020-03-14,Butte,2,0
 2020-03-14,Calaveras,2,0
 2020-03-14,Colusa,0,0
 2020-03-14,Contra Costa,139,0
@@ -1046,7 +1046,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-13,Alameda,176,0
 2020-03-13,Alpine,0,0
 2020-03-13,Amador,1,0
-2020-03-13,Butte,1,0
+2020-03-13,Butte,0,0
 2020-03-13,Calaveras,2,0
 2020-03-13,Colusa,0,0
 2020-03-13,Contra Costa,125,0
