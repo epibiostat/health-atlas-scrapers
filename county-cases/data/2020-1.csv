@@ -1,5 +1,5 @@
 date,county,confirmed_cases,reported_deaths
-2020-03-31,Alameda,708,7
+2020-03-31,Alameda,707,7
 2020-03-31,Alpine,1,0
 2020-03-31,Amador,5,0
 2020-03-31,Butte,16,0
@@ -8,7 +8,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Contra Costa,494,3
 2020-03-31,Del Norte,1,0
 2020-03-31,El Dorado,31,0
-2020-03-31,Fresno,243,0
+2020-03-31,Fresno,244,0
 2020-03-31,Glenn,3,0
 2020-03-31,Humboldt,51,0
 2020-03-31,Imperial,94,0
@@ -34,7 +34,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Riverside,1195,8
 2020-03-31,Sacramento,607,8
 2020-03-31,San Benito,29,1
-2020-03-31,San Bernardino,746,5
+2020-03-31,San Bernardino,744,5
 2020-03-31,San Diego,1581,9
 2020-03-31,San Francisco,745,5
 2020-03-31,San Joaquin,235,7
@@ -46,7 +46,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Shasta,21,1
 2020-03-31,Sierra,0,0
 2020-03-31,Siskiyou,4,0
-2020-03-31,Solano,118,0
+2020-03-31,Solano,117,0
 2020-03-31,Sonoma,149,1
 2020-03-31,Stanislaus,103,0
 2020-03-31,Sutter,21,0
@@ -57,7 +57,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-31,Ventura,312,4
 2020-03-31,Yolo,58,1
 2020-03-31,Yuba,9,0
-2020-03-30,Alameda,668,7
+2020-03-30,Alameda,667,7
 2020-03-30,Alpine,1,0
 2020-03-30,Amador,5,0
 2020-03-30,Butte,14,0
@@ -66,7 +66,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,Contra Costa,468,3
 2020-03-30,Del Norte,0,0
 2020-03-30,El Dorado,31,0
-2020-03-30,Fresno,219,0
+2020-03-30,Fresno,220,0
 2020-03-30,Glenn,3,0
 2020-03-30,Humboldt,49,0
 2020-03-30,Imperial,90,0
@@ -92,7 +92,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,Riverside,1114,7
 2020-03-30,Sacramento,583,8
 2020-03-30,San Benito,29,1
-2020-03-30,San Bernardino,702,4
+2020-03-30,San Bernardino,700,4
 2020-03-30,San Diego,1511,7
 2020-03-30,San Francisco,705,5
 2020-03-30,San Joaquin,228,5
@@ -104,7 +104,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,Shasta,20,1
 2020-03-30,Sierra,0,0
 2020-03-30,Siskiyou,4,0
-2020-03-30,Solano,112,0
+2020-03-30,Solano,111,0
 2020-03-30,Sonoma,146,1
 2020-03-30,Stanislaus,96,0
 2020-03-30,Sutter,20,0
@@ -115,7 +115,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-30,Ventura,301,2
 2020-03-30,Yolo,56,1
 2020-03-30,Yuba,8,0
-2020-03-29,Alameda,634,6
+2020-03-29,Alameda,633,6
 2020-03-29,Alpine,1,0
 2020-03-29,Amador,5,0
 2020-03-29,Butte,14,0
@@ -124,7 +124,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,Contra Costa,438,3
 2020-03-29,Del Norte,0,0
 2020-03-29,El Dorado,30,0
-2020-03-29,Fresno,195,0
+2020-03-29,Fresno,196,0
 2020-03-29,Glenn,2,0
 2020-03-29,Humboldt,46,0
 2020-03-29,Imperial,84,0
@@ -150,7 +150,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,Riverside,990,7
 2020-03-29,Sacramento,543,7
 2020-03-29,San Benito,28,1
-2020-03-29,San Bernardino,650,2
+2020-03-29,San Bernardino,648,2
 2020-03-29,San Diego,1439,7
 2020-03-29,San Francisco,661,5
 2020-03-29,San Joaquin,219,4
@@ -173,7 +173,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-29,Ventura,274,2
 2020-03-29,Yolo,51,1
 2020-03-29,Yuba,8,0
-2020-03-28,Alameda,607,12
+2020-03-28,Alameda,606,12
 2020-03-28,Alpine,1,0
 2020-03-28,Amador,5,0
 2020-03-28,Butte,14,0
@@ -182,7 +182,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,Contra Costa,415,4
 2020-03-28,Del Norte,0,0
 2020-03-28,El Dorado,29,0
-2020-03-28,Fresno,185,0
+2020-03-28,Fresno,186,0
 2020-03-28,Glenn,2,0
 2020-03-28,Humboldt,46,0
 2020-03-28,Imperial,79,0
@@ -208,7 +208,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,Riverside,922,14
 2020-03-28,Sacramento,525,14
 2020-03-28,San Benito,28,2
-2020-03-28,San Bernardino,602,4
+2020-03-28,San Bernardino,600,4
 2020-03-28,San Diego,1380,14
 2020-03-28,San Francisco,637,6
 2020-03-28,San Joaquin,212,8
@@ -231,7 +231,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-28,Ventura,270,4
 2020-03-28,Yolo,50,2
 2020-03-28,Yuba,8,0
-2020-03-27,Alameda,588,4
+2020-03-27,Alameda,587,4
 2020-03-27,Alpine,1,0
 2020-03-27,Amador,4,0
 2020-03-27,Butte,12,0
@@ -240,7 +240,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,Contra Costa,394,2
 2020-03-27,Del Norte,0,0
 2020-03-27,El Dorado,27,0
-2020-03-27,Fresno,173,0
+2020-03-27,Fresno,174,0
 2020-03-27,Glenn,2,0
 2020-03-27,Humboldt,42,0
 2020-03-27,Imperial,74,0
@@ -266,7 +266,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,Riverside,866,7
 2020-03-27,Sacramento,502,6
 2020-03-27,San Benito,27,1
-2020-03-27,San Bernardino,512,2
+2020-03-27,San Bernardino,510,2
 2020-03-27,San Diego,1323,5
 2020-03-27,San Francisco,612,2
 2020-03-27,San Joaquin,201,3
@@ -289,7 +289,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-27,Ventura,261,2
 2020-03-27,Yolo,49,1
 2020-03-27,Yuba,7,0
-2020-03-26,Alameda,548,4
+2020-03-26,Alameda,547,4
 2020-03-26,Alpine,1,0
 2020-03-26,Amador,4,0
 2020-03-26,Butte,12,0
@@ -298,7 +298,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,Contra Costa,384,2
 2020-03-26,Del Norte,0,0
 2020-03-26,El Dorado,26,0
-2020-03-26,Fresno,164,0
+2020-03-26,Fresno,165,0
 2020-03-26,Glenn,2,0
 2020-03-26,Humboldt,38,0
 2020-03-26,Imperial,70,0
@@ -324,7 +324,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,Riverside,796,7
 2020-03-26,Sacramento,469,5
 2020-03-26,San Benito,27,1
-2020-03-26,San Bernardino,445,1
+2020-03-26,San Bernardino,444,1
 2020-03-26,San Diego,1256,2
 2020-03-26,San Francisco,585,1
 2020-03-26,San Joaquin,190,3
@@ -347,7 +347,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-26,Ventura,245,1
 2020-03-26,Yolo,45,1
 2020-03-26,Yuba,7,0
-2020-03-25,Alameda,527,3
+2020-03-25,Alameda,526,3
 2020-03-25,Alpine,1,0
 2020-03-25,Amador,4,0
 2020-03-25,Butte,12,0
@@ -382,7 +382,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-25,Riverside,725,5
 2020-03-25,Sacramento,443,5
 2020-03-25,San Benito,26,1
-2020-03-25,San Bernardino,406,1
+2020-03-25,San Bernardino,405,1
 2020-03-25,San Diego,1194,2
 2020-03-25,San Francisco,544,1
 2020-03-25,San Joaquin,177,2
@@ -405,7 +405,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-25,Ventura,229,1
 2020-03-25,Yolo,43,1
 2020-03-25,Yuba,7,0
-2020-03-24,Alameda,495,2
+2020-03-24,Alameda,494,2
 2020-03-24,Alpine,1,0
 2020-03-24,Amador,2,0
 2020-03-24,Butte,11,0
@@ -440,7 +440,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-24,Riverside,658,5
 2020-03-24,Sacramento,424,4
 2020-03-24,San Benito,25,1
-2020-03-24,San Bernardino,362,0
+2020-03-24,San Bernardino,361,0
 2020-03-24,San Diego,1127,2
 2020-03-24,San Francisco,512,1
 2020-03-24,San Joaquin,166,2
@@ -463,7 +463,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-24,Ventura,213,1
 2020-03-24,Yolo,39,0
 2020-03-24,Yuba,7,0
-2020-03-23,Alameda,465,1
+2020-03-23,Alameda,464,1
 2020-03-23,Alpine,1,0
 2020-03-23,Amador,2,0
 2020-03-23,Butte,11,0
@@ -498,7 +498,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-23,Riverside,617,5
 2020-03-23,Sacramento,391,4
 2020-03-23,San Benito,24,1
-2020-03-23,San Bernardino,332,0
+2020-03-23,San Bernardino,331,0
 2020-03-23,San Diego,1068,1
 2020-03-23,San Francisco,483,0
 2020-03-23,San Joaquin,154,2
@@ -521,7 +521,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-23,Ventura,196,0
 2020-03-23,Yolo,38,0
 2020-03-23,Yuba,7,0
-2020-03-22,Alameda,426,1
+2020-03-22,Alameda,425,1
 2020-03-22,Alpine,1,0
 2020-03-22,Amador,2,0
 2020-03-22,Butte,8,0
@@ -556,7 +556,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-22,Riverside,539,5
 2020-03-22,Sacramento,360,4
 2020-03-22,San Benito,19,1
-2020-03-22,San Bernardino,289,0
+2020-03-22,San Bernardino,288,0
 2020-03-22,San Diego,980,0
 2020-03-22,San Francisco,446,0
 2020-03-22,San Joaquin,140,2
@@ -579,7 +579,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-22,Ventura,174,0
 2020-03-22,Yolo,32,0
 2020-03-22,Yuba,7,0
-2020-03-21,Alameda,403,0
+2020-03-21,Alameda,402,0
 2020-03-21,Alpine,1,0
 2020-03-21,Amador,2,0
 2020-03-21,Butte,7,0
@@ -637,7 +637,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-21,Ventura,166,0
 2020-03-21,Yolo,32,0
 2020-03-21,Yuba,7,0
-2020-03-20,Alameda,382,0
+2020-03-20,Alameda,381,0
 2020-03-20,Alpine,1,0
 2020-03-20,Amador,1,0
 2020-03-20,Butte,7,0
@@ -695,7 +695,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-20,Ventura,156,0
 2020-03-20,Yolo,30,0
 2020-03-20,Yuba,6,0
-2020-03-19,Alameda,346,0
+2020-03-19,Alameda,345,0
 2020-03-19,Alpine,1,0
 2020-03-19,Amador,1,0
 2020-03-19,Butte,5,0
@@ -753,7 +753,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-19,Ventura,134,0
 2020-03-19,Yolo,26,0
 2020-03-19,Yuba,5,0
-2020-03-18,Alameda,318,0
+2020-03-18,Alameda,317,0
 2020-03-18,Alpine,1,0
 2020-03-18,Amador,1,0
 2020-03-18,Butte,4,0
@@ -811,7 +811,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-18,Ventura,115,0
 2020-03-18,Yolo,23,0
 2020-03-18,Yuba,4,0
-2020-03-17,Alameda,287,0
+2020-03-17,Alameda,286,0
 2020-03-17,Alpine,0,0
 2020-03-17,Amador,1,0
 2020-03-17,Butte,4,0
@@ -869,7 +869,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-17,Ventura,98,0
 2020-03-17,Yolo,19,0
 2020-03-17,Yuba,4,0
-2020-03-16,Alameda,258,0
+2020-03-16,Alameda,257,0
 2020-03-16,Alpine,0,0
 2020-03-16,Amador,1,0
 2020-03-16,Butte,3,0
@@ -927,7 +927,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-16,Ventura,88,0
 2020-03-16,Yolo,18,0
 2020-03-16,Yuba,3,0
-2020-03-15,Alameda,212,0
+2020-03-15,Alameda,211,0
 2020-03-15,Alpine,0,0
 2020-03-15,Amador,1,0
 2020-03-15,Butte,3,0
@@ -985,7 +985,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-15,Ventura,77,0
 2020-03-15,Yolo,15,0
 2020-03-15,Yuba,2,0
-2020-03-14,Alameda,194,0
+2020-03-14,Alameda,193,0
 2020-03-14,Alpine,0,0
 2020-03-14,Amador,1,0
 2020-03-14,Butte,2,0
@@ -1043,7 +1043,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-14,Ventura,68,0
 2020-03-14,Yolo,15,0
 2020-03-14,Yuba,1,0
-2020-03-13,Alameda,176,0
+2020-03-13,Alameda,175,0
 2020-03-13,Alpine,0,0
 2020-03-13,Amador,1,0
 2020-03-13,Butte,0,0
@@ -1101,7 +1101,7 @@ date,county,confirmed_cases,reported_deaths
 2020-03-13,Ventura,54,0
 2020-03-13,Yolo,15,0
 2020-03-13,Yuba,1,0
-2020-03-12,Alameda,151,0
+2020-03-12,Alameda,150,0
 2020-03-12,Alpine,0,0
 2020-03-12,Amador,1,0
 2020-03-12,Butte,0,0
