@@ -12,13 +12,29 @@ DATA_DIR = THIS_DIR / "data"
 
 
 def write_quarterly_csv(df, quarter):
-    fields = ['date', 'county', 'confirmed_cases', 'reported_deaths']
-    df[fields].to_csv(DATA_DIR / "{}.csv".format(quarter), index=False)
+    fields = ['date', 'county', 'cases', 'deaths', 'new_cases', 'new_deaths']
+    df[fields].to_csv(
+        DATA_DIR / "{}.csv".format(quarter),
+        index=False,
+        na_rep='N',
+        float_format='%.0f'
+    )
 
 
 def write_state_csv(df):
-    fields = ['date', 'confirmed_cases', 'reported_deaths']
+    fields = ['date', 'cases', 'deaths', 'new_cases', 'new_deaths']
     df.groupby('date').sum().reset_index()[fields].to_csv(DATA_DIR / "state-cases.csv", index=False)
+
+
+def process_county(group):
+    g = group.sort_values('date').set_index('date')
+    g_sum = g.resample('D').sum()
+
+    g_diff = g_sum.diff(periods=7)
+
+    g_sum['new_cases'] = g_diff['cases']
+    g_sum['new_deaths'] = g_diff['deaths']
+    return g_sum
 
 
 def main():
@@ -29,10 +45,18 @@ def main():
     url = "https://raw.githubusercontent.com/datadesk/california-coronavirus-data/master/cdph-county-cases-deaths.csv"
     df = pd.read_csv(url)
 
-    df['date_obj'] = pd.to_datetime(df['date'])
-    df['year'] = df['date_obj'].dt.year.astype(str)
-    df['quarter'] = df['date_obj'].dt.quarter.astype(str)
+    df = df[['date', 'county', 'confirmed_cases', 'reported_deaths']] \
+            .rename(columns={
+                'confirmed_cases': 'cases',
+                'reported_deaths': 'deaths',
+            })
 
+    df['date'] = pd.to_datetime(df['date'])
+
+    df = df.groupby('county').apply(process_county).reset_index()
+
+    df['year'] = df['date'].dt.year.astype(str)
+    df['quarter'] = df['date'].dt.quarter.astype(str)
     df['year_quarter'] = df[['year', 'quarter']].agg('-'.join, axis=1)
 
     grouped_by_quarter = df.groupby('year_quarter')
