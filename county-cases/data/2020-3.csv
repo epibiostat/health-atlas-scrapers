@@ -8,7 +8,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-30,Contra Costa,17484,211
 2020-09-30,Del Norte,146,2
 2020-09-30,El Dorado,1233,4
-2020-09-30,Fresno,30953,395
+2020-09-30,Fresno,30960,395
 2020-09-30,Glenn,607,3
 2020-09-30,Humboldt,517,6
 2020-09-30,Imperial,12009,287
@@ -17,8 +17,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-30,Kings,8013,79
 2020-09-30,Lake,595,10
 2020-09-30,Lassen,747,0
-2020-09-30,Los Angeles,274030,6568
-2020-09-30,Madera,4666,47
+2020-09-30,Los Angeles,274028,6568
+2020-09-30,Madera,4667,47
 2020-09-30,Marin,6803,91
 2020-09-30,Mariposa,78,2
 2020-09-30,Mendocino,937,17
@@ -32,15 +32,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-30,Placer,3724,43
 2020-09-30,Plumas,51,0
 2020-09-30,Riverside,60588,1220
-2020-09-30,Sacramento,23180,429
+2020-09-30,Sacramento,23181,429
 2020-09-30,San Benito,1354,12
-2020-09-30,San Bernardino,56014,1018
+2020-09-30,San Bernardino,56015,1018
 2020-09-30,San Diego,49134,783
 2020-09-30,San Francisco,11484,106
 2020-09-30,San Joaquin,20506,461
 2020-09-30,San Luis Obispo,3765,31
 2020-09-30,San Mateo,10425,128
-2020-09-30,Santa Barbara,9702,115
+2020-09-30,Santa Barbara,9703,115
 2020-09-30,Santa Clara,22367,302
 2020-09-30,Santa Cruz,2516,10
 2020-09-30,Shasta,1342,17
@@ -54,7 +54,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-30,Trinity,29,0
 2020-09-30,Tulare,16521,274
 2020-09-30,Tuolumne,233,2
-2020-09-30,Ventura,13486,145
+2020-09-30,Ventura,13487,145
 2020-09-30,Yolo,2890,55
 2020-09-30,Yuba,1111,8
 2020-09-29,Alameda,21714,374
@@ -66,7 +66,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-29,Contra Costa,17429,209
 2020-09-29,Del Norte,142,2
 2020-09-29,El Dorado,1224,4
-2020-09-29,Fresno,30859,394
+2020-09-29,Fresno,30866,394
 2020-09-29,Glenn,603,3
 2020-09-29,Humboldt,515,6
 2020-09-29,Imperial,11975,283
@@ -75,8 +75,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-29,Kings,7957,78
 2020-09-29,Lake,593,11
 2020-09-29,Lassen,747,0
-2020-09-29,Los Angeles,272812,6545
-2020-09-29,Madera,4642,47
+2020-09-29,Los Angeles,272810,6545
+2020-09-29,Madera,4643,47
 2020-09-29,Marin,6782,91
 2020-09-29,Mariposa,78,2
 2020-09-29,Mendocino,927,17
@@ -90,15 +90,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-29,Placer,3703,42
 2020-09-29,Plumas,51,0
 2020-09-29,Riverside,60259,1208
-2020-09-29,Sacramento,23059,425
+2020-09-29,Sacramento,23060,425
 2020-09-29,San Benito,1349,12
-2020-09-29,San Bernardino,55706,1012
+2020-09-29,San Bernardino,55707,1012
 2020-09-29,San Diego,48859,781
 2020-09-29,San Francisco,11448,104
 2020-09-29,San Joaquin,20441,454
 2020-09-29,San Luis Obispo,3745,31
 2020-09-29,San Mateo,10379,127
-2020-09-29,Santa Barbara,9682,114
+2020-09-29,Santa Barbara,9683,114
 2020-09-29,Santa Clara,22233,302
 2020-09-29,Santa Cruz,2501,10
 2020-09-29,Shasta,1281,17
@@ -112,7 +112,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-29,Trinity,29,0
 2020-09-29,Tulare,16458,270
 2020-09-29,Tuolumne,233,2
-2020-09-29,Ventura,13431,145
+2020-09-29,Ventura,13432,145
 2020-09-29,Yolo,2877,55
 2020-09-29,Yuba,1109,8
 2020-09-28,Alameda,21629,370
@@ -124,7 +124,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-28,Contra Costa,17364,195
 2020-09-28,Del Norte,142,2
 2020-09-28,El Dorado,1217,4
-2020-09-28,Fresno,30777,389
+2020-09-28,Fresno,30784,389
 2020-09-28,Glenn,601,3
 2020-09-28,Humboldt,509,6
 2020-09-28,Imperial,11941,283
@@ -133,8 +133,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-28,Kings,7816,78
 2020-09-28,Lake,589,10
 2020-09-28,Lassen,746,0
-2020-09-28,Los Angeles,271698,6508
-2020-09-28,Madera,4621,47
+2020-09-28,Los Angeles,271696,6508
+2020-09-28,Madera,4622,47
 2020-09-28,Marin,6766,91
 2020-09-28,Mariposa,78,2
 2020-09-28,Mendocino,912,17
@@ -148,15 +148,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-28,Placer,3683,42
 2020-09-28,Plumas,50,0
 2020-09-28,Riverside,59960,1198
-2020-09-28,Sacramento,22911,423
+2020-09-28,Sacramento,22912,423
 2020-09-28,San Benito,1346,11
-2020-09-28,San Bernardino,55363,988
+2020-09-28,San Bernardino,55364,988
 2020-09-28,San Diego,48541,776
 2020-09-28,San Francisco,11414,100
 2020-09-28,San Joaquin,20392,448
 2020-09-28,San Luis Obispo,3724,31
 2020-09-28,San Mateo,10329,127
-2020-09-28,Santa Barbara,9664,114
+2020-09-28,Santa Barbara,9665,114
 2020-09-28,Santa Clara,22117,271
 2020-09-28,Santa Cruz,2491,9
 2020-09-28,Shasta,1227,17
@@ -170,7 +170,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-28,Trinity,29,0
 2020-09-28,Tulare,16406,270
 2020-09-28,Tuolumne,233,2
-2020-09-28,Ventura,13355,139
+2020-09-28,Ventura,13356,139
 2020-09-28,Yolo,2860,55
 2020-09-28,Yuba,1106,7
 2020-09-27,Alameda,21549,370
@@ -182,7 +182,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-27,Contra Costa,17262,195
 2020-09-27,Del Norte,142,2
 2020-09-27,El Dorado,1202,4
-2020-09-27,Fresno,30672,389
+2020-09-27,Fresno,30679,389
 2020-09-27,Glenn,597,3
 2020-09-27,Humboldt,507,6
 2020-09-27,Imperial,11907,283
@@ -191,8 +191,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-27,Kings,7796,78
 2020-09-27,Lake,585,10
 2020-09-27,Lassen,746,0
-2020-09-27,Los Angeles,270522,6507
-2020-09-27,Madera,4592,47
+2020-09-27,Los Angeles,270520,6507
+2020-09-27,Madera,4593,47
 2020-09-27,Marin,6756,91
 2020-09-27,Mariposa,78,2
 2020-09-27,Mendocino,906,17
@@ -206,15 +206,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-27,Placer,3670,42
 2020-09-27,Plumas,50,0
 2020-09-27,Riverside,59664,1191
-2020-09-27,Sacramento,22814,422
+2020-09-27,Sacramento,22815,422
 2020-09-27,San Benito,1346,11
-2020-09-27,San Bernardino,54927,988
+2020-09-27,San Bernardino,54928,988
 2020-09-27,San Diego,48197,776
 2020-09-27,San Francisco,11362,100
 2020-09-27,San Joaquin,20332,448
 2020-09-27,San Luis Obispo,3703,31
 2020-09-27,San Mateo,10261,127
-2020-09-27,Santa Barbara,9643,114
+2020-09-27,Santa Barbara,9644,114
 2020-09-27,Santa Clara,22008,271
 2020-09-27,Santa Cruz,2469,9
 2020-09-27,Shasta,1184,17
@@ -228,7 +228,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-27,Trinity,29,0
 2020-09-27,Tulare,16330,270
 2020-09-27,Tuolumne,232,2
-2020-09-27,Ventura,13270,139
+2020-09-27,Ventura,13271,139
 2020-09-27,Yolo,2846,55
 2020-09-27,Yuba,1096,7
 2020-09-26,Alameda,21491,370
@@ -240,7 +240,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-26,Contra Costa,17220,194
 2020-09-26,Del Norte,142,2
 2020-09-26,El Dorado,1197,4
-2020-09-26,Fresno,30605,389
+2020-09-26,Fresno,30612,389
 2020-09-26,Glenn,597,3
 2020-09-26,Humboldt,507,6
 2020-09-26,Imperial,11890,283
@@ -249,8 +249,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-26,Kings,7784,78
 2020-09-26,Lake,582,10
 2020-09-26,Lassen,746,0
-2020-09-26,Los Angeles,269887,6497
-2020-09-26,Madera,4576,47
+2020-09-26,Los Angeles,269885,6497
+2020-09-26,Madera,4577,47
 2020-09-26,Marin,6743,91
 2020-09-26,Mariposa,77,2
 2020-09-26,Mendocino,901,17
@@ -264,15 +264,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-26,Placer,3657,42
 2020-09-26,Plumas,49,0
 2020-09-26,Riverside,59529,1190
-2020-09-26,Sacramento,22757,421
+2020-09-26,Sacramento,22758,421
 2020-09-26,San Benito,1344,11
-2020-09-26,San Bernardino,54793,988
+2020-09-26,San Bernardino,54794,988
 2020-09-26,San Diego,47992,775
 2020-09-26,San Francisco,11334,100
 2020-09-26,San Joaquin,20296,449
 2020-09-26,San Luis Obispo,3686,31
 2020-09-26,San Mateo,10227,127
-2020-09-26,Santa Barbara,9632,114
+2020-09-26,Santa Barbara,9633,114
 2020-09-26,Santa Clara,21937,270
 2020-09-26,Santa Cruz,2461,9
 2020-09-26,Shasta,1134,17
@@ -286,7 +286,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-26,Trinity,27,0
 2020-09-26,Tulare,16306,270
 2020-09-26,Tuolumne,232,2
-2020-09-26,Ventura,13238,137
+2020-09-26,Ventura,13239,137
 2020-09-26,Yolo,2844,55
 2020-09-26,Yuba,1092,7
 2020-09-25,Alameda,21437,367
@@ -298,7 +298,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-25,Contra Costa,17161,194
 2020-09-25,Del Norte,142,2
 2020-09-25,El Dorado,1193,4
-2020-09-25,Fresno,30546,385
+2020-09-25,Fresno,30553,385
 2020-09-25,Glenn,595,3
 2020-09-25,Humboldt,506,5
 2020-09-25,Imperial,11872,283
@@ -307,8 +307,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-25,Kings,7779,77
 2020-09-25,Lake,581,9
 2020-09-25,Lassen,746,0
-2020-09-25,Los Angeles,269099,6483
-2020-09-25,Madera,4557,48
+2020-09-25,Los Angeles,269097,6483
+2020-09-25,Madera,4558,48
 2020-09-25,Marin,6740,90
 2020-09-25,Mariposa,77,2
 2020-09-25,Mendocino,886,17
@@ -322,15 +322,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-25,Placer,3646,41
 2020-09-25,Plumas,49,0
 2020-09-25,Riverside,59353,1183
-2020-09-25,Sacramento,22679,418
+2020-09-25,Sacramento,22680,418
 2020-09-25,San Benito,1343,11
-2020-09-25,San Bernardino,54639,987
+2020-09-25,San Bernardino,54640,987
 2020-09-25,San Diego,47790,775
 2020-09-25,San Francisco,11300,100
 2020-09-25,San Joaquin,20244,449
 2020-09-25,San Luis Obispo,3676,31
 2020-09-25,San Mateo,10191,127
-2020-09-25,Santa Barbara,9608,114
+2020-09-25,Santa Barbara,9609,114
 2020-09-25,Santa Clara,21874,265
 2020-09-25,Santa Cruz,2449,9
 2020-09-25,Shasta,1100,16
@@ -344,7 +344,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-25,Trinity,27,0
 2020-09-25,Tulare,16267,267
 2020-09-25,Tuolumne,232,2
-2020-09-25,Ventura,13196,137
+2020-09-25,Ventura,13197,137
 2020-09-25,Yolo,2836,55
 2020-09-25,Yuba,1087,5
 2020-09-24,Alameda,21362,364
@@ -356,7 +356,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-24,Contra Costa,17079,192
 2020-09-24,Del Norte,138,2
 2020-09-24,El Dorado,1184,4
-2020-09-24,Fresno,30442,375
+2020-09-24,Fresno,30449,375
 2020-09-24,Glenn,591,3
 2020-09-24,Humboldt,503,5
 2020-09-24,Imperial,11848,283
@@ -365,8 +365,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-24,Kings,7763,76
 2020-09-24,Lake,572,9
 2020-09-24,Lassen,745,0
-2020-09-24,Los Angeles,268055,6452
-2020-09-24,Madera,4538,48
+2020-09-24,Los Angeles,268053,6452
+2020-09-24,Madera,4539,48
 2020-09-24,Marin,6712,85
 2020-09-24,Mariposa,77,2
 2020-09-24,Mendocino,882,17
@@ -380,15 +380,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-24,Placer,3631,41
 2020-09-24,Plumas,49,0
 2020-09-24,Riverside,59085,1172
-2020-09-24,Sacramento,22553,417
+2020-09-24,Sacramento,22554,417
 2020-09-24,San Benito,1341,11
-2020-09-24,San Bernardino,54304,988
+2020-09-24,San Bernardino,54305,988
 2020-09-24,San Diego,47521,773
 2020-09-24,San Francisco,11253,99
 2020-09-24,San Joaquin,20207,444
 2020-09-24,San Luis Obispo,3660,31
 2020-09-24,San Mateo,10143,127
-2020-09-24,Santa Barbara,9557,114
+2020-09-24,Santa Barbara,9558,114
 2020-09-24,Santa Clara,21786,262
 2020-09-24,Santa Cruz,2429,9
 2020-09-24,Shasta,1063,14
@@ -402,7 +402,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-24,Trinity,27,0
 2020-09-24,Tulare,16202,267
 2020-09-24,Tuolumne,232,2
-2020-09-24,Ventura,13114,138
+2020-09-24,Ventura,13115,138
 2020-09-24,Yolo,2829,55
 2020-09-24,Yuba,1082,5
 2020-09-23,Alameda,21294,361
@@ -414,7 +414,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-23,Contra Costa,17015,192
 2020-09-23,Del Norte,136,2
 2020-09-23,El Dorado,1170,4
-2020-09-23,Fresno,30348,371
+2020-09-23,Fresno,30355,371
 2020-09-23,Glenn,584,3
 2020-09-23,Humboldt,499,5
 2020-09-23,Imperial,11822,284
@@ -423,8 +423,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-23,Kings,7741,76
 2020-09-23,Lake,567,9
 2020-09-23,Lassen,745,0
-2020-09-23,Los Angeles,267010,6421
-2020-09-23,Madera,4523,48
+2020-09-23,Los Angeles,267008,6421
+2020-09-23,Madera,4524,48
 2020-09-23,Marin,6693,85
 2020-09-23,Mariposa,77,2
 2020-09-23,Mendocino,881,17
@@ -438,15 +438,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-23,Placer,3619,41
 2020-09-23,Plumas,49,0
 2020-09-23,Riverside,58782,1165
-2020-09-23,Sacramento,22476,415
+2020-09-23,Sacramento,22477,415
 2020-09-23,San Benito,1335,10
-2020-09-23,San Bernardino,54009,973
+2020-09-23,San Bernardino,54010,973
 2020-09-23,San Diego,47245,767
 2020-09-23,San Francisco,11204,95
 2020-09-23,San Joaquin,20154,439
 2020-09-23,San Luis Obispo,3642,31
 2020-09-23,San Mateo,10103,127
-2020-09-23,Santa Barbara,9529,112
+2020-09-23,Santa Barbara,9530,112
 2020-09-23,Santa Clara,21676,260
 2020-09-23,Santa Cruz,2410,9
 2020-09-23,Shasta,1024,14
@@ -460,7 +460,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-23,Trinity,27,0
 2020-09-23,Tulare,16138,266
 2020-09-23,Tuolumne,232,2
-2020-09-23,Ventura,13059,137
+2020-09-23,Ventura,13060,137
 2020-09-23,Yolo,2811,55
 2020-09-23,Yuba,1080,5
 2020-09-22,Alameda,21215,355
@@ -472,7 +472,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-22,Contra Costa,16925,190
 2020-09-22,Del Norte,136,2
 2020-09-22,El Dorado,1151,4
-2020-09-22,Fresno,30254,369
+2020-09-22,Fresno,30261,369
 2020-09-22,Glenn,581,3
 2020-09-22,Humboldt,498,5
 2020-09-22,Imperial,11793,284
@@ -481,8 +481,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-22,Kings,7684,76
 2020-09-22,Lake,559,9
 2020-09-22,Lassen,744,0
-2020-09-22,Los Angeles,265934,6394
-2020-09-22,Madera,4507,47
+2020-09-22,Los Angeles,265932,6394
+2020-09-22,Madera,4508,47
 2020-09-22,Marin,6679,84
 2020-09-22,Mariposa,77,2
 2020-09-22,Mendocino,861,18
@@ -496,15 +496,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-22,Placer,3606,40
 2020-09-22,Plumas,49,0
 2020-09-22,Riverside,58298,1162
-2020-09-22,Sacramento,22357,410
+2020-09-22,Sacramento,22358,410
 2020-09-22,San Benito,1330,10
-2020-09-22,San Bernardino,53736,971
+2020-09-22,San Bernardino,53737,971
 2020-09-22,San Diego,46938,765
 2020-09-22,San Francisco,11160,95
 2020-09-22,San Joaquin,20107,426
 2020-09-22,San Luis Obispo,3625,31
 2020-09-22,San Mateo,10065,127
-2020-09-22,Santa Barbara,9499,111
+2020-09-22,Santa Barbara,9500,111
 2020-09-22,Santa Clara,21558,253
 2020-09-22,Santa Cruz,2386,8
 2020-09-22,Shasta,989,14
@@ -518,7 +518,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-22,Trinity,27,0
 2020-09-22,Tulare,16072,263
 2020-09-22,Tuolumne,231,1
-2020-09-22,Ventura,13008,136
+2020-09-22,Ventura,13009,136
 2020-09-22,Yolo,2804,54
 2020-09-22,Yuba,1071,5
 2020-09-21,Alameda,21136,343
@@ -530,7 +530,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-21,Contra Costa,16837,189
 2020-09-21,Del Norte,136,2
 2020-09-21,El Dorado,1142,4
-2020-09-21,Fresno,30152,362
+2020-09-21,Fresno,30159,362
 2020-09-21,Glenn,577,3
 2020-09-21,Humboldt,494,5
 2020-09-21,Imperial,11762,284
@@ -539,8 +539,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-21,Kings,7572,76
 2020-09-21,Lake,554,8
 2020-09-21,Lassen,742,0
-2020-09-21,Los Angeles,264849,6360
-2020-09-21,Madera,4496,47
+2020-09-21,Los Angeles,264847,6360
+2020-09-21,Madera,4497,47
 2020-09-21,Marin,6668,84
 2020-09-21,Mariposa,76,2
 2020-09-21,Mendocino,846,18
@@ -554,15 +554,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-21,Placer,3595,40
 2020-09-21,Plumas,49,0
 2020-09-21,Riverside,58025,1153
-2020-09-21,Sacramento,22175,404
+2020-09-21,Sacramento,22176,404
 2020-09-21,San Benito,1328,10
-2020-09-21,San Bernardino,53450,970
+2020-09-21,San Bernardino,53451,970
 2020-09-21,San Diego,46655,760
 2020-09-21,San Francisco,11112,95
 2020-09-21,San Joaquin,20049,423
 2020-09-21,San Luis Obispo,3598,27
 2020-09-21,San Mateo,10013,127
-2020-09-21,Santa Barbara,9471,110
+2020-09-21,Santa Barbara,9472,110
 2020-09-21,Santa Clara,21457,252
 2020-09-21,Santa Cruz,2369,8
 2020-09-21,Shasta,939,14
@@ -576,7 +576,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-21,Trinity,27,0
 2020-09-21,Tulare,15998,260
 2020-09-21,Tuolumne,231,1
-2020-09-21,Ventura,12926,133
+2020-09-21,Ventura,12927,133
 2020-09-21,Yolo,2798,54
 2020-09-21,Yuba,1067,1
 2020-09-20,Alameda,21036,343
@@ -588,7 +588,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-20,Contra Costa,16703,189
 2020-09-20,Del Norte,134,2
 2020-09-20,El Dorado,1127,4
-2020-09-20,Fresno,30038,362
+2020-09-20,Fresno,30045,362
 2020-09-20,Glenn,573,3
 2020-09-20,Humboldt,494,5
 2020-09-20,Imperial,11735,284
@@ -597,8 +597,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-20,Kings,7525,76
 2020-09-20,Lake,542,8
 2020-09-20,Lassen,742,0
-2020-09-20,Los Angeles,263616,6347
-2020-09-20,Madera,4476,47
+2020-09-20,Los Angeles,263614,6347
+2020-09-20,Madera,4477,47
 2020-09-20,Marin,6643,83
 2020-09-20,Mariposa,76,2
 2020-09-20,Mendocino,834,18
@@ -612,15 +612,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-20,Placer,3580,40
 2020-09-20,Plumas,49,0
 2020-09-20,Riverside,57825,1147
-2020-09-20,Sacramento,21988,401
+2020-09-20,Sacramento,21989,401
 2020-09-20,San Benito,1317,9
-2020-09-20,San Bernardino,53130,970
+2020-09-20,San Bernardino,53131,970
 2020-09-20,San Diego,46282,760
 2020-09-20,San Francisco,11058,95
 2020-09-20,San Joaquin,19985,423
 2020-09-20,San Luis Obispo,3570,27
 2020-09-20,San Mateo,9946,127
-2020-09-20,Santa Barbara,9437,110
+2020-09-20,Santa Barbara,9438,110
 2020-09-20,Santa Clara,21337,252
 2020-09-20,Santa Cruz,2349,8
 2020-09-20,Shasta,898,14
@@ -634,7 +634,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-20,Trinity,27,0
 2020-09-20,Tulare,15914,260
 2020-09-20,Tuolumne,231,1
-2020-09-20,Ventura,12861,133
+2020-09-20,Ventura,12862,133
 2020-09-20,Yolo,2790,54
 2020-09-20,Yuba,1060,1
 2020-09-19,Alameda,20985,343
@@ -646,7 +646,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-19,Contra Costa,16640,186
 2020-09-19,Del Norte,133,2
 2020-09-19,El Dorado,1121,4
-2020-09-19,Fresno,29965,362
+2020-09-19,Fresno,29972,362
 2020-09-19,Glenn,570,3
 2020-09-19,Humboldt,493,5
 2020-09-19,Imperial,11720,284
@@ -655,8 +655,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-19,Kings,7519,76
 2020-09-19,Lake,542,8
 2020-09-19,Lassen,742,0
-2020-09-19,Los Angeles,262993,6325
-2020-09-19,Madera,4453,47
+2020-09-19,Los Angeles,262991,6325
+2020-09-19,Madera,4454,47
 2020-09-19,Marin,6636,81
 2020-09-19,Mariposa,76,2
 2020-09-19,Mendocino,831,18
@@ -670,15 +670,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-19,Placer,3572,40
 2020-09-19,Plumas,49,0
 2020-09-19,Riverside,57701,1147
-2020-09-19,Sacramento,21934,396
+2020-09-19,Sacramento,21935,396
 2020-09-19,San Benito,1313,9
-2020-09-19,San Bernardino,52974,971
+2020-09-19,San Bernardino,52975,971
 2020-09-19,San Diego,46054,773
 2020-09-19,San Francisco,11025,95
 2020-09-19,San Joaquin,19948,424
 2020-09-19,San Luis Obispo,3549,27
 2020-09-19,San Mateo,9915,127
-2020-09-19,Santa Barbara,9416,106
+2020-09-19,Santa Barbara,9417,106
 2020-09-19,Santa Clara,21248,251
 2020-09-19,Santa Cruz,2335,8
 2020-09-19,Shasta,871,14
@@ -692,7 +692,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-19,Trinity,27,0
 2020-09-19,Tulare,15865,260
 2020-09-19,Tuolumne,231,1
-2020-09-19,Ventura,12829,133
+2020-09-19,Ventura,12830,133
 2020-09-19,Yolo,2782,54
 2020-09-19,Yuba,1053,1
 2020-09-18,Alameda,20920,341
@@ -704,7 +704,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-18,Contra Costa,16555,185
 2020-09-18,Del Norte,133,2
 2020-09-18,El Dorado,1108,4
-2020-09-18,Fresno,29900,359
+2020-09-18,Fresno,29907,359
 2020-09-18,Glenn,567,3
 2020-09-18,Humboldt,490,5
 2020-09-18,Imperial,11705,283
@@ -713,8 +713,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-18,Kings,7509,74
 2020-09-18,Lake,536,8
 2020-09-18,Lassen,741,0
-2020-09-18,Los Angeles,262219,6324
-2020-09-18,Madera,4441,45
+2020-09-18,Los Angeles,262217,6324
+2020-09-18,Madera,4442,45
 2020-09-18,Marin,6621,81
 2020-09-18,Mariposa,76,2
 2020-09-18,Mendocino,823,18
@@ -728,15 +728,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-18,Placer,3561,40
 2020-09-18,Plumas,49,0
 2020-09-18,Riverside,57581,1143
-2020-09-18,Sacramento,21849,391
+2020-09-18,Sacramento,21850,391
 2020-09-18,San Benito,1305,8
-2020-09-18,San Bernardino,52831,970
+2020-09-18,San Bernardino,52832,970
 2020-09-18,San Diego,45804,757
 2020-09-18,San Francisco,10987,95
 2020-09-18,San Joaquin,19905,423
 2020-09-18,San Luis Obispo,3525,27
 2020-09-18,San Mateo,9875,127
-2020-09-18,Santa Barbara,9394,107
+2020-09-18,Santa Barbara,9395,107
 2020-09-18,Santa Clara,21151,252
 2020-09-18,Santa Cruz,2314,8
 2020-09-18,Shasta,836,14
@@ -750,7 +750,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-18,Trinity,27,0
 2020-09-18,Tulare,15832,259
 2020-09-18,Tuolumne,230,1
-2020-09-18,Ventura,12768,133
+2020-09-18,Ventura,12769,133
 2020-09-18,Yolo,2776,54
 2020-09-18,Yuba,1049,1
 2020-09-17,Alameda,20822,339
@@ -762,7 +762,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-17,Contra Costa,16465,184
 2020-09-17,Del Norte,133,2
 2020-09-17,El Dorado,1099,4
-2020-09-17,Fresno,29791,355
+2020-09-17,Fresno,29798,355
 2020-09-17,Glenn,566,3
 2020-09-17,Humboldt,484,5
 2020-09-17,Imperial,11688,281
@@ -771,8 +771,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-17,Kings,7438,72
 2020-09-17,Lake,526,8
 2020-09-17,Lassen,739,0
-2020-09-17,Los Angeles,261277,6318
-2020-09-17,Madera,4407,45
+2020-09-17,Los Angeles,261275,6318
+2020-09-17,Madera,4408,45
 2020-09-17,Marin,6600,81
 2020-09-17,Mariposa,75,2
 2020-09-17,Mendocino,812,18
@@ -786,15 +786,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-17,Placer,3541,40
 2020-09-17,Plumas,49,0
 2020-09-17,Riverside,57356,1134
-2020-09-17,Sacramento,21616,385
+2020-09-17,Sacramento,21617,385
 2020-09-17,San Benito,1302,8
-2020-09-17,San Bernardino,52630,904
+2020-09-17,San Bernardino,52631,904
 2020-09-17,San Diego,45525,754
 2020-09-17,San Francisco,10893,95
 2020-09-17,San Joaquin,19846,416
 2020-09-17,San Luis Obispo,3498,27
 2020-09-17,San Mateo,9833,127
-2020-09-17,Santa Barbara,9370,107
+2020-09-17,Santa Barbara,9371,107
 2020-09-17,Santa Clara,21036,254
 2020-09-17,Santa Cruz,2298,7
 2020-09-17,Shasta,797,12
@@ -808,7 +808,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-17,Trinity,27,0
 2020-09-17,Tulare,15779,258
 2020-09-17,Tuolumne,229,1
-2020-09-17,Ventura,12683,130
+2020-09-17,Ventura,12684,130
 2020-09-17,Yolo,2767,53
 2020-09-17,Yuba,1045,1
 2020-09-16,Alameda,20726,333
@@ -820,7 +820,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-16,Contra Costa,16379,183
 2020-09-16,Del Norte,133,2
 2020-09-16,El Dorado,1091,4
-2020-09-16,Fresno,29686,343
+2020-09-16,Fresno,29693,343
 2020-09-16,Glenn,564,3
 2020-09-16,Humboldt,483,4
 2020-09-16,Imperial,11665,277
@@ -829,8 +829,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-16,Kings,7413,71
 2020-09-16,Lake,515,6
 2020-09-16,Lassen,738,0
-2020-09-16,Los Angeles,260280,6299
-2020-09-16,Madera,4384,45
+2020-09-16,Los Angeles,260278,6299
+2020-09-16,Madera,4385,45
 2020-09-16,Marin,6573,77
 2020-09-16,Mariposa,75,2
 2020-09-16,Mendocino,803,18
@@ -844,15 +844,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-16,Placer,3523,39
 2020-09-16,Plumas,49,0
 2020-09-16,Riverside,57164,1127
-2020-09-16,Sacramento,21521,377
+2020-09-16,Sacramento,21522,377
 2020-09-16,San Benito,1294,8
-2020-09-16,San Bernardino,52404,907
+2020-09-16,San Bernardino,52405,907
 2020-09-16,San Diego,45234,748
 2020-09-16,San Francisco,10846,90
 2020-09-16,San Joaquin,19792,409
 2020-09-16,San Luis Obispo,3469,28
 2020-09-16,San Mateo,9768,127
-2020-09-16,Santa Barbara,9338,107
+2020-09-16,Santa Barbara,9339,107
 2020-09-16,Santa Clara,20917,253
 2020-09-16,Santa Cruz,2257,7
 2020-09-16,Shasta,771,11
@@ -866,7 +866,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-16,Trinity,27,0
 2020-09-16,Tulare,15737,258
 2020-09-16,Tuolumne,228,1
-2020-09-16,Ventura,12615,130
+2020-09-16,Ventura,12616,130
 2020-09-16,Yolo,2760,53
 2020-09-16,Yuba,1043,1
 2020-09-15,Alameda,20620,327
@@ -878,7 +878,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-15,Contra Costa,16276,180
 2020-09-15,Del Norte,133,2
 2020-09-15,El Dorado,1086,4
-2020-09-15,Fresno,29580,343
+2020-09-15,Fresno,29587,343
 2020-09-15,Glenn,563,3
 2020-09-15,Humboldt,481,4
 2020-09-15,Imperial,11640,277
@@ -887,8 +887,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-15,Kings,7255,70
 2020-09-15,Lake,501,4
 2020-09-15,Lassen,734,0
-2020-09-15,Los Angeles,259167,6269
-2020-09-15,Madera,4365,45
+2020-09-15,Los Angeles,259165,6269
+2020-09-15,Madera,4366,45
 2020-09-15,Marin,6542,77
 2020-09-15,Mariposa,75,2
 2020-09-15,Mendocino,785,18
@@ -902,15 +902,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-15,Placer,3499,38
 2020-09-15,Plumas,49,0
 2020-09-15,Riverside,56873,1118
-2020-09-15,Sacramento,21378,372
+2020-09-15,Sacramento,21379,372
 2020-09-15,San Benito,1287,7
-2020-09-15,San Bernardino,52188,904
+2020-09-15,San Bernardino,52189,904
 2020-09-15,San Diego,44916,742
 2020-09-15,San Francisco,10788,90
 2020-09-15,San Joaquin,19740,401
 2020-09-15,San Luis Obispo,3448,28
 2020-09-15,San Mateo,9698,127
-2020-09-15,Santa Barbara,9313,104
+2020-09-15,Santa Barbara,9314,104
 2020-09-15,Santa Clara,20781,252
 2020-09-15,Santa Cruz,2231,7
 2020-09-15,Shasta,759,11
@@ -924,7 +924,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-15,Trinity,27,0
 2020-09-15,Tulare,15660,254
 2020-09-15,Tuolumne,228,1
-2020-09-15,Ventura,12563,128
+2020-09-15,Ventura,12564,128
 2020-09-15,Yolo,2756,53
 2020-09-15,Yuba,1037,1
 2020-09-14,Alameda,20493,306
@@ -936,7 +936,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-14,Contra Costa,16151,174
 2020-09-14,Del Norte,130,2
 2020-09-14,El Dorado,1082,3
-2020-09-14,Fresno,29495,344
+2020-09-14,Fresno,29502,344
 2020-09-14,Glenn,555,3
 2020-09-14,Humboldt,478,4
 2020-09-14,Imperial,11620,273
@@ -945,8 +945,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-14,Kings,7173,70
 2020-09-14,Lake,481,4
 2020-09-14,Lassen,734,0
-2020-09-14,Los Angeles,258135,6226
-2020-09-14,Madera,4351,45
+2020-09-14,Los Angeles,258133,6226
+2020-09-14,Madera,4352,45
 2020-09-14,Marin,6521,70
 2020-09-14,Mariposa,75,2
 2020-09-14,Mendocino,768,17
@@ -960,15 +960,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-14,Placer,3478,38
 2020-09-14,Plumas,48,0
 2020-09-14,Riverside,56654,1113
-2020-09-14,Sacramento,21185,367
+2020-09-14,Sacramento,21186,367
 2020-09-14,San Benito,1272,7
-2020-09-14,San Bernardino,51965,895
+2020-09-14,San Bernardino,51966,895
 2020-09-14,San Diego,44605,734
 2020-09-14,San Francisco,10722,90
 2020-09-14,San Joaquin,19665,397
 2020-09-14,San Luis Obispo,3423,25
 2020-09-14,San Mateo,9635,127
-2020-09-14,Santa Barbara,9287,104
+2020-09-14,Santa Barbara,9288,104
 2020-09-14,Santa Clara,20593,247
 2020-09-14,Santa Cruz,2211,7
 2020-09-14,Shasta,737,10
@@ -982,7 +982,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-14,Trinity,26,0
 2020-09-14,Tulare,15591,254
 2020-09-14,Tuolumne,227,1
-2020-09-14,Ventura,12462,125
+2020-09-14,Ventura,12463,125
 2020-09-14,Yolo,2745,53
 2020-09-14,Yuba,1029,1
 2020-09-13,Alameda,20387,306
@@ -994,7 +994,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-13,Contra Costa,16045,172
 2020-09-13,Del Norte,127,1
 2020-09-13,El Dorado,1077,2
-2020-09-13,Fresno,29388,345
+2020-09-13,Fresno,29395,345
 2020-09-13,Glenn,551,3
 2020-09-13,Humboldt,478,4
 2020-09-13,Imperial,11583,273
@@ -1003,8 +1003,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-13,Kings,7154,70
 2020-09-13,Lake,462,4
 2020-09-13,Lassen,731,0
-2020-09-13,Los Angeles,256988,6203
-2020-09-13,Madera,4294,45
+2020-09-13,Los Angeles,256986,6203
+2020-09-13,Madera,4295,45
 2020-09-13,Marin,6500,70
 2020-09-13,Mariposa,75,2
 2020-09-13,Mendocino,761,17
@@ -1018,15 +1018,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-13,Placer,3448,38
 2020-09-13,Plumas,48,0
 2020-09-13,Riverside,56447,1108
-2020-09-13,Sacramento,20837,367
+2020-09-13,Sacramento,20838,367
 2020-09-13,San Benito,1264,7
-2020-09-13,San Bernardino,51680,895
+2020-09-13,San Bernardino,51681,895
 2020-09-13,San Diego,44280,734
 2020-09-13,San Francisco,10644,90
 2020-09-13,San Joaquin,19593,396
 2020-09-13,San Luis Obispo,3387,24
 2020-09-13,San Mateo,9574,127
-2020-09-13,Santa Barbara,9250,104
+2020-09-13,Santa Barbara,9251,104
 2020-09-13,Santa Clara,20458,245
 2020-09-13,Santa Cruz,2178,7
 2020-09-13,Shasta,725,10
@@ -1040,7 +1040,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-13,Trinity,26,0
 2020-09-13,Tulare,15519,254
 2020-09-13,Tuolumne,224,1
-2020-09-13,Ventura,12357,123
+2020-09-13,Ventura,12358,123
 2020-09-13,Yolo,2733,53
 2020-09-13,Yuba,1024,1
 2020-09-12,Alameda,20328,307
@@ -1052,7 +1052,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-12,Contra Costa,15972,174
 2020-09-12,Del Norte,126,1
 2020-09-12,El Dorado,1070,2
-2020-09-12,Fresno,29318,345
+2020-09-12,Fresno,29325,345
 2020-09-12,Glenn,550,3
 2020-09-12,Humboldt,477,4
 2020-09-12,Imperial,11571,273
@@ -1061,8 +1061,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-12,Kings,7144,70
 2020-09-12,Lake,456,4
 2020-09-12,Lassen,731,0
-2020-09-12,Los Angeles,256429,6193
-2020-09-12,Madera,4283,43
+2020-09-12,Los Angeles,256427,6193
+2020-09-12,Madera,4284,43
 2020-09-12,Marin,6491,69
 2020-09-12,Mariposa,75,2
 2020-09-12,Mendocino,758,17
@@ -1076,15 +1076,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-12,Placer,3431,38
 2020-09-12,Plumas,48,0
 2020-09-12,Riverside,56320,1108
-2020-09-12,Sacramento,20769,367
+2020-09-12,Sacramento,20770,367
 2020-09-12,San Benito,1261,7
-2020-09-12,San Bernardino,51589,896
+2020-09-12,San Bernardino,51590,896
 2020-09-12,San Diego,44086,747
 2020-09-12,San Francisco,10599,90
 2020-09-12,San Joaquin,19565,396
 2020-09-12,San Luis Obispo,3361,24
 2020-09-12,San Mateo,9529,127
-2020-09-12,Santa Barbara,9235,104
+2020-09-12,Santa Barbara,9236,104
 2020-09-12,Santa Clara,20374,237
 2020-09-12,Santa Cruz,2166,7
 2020-09-12,Shasta,713,10
@@ -1098,7 +1098,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-12,Trinity,26,0
 2020-09-12,Tulare,15474,254
 2020-09-12,Tuolumne,224,1
-2020-09-12,Ventura,12306,123
+2020-09-12,Ventura,12307,123
 2020-09-12,Yolo,2726,53
 2020-09-12,Yuba,1020,1
 2020-09-11,Alameda,20272,298
@@ -1110,7 +1110,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-11,Contra Costa,15919,173
 2020-09-11,Del Norte,126,1
 2020-09-11,El Dorado,1067,2
-2020-09-11,Fresno,29238,344
+2020-09-11,Fresno,29245,344
 2020-09-11,Glenn,545,3
 2020-09-11,Humboldt,475,4
 2020-09-11,Imperial,11553,273
@@ -1119,8 +1119,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-11,Kings,7127,70
 2020-09-11,Lake,449,4
 2020-09-11,Lassen,731,0
-2020-09-11,Los Angeles,255748,6172
-2020-09-11,Madera,4264,43
+2020-09-11,Los Angeles,255746,6172
+2020-09-11,Madera,4265,43
 2020-09-11,Marin,6488,69
 2020-09-11,Mariposa,75,2
 2020-09-11,Mendocino,747,17
@@ -1134,15 +1134,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-11,Placer,3416,37
 2020-09-11,Plumas,48,0
 2020-09-11,Riverside,56187,1099
-2020-09-11,Sacramento,20682,358
+2020-09-11,Sacramento,20683,358
 2020-09-11,San Benito,1251,7
-2020-09-11,San Bernardino,51489,871
+2020-09-11,San Bernardino,51490,871
 2020-09-11,San Diego,43866,730
 2020-09-11,San Francisco,10550,89
 2020-09-11,San Joaquin,19518,391
 2020-09-11,San Luis Obispo,3343,24
 2020-09-11,San Mateo,9487,127
-2020-09-11,Santa Barbara,9201,103
+2020-09-11,Santa Barbara,9202,103
 2020-09-11,Santa Clara,20284,234
 2020-09-11,Santa Cruz,2149,7
 2020-09-11,Shasta,703,10
@@ -1156,7 +1156,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-11,Trinity,26,0
 2020-09-11,Tulare,15443,251
 2020-09-11,Tuolumne,224,1
-2020-09-11,Ventura,12252,123
+2020-09-11,Ventura,12253,123
 2020-09-11,Yolo,2715,53
 2020-09-11,Yuba,1012,1
 2020-09-10,Alameda,20198,292
@@ -1168,7 +1168,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-10,Contra Costa,15849,172
 2020-09-10,Del Norte,125,1
 2020-09-10,El Dorado,1064,2
-2020-09-10,Fresno,29117,338
+2020-09-10,Fresno,29124,338
 2020-09-10,Glenn,535,3
 2020-09-10,Humboldt,464,4
 2020-09-10,Imperial,11537,270
@@ -1177,8 +1177,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-10,Kings,7097,70
 2020-09-10,Lake,442,4
 2020-09-10,Lassen,730,0
-2020-09-10,Los Angeles,254770,6132
-2020-09-10,Madera,4246,43
+2020-09-10,Los Angeles,254768,6132
+2020-09-10,Madera,4247,43
 2020-09-10,Marin,6477,68
 2020-09-10,Mariposa,75,2
 2020-09-10,Mendocino,737,16
@@ -1192,15 +1192,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-10,Placer,3397,37
 2020-09-10,Plumas,48,0
 2020-09-10,Riverside,55869,1091
-2020-09-10,Sacramento,20562,354
+2020-09-10,Sacramento,20563,354
 2020-09-10,San Benito,1245,5
-2020-09-10,San Bernardino,51300,867
+2020-09-10,San Bernardino,51301,867
 2020-09-10,San Diego,43600,725
 2020-09-10,San Francisco,10473,89
 2020-09-10,San Joaquin,19465,389
 2020-09-10,San Luis Obispo,3330,24
 2020-09-10,San Mateo,9441,125
-2020-09-10,Santa Barbara,9157,100
+2020-09-10,Santa Barbara,9158,100
 2020-09-10,Santa Clara,20170,231
 2020-09-10,Santa Cruz,2134,7
 2020-09-10,Shasta,692,10
@@ -1214,7 +1214,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-10,Trinity,26,0
 2020-09-10,Tulare,15388,250
 2020-09-10,Tuolumne,223,1
-2020-09-10,Ventura,12159,122
+2020-09-10,Ventura,12160,122
 2020-09-10,Yolo,2710,53
 2020-09-10,Yuba,1006,1
 2020-09-09,Alameda,20119,289
@@ -1226,7 +1226,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-09,Contra Costa,15763,171
 2020-09-09,Del Norte,121,1
 2020-09-09,El Dorado,1063,2
-2020-09-09,Fresno,29014,329
+2020-09-09,Fresno,29021,329
 2020-09-09,Glenn,532,3
 2020-09-09,Humboldt,462,4
 2020-09-09,Imperial,11516,268
@@ -1235,8 +1235,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-09,Kings,7079,72
 2020-09-09,Lake,434,4
 2020-09-09,Lassen,729,0
-2020-09-09,Los Angeles,253888,6091
-2020-09-09,Madera,4221,43
+2020-09-09,Los Angeles,253886,6091
+2020-09-09,Madera,4222,43
 2020-09-09,Marin,6458,68
 2020-09-09,Mariposa,74,2
 2020-09-09,Mendocino,729,16
@@ -1250,15 +1250,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-09,Placer,3377,36
 2020-09-09,Plumas,46,0
 2020-09-09,Riverside,55639,1081
-2020-09-09,Sacramento,20456,347
+2020-09-09,Sacramento,20457,347
 2020-09-09,San Benito,1241,5
-2020-09-09,San Bernardino,51102,866
+2020-09-09,San Bernardino,51103,866
 2020-09-09,San Diego,43311,721
 2020-09-09,San Francisco,10423,86
 2020-09-09,San Joaquin,19401,388
 2020-09-09,San Luis Obispo,3312,24
 2020-09-09,San Mateo,9380,125
-2020-09-09,Santa Barbara,9114,97
+2020-09-09,Santa Barbara,9115,97
 2020-09-09,Santa Clara,20039,228
 2020-09-09,Santa Cruz,2111,7
 2020-09-09,Shasta,680,10
@@ -1272,7 +1272,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-09,Trinity,26,0
 2020-09-09,Tulare,15339,249
 2020-09-09,Tuolumne,222,1
-2020-09-09,Ventura,12071,121
+2020-09-09,Ventura,12072,121
 2020-09-09,Yolo,2699,53
 2020-09-09,Yuba,1001,1
 2020-09-08,Alameda,20011,288
@@ -1284,7 +1284,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-08,Contra Costa,15635,171
 2020-09-08,Del Norte,121,2
 2020-09-08,El Dorado,1060,2
-2020-09-08,Fresno,28895,329
+2020-09-08,Fresno,28902,329
 2020-09-08,Glenn,528,3
 2020-09-08,Humboldt,460,4
 2020-09-08,Imperial,11500,267
@@ -1293,8 +1293,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-08,Kings,7041,72
 2020-09-08,Lake,424,4
 2020-09-08,Lassen,729,0
-2020-09-08,Los Angeles,252953,6034
-2020-09-08,Madera,4197,43
+2020-09-08,Los Angeles,252951,6034
+2020-09-08,Madera,4198,43
 2020-09-08,Marin,6427,68
 2020-09-08,Mariposa,74,2
 2020-09-08,Mendocino,722,16
@@ -1308,15 +1308,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-08,Placer,3363,36
 2020-09-08,Plumas,46,0
 2020-09-08,Riverside,55427,1069
-2020-09-08,Sacramento,20221,347
+2020-09-08,Sacramento,20222,347
 2020-09-08,San Benito,1234,5
-2020-09-08,San Bernardino,50913,856
+2020-09-08,San Bernardino,50914,856
 2020-09-08,San Diego,42995,709
 2020-09-08,San Francisco,10350,86
 2020-09-08,San Joaquin,19323,388
 2020-09-08,San Luis Obispo,3298,23
 2020-09-08,San Mateo,9305,125
-2020-09-08,Santa Barbara,9080,96
+2020-09-08,Santa Barbara,9081,96
 2020-09-08,Santa Clara,19862,228
 2020-09-08,Santa Cruz,2083,7
 2020-09-08,Shasta,672,10
@@ -1330,7 +1330,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-08,Trinity,25,0
 2020-09-08,Tulare,15259,249
 2020-09-08,Tuolumne,221,1
-2020-09-08,Ventura,12003,118
+2020-09-08,Ventura,12004,118
 2020-09-08,Yolo,2689,53
 2020-09-08,Yuba,989,1
 2020-09-07,Alameda,19890,281
@@ -1342,7 +1342,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-07,Contra Costa,15522,172
 2020-09-07,Del Norte,121,2
 2020-09-07,El Dorado,1049,2
-2020-09-07,Fresno,28802,329
+2020-09-07,Fresno,28809,329
 2020-09-07,Glenn,523,3
 2020-09-07,Humboldt,451,4
 2020-09-07,Imperial,11469,267
@@ -1351,8 +1351,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-07,Kings,6917,72
 2020-09-07,Lake,401,2
 2020-09-07,Lassen,729,0
-2020-09-07,Los Angeles,251908,6030
-2020-09-07,Madera,4166,43
+2020-09-07,Los Angeles,251906,6030
+2020-09-07,Madera,4167,43
 2020-09-07,Marin,6397,67
 2020-09-07,Mariposa,74,2
 2020-09-07,Mendocino,714,16
@@ -1366,15 +1366,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-07,Placer,3332,36
 2020-09-07,Plumas,45,0
 2020-09-07,Riverside,55152,1069
-2020-09-07,Sacramento,19979,345
+2020-09-07,Sacramento,19980,345
 2020-09-07,San Benito,1228,4
-2020-09-07,San Bernardino,50689,821
+2020-09-07,San Bernardino,50690,821
 2020-09-07,San Diego,42595,708
 2020-09-07,San Francisco,10300,85
 2020-09-07,San Joaquin,19242,386
 2020-09-07,San Luis Obispo,3261,23
 2020-09-07,San Mateo,9223,125
-2020-09-07,Santa Barbara,9038,95
+2020-09-07,Santa Barbara,9039,95
 2020-09-07,Santa Clara,19704,226
 2020-09-07,Santa Cruz,2055,7
 2020-09-07,Shasta,662,10
@@ -1388,7 +1388,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-07,Trinity,25,0
 2020-09-07,Tulare,15153,249
 2020-09-07,Tuolumne,220,1
-2020-09-07,Ventura,11910,118
+2020-09-07,Ventura,11911,118
 2020-09-07,Yolo,2672,53
 2020-09-07,Yuba,973,1
 2020-09-06,Alameda,19832,281
@@ -1400,7 +1400,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-06,Contra Costa,15442,171
 2020-09-06,Del Norte,121,2
 2020-09-06,El Dorado,1047,2
-2020-09-06,Fresno,28738,329
+2020-09-06,Fresno,28745,329
 2020-09-06,Glenn,517,3
 2020-09-06,Humboldt,448,4
 2020-09-06,Imperial,11452,267
@@ -1409,8 +1409,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-06,Kings,6897,72
 2020-09-06,Lake,398,2
 2020-09-06,Lassen,729,0
-2020-09-06,Los Angeles,251280,6004
-2020-09-06,Madera,4122,42
+2020-09-06,Los Angeles,251278,6004
+2020-09-06,Madera,4123,42
 2020-09-06,Marin,6385,67
 2020-09-06,Mariposa,74,2
 2020-09-06,Mendocino,713,16
@@ -1424,15 +1424,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-06,Placer,3315,36
 2020-09-06,Plumas,44,0
 2020-09-06,Riverside,55036,1069
-2020-09-06,Sacramento,19884,340
+2020-09-06,Sacramento,19885,340
 2020-09-06,San Benito,1226,4
-2020-09-06,San Bernardino,50580,823
+2020-09-06,San Bernardino,50581,823
 2020-09-06,San Diego,42347,707
 2020-09-06,San Francisco,10226,85
 2020-09-06,San Joaquin,19193,386
 2020-09-06,San Luis Obispo,3250,23
 2020-09-06,San Mateo,9170,125
-2020-09-06,Santa Barbara,9009,95
+2020-09-06,Santa Barbara,9010,95
 2020-09-06,Santa Clara,19603,207
 2020-09-06,Santa Cruz,2048,7
 2020-09-06,Shasta,656,10
@@ -1446,7 +1446,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-06,Trinity,24,0
 2020-09-06,Tulare,15110,249
 2020-09-06,Tuolumne,217,1
-2020-09-06,Ventura,11868,118
+2020-09-06,Ventura,11869,118
 2020-09-06,Yolo,2659,53
 2020-09-06,Yuba,965,1
 2020-09-05,Alameda,19785,279
@@ -1458,7 +1458,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-05,Contra Costa,15366,173
 2020-09-05,Del Norte,121,2
 2020-09-05,El Dorado,1047,2
-2020-09-05,Fresno,28670,331
+2020-09-05,Fresno,28677,331
 2020-09-05,Glenn,516,3
 2020-09-05,Humboldt,446,4
 2020-09-05,Imperial,11435,268
@@ -1467,8 +1467,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-05,Kings,6888,66
 2020-09-05,Lake,395,2
 2020-09-05,Lassen,729,0
-2020-09-05,Los Angeles,250746,6001
-2020-09-05,Madera,4081,42
+2020-09-05,Los Angeles,250744,6001
+2020-09-05,Madera,4082,42
 2020-09-05,Marin,6378,66
 2020-09-05,Mariposa,74,2
 2020-09-05,Mendocino,712,16
@@ -1482,15 +1482,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-05,Placer,3305,35
 2020-09-05,Plumas,44,0
 2020-09-05,Riverside,54930,1066
-2020-09-05,Sacramento,19794,339
+2020-09-05,Sacramento,19795,339
 2020-09-05,San Benito,1224,4
-2020-09-05,San Bernardino,50505,825
+2020-09-05,San Bernardino,50506,825
 2020-09-05,San Diego,42155,717
 2020-09-05,San Francisco,10193,85
 2020-09-05,San Joaquin,19165,386
 2020-09-05,San Luis Obispo,3240,23
 2020-09-05,San Mateo,9125,124
-2020-09-05,Santa Barbara,8992,96
+2020-09-05,Santa Barbara,8993,96
 2020-09-05,Santa Clara,19518,207
 2020-09-05,Santa Cruz,2040,7
 2020-09-05,Shasta,655,10
@@ -1504,7 +1504,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-05,Trinity,24,0
 2020-09-05,Tulare,15054,249
 2020-09-05,Tuolumne,217,1
-2020-09-05,Ventura,11826,118
+2020-09-05,Ventura,11827,118
 2020-09-05,Yolo,2649,53
 2020-09-05,Yuba,959,1
 2020-09-04,Alameda,19717,276
@@ -1516,7 +1516,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-04,Contra Costa,15286,164
 2020-09-04,Del Norte,121,2
 2020-09-04,El Dorado,1043,2
-2020-09-04,Fresno,28565,321
+2020-09-04,Fresno,28572,321
 2020-09-04,Glenn,508,3
 2020-09-04,Humboldt,441,4
 2020-09-04,Imperial,11426,267
@@ -1525,8 +1525,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-04,Kings,6875,66
 2020-09-04,Lake,395,2
 2020-09-04,Lassen,729,0
-2020-09-04,Los Angeles,250174,5977
-2020-09-04,Madera,4068,42
+2020-09-04,Los Angeles,250172,5977
+2020-09-04,Madera,4069,42
 2020-09-04,Marin,6366,66
 2020-09-04,Mariposa,74,2
 2020-09-04,Mendocino,710,16
@@ -1540,15 +1540,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-04,Placer,3293,35
 2020-09-04,Plumas,44,0
 2020-09-04,Riverside,54817,1066
-2020-09-04,Sacramento,19706,337
+2020-09-04,Sacramento,19707,337
 2020-09-04,San Benito,1215,4
-2020-09-04,San Bernardino,50413,800
+2020-09-04,San Bernardino,50414,800
 2020-09-04,San Diego,41925,701
 2020-09-04,San Francisco,10153,85
 2020-09-04,San Joaquin,19111,376
 2020-09-04,San Luis Obispo,3225,21
 2020-09-04,San Mateo,9081,122
-2020-09-04,Santa Barbara,8961,96
+2020-09-04,Santa Barbara,8962,96
 2020-09-04,Santa Clara,19410,209
 2020-09-04,Santa Cruz,2023,7
 2020-09-04,Shasta,652,10
@@ -1562,7 +1562,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-04,Trinity,24,0
 2020-09-04,Tulare,15026,247
 2020-09-04,Tuolumne,217,1
-2020-09-04,Ventura,11784,114
+2020-09-04,Ventura,11785,114
 2020-09-04,Yolo,2634,53
 2020-09-04,Yuba,954,1
 2020-09-03,Alameda,19614,275
@@ -1574,7 +1574,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-03,Contra Costa,15179,159
 2020-09-03,Del Norte,118,2
 2020-09-03,El Dorado,1039,2
-2020-09-03,Fresno,28447,313
+2020-09-03,Fresno,28454,313
 2020-09-03,Glenn,504,3
 2020-09-03,Humboldt,436,4
 2020-09-03,Imperial,11406,255
@@ -1583,8 +1583,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-03,Kings,6795,64
 2020-09-03,Lake,386,2
 2020-09-03,Lassen,729,0
-2020-09-03,Los Angeles,249298,5931
-2020-09-03,Madera,4049,43
+2020-09-03,Los Angeles,249296,5931
+2020-09-03,Madera,4050,43
 2020-09-03,Marin,6347,66
 2020-09-03,Mariposa,74,2
 2020-09-03,Mendocino,701,16
@@ -1598,15 +1598,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-03,Placer,3275,34
 2020-09-03,Plumas,44,0
 2020-09-03,Riverside,54637,1052
-2020-09-03,Sacramento,19578,328
+2020-09-03,Sacramento,19579,328
 2020-09-03,San Benito,1204,4
-2020-09-03,San Bernardino,50248,800
+2020-09-03,San Bernardino,50249,800
 2020-09-03,San Diego,41610,700
 2020-09-03,San Francisco,10087,84
 2020-09-03,San Joaquin,19034,371
 2020-09-03,San Luis Obispo,3208,21
 2020-09-03,San Mateo,9007,122
-2020-09-03,Santa Barbara,8914,96
+2020-09-03,Santa Barbara,8915,96
 2020-09-03,Santa Clara,19230,208
 2020-09-03,Santa Cruz,2008,7
 2020-09-03,Shasta,647,10
@@ -1620,7 +1620,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-03,Trinity,23,0
 2020-09-03,Tulare,14960,244
 2020-09-03,Tuolumne,217,1
-2020-09-03,Ventura,11667,112
+2020-09-03,Ventura,11668,112
 2020-09-03,Yolo,2618,53
 2020-09-03,Yuba,947,1
 2020-09-02,Alameda,19496,260
@@ -1632,7 +1632,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-02,Contra Costa,15091,159
 2020-09-02,Del Norte,117,2
 2020-09-02,El Dorado,1035,2
-2020-09-02,Fresno,28300,292
+2020-09-02,Fresno,28307,292
 2020-09-02,Glenn,499,3
 2020-09-02,Humboldt,433,4
 2020-09-02,Imperial,11390,255
@@ -1641,8 +1641,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-02,Kings,6710,64
 2020-09-02,Lake,382,2
 2020-09-02,Lassen,727,0
-2020-09-02,Los Angeles,248356,5887
-2020-09-02,Madera,4029,41
+2020-09-02,Los Angeles,248354,5887
+2020-09-02,Madera,4030,41
 2020-09-02,Marin,6332,66
 2020-09-02,Mariposa,74,2
 2020-09-02,Mendocino,691,15
@@ -1656,15 +1656,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-02,Placer,3250,33
 2020-09-02,Plumas,44,0
 2020-09-02,Riverside,54435,1032
-2020-09-02,Sacramento,19344,316
+2020-09-02,Sacramento,19345,316
 2020-09-02,San Benito,1191,4
-2020-09-02,San Bernardino,50085,794
+2020-09-02,San Bernardino,50086,794
 2020-09-02,San Diego,41290,695
 2020-09-02,San Francisco,10018,84
 2020-09-02,San Joaquin,18953,352
 2020-09-02,San Luis Obispo,3182,21
 2020-09-02,San Mateo,8950,122
-2020-09-02,Santa Barbara,8859,94
+2020-09-02,Santa Barbara,8860,94
 2020-09-02,Santa Clara,19077,206
 2020-09-02,Santa Cruz,1985,7
 2020-09-02,Shasta,646,10
@@ -1678,7 +1678,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-02,Trinity,23,0
 2020-09-02,Tulare,14894,244
 2020-09-02,Tuolumne,217,1
-2020-09-02,Ventura,11580,111
+2020-09-02,Ventura,11581,111
 2020-09-02,Yolo,2597,54
 2020-09-02,Yuba,940,1
 2020-09-01,Alameda,19356,248
@@ -1690,7 +1690,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-01,Contra Costa,14997,158
 2020-09-01,Del Norte,116,2
 2020-09-01,El Dorado,1027,2
-2020-09-01,Fresno,28156,290
+2020-09-01,Fresno,28163,290
 2020-09-01,Glenn,492,3
 2020-09-01,Humboldt,427,4
 2020-09-01,Imperial,11364,250
@@ -1699,8 +1699,8 @@ date,county,confirmed_cases,reported_deaths
 2020-09-01,Kings,6679,62
 2020-09-01,Lake,379,2
 2020-09-01,Lassen,724,0
-2020-09-01,Los Angeles,247253,5832
-2020-09-01,Madera,4000,41
+2020-09-01,Los Angeles,247251,5832
+2020-09-01,Madera,4001,41
 2020-09-01,Marin,6317,67
 2020-09-01,Mariposa,73,2
 2020-09-01,Mendocino,676,15
@@ -1714,15 +1714,15 @@ date,county,confirmed_cases,reported_deaths
 2020-09-01,Placer,3228,33
 2020-09-01,Plumas,44,0
 2020-09-01,Riverside,54216,1027
-2020-09-01,Sacramento,19160,305
+2020-09-01,Sacramento,19161,305
 2020-09-01,San Benito,1179,4
-2020-09-01,San Bernardino,49878,786
+2020-09-01,San Bernardino,49879,786
 2020-09-01,San Diego,40932,688
 2020-09-01,San Francisco,9949,83
 2020-09-01,San Joaquin,18871,341
 2020-09-01,San Luis Obispo,3156,21
 2020-09-01,San Mateo,8870,122
-2020-09-01,Santa Barbara,8809,93
+2020-09-01,Santa Barbara,8810,93
 2020-09-01,Santa Clara,18899,204
 2020-09-01,Santa Cruz,1961,7
 2020-09-01,Shasta,638,9
@@ -1736,7 +1736,7 @@ date,county,confirmed_cases,reported_deaths
 2020-09-01,Trinity,23,0
 2020-09-01,Tulare,14812,241
 2020-09-01,Tuolumne,211,1
-2020-09-01,Ventura,11506,108
+2020-09-01,Ventura,11507,108
 2020-09-01,Yolo,2580,51
 2020-09-01,Yuba,931,1
 2020-08-31,Alameda,19212,248
@@ -1748,7 +1748,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-31,Contra Costa,14870,153
 2020-08-31,Del Norte,116,2
 2020-08-31,El Dorado,1020,2
-2020-08-31,Fresno,27937,290
+2020-08-31,Fresno,27944,290
 2020-08-31,Glenn,480,3
 2020-08-31,Humboldt,425,4
 2020-08-31,Imperial,11333,250
@@ -1757,8 +1757,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-31,Kings,6411,62
 2020-08-31,Lake,363,2
 2020-08-31,Lassen,721,0
-2020-08-31,Los Angeles,246139,5787
-2020-08-31,Madera,3977,35
+2020-08-31,Los Angeles,246137,5787
+2020-08-31,Madera,3978,35
 2020-08-31,Marin,6280,67
 2020-08-31,Mariposa,73,2
 2020-08-31,Mendocino,664,15
@@ -1772,15 +1772,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-31,Placer,3177,33
 2020-08-31,Plumas,43,0
 2020-08-31,Riverside,53996,1020
-2020-08-31,Sacramento,18925,303
+2020-08-31,Sacramento,18926,303
 2020-08-31,San Benito,1163,4
-2020-08-31,San Bernardino,49668,755
+2020-08-31,San Bernardino,49669,755
 2020-08-31,San Diego,40565,682
 2020-08-31,San Francisco,9870,83
 2020-08-31,San Joaquin,18784,338
 2020-08-31,San Luis Obispo,3133,21
 2020-08-31,San Mateo,8800,122
-2020-08-31,Santa Barbara,8762,94
+2020-08-31,Santa Barbara,8763,94
 2020-08-31,Santa Clara,18710,202
 2020-08-31,Santa Cruz,1936,7
 2020-08-31,Shasta,633,9
@@ -1794,7 +1794,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-31,Trinity,23,0
 2020-08-31,Tulare,14725,237
 2020-08-31,Tuolumne,211,1
-2020-08-31,Ventura,11423,108
+2020-08-31,Ventura,11424,108
 2020-08-31,Yolo,2562,51
 2020-08-31,Yuba,917,1
 2020-08-30,Alameda,19088,248
@@ -1806,7 +1806,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-30,Contra Costa,14731,150
 2020-08-30,Del Norte,115,2
 2020-08-30,El Dorado,1010,2
-2020-08-30,Fresno,27813,291
+2020-08-30,Fresno,27820,291
 2020-08-30,Glenn,473,3
 2020-08-30,Humboldt,414,4
 2020-08-30,Imperial,11314,250
@@ -1815,8 +1815,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-30,Kings,6365,62
 2020-08-30,Lake,358,2
 2020-08-30,Lassen,719,0
-2020-08-30,Los Angeles,244987,5772
-2020-08-30,Madera,3948,33
+2020-08-30,Los Angeles,244985,5772
+2020-08-30,Madera,3949,33
 2020-08-30,Marin,6250,66
 2020-08-30,Mariposa,73,2
 2020-08-30,Mendocino,658,13
@@ -1830,15 +1830,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-30,Placer,3144,32
 2020-08-30,Plumas,42,0
 2020-08-30,Riverside,53817,1017
-2020-08-30,Sacramento,18745,300
+2020-08-30,Sacramento,18746,300
 2020-08-30,San Benito,1153,4
-2020-08-30,San Bernardino,49412,755
+2020-08-30,San Bernardino,49413,755
 2020-08-30,San Diego,40167,682
 2020-08-30,San Francisco,9772,83
 2020-08-30,San Joaquin,18667,338
 2020-08-30,San Luis Obispo,3108,21
 2020-08-30,San Mateo,8723,122
-2020-08-30,Santa Barbara,8702,93
+2020-08-30,Santa Barbara,8703,93
 2020-08-30,Santa Clara,18534,202
 2020-08-30,Santa Cruz,1910,7
 2020-08-30,Shasta,630,9
@@ -1852,7 +1852,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-30,Trinity,23,0
 2020-08-30,Tulare,14630,236
 2020-08-30,Tuolumne,207,1
-2020-08-30,Ventura,11311,108
+2020-08-30,Ventura,11312,108
 2020-08-30,Yolo,2534,51
 2020-08-30,Yuba,903,1
 2020-08-29,Alameda,19021,250
@@ -1864,7 +1864,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-29,Contra Costa,14658,159
 2020-08-29,Del Norte,115,1
 2020-08-29,El Dorado,1007,2
-2020-08-29,Fresno,27758,291
+2020-08-29,Fresno,27765,291
 2020-08-29,Glenn,467,3
 2020-08-29,Humboldt,411,4
 2020-08-29,Imperial,11299,250
@@ -1873,8 +1873,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-29,Kings,6350,62
 2020-08-29,Lake,357,2
 2020-08-29,Lassen,719,0
-2020-08-29,Los Angeles,244332,5762
-2020-08-29,Madera,3939,33
+2020-08-29,Los Angeles,244330,5762
+2020-08-29,Madera,3940,33
 2020-08-29,Marin,6238,64
 2020-08-29,Mariposa,73,2
 2020-08-29,Mendocino,653,13
@@ -1888,15 +1888,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-29,Placer,3128,32
 2020-08-29,Plumas,41,0
 2020-08-29,Riverside,53706,1016
-2020-08-29,Sacramento,18674,291
+2020-08-29,Sacramento,18675,291
 2020-08-29,San Benito,1144,4
-2020-08-29,San Bernardino,49298,755
+2020-08-29,San Bernardino,49299,755
 2020-08-29,San Diego,39901,694
 2020-08-29,San Francisco,9744,83
 2020-08-29,San Joaquin,18623,335
 2020-08-29,San Luis Obispo,3084,21
 2020-08-29,San Mateo,8681,122
-2020-08-29,Santa Barbara,8676,93
+2020-08-29,Santa Barbara,8677,93
 2020-08-29,Santa Clara,18437,202
 2020-08-29,Santa Cruz,1898,7
 2020-08-29,Shasta,622,9
@@ -1910,7 +1910,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-29,Trinity,23,0
 2020-08-29,Tulare,14592,236
 2020-08-29,Tuolumne,207,1
-2020-08-29,Ventura,11271,108
+2020-08-29,Ventura,11272,108
 2020-08-29,Yolo,2516,51
 2020-08-29,Yuba,894,1
 2020-08-28,Alameda,18938,237
@@ -1922,7 +1922,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-28,Contra Costa,14587,158
 2020-08-28,Del Norte,115,1
 2020-08-28,El Dorado,1001,2
-2020-08-28,Fresno,27624,282
+2020-08-28,Fresno,27631,282
 2020-08-28,Glenn,460,3
 2020-08-28,Humboldt,407,4
 2020-08-28,Imperial,11285,241
@@ -1931,8 +1931,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-28,Kings,6343,62
 2020-08-28,Lake,352,2
 2020-08-28,Lassen,719,0
-2020-08-28,Los Angeles,243523,5740
-2020-08-28,Madera,3920,33
+2020-08-28,Los Angeles,243521,5740
+2020-08-28,Madera,3921,33
 2020-08-28,Marin,6216,63
 2020-08-28,Mariposa,73,2
 2020-08-28,Mendocino,648,11
@@ -1946,15 +1946,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-28,Placer,3117,32
 2020-08-28,Plumas,41,0
 2020-08-28,Riverside,53575,1008
-2020-08-28,Sacramento,18576,283
+2020-08-28,Sacramento,18577,283
 2020-08-28,San Benito,1128,3
-2020-08-28,San Bernardino,49181,754
+2020-08-28,San Bernardino,49182,754
 2020-08-28,San Diego,39671,676
 2020-08-28,San Francisco,9690,83
 2020-08-28,San Joaquin,18570,314
 2020-08-28,San Luis Obispo,3067,20
 2020-08-28,San Mateo,8634,121
-2020-08-28,Santa Barbara,8642,92
+2020-08-28,Santa Barbara,8643,92
 2020-08-28,Santa Clara,18306,201
 2020-08-28,Santa Cruz,1886,7
 2020-08-28,Shasta,618,9
@@ -1968,7 +1968,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-28,Trinity,23,0
 2020-08-28,Tulare,14546,236
 2020-08-28,Tuolumne,207,1
-2020-08-28,Ventura,11235,103
+2020-08-28,Ventura,11236,103
 2020-08-28,Yolo,2507,51
 2020-08-28,Yuba,885,1
 2020-08-27,Alameda,18794,234
@@ -1980,7 +1980,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-27,Contra Costa,14487,158
 2020-08-27,Del Norte,115,1
 2020-08-27,El Dorado,997,2
-2020-08-27,Fresno,27443,272
+2020-08-27,Fresno,27450,272
 2020-08-27,Glenn,452,3
 2020-08-27,Humboldt,399,4
 2020-08-27,Imperial,11258,235
@@ -1989,8 +1989,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-27,Kings,6321,62
 2020-08-27,Lake,350,2
 2020-08-27,Lassen,719,0
-2020-08-27,Los Angeles,242512,5704
-2020-08-27,Madera,3894,33
+2020-08-27,Los Angeles,242510,5704
+2020-08-27,Madera,3895,33
 2020-08-27,Marin,6192,62
 2020-08-27,Mariposa,73,2
 2020-08-27,Mendocino,639,10
@@ -2004,15 +2004,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-27,Placer,3086,32
 2020-08-27,Plumas,40,0
 2020-08-27,Riverside,53368,999
-2020-08-27,Sacramento,18377,281
+2020-08-27,Sacramento,18378,281
 2020-08-27,San Benito,1112,3
-2020-08-27,San Bernardino,48955,751
+2020-08-27,San Bernardino,48956,751
 2020-08-27,San Diego,39400,673
 2020-08-27,San Francisco,9624,83
 2020-08-27,San Joaquin,18490,314
 2020-08-27,San Luis Obispo,3042,20
 2020-08-27,San Mateo,8526,121
-2020-08-27,Santa Barbara,8604,92
+2020-08-27,Santa Barbara,8605,92
 2020-08-27,Santa Clara,18123,199
 2020-08-27,Santa Cruz,1869,7
 2020-08-27,Shasta,612,9
@@ -2026,7 +2026,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-27,Trinity,23,0
 2020-08-27,Tulare,14454,231
 2020-08-27,Tuolumne,202,1
-2020-08-27,Ventura,11172,102
+2020-08-27,Ventura,11173,102
 2020-08-27,Yolo,2483,51
 2020-08-27,Yuba,874,1
 2020-08-26,Alameda,18633,233
@@ -2038,7 +2038,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-26,Contra Costa,14349,157
 2020-08-26,Del Norte,114,1
 2020-08-26,El Dorado,995,2
-2020-08-26,Fresno,27295,255
+2020-08-26,Fresno,27302,255
 2020-08-26,Glenn,450,3
 2020-08-26,Humboldt,387,4
 2020-08-26,Imperial,11236,227
@@ -2047,8 +2047,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-26,Kings,6301,62
 2020-08-26,Lake,346,2
 2020-08-26,Lassen,719,0
-2020-08-26,Los Angeles,241478,5665
-2020-08-26,Madera,3865,32
+2020-08-26,Los Angeles,241476,5665
+2020-08-26,Madera,3866,32
 2020-08-26,Marin,6175,56
 2020-08-26,Mariposa,73,2
 2020-08-26,Mendocino,628,10
@@ -2062,15 +2062,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-26,Placer,3064,32
 2020-08-26,Plumas,39,0
 2020-08-26,Riverside,53126,987
-2020-08-26,Sacramento,18214,271
+2020-08-26,Sacramento,18215,271
 2020-08-26,San Benito,1097,3
-2020-08-26,San Bernardino,48746,743
+2020-08-26,San Bernardino,48747,743
 2020-08-26,San Diego,39062,668
 2020-08-26,San Francisco,9549,81
 2020-08-26,San Joaquin,18401,309
 2020-08-26,San Luis Obispo,3014,20
 2020-08-26,San Mateo,8459,121
-2020-08-26,Santa Barbara,8571,90
+2020-08-26,Santa Barbara,8572,90
 2020-08-26,Santa Clara,17946,198
 2020-08-26,Santa Cruz,1858,7
 2020-08-26,Shasta,607,9
@@ -2084,7 +2084,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-26,Trinity,23,0
 2020-08-26,Tulare,14387,232
 2020-08-26,Tuolumne,201,1
-2020-08-26,Ventura,11101,100
+2020-08-26,Ventura,11102,100
 2020-08-26,Yolo,2460,49
 2020-08-26,Yuba,859,1
 2020-08-25,Alameda,18476,232
@@ -2096,7 +2096,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-25,Contra Costa,14211,156
 2020-08-25,Del Norte,113,1
 2020-08-25,El Dorado,992,2
-2020-08-25,Fresno,27106,250
+2020-08-25,Fresno,27113,250
 2020-08-25,Glenn,447,3
 2020-08-25,Humboldt,382,4
 2020-08-25,Imperial,11208,217
@@ -2105,8 +2105,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-25,Kings,6144,59
 2020-08-25,Lake,341,2
 2020-08-25,Lassen,718,0
-2020-08-25,Los Angeles,240156,5612
-2020-08-25,Madera,3850,32
+2020-08-25,Los Angeles,240154,5612
+2020-08-25,Madera,3851,32
 2020-08-25,Marin,6137,56
 2020-08-25,Mariposa,73,2
 2020-08-25,Mendocino,620,10
@@ -2120,15 +2120,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-25,Placer,3045,31
 2020-08-25,Plumas,39,0
 2020-08-25,Riverside,52897,981
-2020-08-25,Sacramento,18062,265
+2020-08-25,Sacramento,18063,265
 2020-08-25,San Benito,1081,3
-2020-08-25,San Bernardino,48511,727
+2020-08-25,San Bernardino,48512,727
 2020-08-25,San Diego,38783,665
 2020-08-25,San Francisco,9472,81
 2020-08-25,San Joaquin,18274,306
 2020-08-25,San Luis Obispo,2956,20
 2020-08-25,San Mateo,8399,120
-2020-08-25,Santa Barbara,8519,90
+2020-08-25,Santa Barbara,8520,90
 2020-08-25,Santa Clara,17774,194
 2020-08-25,Santa Cruz,1839,7
 2020-08-25,Shasta,603,9
@@ -2142,7 +2142,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-25,Trinity,21,0
 2020-08-25,Tulare,14284,224
 2020-08-25,Tuolumne,199,1
-2020-08-25,Ventura,11016,99
+2020-08-25,Ventura,11017,99
 2020-08-25,Yolo,2447,50
 2020-08-25,Yuba,849,1
 2020-08-24,Alameda,18282,231
@@ -2154,7 +2154,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-24,Contra Costa,14095,153
 2020-08-24,Del Norte,113,1
 2020-08-24,El Dorado,984,2
-2020-08-24,Fresno,26921,235
+2020-08-24,Fresno,26928,235
 2020-08-24,Glenn,445,2
 2020-08-24,Humboldt,378,4
 2020-08-24,Imperial,11174,210
@@ -2163,8 +2163,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-24,Kings,6056,60
 2020-08-24,Lake,327,2
 2020-08-24,Lassen,718,0
-2020-08-24,Los Angeles,238791,5562
-2020-08-24,Madera,3823,32
+2020-08-24,Los Angeles,238789,5562
+2020-08-24,Madera,3824,32
 2020-08-24,Marin,6074,56
 2020-08-24,Mariposa,71,2
 2020-08-24,Mendocino,605,10
@@ -2178,15 +2178,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-24,Placer,2999,31
 2020-08-24,Plumas,39,0
 2020-08-24,Riverside,52620,975
-2020-08-24,Sacramento,17864,249
+2020-08-24,Sacramento,17865,249
 2020-08-24,San Benito,1060,3
-2020-08-24,San Bernardino,48247,720
+2020-08-24,San Bernardino,48248,720
 2020-08-24,San Diego,38496,660
 2020-08-24,San Francisco,9389,81
 2020-08-24,San Joaquin,18133,305
 2020-08-24,San Luis Obispo,2928,20
 2020-08-24,San Mateo,8333,120
-2020-08-24,Santa Barbara,8478,90
+2020-08-24,Santa Barbara,8479,90
 2020-08-24,Santa Clara,17570,192
 2020-08-24,Santa Cruz,1819,6
 2020-08-24,Shasta,601,9
@@ -2200,7 +2200,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-24,Trinity,21,0
 2020-08-24,Tulare,14177,223
 2020-08-24,Tuolumne,198,1
-2020-08-24,Ventura,10936,99
+2020-08-24,Ventura,10937,99
 2020-08-24,Yolo,2412,47
 2020-08-24,Yuba,832,1
 2020-08-23,Alameda,18059,231
@@ -2212,7 +2212,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-23,Contra Costa,13935,153
 2020-08-23,Del Norte,113,1
 2020-08-23,El Dorado,971,2
-2020-08-23,Fresno,26719,235
+2020-08-23,Fresno,26726,235
 2020-08-23,Glenn,438,2
 2020-08-23,Humboldt,376,4
 2020-08-23,Imperial,11146,210
@@ -2221,8 +2221,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-23,Kings,6014,60
 2020-08-23,Lake,323,2
 2020-08-23,Lassen,717,0
-2020-08-23,Los Angeles,237193,5549
-2020-08-23,Madera,3791,32
+2020-08-23,Los Angeles,237191,5549
+2020-08-23,Madera,3792,32
 2020-08-23,Marin,6034,50
 2020-08-23,Mariposa,71,2
 2020-08-23,Mendocino,601,10
@@ -2236,15 +2236,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-23,Placer,2960,31
 2020-08-23,Plumas,39,0
 2020-08-23,Riverside,52351,955
-2020-08-23,Sacramento,17640,243
+2020-08-23,Sacramento,17641,243
 2020-08-23,San Benito,1047,3
-2020-08-23,San Bernardino,47978,719
+2020-08-23,San Bernardino,47979,719
 2020-08-23,San Diego,38175,660
 2020-08-23,San Francisco,9294,80
 2020-08-23,San Joaquin,18001,305
 2020-08-23,San Luis Obispo,2886,20
 2020-08-23,San Mateo,8238,120
-2020-08-23,Santa Barbara,8410,90
+2020-08-23,Santa Barbara,8411,90
 2020-08-23,Santa Clara,17376,191
 2020-08-23,Santa Cruz,1793,6
 2020-08-23,Shasta,596,9
@@ -2258,7 +2258,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-23,Trinity,21,0
 2020-08-23,Tulare,14046,223
 2020-08-23,Tuolumne,194,1
-2020-08-23,Ventura,10836,99
+2020-08-23,Ventura,10837,99
 2020-08-23,Yolo,2384,47
 2020-08-23,Yuba,811,1
 2020-08-22,Alameda,17965,231
@@ -2270,7 +2270,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-22,Contra Costa,13848,153
 2020-08-22,Del Norte,112,1
 2020-08-22,El Dorado,969,2
-2020-08-22,Fresno,26622,235
+2020-08-22,Fresno,26629,235
 2020-08-22,Glenn,437,2
 2020-08-22,Humboldt,366,4
 2020-08-22,Imperial,11138,210
@@ -2279,8 +2279,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-22,Kings,6005,60
 2020-08-22,Lake,321,2
 2020-08-22,Lassen,717,0
-2020-08-22,Los Angeles,236536,5540
-2020-08-22,Madera,3772,32
+2020-08-22,Los Angeles,236534,5540
+2020-08-22,Madera,3773,32
 2020-08-22,Marin,6022,49
 2020-08-22,Mariposa,71,2
 2020-08-22,Mendocino,598,10
@@ -2294,15 +2294,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-22,Placer,2946,30
 2020-08-22,Plumas,39,0
 2020-08-22,Riverside,52202,953
-2020-08-22,Sacramento,17529,239
+2020-08-22,Sacramento,17530,239
 2020-08-22,San Benito,1031,3
-2020-08-22,San Bernardino,47849,719
+2020-08-22,San Bernardino,47850,719
 2020-08-22,San Diego,37993,673
 2020-08-22,San Francisco,9234,80
 2020-08-22,San Joaquin,17945,305
 2020-08-22,San Luis Obispo,2861,20
 2020-08-22,San Mateo,8191,120
-2020-08-22,Santa Barbara,8384,90
+2020-08-22,Santa Barbara,8385,90
 2020-08-22,Santa Clara,17269,190
 2020-08-22,Santa Cruz,1777,6
 2020-08-22,Shasta,594,9
@@ -2316,7 +2316,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-22,Trinity,21,0
 2020-08-22,Tulare,13979,222
 2020-08-22,Tuolumne,192,1
-2020-08-22,Ventura,10781,99
+2020-08-22,Ventura,10782,99
 2020-08-22,Yolo,2368,47
 2020-08-22,Yuba,799,1
 2020-08-21,Alameda,17874,232
@@ -2328,7 +2328,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-21,Contra Costa,13758,149
 2020-08-21,Del Norte,112,1
 2020-08-21,El Dorado,965,2
-2020-08-21,Fresno,26452,232
+2020-08-21,Fresno,26459,232
 2020-08-21,Glenn,433,2
 2020-08-21,Humboldt,363,4
 2020-08-21,Imperial,11122,204
@@ -2337,8 +2337,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-21,Kings,5983,60
 2020-08-21,Lake,319,2
 2020-08-21,Lassen,717,0
-2020-08-21,Los Angeles,235660,5494
-2020-08-21,Madera,3742,31
+2020-08-21,Los Angeles,235658,5494
+2020-08-21,Madera,3743,31
 2020-08-21,Marin,6002,49
 2020-08-21,Mariposa,71,2
 2020-08-21,Mendocino,588,10
@@ -2352,15 +2352,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-21,Placer,2930,30
 2020-08-21,Plumas,39,0
 2020-08-21,Riverside,52009,932
-2020-08-21,Sacramento,17406,237
+2020-08-21,Sacramento,17407,237
 2020-08-21,San Benito,1021,3
-2020-08-21,San Bernardino,47729,668
+2020-08-21,San Bernardino,47730,668
 2020-08-21,San Diego,37789,652
 2020-08-21,San Francisco,9184,80
 2020-08-21,San Joaquin,17862,301
 2020-08-21,San Luis Obispo,2838,19
 2020-08-21,San Mateo,8133,120
-2020-08-21,Santa Barbara,8343,86
+2020-08-21,Santa Barbara,8344,86
 2020-08-21,Santa Clara,17117,190
 2020-08-21,Santa Cruz,1765,6
 2020-08-21,Shasta,594,9
@@ -2374,7 +2374,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-21,Trinity,21,0
 2020-08-21,Tulare,13907,217
 2020-08-21,Tuolumne,184,1
-2020-08-21,Ventura,10717,98
+2020-08-21,Ventura,10718,98
 2020-08-21,Yolo,2353,46
 2020-08-21,Yuba,795,1
 2020-08-20,Alameda,17715,229
@@ -2386,7 +2386,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-20,Contra Costa,13630,144
 2020-08-20,Del Norte,112,1
 2020-08-20,El Dorado,961,2
-2020-08-20,Fresno,26270,228
+2020-08-20,Fresno,26277,228
 2020-08-20,Glenn,428,2
 2020-08-20,Humboldt,358,4
 2020-08-20,Imperial,11103,196
@@ -2395,8 +2395,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-20,Kings,5943,59
 2020-08-20,Lake,314,2
 2020-08-20,Lassen,716,0
-2020-08-20,Los Angeles,234425,5445
-2020-08-20,Madera,3716,31
+2020-08-20,Los Angeles,234423,5445
+2020-08-20,Madera,3717,31
 2020-08-20,Marin,5984,47
 2020-08-20,Mariposa,71,2
 2020-08-20,Mendocino,577,10
@@ -2410,15 +2410,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-20,Placer,2914,30
 2020-08-20,Plumas,39,0
 2020-08-20,Riverside,51792,927
-2020-08-20,Sacramento,17163,231
+2020-08-20,Sacramento,17164,231
 2020-08-20,San Benito,1008,3
-2020-08-20,San Bernardino,47472,665
+2020-08-20,San Bernardino,47473,665
 2020-08-20,San Diego,37569,644
 2020-08-20,San Francisco,9098,72
 2020-08-20,San Joaquin,17769,297
 2020-08-20,San Luis Obispo,2818,19
 2020-08-20,San Mateo,8067,120
-2020-08-20,Santa Barbara,8305,81
+2020-08-20,Santa Barbara,8306,81
 2020-08-20,Santa Clara,16946,190
 2020-08-20,Santa Cruz,1752,6
 2020-08-20,Shasta,593,9
@@ -2432,7 +2432,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-20,Trinity,21,0
 2020-08-20,Tulare,13799,217
 2020-08-20,Tuolumne,180,1
-2020-08-20,Ventura,10604,93
+2020-08-20,Ventura,10605,93
 2020-08-20,Yolo,2331,47
 2020-08-20,Yuba,778,1
 2020-08-19,Alameda,17557,226
@@ -2444,7 +2444,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-19,Contra Costa,13518,142
 2020-08-19,Del Norte,112,1
 2020-08-19,El Dorado,955,2
-2020-08-19,Fresno,26080,221
+2020-08-19,Fresno,26087,221
 2020-08-19,Glenn,426,2
 2020-08-19,Humboldt,355,4
 2020-08-19,Imperial,11075,192
@@ -2453,8 +2453,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-19,Kings,5771,59
 2020-08-19,Lake,311,2
 2020-08-19,Lassen,708,0
-2020-08-19,Los Angeles,233143,5399
-2020-08-19,Madera,3682,30
+2020-08-19,Los Angeles,233141,5399
+2020-08-19,Madera,3683,30
 2020-08-19,Marin,5960,46
 2020-08-19,Mariposa,71,2
 2020-08-19,Mendocino,561,8
@@ -2468,15 +2468,15 @@ date,county,confirmed_cases,reported_deaths
 2020-08-19,Placer,2891,28
 2020-08-19,Plumas,39,0
 2020-08-19,Riverside,51544,922
-2020-08-19,Sacramento,16980,229
+2020-08-19,Sacramento,16981,229
 2020-08-19,San Benito,991,3
-2020-08-19,San Bernardino,47173,661
+2020-08-19,San Bernardino,47174,661
 2020-08-19,San Diego,37320,638
 2020-08-19,San Francisco,9033,72
 2020-08-19,San Joaquin,17642,296
 2020-08-19,San Luis Obispo,2779,19
 2020-08-19,San Mateo,8000,119
-2020-08-19,Santa Barbara,8256,80
+2020-08-19,Santa Barbara,8257,80
 2020-08-19,Santa Clara,16801,189
 2020-08-19,Santa Cruz,1726,6
 2020-08-19,Shasta,589,9
@@ -2490,7 +2490,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-19,Trinity,20,0
 2020-08-19,Tulare,13701,217
 2020-08-19,Tuolumne,177,1
-2020-08-19,Ventura,10512,91
+2020-08-19,Ventura,10513,91
 2020-08-19,Yolo,2308,47
 2020-08-19,Yuba,766,1
 2020-08-18,Alameda,17381,223
@@ -2502,7 +2502,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-18,Contra Costa,13398,141
 2020-08-18,Del Norte,111,0
 2020-08-18,El Dorado,950,2
-2020-08-18,Fresno,25861,212
+2020-08-18,Fresno,25868,212
 2020-08-18,Glenn,426,2
 2020-08-18,Humboldt,353,4
 2020-08-18,Imperial,11041,189
@@ -2511,8 +2511,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-18,Kings,5744,58
 2020-08-18,Lake,308,2
 2020-08-18,Lassen,708,0
-2020-08-18,Los Angeles,231865,5339
-2020-08-18,Madera,3654,28
+2020-08-18,Los Angeles,231863,5339
+2020-08-18,Madera,3655,28
 2020-08-18,Marin,5930,47
 2020-08-18,Mariposa,71,2
 2020-08-18,Mendocino,552,8
@@ -2528,13 +2528,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-18,Riverside,51215,917
 2020-08-18,Sacramento,16752,222
 2020-08-18,San Benito,971,3
-2020-08-18,San Bernardino,46892,648
+2020-08-18,San Bernardino,46893,648
 2020-08-18,San Diego,37028,633
 2020-08-18,San Francisco,8948,72
 2020-08-18,San Joaquin,17525,290
 2020-08-18,San Luis Obispo,2755,18
 2020-08-18,San Mateo,7938,119
-2020-08-18,Santa Barbara,8214,81
+2020-08-18,Santa Barbara,8215,81
 2020-08-18,Santa Clara,16628,184
 2020-08-18,Santa Cruz,1713,6
 2020-08-18,Shasta,585,9
@@ -2548,7 +2548,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-18,Trinity,19,0
 2020-08-18,Tulare,13569,212
 2020-08-18,Tuolumne,174,1
-2020-08-18,Ventura,10422,89
+2020-08-18,Ventura,10423,89
 2020-08-18,Yolo,2285,47
 2020-08-18,Yuba,758,1
 2020-08-17,Alameda,17191,221
@@ -2560,7 +2560,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-17,Contra Costa,13260,141
 2020-08-17,Del Norte,107,0
 2020-08-17,El Dorado,947,2
-2020-08-17,Fresno,25655,211
+2020-08-17,Fresno,25662,211
 2020-08-17,Glenn,425,2
 2020-08-17,Humboldt,349,4
 2020-08-17,Imperial,11000,188
@@ -2569,8 +2569,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-17,Kings,5707,58
 2020-08-17,Lake,303,2
 2020-08-17,Lassen,708,0
-2020-08-17,Los Angeles,230350,5282
-2020-08-17,Madera,3611,26
+2020-08-17,Los Angeles,230348,5282
+2020-08-17,Madera,3612,26
 2020-08-17,Marin,5907,46
 2020-08-17,Mariposa,71,2
 2020-08-17,Mendocino,534,8
@@ -2586,13 +2586,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-17,Riverside,50886,916
 2020-08-17,Sacramento,16528,219
 2020-08-17,San Benito,956,2
-2020-08-17,San Bernardino,46550,604
+2020-08-17,San Bernardino,46551,604
 2020-08-17,San Diego,36762,626
 2020-08-17,San Francisco,8876,72
 2020-08-17,San Joaquin,17361,280
 2020-08-17,San Luis Obispo,2722,18
 2020-08-17,San Mateo,7881,118
-2020-08-17,Santa Barbara,8172,80
+2020-08-17,Santa Barbara,8173,80
 2020-08-17,Santa Clara,16408,183
 2020-08-17,Santa Cruz,1697,6
 2020-08-17,Shasta,579,9
@@ -2606,7 +2606,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-17,Trinity,19,0
 2020-08-17,Tulare,13456,210
 2020-08-17,Tuolumne,171,1
-2020-08-17,Ventura,10300,89
+2020-08-17,Ventura,10301,89
 2020-08-17,Yolo,2258,47
 2020-08-17,Yuba,743,1
 2020-08-16,Alameda,16902,221
@@ -2618,7 +2618,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-16,Contra Costa,13074,140
 2020-08-16,Del Norte,103,0
 2020-08-16,El Dorado,935,2
-2020-08-16,Fresno,25436,211
+2020-08-16,Fresno,25443,211
 2020-08-16,Glenn,423,2
 2020-08-16,Humboldt,347,4
 2020-08-16,Imperial,10956,188
@@ -2627,8 +2627,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-16,Kings,5676,58
 2020-08-16,Lake,299,2
 2020-08-16,Lassen,708,0
-2020-08-16,Los Angeles,228783,5263
-2020-08-16,Madera,3566,26
+2020-08-16,Los Angeles,228781,5263
+2020-08-16,Madera,3567,26
 2020-08-16,Marin,5881,46
 2020-08-16,Mariposa,71,2
 2020-08-16,Mendocino,526,8
@@ -2644,13 +2644,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-16,Riverside,50555,910
 2020-08-16,Sacramento,16287,219
 2020-08-16,San Benito,927,2
-2020-08-16,San Bernardino,46127,603
+2020-08-16,San Bernardino,46128,603
 2020-08-16,San Diego,36499,626
 2020-08-16,San Francisco,8788,72
 2020-08-16,San Joaquin,17159,280
 2020-08-16,San Luis Obispo,2693,17
 2020-08-16,San Mateo,7805,118
-2020-08-16,Santa Barbara,8123,79
+2020-08-16,Santa Barbara,8124,79
 2020-08-16,Santa Clara,16210,183
 2020-08-16,Santa Cruz,1670,6
 2020-08-16,Shasta,572,9
@@ -2664,7 +2664,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-16,Trinity,18,0
 2020-08-16,Tulare,13324,211
 2020-08-16,Tuolumne,171,1
-2020-08-16,Ventura,10191,89
+2020-08-16,Ventura,10192,89
 2020-08-16,Yolo,2239,47
 2020-08-16,Yuba,734,1
 2020-08-15,Alameda,16825,221
@@ -2676,7 +2676,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-15,Contra Costa,12978,138
 2020-08-15,Del Norte,103,0
 2020-08-15,El Dorado,930,2
-2020-08-15,Fresno,25320,211
+2020-08-15,Fresno,25327,211
 2020-08-15,Glenn,423,2
 2020-08-15,Humboldt,346,4
 2020-08-15,Imperial,10936,188
@@ -2685,8 +2685,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-15,Kings,5658,56
 2020-08-15,Lake,297,2
 2020-08-15,Lassen,708,0
-2020-08-15,Los Angeles,228030,5252
-2020-08-15,Madera,3516,26
+2020-08-15,Los Angeles,228028,5252
+2020-08-15,Madera,3517,26
 2020-08-15,Marin,5874,46
 2020-08-15,Mariposa,71,2
 2020-08-15,Mendocino,522,8
@@ -2702,13 +2702,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-15,Riverside,50404,910
 2020-08-15,Sacramento,16177,219
 2020-08-15,San Benito,914,2
-2020-08-15,San Bernardino,45976,602
+2020-08-15,San Bernardino,45977,602
 2020-08-15,San Diego,36333,639
 2020-08-15,San Francisco,8724,69
 2020-08-15,San Joaquin,17086,280
 2020-08-15,San Luis Obispo,2676,17
 2020-08-15,San Mateo,7768,118
-2020-08-15,Santa Barbara,8095,79
+2020-08-15,Santa Barbara,8096,79
 2020-08-15,Santa Clara,16114,183
 2020-08-15,Santa Cruz,1649,6
 2020-08-15,Shasta,569,9
@@ -2722,7 +2722,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-15,Trinity,16,0
 2020-08-15,Tulare,13286,211
 2020-08-15,Tuolumne,171,1
-2020-08-15,Ventura,10133,89
+2020-08-15,Ventura,10134,89
 2020-08-15,Yolo,2227,46
 2020-08-15,Yuba,730,1
 2020-08-14,Alameda,16686,221
@@ -2734,7 +2734,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-14,Contra Costa,12866,137
 2020-08-14,Del Norte,103,0
 2020-08-14,El Dorado,922,2
-2020-08-14,Fresno,25186,208
+2020-08-14,Fresno,25193,208
 2020-08-14,Glenn,421,2
 2020-08-14,Humboldt,340,4
 2020-08-14,Imperial,10912,185
@@ -2743,8 +2743,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-14,Kings,5644,56
 2020-08-14,Lake,288,2
 2020-08-14,Lassen,708,0
-2020-08-14,Los Angeles,226867,5222
-2020-08-14,Madera,3486,26
+2020-08-14,Los Angeles,226865,5222
+2020-08-14,Madera,3487,26
 2020-08-14,Marin,5863,46
 2020-08-14,Mariposa,70,2
 2020-08-14,Mendocino,513,8
@@ -2760,13 +2760,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-14,Riverside,50175,891
 2020-08-14,Sacramento,16027,212
 2020-08-14,San Benito,897,2
-2020-08-14,San Bernardino,45790,594
+2020-08-14,San Bernardino,45791,594
 2020-08-14,San Diego,36139,622
 2020-08-14,San Francisco,8665,69
 2020-08-14,San Joaquin,16987,276
 2020-08-14,San Luis Obispo,2661,17
 2020-08-14,San Mateo,7709,118
-2020-08-14,Santa Barbara,8045,77
+2020-08-14,Santa Barbara,8046,77
 2020-08-14,Santa Clara,15948,183
 2020-08-14,Santa Cruz,1627,6
 2020-08-14,Shasta,564,9
@@ -2780,7 +2780,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-14,Trinity,16,0
 2020-08-14,Tulare,13209,211
 2020-08-14,Tuolumne,170,1
-2020-08-14,Ventura,10058,89
+2020-08-14,Ventura,10059,89
 2020-08-14,Yolo,2213,45
 2020-08-14,Yuba,714,1
 2020-08-13,Alameda,16412,218
@@ -2792,7 +2792,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-13,Contra Costa,12712,136
 2020-08-13,Del Norte,102,0
 2020-08-13,El Dorado,917,2
-2020-08-13,Fresno,24962,201
+2020-08-13,Fresno,24969,201
 2020-08-13,Glenn,417,1
 2020-08-13,Humboldt,332,4
 2020-08-13,Imperial,10881,170
@@ -2801,8 +2801,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-13,Kings,5610,52
 2020-08-13,Lake,283,2
 2020-08-13,Lassen,708,0
-2020-08-13,Los Angeles,225458,5179
-2020-08-13,Madera,3443,25
+2020-08-13,Los Angeles,225456,5179
+2020-08-13,Madera,3444,25
 2020-08-13,Marin,5847,44
 2020-08-13,Mariposa,69,2
 2020-08-13,Mendocino,508,8
@@ -2818,13 +2818,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-13,Riverside,49882,885
 2020-08-13,Sacramento,15827,197
 2020-08-13,San Benito,868,2
-2020-08-13,San Bernardino,45396,591
+2020-08-13,San Bernardino,45397,591
 2020-08-13,San Diego,35903,627
 2020-08-13,San Francisco,8571,69
 2020-08-13,San Joaquin,16833,261
 2020-08-13,San Luis Obispo,2640,16
 2020-08-13,San Mateo,7647,117
-2020-08-13,Santa Barbara,8001,74
+2020-08-13,Santa Barbara,8002,74
 2020-08-13,Santa Clara,15725,182
 2020-08-13,Santa Cruz,1602,6
 2020-08-13,Shasta,560,9
@@ -2838,7 +2838,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-13,Trinity,16,0
 2020-08-13,Tulare,13066,210
 2020-08-13,Tuolumne,169,1
-2020-08-13,Ventura,9969,90
+2020-08-13,Ventura,9970,90
 2020-08-13,Yolo,2186,44
 2020-08-13,Yuba,698,1
 2020-08-12,Alameda,16200,215
@@ -2850,7 +2850,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-12,Contra Costa,12568,134
 2020-08-12,Del Norte,101,0
 2020-08-12,El Dorado,899,2
-2020-08-12,Fresno,24732,194
+2020-08-12,Fresno,24739,194
 2020-08-12,Glenn,414,1
 2020-08-12,Humboldt,325,4
 2020-08-12,Imperial,10859,167
@@ -2859,8 +2859,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-12,Kings,5571,50
 2020-08-12,Lake,281,2
 2020-08-12,Lassen,707,0
-2020-08-12,Los Angeles,224001,5119
-2020-08-12,Madera,3409,23
+2020-08-12,Los Angeles,223999,5119
+2020-08-12,Madera,3410,23
 2020-08-12,Marin,5825,44
 2020-08-12,Mariposa,69,2
 2020-08-12,Mendocino,489,9
@@ -2876,13 +2876,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-12,Riverside,49533,867
 2020-08-12,Sacramento,15612,189
 2020-08-12,San Benito,855,2
-2020-08-12,San Bernardino,45054,589
+2020-08-12,San Bernardino,45055,589
 2020-08-12,San Diego,35694,608
 2020-08-12,San Francisco,8487,66
 2020-08-12,San Joaquin,16690,253
 2020-08-12,San Luis Obispo,2615,15
 2020-08-12,San Mateo,7569,117
-2020-08-12,Santa Barbara,7941,74
+2020-08-12,Santa Barbara,7942,74
 2020-08-12,Santa Clara,15549,182
 2020-08-12,Santa Cruz,1573,6
 2020-08-12,Shasta,556,9
@@ -2896,7 +2896,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-12,Trinity,15,0
 2020-08-12,Tulare,12938,211
 2020-08-12,Tuolumne,168,1
-2020-08-12,Ventura,9884,87
+2020-08-12,Ventura,9885,87
 2020-08-12,Yolo,2162,44
 2020-08-12,Yuba,676,1
 2020-08-11,Alameda,15942,204
@@ -2908,7 +2908,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-11,Contra Costa,12379,131
 2020-08-11,Del Norte,100,0
 2020-08-11,El Dorado,892,2
-2020-08-11,Fresno,24412,187
+2020-08-11,Fresno,24419,187
 2020-08-11,Glenn,412,1
 2020-08-11,Humboldt,320,4
 2020-08-11,Imperial,10803,165
@@ -2917,8 +2917,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-11,Kings,5386,50
 2020-08-11,Lake,278,2
 2020-08-11,Lassen,701,0
-2020-08-11,Los Angeles,222500,5065
-2020-08-11,Madera,3355,22
+2020-08-11,Los Angeles,222498,5065
+2020-08-11,Madera,3356,22
 2020-08-11,Marin,5797,44
 2020-08-11,Mariposa,68,2
 2020-08-11,Mendocino,479,9
@@ -2934,13 +2934,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-11,Riverside,49174,836
 2020-08-11,Sacramento,15325,182
 2020-08-11,San Benito,843,2
-2020-08-11,San Bernardino,44713,584
+2020-08-11,San Bernardino,44714,584
 2020-08-11,San Diego,35427,602
 2020-08-11,San Francisco,8391,66
 2020-08-11,San Joaquin,16513,251
 2020-08-11,San Luis Obispo,2558,15
 2020-08-11,San Mateo,7493,117
-2020-08-11,Santa Barbara,7891,70
+2020-08-11,Santa Barbara,7892,70
 2020-08-11,Santa Clara,15328,183
 2020-08-11,Santa Cruz,1550,4
 2020-08-11,Shasta,552,9
@@ -2954,7 +2954,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-11,Trinity,15,0
 2020-08-11,Tulare,12813,201
 2020-08-11,Tuolumne,164,1
-2020-08-11,Ventura,9816,88
+2020-08-11,Ventura,9817,88
 2020-08-11,Yolo,2140,44
 2020-08-11,Yuba,665,1
 2020-08-10,Alameda,15701,203
@@ -2966,7 +2966,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-10,Contra Costa,12226,130
 2020-08-10,Del Norte,98,0
 2020-08-10,El Dorado,880,2
-2020-08-10,Fresno,24131,183
+2020-08-10,Fresno,24138,183
 2020-08-10,Glenn,409,1
 2020-08-10,Humboldt,314,4
 2020-08-10,Imperial,10759,165
@@ -2975,8 +2975,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-10,Kings,5280,50
 2020-08-10,Lake,271,2
 2020-08-10,Lassen,701,0
-2020-08-10,Los Angeles,220918,5003
-2020-08-10,Madera,3322,22
+2020-08-10,Los Angeles,220916,5003
+2020-08-10,Madera,3323,22
 2020-08-10,Marin,5752,44
 2020-08-10,Mariposa,68,2
 2020-08-10,Mendocino,455,1
@@ -2992,13 +2992,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-10,Riverside,48788,830
 2020-08-10,Sacramento,15012,168
 2020-08-10,San Benito,830,2
-2020-08-10,San Bernardino,44336,579
+2020-08-10,San Bernardino,44337,579
 2020-08-10,San Diego,35161,594
 2020-08-10,San Francisco,8300,66
 2020-08-10,San Joaquin,16331,240
 2020-08-10,San Luis Obispo,2459,15
 2020-08-10,San Mateo,7416,117
-2020-08-10,Santa Barbara,7836,66
+2020-08-10,Santa Barbara,7837,66
 2020-08-10,Santa Clara,15068,182
 2020-08-10,Santa Cruz,1530,4
 2020-08-10,Shasta,548,9
@@ -3012,7 +3012,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-10,Trinity,13,0
 2020-08-10,Tulare,12640,194
 2020-08-10,Tuolumne,164,1
-2020-08-10,Ventura,9732,85
+2020-08-10,Ventura,9733,85
 2020-08-10,Yolo,2117,45
 2020-08-10,Yuba,648,1
 2020-08-09,Alameda,15423,203
@@ -3024,7 +3024,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-09,Contra Costa,11999,130
 2020-08-09,Del Norte,98,0
 2020-08-09,El Dorado,872,2
-2020-08-09,Fresno,23823,183
+2020-08-09,Fresno,23830,183
 2020-08-09,Glenn,407,1
 2020-08-09,Humboldt,308,4
 2020-08-09,Imperial,10715,165
@@ -3033,8 +3033,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-09,Kings,5237,50
 2020-08-09,Lake,264,2
 2020-08-09,Lassen,695,0
-2020-08-09,Los Angeles,218856,4984
-2020-08-09,Madera,3263,22
+2020-08-09,Los Angeles,218854,4984
+2020-08-09,Madera,3264,22
 2020-08-09,Marin,5709,44
 2020-08-09,Mariposa,66,2
 2020-08-09,Mendocino,445,1
@@ -3050,13 +3050,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-09,Riverside,48445,828
 2020-08-09,Sacramento,14734,167
 2020-08-09,San Benito,811,2
-2020-08-09,San Bernardino,43861,579
+2020-08-09,San Bernardino,43862,579
 2020-08-09,San Diego,34870,594
 2020-08-09,San Francisco,8185,66
 2020-08-09,San Joaquin,16126,240
 2020-08-09,San Luis Obispo,2423,15
 2020-08-09,San Mateo,7321,117
-2020-08-09,Santa Barbara,7749,66
+2020-08-09,Santa Barbara,7750,66
 2020-08-09,Santa Clara,14798,181
 2020-08-09,Santa Cruz,1506,4
 2020-08-09,Shasta,544,9
@@ -3070,7 +3070,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-09,Trinity,13,0
 2020-08-09,Tulare,12448,194
 2020-08-09,Tuolumne,161,1
-2020-08-09,Ventura,9585,85
+2020-08-09,Ventura,9586,85
 2020-08-09,Yolo,2086,44
 2020-08-09,Yuba,628,1
 2020-08-08,Alameda,15313,204
@@ -3082,7 +3082,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-08,Contra Costa,11890,129
 2020-08-08,Del Norte,97,0
 2020-08-08,El Dorado,865,2
-2020-08-08,Fresno,23687,183
+2020-08-08,Fresno,23694,183
 2020-08-08,Glenn,407,1
 2020-08-08,Humboldt,305,4
 2020-08-08,Imperial,10700,165
@@ -3091,8 +3091,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-08,Kings,5223,49
 2020-08-08,Lake,262,2
 2020-08-08,Lassen,695,0
-2020-08-08,Los Angeles,217967,4974
-2020-08-08,Madera,3232,22
+2020-08-08,Los Angeles,217966,4974
+2020-08-08,Madera,3233,22
 2020-08-08,Marin,5689,44
 2020-08-08,Mariposa,65,2
 2020-08-08,Mendocino,443,1
@@ -3108,13 +3108,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-08,Riverside,48241,823
 2020-08-08,Sacramento,14604,166
 2020-08-08,San Benito,803,2
-2020-08-08,San Bernardino,43665,531
+2020-08-08,San Bernardino,43666,531
 2020-08-08,San Diego,34681,593
 2020-08-08,San Francisco,8119,66
 2020-08-08,San Joaquin,16045,240
 2020-08-08,San Luis Obispo,2400,15
 2020-08-08,San Mateo,7263,117
-2020-08-08,Santa Barbara,7711,66
+2020-08-08,Santa Barbara,7712,66
 2020-08-08,Santa Clara,14646,181
 2020-08-08,Santa Cruz,1492,4
 2020-08-08,Shasta,542,9
@@ -3128,7 +3128,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-08,Trinity,13,0
 2020-08-08,Tulare,12372,192
 2020-08-08,Tuolumne,161,1
-2020-08-08,Ventura,9531,85
+2020-08-08,Ventura,9532,85
 2020-08-08,Yolo,2073,44
 2020-08-08,Yuba,619,1
 2020-08-07,Alameda,15204,204
@@ -3140,7 +3140,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-07,Contra Costa,11741,126
 2020-08-07,Del Norte,97,0
 2020-08-07,El Dorado,860,2
-2020-08-07,Fresno,23527,171
+2020-08-07,Fresno,23534,171
 2020-08-07,Glenn,406,1
 2020-08-07,Humboldt,301,4
 2020-08-07,Imperial,10675,164
@@ -3149,8 +3149,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-07,Kings,5206,48
 2020-08-07,Lake,260,1
 2020-08-07,Lassen,694,0
-2020-08-07,Los Angeles,216510,4924
-2020-08-07,Madera,3200,20
+2020-08-07,Los Angeles,216509,4924
+2020-08-07,Madera,3201,20
 2020-08-07,Marin,5660,43
 2020-08-07,Mariposa,65,2
 2020-08-07,Mendocino,429,1
@@ -3166,13 +3166,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-07,Riverside,47977,810
 2020-08-07,Sacramento,14459,160
 2020-08-07,San Benito,797,2
-2020-08-07,San Bernardino,43419,524
+2020-08-07,San Bernardino,43420,524
 2020-08-07,San Diego,34496,586
 2020-08-07,San Francisco,8041,66
 2020-08-07,San Joaquin,15961,223
 2020-08-07,San Luis Obispo,2369,14
 2020-08-07,San Mateo,7204,117
-2020-08-07,Santa Barbara,7660,66
+2020-08-07,Santa Barbara,7661,66
 2020-08-07,Santa Clara,14447,180
 2020-08-07,Santa Cruz,1474,5
 2020-08-07,Shasta,537,9
@@ -3186,7 +3186,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-07,Trinity,12,0
 2020-08-07,Tulare,12295,195
 2020-08-07,Tuolumne,160,1
-2020-08-07,Ventura,9471,84
+2020-08-07,Ventura,9472,84
 2020-08-07,Yolo,2047,37
 2020-08-07,Yuba,614,1
 2020-08-06,Alameda,14983,200
@@ -3198,7 +3198,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-06,Contra Costa,11547,124
 2020-08-06,Del Norte,97,0
 2020-08-06,El Dorado,849,1
-2020-08-06,Fresno,23232,161
+2020-08-06,Fresno,23239,161
 2020-08-06,Glenn,401,1
 2020-08-06,Humboldt,296,4
 2020-08-06,Imperial,10632,163
@@ -3207,8 +3207,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-06,Kings,5146,47
 2020-08-06,Lake,257,1
 2020-08-06,Lassen,692,0
-2020-08-06,Los Angeles,214431,4874
-2020-08-06,Madera,3152,19
+2020-08-06,Los Angeles,214430,4874
+2020-08-06,Madera,3153,19
 2020-08-06,Marin,5628,43
 2020-08-06,Mariposa,64,2
 2020-08-06,Mendocino,415,1
@@ -3224,14 +3224,14 @@ date,county,confirmed_cases,reported_deaths
 2020-08-06,Riverside,47582,781
 2020-08-06,Sacramento,14228,153
 2020-08-06,San Benito,789,2
-2020-08-06,San Bernardino,43016,516
+2020-08-06,San Bernardino,43017,516
 2020-08-06,San Diego,34229,583
 2020-08-06,San Francisco,7948,60
 2020-08-06,San Joaquin,15802,203
 2020-08-06,San Luis Obispo,2345,13
 2020-08-06,San Mateo,7105,117
-2020-08-06,Santa Barbara,7600,65
-2020-08-06,Santa Clara,14218,178
+2020-08-06,Santa Barbara,7601,65
+2020-08-06,Santa Clara,14217,178
 2020-08-06,Santa Cruz,1453,4
 2020-08-06,Shasta,528,9
 2020-08-06,Sierra,5,0
@@ -3244,7 +3244,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-06,Trinity,10,0
 2020-08-06,Tulare,12136,195
 2020-08-06,Tuolumne,159,1
-2020-08-06,Ventura,9360,80
+2020-08-06,Ventura,9361,80
 2020-08-06,Yolo,2023,36
 2020-08-06,Yuba,605,1
 2020-08-05,Alameda,14771,193
@@ -3256,7 +3256,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-05,Contra Costa,11383,122
 2020-08-05,Del Norte,96,0
 2020-08-05,El Dorado,841,1
-2020-08-05,Fresno,22990,159
+2020-08-05,Fresno,22997,159
 2020-08-05,Glenn,398,1
 2020-08-05,Humboldt,294,4
 2020-08-05,Imperial,10597,163
@@ -3265,8 +3265,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-05,Kings,5101,47
 2020-08-05,Lake,250,1
 2020-08-05,Lassen,645,0
-2020-08-05,Los Angeles,212513,4832
-2020-08-05,Madera,3110,19
+2020-08-05,Los Angeles,212512,4832
+2020-08-05,Madera,3111,19
 2020-08-05,Marin,5596,43
 2020-08-05,Mariposa,64,2
 2020-08-05,Mendocino,403,1
@@ -3282,14 +3282,14 @@ date,county,confirmed_cases,reported_deaths
 2020-08-05,Riverside,47191,761
 2020-08-05,Sacramento,14009,151
 2020-08-05,San Benito,780,2
-2020-08-05,San Bernardino,42553,504
+2020-08-05,San Bernardino,42554,504
 2020-08-05,San Diego,34005,578
 2020-08-05,San Francisco,7855,60
 2020-08-05,San Joaquin,15639,199
 2020-08-05,San Luis Obispo,2322,13
 2020-08-05,San Mateo,7009,116
-2020-08-05,Santa Barbara,7539,63
-2020-08-05,Santa Clara,13983,176
+2020-08-05,Santa Barbara,7540,63
+2020-08-05,Santa Clara,13982,176
 2020-08-05,Santa Cruz,1433,4
 2020-08-05,Shasta,522,9
 2020-08-05,Sierra,5,0
@@ -3314,7 +3314,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-04,Contra Costa,11217,122
 2020-08-04,Del Norte,94,0
 2020-08-04,El Dorado,831,1
-2020-08-04,Fresno,22707,154
+2020-08-04,Fresno,22714,154
 2020-08-04,Glenn,397,1
 2020-08-04,Humboldt,284,4
 2020-08-04,Imperial,10560,163
@@ -3323,8 +3323,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-04,Kings,5040,47
 2020-08-04,Lake,250,1
 2020-08-04,Lassen,642,0
-2020-08-04,Los Angeles,210549,4764
-2020-08-04,Madera,3067,19
+2020-08-04,Los Angeles,210548,4764
+2020-08-04,Madera,3068,19
 2020-08-04,Marin,5565,43
 2020-08-04,Mariposa,64,2
 2020-08-04,Mendocino,378,1
@@ -3340,14 +3340,14 @@ date,county,confirmed_cases,reported_deaths
 2020-08-04,Riverside,46806,743
 2020-08-04,Sacramento,13790,146
 2020-08-04,San Benito,764,2
-2020-08-04,San Bernardino,42008,495
+2020-08-04,San Bernardino,42009,495
 2020-08-04,San Diego,33712,568
 2020-08-04,San Francisco,7768,60
 2020-08-04,San Joaquin,15510,189
 2020-08-04,San Luis Obispo,2292,13
 2020-08-04,San Mateo,6903,116
-2020-08-04,Santa Barbara,7479,61
-2020-08-04,Santa Clara,13683,175
+2020-08-04,Santa Barbara,7480,61
+2020-08-04,Santa Clara,13682,175
 2020-08-04,Santa Cruz,1414,4
 2020-08-04,Shasta,516,9
 2020-08-04,Sierra,5,0
@@ -3372,7 +3372,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-03,Contra Costa,11021,120
 2020-08-03,Del Norte,90,0
 2020-08-03,El Dorado,820,1
-2020-08-03,Fresno,22412,151
+2020-08-03,Fresno,22419,151
 2020-08-03,Glenn,390,1
 2020-08-03,Humboldt,277,4
 2020-08-03,Imperial,10506,161
@@ -3381,8 +3381,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-03,Kings,4928,47
 2020-08-03,Lake,243,1
 2020-08-03,Lassen,642,0
-2020-08-03,Los Angeles,208506,4706
-2020-08-03,Madera,3018,18
+2020-08-03,Los Angeles,208505,4706
+2020-08-03,Madera,3019,18
 2020-08-03,Marin,5518,43
 2020-08-03,Mariposa,63,2
 2020-08-03,Mendocino,355,1
@@ -3398,13 +3398,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-03,Riverside,46338,740
 2020-08-03,Sacramento,13593,142
 2020-08-03,San Benito,752,2
-2020-08-03,San Bernardino,41481,444
+2020-08-03,San Bernardino,41482,444
 2020-08-03,San Diego,33399,565
 2020-08-03,San Francisco,7674,60
 2020-08-03,San Joaquin,15312,189
 2020-08-03,San Luis Obispo,2250,14
 2020-08-03,San Mateo,6822,115
-2020-08-03,Santa Barbara,7435,59
+2020-08-03,Santa Barbara,7436,59
 2020-08-03,Santa Clara,13406,172
 2020-08-03,Santa Cruz,1394,4
 2020-08-03,Shasta,509,9
@@ -3430,7 +3430,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-02,Contra Costa,10783,118
 2020-08-02,Del Norte,89,0
 2020-08-02,El Dorado,810,1
-2020-08-02,Fresno,22137,151
+2020-08-02,Fresno,22144,151
 2020-08-02,Glenn,389,1
 2020-08-02,Humboldt,272,4
 2020-08-02,Imperial,10443,157
@@ -3439,8 +3439,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-02,Kings,4866,47
 2020-08-02,Lake,238,1
 2020-08-02,Lassen,642,0
-2020-08-02,Los Angeles,206406,4698
-2020-08-02,Madera,2952,18
+2020-08-02,Los Angeles,206405,4698
+2020-08-02,Madera,2953,18
 2020-08-02,Marin,5483,43
 2020-08-02,Mariposa,61,2
 2020-08-02,Mendocino,345,1
@@ -3456,13 +3456,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-02,Riverside,45905,735
 2020-08-02,Sacramento,13308,142
 2020-08-02,San Benito,738,2
-2020-08-02,San Bernardino,40882,443
+2020-08-02,San Bernardino,40883,443
 2020-08-02,San Diego,33060,565
 2020-08-02,San Francisco,7556,60
 2020-08-02,San Joaquin,15026,189
 2020-08-02,San Luis Obispo,2188,14
 2020-08-02,San Mateo,6707,115
-2020-08-02,Santa Barbara,7344,59
+2020-08-02,Santa Barbara,7345,59
 2020-08-02,Santa Clara,13188,172
 2020-08-02,Santa Cruz,1374,4
 2020-08-02,Shasta,505,9
@@ -3488,7 +3488,7 @@ date,county,confirmed_cases,reported_deaths
 2020-08-01,Contra Costa,10650,116
 2020-08-01,Del Norte,89,0
 2020-08-01,El Dorado,807,1
-2020-08-01,Fresno,22000,149
+2020-08-01,Fresno,22007,149
 2020-08-01,Glenn,388,1
 2020-08-01,Humboldt,271,4
 2020-08-01,Imperial,10407,156
@@ -3497,8 +3497,8 @@ date,county,confirmed_cases,reported_deaths
 2020-08-01,Kings,4840,47
 2020-08-01,Lake,236,1
 2020-08-01,Lassen,641,0
-2020-08-01,Los Angeles,205516,4674
-2020-08-01,Madera,2914,18
+2020-08-01,Los Angeles,205515,4674
+2020-08-01,Madera,2915,18
 2020-08-01,Marin,5469,43
 2020-08-01,Mariposa,61,2
 2020-08-01,Mendocino,338,1
@@ -3514,13 +3514,13 @@ date,county,confirmed_cases,reported_deaths
 2020-08-01,Riverside,45693,704
 2020-08-01,Sacramento,13151,141
 2020-08-01,San Benito,727,2
-2020-08-01,San Bernardino,40647,440
+2020-08-01,San Bernardino,40648,440
 2020-08-01,San Diego,32843,565
 2020-08-01,San Francisco,7494,60
 2020-08-01,San Joaquin,14954,189
 2020-08-01,San Luis Obispo,2161,13
 2020-08-01,San Mateo,6652,115
-2020-08-01,Santa Barbara,7304,59
+2020-08-01,Santa Barbara,7305,59
 2020-08-01,Santa Clara,13037,171
 2020-08-01,Santa Cruz,1358,4
 2020-08-01,Shasta,500,9
@@ -3546,7 +3546,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-31,Contra Costa,10502,113
 2020-07-31,Del Norte,88,0
 2020-07-31,El Dorado,796,1
-2020-07-31,Fresno,21781,133
+2020-07-31,Fresno,21788,133
 2020-07-31,Glenn,381,1
 2020-07-31,Humboldt,264,4
 2020-07-31,Imperial,10375,155
@@ -3555,8 +3555,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-31,Kings,4812,45
 2020-07-31,Lake,235,1
 2020-07-31,Lassen,636,0
-2020-07-31,Los Angeles,203908,4628
-2020-07-31,Madera,2867,19
+2020-07-31,Los Angeles,203907,4628
+2020-07-31,Madera,2868,19
 2020-07-31,Marin,5425,43
 2020-07-31,Mariposa,61,2
 2020-07-31,Mendocino,323,1
@@ -3572,13 +3572,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-31,Riverside,45303,694
 2020-07-31,Sacramento,12970,132
 2020-07-31,San Benito,719,2
-2020-07-31,San Bernardino,40318,434
+2020-07-31,San Bernardino,40319,434
 2020-07-31,San Diego,32609,561
 2020-07-31,San Francisco,7395,60
 2020-07-31,San Joaquin,14818,177
 2020-07-31,San Luis Obispo,2091,12
 2020-07-31,San Mateo,6580,115
-2020-07-31,Santa Barbara,7237,58
+2020-07-31,Santa Barbara,7238,58
 2020-07-31,Santa Clara,12816,171
 2020-07-31,Santa Cruz,1335,4
 2020-07-31,Shasta,490,9
@@ -3604,7 +3604,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-30,Contra Costa,10317,112
 2020-07-30,Del Norte,88,0
 2020-07-30,El Dorado,789,1
-2020-07-30,Fresno,21446,133
+2020-07-30,Fresno,21453,133
 2020-07-30,Glenn,374,1
 2020-07-30,Humboldt,262,4
 2020-07-30,Imperial,10316,151
@@ -3613,8 +3613,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-30,Kings,4708,43
 2020-07-30,Lake,229,1
 2020-07-30,Lassen,633,0
-2020-07-30,Los Angeles,201873,4564
-2020-07-30,Madera,2797,18
+2020-07-30,Los Angeles,201872,4564
+2020-07-30,Madera,2798,18
 2020-07-30,Marin,5383,39
 2020-07-30,Mariposa,61,1
 2020-07-30,Mendocino,316,1
@@ -3630,13 +3630,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-30,Riverside,44762,685
 2020-07-30,Sacramento,12749,126
 2020-07-30,San Benito,706,2
-2020-07-30,San Bernardino,39794,427
+2020-07-30,San Bernardino,39795,427
 2020-07-30,San Diego,32262,558
 2020-07-30,San Francisco,7295,59
 2020-07-30,San Joaquin,14623,161
 2020-07-30,San Luis Obispo,2056,12
 2020-07-30,San Mateo,6485,115
-2020-07-30,Santa Barbara,7157,52
+2020-07-30,Santa Barbara,7158,52
 2020-07-30,Santa Clara,12578,170
 2020-07-30,Santa Cruz,1308,4
 2020-07-30,Shasta,486,8
@@ -3662,7 +3662,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-29,Contra Costa,10114,108
 2020-07-29,Del Norte,88,0
 2020-07-29,El Dorado,779,1
-2020-07-29,Fresno,21155,125
+2020-07-29,Fresno,21162,125
 2020-07-29,Glenn,367,1
 2020-07-29,Humboldt,259,4
 2020-07-29,Imperial,10268,147
@@ -3671,8 +3671,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-29,Kings,4660,43
 2020-07-29,Lake,227,1
 2020-07-29,Lassen,618,0
-2020-07-29,Los Angeles,199839,4523
-2020-07-29,Madera,2743,18
+2020-07-29,Los Angeles,199838,4523
+2020-07-29,Madera,2744,18
 2020-07-29,Marin,5345,34
 2020-07-29,Mariposa,60,1
 2020-07-29,Mendocino,308,0
@@ -3688,13 +3688,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-29,Riverside,44171,678
 2020-07-29,Sacramento,12506,122
 2020-07-29,San Benito,691,2
-2020-07-29,San Bernardino,39305,417
+2020-07-29,San Bernardino,39306,417
 2020-07-29,San Diego,31937,552
 2020-07-29,San Francisco,7201,56
 2020-07-29,San Joaquin,14375,154
 2020-07-29,San Luis Obispo,2036,11
 2020-07-29,San Mateo,6397,114
-2020-07-29,Santa Barbara,7087,31
+2020-07-29,Santa Barbara,7088,31
 2020-07-29,Santa Clara,12370,165
 2020-07-29,Santa Cruz,1284,4
 2020-07-29,Shasta,474,8
@@ -3720,7 +3720,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-28,Contra Costa,9892,107
 2020-07-28,Del Norte,87,0
 2020-07-28,El Dorado,764,1
-2020-07-28,Fresno,20821,125
+2020-07-28,Fresno,20828,125
 2020-07-28,Glenn,365,1
 2020-07-28,Humboldt,258,4
 2020-07-28,Imperial,10232,145
@@ -3729,8 +3729,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-28,Kings,4614,41
 2020-07-28,Lake,223,1
 2020-07-28,Lassen,612,0
-2020-07-28,Los Angeles,197605,4435
-2020-07-28,Madera,2677,18
+2020-07-28,Los Angeles,197604,4435
+2020-07-28,Madera,2678,18
 2020-07-28,Marin,5276,23
 2020-07-28,Mariposa,58,1
 2020-07-28,Mendocino,297,0
@@ -3746,13 +3746,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-28,Riverside,43572,668
 2020-07-28,Sacramento,12255,117
 2020-07-28,San Benito,681,2
-2020-07-28,San Bernardino,38784,412
+2020-07-28,San Bernardino,38785,412
 2020-07-28,San Diego,31587,547
 2020-07-28,San Francisco,7088,56
 2020-07-28,San Joaquin,14092,141
 2020-07-28,San Luis Obispo,2005,9
 2020-07-28,San Mateo,6323,114
-2020-07-28,Santa Barbara,7024,31
+2020-07-28,Santa Barbara,7025,31
 2020-07-28,Santa Clara,12135,165
 2020-07-28,Santa Cruz,1257,4
 2020-07-28,Shasta,462,8
@@ -3778,7 +3778,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-27,Contra Costa,9670,104
 2020-07-27,Del Norte,86,0
 2020-07-27,El Dorado,752,1
-2020-07-27,Fresno,20475,117
+2020-07-27,Fresno,20482,117
 2020-07-27,Glenn,363,1
 2020-07-27,Humboldt,253,4
 2020-07-27,Imperial,10182,144
@@ -3787,8 +3787,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-27,Kings,4365,39
 2020-07-27,Lake,219,1
 2020-07-27,Lassen,612,0
-2020-07-27,Los Angeles,195154,4379
-2020-07-27,Madera,2612,17
+2020-07-27,Los Angeles,195153,4379
+2020-07-27,Madera,2613,17
 2020-07-27,Marin,5188,22
 2020-07-27,Mariposa,58,1
 2020-07-27,Mendocino,284,0
@@ -3804,13 +3804,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-27,Riverside,42894,667
 2020-07-27,Sacramento,11960,114
 2020-07-27,San Benito,666,2
-2020-07-27,San Bernardino,38193,401
+2020-07-27,San Bernardino,38194,401
 2020-07-27,San Diego,31213,533
 2020-07-27,San Francisco,7001,55
 2020-07-27,San Joaquin,13801,129
 2020-07-27,San Luis Obispo,1960,9
 2020-07-27,San Mateo,6214,113
-2020-07-27,Santa Barbara,6943,30
+2020-07-27,Santa Barbara,6944,30
 2020-07-27,Santa Clara,11868,166
 2020-07-27,Santa Cruz,1235,4
 2020-07-27,Shasta,455,8
@@ -3836,7 +3836,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-26,Contra Costa,9433,104
 2020-07-26,Del Norte,84,0
 2020-07-26,El Dorado,734,1
-2020-07-26,Fresno,20085,117
+2020-07-26,Fresno,20091,117
 2020-07-26,Glenn,355,1
 2020-07-26,Humboldt,247,4
 2020-07-26,Imperial,10109,144
@@ -3845,8 +3845,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-26,Kings,4306,39
 2020-07-26,Lake,211,1
 2020-07-26,Lassen,571,0
-2020-07-26,Los Angeles,192580,4364
-2020-07-26,Madera,2525,17
+2020-07-26,Los Angeles,192579,4364
+2020-07-26,Madera,2526,17
 2020-07-26,Marin,5142,22
 2020-07-26,Mariposa,56,1
 2020-07-26,Mendocino,275,0
@@ -3862,13 +3862,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-26,Riverside,42335,665
 2020-07-26,Sacramento,11657,114
 2020-07-26,San Benito,654,2
-2020-07-26,San Bernardino,37556,400
+2020-07-26,San Bernardino,37557,400
 2020-07-26,San Diego,30818,533
 2020-07-26,San Francisco,6893,55
 2020-07-26,San Joaquin,13509,129
 2020-07-26,San Luis Obispo,1917,8
 2020-07-26,San Mateo,6108,113
-2020-07-26,Santa Barbara,6841,30
+2020-07-26,Santa Barbara,6842,30
 2020-07-26,Santa Clara,11638,166
 2020-07-26,Santa Cruz,1208,4
 2020-07-26,Shasta,448,8
@@ -3894,7 +3894,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-25,Contra Costa,9288,104
 2020-07-25,Del Norte,84,0
 2020-07-25,El Dorado,723,1
-2020-07-25,Fresno,19899,117
+2020-07-25,Fresno,19905,117
 2020-07-25,Glenn,353,1
 2020-07-25,Humboldt,244,4
 2020-07-25,Imperial,10083,144
@@ -3903,8 +3903,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-25,Kings,4289,39
 2020-07-25,Lake,209,1
 2020-07-25,Lassen,571,0
-2020-07-25,Los Angeles,191449,4357
-2020-07-25,Madera,2493,17
+2020-07-25,Los Angeles,191448,4357
+2020-07-25,Madera,2494,17
 2020-07-25,Marin,5126,22
 2020-07-25,Mariposa,55,1
 2020-07-25,Mendocino,269,0
@@ -3920,13 +3920,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-25,Riverside,42066,655
 2020-07-25,Sacramento,11509,113
 2020-07-25,San Benito,638,2
-2020-07-25,San Bernardino,37277,394
+2020-07-25,San Bernardino,37278,394
 2020-07-25,San Diego,30557,533
 2020-07-25,San Francisco,6835,55
 2020-07-25,San Joaquin,13383,129
 2020-07-25,San Luis Obispo,1897,8
 2020-07-25,San Mateo,6045,113
-2020-07-25,Santa Barbara,6806,30
+2020-07-25,Santa Barbara,6807,30
 2020-07-25,Santa Clara,11504,166
 2020-07-25,Santa Cruz,1191,4
 2020-07-25,Shasta,443,8
@@ -3952,7 +3952,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-24,Contra Costa,9142,100
 2020-07-24,Del Norte,84,0
 2020-07-24,El Dorado,701,1
-2020-07-24,Fresno,19673,115
+2020-07-24,Fresno,19679,115
 2020-07-24,Glenn,350,1
 2020-07-24,Humboldt,241,4
 2020-07-24,Imperial,10061,141
@@ -3961,8 +3961,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-24,Kings,4260,39
 2020-07-24,Lake,207,1
 2020-07-24,Lassen,571,0
-2020-07-24,Los Angeles,189430,4302
-2020-07-24,Madera,2460,16
+2020-07-24,Los Angeles,189429,4302
+2020-07-24,Madera,2461,16
 2020-07-24,Marin,5099,22
 2020-07-24,Mariposa,55,1
 2020-07-24,Mendocino,262,0
@@ -3978,13 +3978,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-24,Riverside,41643,631
 2020-07-24,Sacramento,11324,110
 2020-07-24,San Benito,631,2
-2020-07-24,San Bernardino,36905,386
+2020-07-24,San Bernardino,36906,386
 2020-07-24,San Diego,30257,524
 2020-07-24,San Francisco,6741,55
 2020-07-24,San Joaquin,13235,118
 2020-07-24,San Luis Obispo,1873,8
 2020-07-24,San Mateo,5982,112
-2020-07-24,Santa Barbara,6752,30
+2020-07-24,Santa Barbara,6753,30
 2020-07-24,Santa Clara,11340,165
 2020-07-24,Santa Cruz,1171,4
 2020-07-24,Shasta,435,8
@@ -4010,7 +4010,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-23,Contra Costa,8941,98
 2020-07-23,Del Norte,84,0
 2020-07-23,El Dorado,690,1
-2020-07-23,Fresno,19317,112
+2020-07-23,Fresno,19323,112
 2020-07-23,Glenn,345,1
 2020-07-23,Humboldt,240,4
 2020-07-23,Imperial,10011,138
@@ -4019,8 +4019,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-23,Kings,4152,39
 2020-07-23,Lake,198,1
 2020-07-23,Lassen,568,0
-2020-07-23,Los Angeles,186883,4265
-2020-07-23,Madera,2393,13
+2020-07-23,Los Angeles,186882,4265
+2020-07-23,Madera,2394,13
 2020-07-23,Marin,5047,22
 2020-07-23,Mariposa,55,1
 2020-07-23,Mendocino,252,0
@@ -4036,13 +4036,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-23,Riverside,41038,630
 2020-07-23,Sacramento,11094,108
 2020-07-23,San Benito,616,2
-2020-07-23,San Bernardino,36386,369
+2020-07-23,San Bernardino,36387,369
 2020-07-23,San Diego,29883,505
 2020-07-23,San Francisco,6639,55
 2020-07-23,San Joaquin,13016,111
 2020-07-23,San Luis Obispo,1847,7
 2020-07-23,San Mateo,5877,113
-2020-07-23,Santa Barbara,6678,30
+2020-07-23,Santa Barbara,6679,30
 2020-07-23,Santa Clara,11122,165
 2020-07-23,Santa Cruz,1135,3
 2020-07-23,Shasta,424,9
@@ -4068,7 +4068,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-22,Contra Costa,8715,98
 2020-07-22,Del Norte,84,0
 2020-07-22,El Dorado,677,1
-2020-07-22,Fresno,18957,110
+2020-07-22,Fresno,18963,110
 2020-07-22,Glenn,339,1
 2020-07-22,Humboldt,238,4
 2020-07-22,Imperial,9952,134
@@ -4077,8 +4077,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-22,Kings,4098,38
 2020-07-22,Lake,195,1
 2020-07-22,Lassen,565,0
-2020-07-22,Los Angeles,184222,4218
-2020-07-22,Madera,2318,10
+2020-07-22,Los Angeles,184221,4218
+2020-07-22,Madera,2319,10
 2020-07-22,Marin,4991,23
 2020-07-22,Mariposa,55,1
 2020-07-22,Mendocino,245,0
@@ -4094,13 +4094,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-22,Riverside,40404,612
 2020-07-22,Sacramento,10829,106
 2020-07-22,San Benito,602,2
-2020-07-22,San Bernardino,35866,348
+2020-07-22,San Bernardino,35867,348
 2020-07-22,San Diego,29495,505
 2020-07-22,San Francisco,6535,53
 2020-07-22,San Joaquin,12740,102
 2020-07-22,San Luis Obispo,1803,7
 2020-07-22,San Mateo,5788,112
-2020-07-22,Santa Barbara,6591,29
+2020-07-22,Santa Barbara,6592,29
 2020-07-22,Santa Clara,10877,166
 2020-07-22,Santa Cruz,1112,3
 2020-07-22,Shasta,414,9
@@ -4126,7 +4126,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-21,Contra Costa,8473,98
 2020-07-21,Del Norte,84,0
 2020-07-21,El Dorado,669,1
-2020-07-21,Fresno,18558,107
+2020-07-21,Fresno,18564,107
 2020-07-21,Glenn,332,1
 2020-07-21,Humboldt,236,4
 2020-07-21,Imperial,9903,128
@@ -4136,7 +4136,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-21,Lake,195,1
 2020-07-21,Lassen,563,0
 2020-07-21,Los Angeles,181217,4159
-2020-07-21,Madera,2253,10
+2020-07-21,Madera,2254,10
 2020-07-21,Marin,4920,21
 2020-07-21,Mariposa,54,1
 2020-07-21,Mendocino,234,0
@@ -4152,13 +4152,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-21,Riverside,39703,583
 2020-07-21,Sacramento,10557,102
 2020-07-21,San Benito,591,2
-2020-07-21,San Bernardino,35221,343
+2020-07-21,San Bernardino,35222,343
 2020-07-21,San Diego,29046,487
 2020-07-21,San Francisco,6426,53
 2020-07-21,San Joaquin,12415,99
 2020-07-21,San Luis Obispo,1755,7
 2020-07-21,San Mateo,5696,111
-2020-07-21,Santa Barbara,6509,29
+2020-07-21,Santa Barbara,6510,29
 2020-07-21,Santa Clara,10614,164
 2020-07-21,Santa Cruz,1079,3
 2020-07-21,Shasta,406,9
@@ -4184,7 +4184,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-20,Contra Costa,8265,97
 2020-07-20,Del Norte,84,0
 2020-07-20,El Dorado,646,0
-2020-07-20,Fresno,18117,106
+2020-07-20,Fresno,18123,106
 2020-07-20,Glenn,324,1
 2020-07-20,Humboldt,229,4
 2020-07-20,Imperial,9863,124
@@ -4194,7 +4194,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-20,Lake,192,1
 2020-07-20,Lassen,561,0
 2020-07-20,Los Angeles,178247,4108
-2020-07-20,Madera,2178,10
+2020-07-20,Madera,2179,10
 2020-07-20,Marin,4839,21
 2020-07-20,Mariposa,53,1
 2020-07-20,Mendocino,221,0
@@ -4210,13 +4210,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-20,Riverside,38875,581
 2020-07-20,Sacramento,10229,99
 2020-07-20,San Benito,573,2
-2020-07-20,San Bernardino,34411,338
+2020-07-20,San Bernardino,34412,338
 2020-07-20,San Diego,28604,478
 2020-07-20,San Francisco,6305,53
 2020-07-20,San Joaquin,12058,97
 2020-07-20,San Luis Obispo,1715,6
 2020-07-20,San Mateo,5595,111
-2020-07-20,Santa Barbara,6387,29
+2020-07-20,Santa Barbara,6388,29
 2020-07-20,Santa Clara,10386,164
 2020-07-20,Santa Cruz,1047,3
 2020-07-20,Shasta,391,9
@@ -4242,7 +4242,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-19,Contra Costa,7974,95
 2020-07-19,Del Norte,83,0
 2020-07-19,El Dorado,628,0
-2020-07-19,Fresno,17596,106
+2020-07-19,Fresno,17602,106
 2020-07-19,Glenn,310,0
 2020-07-19,Humboldt,221,4
 2020-07-19,Imperial,9772,124
@@ -4252,7 +4252,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-19,Lake,187,1
 2020-07-19,Lassen,542,0
 2020-07-19,Los Angeles,174806,4100
-2020-07-19,Madera,2101,10
+2020-07-19,Madera,2102,10
 2020-07-19,Marin,4784,21
 2020-07-19,Mariposa,49,1
 2020-07-19,Mendocino,216,0
@@ -4268,13 +4268,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-19,Riverside,38172,581
 2020-07-19,Sacramento,9843,97
 2020-07-19,San Benito,557,2
-2020-07-19,San Bernardino,33641,337
+2020-07-19,San Bernardino,33642,337
 2020-07-19,San Diego,28104,478
 2020-07-19,San Francisco,6158,52
 2020-07-19,San Joaquin,11653,93
 2020-07-19,San Luis Obispo,1671,6
 2020-07-19,San Mateo,5488,110
-2020-07-19,Santa Barbara,6282,29
+2020-07-19,Santa Barbara,6283,29
 2020-07-19,Santa Clara,10142,164
 2020-07-19,Santa Cruz,1003,3
 2020-07-19,Shasta,378,9
@@ -4300,7 +4300,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-18,Contra Costa,7839,95
 2020-07-18,Del Norte,83,0
 2020-07-18,El Dorado,625,0
-2020-07-18,Fresno,17347,106
+2020-07-18,Fresno,17353,106
 2020-07-18,Glenn,304,0
 2020-07-18,Humboldt,218,4
 2020-07-18,Imperial,9741,124
@@ -4310,7 +4310,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-18,Lake,184,1
 2020-07-18,Lassen,541,0
 2020-07-18,Los Angeles,173360,4088
-2020-07-18,Madera,2055,9
+2020-07-18,Madera,2056,9
 2020-07-18,Marin,4755,21
 2020-07-18,Mariposa,49,1
 2020-07-18,Mendocino,209,0
@@ -4326,13 +4326,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-18,Riverside,37820,581
 2020-07-18,Sacramento,9600,95
 2020-07-18,San Benito,542,2
-2020-07-18,San Bernardino,33182,336
+2020-07-18,San Bernardino,33183,336
 2020-07-18,San Diego,27801,478
 2020-07-18,San Francisco,6056,52
 2020-07-18,San Joaquin,11441,93
 2020-07-18,San Luis Obispo,1638,6
 2020-07-18,San Mateo,5428,110
-2020-07-18,Santa Barbara,6222,29
+2020-07-18,Santa Barbara,6223,29
 2020-07-18,Santa Clara,9992,164
 2020-07-18,Santa Cruz,986,3
 2020-07-18,Shasta,369,9
@@ -4358,7 +4358,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-17,Contra Costa,7691,93
 2020-07-17,Del Norte,82,0
 2020-07-17,El Dorado,609,0
-2020-07-17,Fresno,17049,104
+2020-07-17,Fresno,17055,104
 2020-07-17,Glenn,297,0
 2020-07-17,Humboldt,217,4
 2020-07-17,Imperial,9719,120
@@ -4368,7 +4368,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-17,Lake,182,1
 2020-07-17,Lassen,522,0
 2020-07-17,Los Angeles,170990,4052
-2020-07-17,Madera,2011,9
+2020-07-17,Madera,2012,9
 2020-07-17,Marin,4718,21
 2020-07-17,Mariposa,47,1
 2020-07-17,Mendocino,201,0
@@ -4384,13 +4384,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-17,Riverside,37221,580
 2020-07-17,Sacramento,9356,95
 2020-07-17,San Benito,527,2
-2020-07-17,San Bernardino,32664,322
+2020-07-17,San Bernardino,32665,322
 2020-07-17,San Diego,27413,472
 2020-07-17,San Francisco,5962,52
 2020-07-17,San Joaquin,11196,86
 2020-07-17,San Luis Obispo,1602,6
 2020-07-17,San Mateo,5332,110
-2020-07-17,Santa Barbara,6149,29
+2020-07-17,Santa Barbara,6150,29
 2020-07-17,Santa Clara,9775,164
 2020-07-17,Santa Cruz,964,3
 2020-07-17,Shasta,357,8
@@ -4416,7 +4416,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-16,Contra Costa,7479,91
 2020-07-16,Del Norte,82,0
 2020-07-16,El Dorado,592,0
-2020-07-16,Fresno,16538,101
+2020-07-16,Fresno,16544,101
 2020-07-16,Glenn,288,0
 2020-07-16,Humboldt,215,4
 2020-07-16,Imperial,9624,113
@@ -4426,7 +4426,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-16,Lake,177,1
 2020-07-16,Lassen,521,0
 2020-07-16,Los Angeles,167740,3994
-2020-07-16,Madera,1947,8
+2020-07-16,Madera,1948,8
 2020-07-16,Marin,4646,21
 2020-07-16,Mariposa,45,1
 2020-07-16,Mendocino,196,0
@@ -4442,13 +4442,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-16,Riverside,36476,577
 2020-07-16,Sacramento,9041,91
 2020-07-16,San Benito,510,2
-2020-07-16,San Bernardino,31807,321
+2020-07-16,San Bernardino,31808,321
 2020-07-16,San Diego,26926,465
 2020-07-16,San Francisco,5821,52
 2020-07-16,San Joaquin,10833,82
 2020-07-16,San Luis Obispo,1558,6
 2020-07-16,San Mateo,5228,110
-2020-07-16,Santa Barbara,6053,28
+2020-07-16,Santa Barbara,6054,28
 2020-07-16,Santa Clara,9495,164
 2020-07-16,Santa Cruz,923,3
 2020-07-16,Shasta,342,7
@@ -4474,7 +4474,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-15,Contra Costa,7248,90
 2020-07-15,Del Norte,81,0
 2020-07-15,El Dorado,568,0
-2020-07-15,Fresno,16065,101
+2020-07-15,Fresno,16071,101
 2020-07-15,Glenn,279,0
 2020-07-15,Humboldt,213,4
 2020-07-15,Imperial,9557,110
@@ -4484,7 +4484,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-15,Lake,175,1
 2020-07-15,Lassen,517,0
 2020-07-15,Los Angeles,164275,3946
-2020-07-15,Madera,1878,4
+2020-07-15,Madera,1879,4
 2020-07-15,Marin,4591,21
 2020-07-15,Mariposa,45,1
 2020-07-15,Mendocino,193,0
@@ -4500,13 +4500,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-15,Riverside,35697,568
 2020-07-15,Sacramento,8664,91
 2020-07-15,San Benito,501,2
-2020-07-15,San Bernardino,31021,317
+2020-07-15,San Bernardino,31022,317
 2020-07-15,San Diego,26459,448
 2020-07-15,San Francisco,5707,50
 2020-07-15,San Joaquin,10400,75
 2020-07-15,San Luis Obispo,1515,6
 2020-07-15,San Mateo,5115,109
-2020-07-15,Santa Barbara,5937,28
+2020-07-15,Santa Barbara,5938,28
 2020-07-15,Santa Clara,9192,164
 2020-07-15,Santa Cruz,887,3
 2020-07-15,Shasta,333,7
@@ -4532,7 +4532,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-14,Contra Costa,7012,90
 2020-07-14,Del Norte,80,0
 2020-07-14,El Dorado,553,0
-2020-07-14,Fresno,15645,98
+2020-07-14,Fresno,15651,98
 2020-07-14,Glenn,269,0
 2020-07-14,Humboldt,210,4
 2020-07-14,Imperial,9430,109
@@ -4541,8 +4541,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-14,Kings,3530,37
 2020-07-14,Lake,169,1
 2020-07-14,Lassen,500,0
-2020-07-14,Los Angeles,161140,3900
-2020-07-14,Madera,1804,4
+2020-07-14,Los Angeles,161139,3900
+2020-07-14,Madera,1805,4
 2020-07-14,Marin,4477,21
 2020-07-14,Mariposa,41,1
 2020-07-14,Mendocino,185,0
@@ -4558,13 +4558,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-14,Riverside,34942,547
 2020-07-14,Sacramento,8311,87
 2020-07-14,San Benito,482,2
-2020-07-14,San Bernardino,30172,316
+2020-07-14,San Bernardino,30173,316
 2020-07-14,San Diego,25840,436
 2020-07-14,San Francisco,5557,50
 2020-07-14,San Joaquin,9973,75
 2020-07-14,San Luis Obispo,1477,5
 2020-07-14,San Mateo,5022,108
-2020-07-14,Santa Barbara,5813,28
+2020-07-14,Santa Barbara,5814,28
 2020-07-14,Santa Clara,8865,164
 2020-07-14,Santa Cruz,848,3
 2020-07-14,Shasta,324,7
@@ -4590,7 +4590,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-13,Contra Costa,6739,88
 2020-07-13,Del Norte,74,0
 2020-07-13,El Dorado,522,0
-2020-07-13,Fresno,15218,95
+2020-07-13,Fresno,15224,95
 2020-07-13,Glenn,262,0
 2020-07-13,Humboldt,205,4
 2020-07-13,Imperial,9345,109
@@ -4599,8 +4599,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-13,Kings,3479,37
 2020-07-13,Lake,164,1
 2020-07-13,Lassen,495,0
-2020-07-13,Los Angeles,157902,3829
-2020-07-13,Madera,1735,4
+2020-07-13,Los Angeles,157901,3829
+2020-07-13,Madera,1736,4
 2020-07-13,Marin,4374,21
 2020-07-13,Mariposa,40,1
 2020-07-13,Mendocino,181,0
@@ -4616,13 +4616,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-13,Riverside,34016,545
 2020-07-13,Sacramento,8016,85
 2020-07-13,San Benito,469,2
-2020-07-13,San Bernardino,29296,313
+2020-07-13,San Bernardino,29297,313
 2020-07-13,San Diego,25273,422
 2020-07-13,San Francisco,5429,50
 2020-07-13,San Joaquin,9556,71
 2020-07-13,San Luis Obispo,1446,5
 2020-07-13,San Mateo,4891,108
-2020-07-13,Santa Barbara,5699,28
+2020-07-13,Santa Barbara,5700,28
 2020-07-13,Santa Clara,8541,164
 2020-07-13,Santa Cruz,810,3
 2020-07-13,Shasta,313,6
@@ -4648,7 +4648,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-12,Contra Costa,6467,88
 2020-07-12,Del Norte,63,0
 2020-07-12,El Dorado,500,0
-2020-07-12,Fresno,14793,95
+2020-07-12,Fresno,14799,95
 2020-07-12,Glenn,249,0
 2020-07-12,Humboldt,201,4
 2020-07-12,Imperial,9225,109
@@ -4657,8 +4657,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-12,Kings,3417,34
 2020-07-12,Lake,155,1
 2020-07-12,Lassen,488,0
-2020-07-12,Los Angeles,154480,3816
-2020-07-12,Madera,1680,4
+2020-07-12,Los Angeles,154479,3816
+2020-07-12,Madera,1681,4
 2020-07-12,Marin,4297,21
 2020-07-12,Mariposa,39,1
 2020-07-12,Mendocino,162,0
@@ -4674,13 +4674,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-12,Riverside,33258,542
 2020-07-12,Sacramento,7707,85
 2020-07-12,San Benito,454,2
-2020-07-12,San Bernardino,28386,312
+2020-07-12,San Bernardino,28387,312
 2020-07-12,San Diego,24646,422
 2020-07-12,San Francisco,5280,50
 2020-07-12,San Joaquin,9194,71
 2020-07-12,San Luis Obispo,1399,5
 2020-07-12,San Mateo,4773,108
-2020-07-12,Santa Barbara,5569,28
+2020-07-12,Santa Barbara,5570,28
 2020-07-12,Santa Clara,8302,164
 2020-07-12,Santa Cruz,768,3
 2020-07-12,Shasta,307,6
@@ -4706,7 +4706,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-11,Contra Costa,6351,87
 2020-07-11,Del Norte,63,0
 2020-07-11,El Dorado,489,0
-2020-07-11,Fresno,14534,95
+2020-07-11,Fresno,14540,95
 2020-07-11,Glenn,241,0
 2020-07-11,Humboldt,200,4
 2020-07-11,Imperial,9186,109
@@ -4715,8 +4715,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-11,Kings,3390,33
 2020-07-11,Lake,154,1
 2020-07-11,Lassen,487,0
-2020-07-11,Los Angeles,152762,3802
-2020-07-11,Madera,1639,4
+2020-07-11,Los Angeles,152761,3802
+2020-07-11,Madera,1640,4
 2020-07-11,Marin,4269,21
 2020-07-11,Mariposa,39,1
 2020-07-11,Mendocino,158,0
@@ -4732,13 +4732,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-11,Riverside,32866,538
 2020-07-11,Sacramento,7533,84
 2020-07-11,San Benito,439,2
-2020-07-11,San Bernardino,27949,310
+2020-07-11,San Bernardino,27950,310
 2020-07-11,San Diego,24261,422
 2020-07-11,San Francisco,5184,50
 2020-07-11,San Joaquin,9016,72
 2020-07-11,San Luis Obispo,1351,4
 2020-07-11,San Mateo,4705,108
-2020-07-11,Santa Barbara,5500,28
+2020-07-11,Santa Barbara,5501,28
 2020-07-11,Santa Clara,8142,164
 2020-07-11,Santa Cruz,737,3
 2020-07-11,Shasta,300,6
@@ -4764,7 +4764,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-10,Contra Costa,6208,86
 2020-07-10,Del Norte,63,0
 2020-07-10,El Dorado,471,0
-2020-07-10,Fresno,14202,93
+2020-07-10,Fresno,14208,93
 2020-07-10,Glenn,236,0
 2020-07-10,Humboldt,199,4
 2020-07-10,Imperial,9141,98
@@ -4773,8 +4773,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-10,Kings,3355,33
 2020-07-10,Lake,147,1
 2020-07-10,Lassen,486,0
-2020-07-10,Los Angeles,150344,3750
-2020-07-10,Madera,1593,4
+2020-07-10,Los Angeles,150343,3750
+2020-07-10,Madera,1594,4
 2020-07-10,Marin,4207,21
 2020-07-10,Mariposa,38,1
 2020-07-10,Mendocino,150,0
@@ -4790,13 +4790,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-10,Riverside,32348,533
 2020-07-10,Sacramento,7276,81
 2020-07-10,San Benito,430,2
-2020-07-10,San Bernardino,27423,308
+2020-07-10,San Bernardino,27424,308
 2020-07-10,San Diego,23880,420
 2020-07-10,San Francisco,5093,50
 2020-07-10,San Joaquin,8783,67
 2020-07-10,San Luis Obispo,1313,4
 2020-07-10,San Mateo,4640,107
-2020-07-10,Santa Barbara,5403,28
+2020-07-10,Santa Barbara,5404,28
 2020-07-10,Santa Clara,7918,164
 2020-07-10,Santa Cruz,710,3
 2020-07-10,Shasta,296,6
@@ -4822,7 +4822,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-09,Contra Costa,5965,86
 2020-07-09,Del Norte,63,0
 2020-07-09,El Dorado,447,0
-2020-07-09,Fresno,13746,90
+2020-07-09,Fresno,13752,90
 2020-07-09,Glenn,226,0
 2020-07-09,Humboldt,196,4
 2020-07-09,Imperial,9045,87
@@ -4831,8 +4831,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-09,Kings,3292,33
 2020-07-09,Lake,144,1
 2020-07-09,Lassen,430,0
-2020-07-09,Los Angeles,147078,3698
-2020-07-09,Madera,1516,4
+2020-07-09,Los Angeles,147077,3698
+2020-07-09,Madera,1517,4
 2020-07-09,Marin,4055,20
 2020-07-09,Mariposa,38,1
 2020-07-09,Mendocino,146,0
@@ -4848,13 +4848,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-09,Riverside,31454,529
 2020-07-09,Sacramento,6951,81
 2020-07-09,San Benito,414,2
-2020-07-09,San Bernardino,26552,307
+2020-07-09,San Bernardino,26553,307
 2020-07-09,San Diego,23288,415
 2020-07-09,San Francisco,4961,50
 2020-07-09,San Joaquin,8424,66
 2020-07-09,San Luis Obispo,1274,3
 2020-07-09,San Mateo,4513,106
-2020-07-09,Santa Barbara,5270,28
+2020-07-09,Santa Barbara,5271,28
 2020-07-09,Santa Clara,7661,164
 2020-07-09,Santa Cruz,683,3
 2020-07-09,Shasta,290,5
@@ -4880,7 +4880,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-08,Contra Costa,5719,84
 2020-07-08,Del Norte,61,0
 2020-07-08,El Dorado,426,0
-2020-07-08,Fresno,13331,86
+2020-07-08,Fresno,13337,86
 2020-07-08,Glenn,215,0
 2020-07-08,Humboldt,193,4
 2020-07-08,Imperial,8957,76
@@ -4889,8 +4889,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-08,Kings,3232,33
 2020-07-08,Lake,137,1
 2020-07-08,Lassen,334,0
-2020-07-08,Los Angeles,143866,3650
-2020-07-08,Madera,1446,4
+2020-07-08,Los Angeles,143865,3650
+2020-07-08,Madera,1447,4
 2020-07-08,Marin,3956,17
 2020-07-08,Mariposa,38,1
 2020-07-08,Mendocino,133,0
@@ -4906,13 +4906,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-08,Riverside,30490,508
 2020-07-08,Sacramento,6662,80
 2020-07-08,San Benito,398,2
-2020-07-08,San Bernardino,25702,296
+2020-07-08,San Bernardino,25703,296
 2020-07-08,San Diego,22721,406
 2020-07-08,San Francisco,4872,50
 2020-07-08,San Joaquin,8082,61
 2020-07-08,San Luis Obispo,1223,2
 2020-07-08,San Mateo,4392,106
-2020-07-08,Santa Barbara,5151,28
+2020-07-08,Santa Barbara,5152,28
 2020-07-08,Santa Clara,7428,164
 2020-07-08,Santa Cruz,650,3
 2020-07-08,Shasta,281,6
@@ -4938,7 +4938,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-07,Contra Costa,5481,84
 2020-07-07,Del Norte,61,0
 2020-07-07,El Dorado,406,0
-2020-07-07,Fresno,12878,84
+2020-07-07,Fresno,12884,84
 2020-07-07,Glenn,206,0
 2020-07-07,Humboldt,190,4
 2020-07-07,Imperial,8858,51
@@ -4947,8 +4947,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-07,Kings,3171,33
 2020-07-07,Lake,127,1
 2020-07-07,Lassen,263,0
-2020-07-07,Los Angeles,140298,3588
-2020-07-07,Madera,1402,4
+2020-07-07,Los Angeles,140297,3588
+2020-07-07,Madera,1403,4
 2020-07-07,Marin,3867,17
 2020-07-07,Mariposa,38,1
 2020-07-07,Mendocino,125,0
@@ -4964,13 +4964,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-07,Riverside,29476,499
 2020-07-07,Sacramento,6320,76
 2020-07-07,San Benito,380,2
-2020-07-07,San Bernardino,24834,277
+2020-07-07,San Bernardino,24835,277
 2020-07-07,San Diego,22007,399
 2020-07-07,San Francisco,4780,50
 2020-07-07,San Joaquin,7741,59
 2020-07-07,San Luis Obispo,1162,2
 2020-07-07,San Mateo,4277,106
-2020-07-07,Santa Barbara,5023,27
+2020-07-07,Santa Barbara,5024,27
 2020-07-07,Santa Clara,7158,164
 2020-07-07,Santa Cruz,616,2
 2020-07-07,Shasta,268,6
@@ -4996,7 +4996,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-06,Contra Costa,5251,83
 2020-07-06,Del Norte,60,0
 2020-07-06,El Dorado,391,0
-2020-07-06,Fresno,12412,82
+2020-07-06,Fresno,12418,82
 2020-07-06,Glenn,198,0
 2020-07-06,Humboldt,188,3
 2020-07-06,Imperial,8739,47
@@ -5005,8 +5005,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-06,Kings,3122,33
 2020-07-06,Lake,121,1
 2020-07-06,Lassen,261,0
-2020-07-06,Los Angeles,136685,3541
-2020-07-06,Madera,1332,4
+2020-07-06,Los Angeles,136684,3541
+2020-07-06,Madera,1333,4
 2020-07-06,Marin,3627,17
 2020-07-06,Mariposa,36,1
 2020-07-06,Mendocino,108,0
@@ -5022,13 +5022,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-06,Riverside,28427,477
 2020-07-06,Sacramento,5968,71
 2020-07-06,San Benito,365,2
-2020-07-06,San Bernardino,23979,272
+2020-07-06,San Bernardino,23980,272
 2020-07-06,San Diego,21294,387
 2020-07-06,San Francisco,4659,50
 2020-07-06,San Joaquin,7371,57
 2020-07-06,San Luis Obispo,1105,2
 2020-07-06,San Mateo,4185,106
-2020-07-06,Santa Barbara,4886,27
+2020-07-06,Santa Barbara,4887,27
 2020-07-06,Santa Clara,6888,165
 2020-07-06,Santa Cruz,594,2
 2020-07-06,Shasta,258,6
@@ -5054,7 +5054,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-05,Contra Costa,5011,80
 2020-07-05,Del Norte,60,0
 2020-07-05,El Dorado,373,0
-2020-07-05,Fresno,11847,82
+2020-07-05,Fresno,11853,82
 2020-07-05,Glenn,195,0
 2020-07-05,Humboldt,184,3
 2020-07-05,Imperial,8605,47
@@ -5063,8 +5063,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-05,Kings,3039,31
 2020-07-05,Lake,121,1
 2020-07-05,Lassen,255,0
-2020-07-05,Los Angeles,133465,3495
-2020-07-05,Madera,1253,4
+2020-07-05,Los Angeles,133464,3495
+2020-07-05,Madera,1254,4
 2020-07-05,Marin,3444,17
 2020-07-05,Mariposa,36,1
 2020-07-05,Mendocino,105,0
@@ -5080,13 +5080,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-05,Riverside,27569,474
 2020-07-05,Sacramento,5651,71
 2020-07-05,San Benito,346,2
-2020-07-05,San Bernardino,23101,270
+2020-07-05,San Bernardino,23102,270
 2020-07-05,San Diego,20606,387
 2020-07-05,San Francisco,4541,50
 2020-07-05,San Joaquin,7052,57
 2020-07-05,San Luis Obispo,1025,2
 2020-07-05,San Mateo,4074,106
-2020-07-05,Santa Barbara,4739,27
+2020-07-05,Santa Barbara,4740,27
 2020-07-05,Santa Clara,6599,162
 2020-07-05,Santa Cruz,576,2
 2020-07-05,Shasta,252,6
@@ -5112,7 +5112,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-04,Contra Costa,4864,80
 2020-07-04,Del Norte,60,0
 2020-07-04,El Dorado,353,0
-2020-07-04,Fresno,11531,82
+2020-07-04,Fresno,11537,82
 2020-07-04,Glenn,188,0
 2020-07-04,Humboldt,177,3
 2020-07-04,Imperial,8557,47
@@ -5121,8 +5121,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-04,Kings,2996,31
 2020-07-04,Lake,113,1
 2020-07-04,Lassen,255,0
-2020-07-04,Los Angeles,131649,3462
-2020-07-04,Madera,1207,4
+2020-07-04,Los Angeles,131648,3462
+2020-07-04,Madera,1208,4
 2020-07-04,Marin,3415,17
 2020-07-04,Mariposa,36,1
 2020-07-04,Mendocino,105,0
@@ -5138,13 +5138,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-04,Riverside,27201,474
 2020-07-04,Sacramento,5484,71
 2020-07-04,San Benito,333,2
-2020-07-04,San Bernardino,22674,270
+2020-07-04,San Bernardino,22675,270
 2020-07-04,San Diego,20146,387
 2020-07-04,San Francisco,4449,50
 2020-07-04,San Joaquin,6839,57
 2020-07-04,San Luis Obispo,985,2
 2020-07-04,San Mateo,4011,106
-2020-07-04,Santa Barbara,4664,27
+2020-07-04,Santa Barbara,4665,27
 2020-07-04,Santa Clara,6407,161
 2020-07-04,Santa Cruz,566,2
 2020-07-04,Shasta,249,6
@@ -5170,7 +5170,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-03,Contra Costa,4730,78
 2020-07-03,Del Norte,60,0
 2020-07-03,El Dorado,341,0
-2020-07-03,Fresno,11226,81
+2020-07-03,Fresno,11232,81
 2020-07-03,Glenn,183,0
 2020-07-03,Humboldt,173,3
 2020-07-03,Imperial,8509,47
@@ -5179,8 +5179,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-03,Kings,2960,31
 2020-07-03,Lake,106,0
 2020-07-03,Lassen,255,0
-2020-07-03,Los Angeles,130132,3461
-2020-07-03,Madera,1162,4
+2020-07-03,Los Angeles,130131,3461
+2020-07-03,Madera,1163,4
 2020-07-03,Marin,3386,17
 2020-07-03,Mariposa,36,1
 2020-07-03,Mendocino,104,0
@@ -5196,13 +5196,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-03,Riverside,26895,472
 2020-07-03,Sacramento,5348,71
 2020-07-03,San Benito,326,2
-2020-07-03,San Bernardino,22285,269
+2020-07-03,San Bernardino,22286,269
 2020-07-03,San Diego,19690,387
 2020-07-03,San Francisco,4402,50
 2020-07-03,San Joaquin,6701,56
 2020-07-03,San Luis Obispo,950,2
 2020-07-03,San Mateo,3954,106
-2020-07-03,Santa Barbara,4577,27
+2020-07-03,Santa Barbara,4578,27
 2020-07-03,Santa Clara,6296,161
 2020-07-03,Santa Cruz,553,2
 2020-07-03,Shasta,241,6
@@ -5228,7 +5228,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-02,Contra Costa,4547,77
 2020-07-02,Del Norte,59,0
 2020-07-02,El Dorado,330,0
-2020-07-02,Fresno,10768,78
+2020-07-02,Fresno,10774,78
 2020-07-02,Glenn,177,0
 2020-07-02,Humboldt,169,3
 2020-07-02,Imperial,8406,47
@@ -5237,8 +5237,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-02,Kings,2910,31
 2020-07-02,Lake,103,0
 2020-07-02,Lassen,253,0
-2020-07-02,Los Angeles,128113,3458
-2020-07-02,Madera,1094,4
+2020-07-02,Los Angeles,128112,3458
+2020-07-02,Madera,1095,4
 2020-07-02,Marin,3301,17
 2020-07-02,Mariposa,35,1
 2020-07-02,Mendocino,100,0
@@ -5254,13 +5254,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-02,Riverside,26324,458
 2020-07-02,Sacramento,5114,70
 2020-07-02,San Benito,318,2
-2020-07-02,San Bernardino,21749,260
+2020-07-02,San Bernardino,21750,260
 2020-07-02,San Diego,19228,377
 2020-07-02,San Francisco,4307,50
 2020-07-02,San Joaquin,6354,56
 2020-07-02,San Luis Obispo,905,2
 2020-07-02,San Mateo,3873,107
-2020-07-02,Santa Barbara,4477,27
+2020-07-02,Santa Barbara,4478,27
 2020-07-02,Santa Clara,6170,160
 2020-07-02,Santa Cruz,530,2
 2020-07-02,Shasta,238,5
@@ -5286,7 +5286,7 @@ date,county,confirmed_cases,reported_deaths
 2020-07-01,Contra Costa,4335,76
 2020-07-01,Del Norte,59,0
 2020-07-01,El Dorado,303,0
-2020-07-01,Fresno,10335,76
+2020-07-01,Fresno,10340,76
 2020-07-01,Glenn,170,0
 2020-07-01,Humboldt,164,3
 2020-07-01,Imperial,8308,46
@@ -5295,8 +5295,8 @@ date,county,confirmed_cases,reported_deaths
 2020-07-01,Kings,2842,30
 2020-07-01,Lake,102,0
 2020-07-01,Lassen,252,0
-2020-07-01,Los Angeles,124909,3408
-2020-07-01,Madera,1053,4
+2020-07-01,Los Angeles,124908,3408
+2020-07-01,Madera,1054,4
 2020-07-01,Marin,3144,17
 2020-07-01,Mariposa,35,1
 2020-07-01,Mendocino,96,0
@@ -5312,13 +5312,13 @@ date,county,confirmed_cases,reported_deaths
 2020-07-01,Riverside,25483,457
 2020-07-01,Sacramento,4863,64
 2020-07-01,San Benito,309,2
-2020-07-01,San Bernardino,20851,253
+2020-07-01,San Bernardino,20852,253
 2020-07-01,San Diego,18670,372
 2020-07-01,San Francisco,4214,50
 2020-07-01,San Joaquin,5995,54
 2020-07-01,San Luis Obispo,879,1
 2020-07-01,San Mateo,3811,84
-2020-07-01,Santa Barbara,4357,27
+2020-07-01,Santa Barbara,4358,27
 2020-07-01,Santa Clara,5984,159
 2020-07-01,Santa Cruz,509,2
 2020-07-01,Shasta,233,5
