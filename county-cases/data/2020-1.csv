@@ -1,3481 +1,3481 @@
-date,county,confirmed_cases,reported_deaths
-2020-03-31,Alameda,708,7
-2020-03-31,Alpine,1,0
-2020-03-31,Amador,5,0
-2020-03-31,Butte,16,0
-2020-03-31,Calaveras,6,0
-2020-03-31,Colusa,3,0
-2020-03-31,Contra Costa,494,3
-2020-03-31,Del Norte,1,0
-2020-03-31,El Dorado,31,0
-2020-03-31,Fresno,245,0
-2020-03-31,Glenn,3,0
-2020-03-31,Humboldt,51,0
-2020-03-31,Imperial,94,0
-2020-03-31,Inyo,10,0
-2020-03-31,Kern,278,0
-2020-03-31,Kings,22,0
-2020-03-31,Lake,1,0
-2020-03-31,Lassen,1,0
-2020-03-31,Los Angeles,7036,53
-2020-03-31,Madera,46,1
-2020-03-31,Marin,136,1
-2020-03-31,Mariposa,0,0
-2020-03-31,Mendocino,6,0
-2020-03-31,Merced,33,0
-2020-03-31,Modoc,0,0
-2020-03-31,Mono,26,0
-2020-03-31,Monterey,76,2
-2020-03-31,Napa,35,0
-2020-03-31,Nevada,35,0
-2020-03-31,Orange,1343,7
-2020-03-31,Placer,120,2
-2020-03-31,Plumas,1,0
-2020-03-31,Riverside,1194,8
-2020-03-31,Sacramento,607,8
-2020-03-31,San Benito,29,1
-2020-03-31,San Bernardino,744,5
-2020-03-31,San Diego,1581,9
-2020-03-31,San Francisco,745,5
-2020-03-31,San Joaquin,235,7
-2020-03-31,San Luis Obispo,117,0
-2020-03-31,San Mateo,740,12
-2020-03-31,Santa Barbara,267,0
-2020-03-31,Santa Clara,1399,30
-2020-03-31,Santa Cruz,83,1
-2020-03-31,Shasta,21,1
-2020-03-31,Sierra,0,0
-2020-03-31,Siskiyou,4,0
-2020-03-31,Solano,117,0
-2020-03-31,Sonoma,149,1
-2020-03-31,Stanislaus,103,0
-2020-03-31,Sutter,21,0
-2020-03-31,Tehama,1,0
-2020-03-31,Trinity,0,0
-2020-03-31,Tulare,124,1
-2020-03-31,Tuolumne,3,0
-2020-03-31,Ventura,312,4
-2020-03-31,Yolo,58,1
-2020-03-31,Yuba,9,0
-2020-03-30,Alameda,668,7
-2020-03-30,Alpine,1,0
-2020-03-30,Amador,5,0
-2020-03-30,Butte,14,0
-2020-03-30,Calaveras,6,0
-2020-03-30,Colusa,3,0
-2020-03-30,Contra Costa,468,3
-2020-03-30,Del Norte,0,0
-2020-03-30,El Dorado,31,0
-2020-03-30,Fresno,221,0
-2020-03-30,Glenn,3,0
-2020-03-30,Humboldt,49,0
-2020-03-30,Imperial,90,0
-2020-03-30,Inyo,10,0
-2020-03-30,Kern,245,0
-2020-03-30,Kings,22,0
-2020-03-30,Lake,1,0
-2020-03-30,Lassen,1,0
-2020-03-30,Los Angeles,6383,44
-2020-03-30,Madera,45,1
-2020-03-30,Marin,129,0
-2020-03-30,Mariposa,0,0
-2020-03-30,Mendocino,5,0
-2020-03-30,Merced,29,0
-2020-03-30,Modoc,0,0
-2020-03-30,Mono,26,0
-2020-03-30,Monterey,71,1
-2020-03-30,Napa,34,0
-2020-03-30,Nevada,34,0
-2020-03-30,Orange,1278,5
-2020-03-30,Placer,117,2
-2020-03-30,Plumas,1,0
-2020-03-30,Riverside,1114,7
-2020-03-30,Sacramento,583,8
-2020-03-30,San Benito,29,1
-2020-03-30,San Bernardino,700,4
-2020-03-30,San Diego,1511,7
-2020-03-30,San Francisco,705,5
-2020-03-30,San Joaquin,228,5
-2020-03-30,San Luis Obispo,115,0
-2020-03-30,San Mateo,716,11
-2020-03-30,Santa Barbara,257,0
-2020-03-30,Santa Clara,1368,31
-2020-03-30,Santa Cruz,80,1
-2020-03-30,Shasta,20,1
-2020-03-30,Sierra,0,0
-2020-03-30,Siskiyou,4,0
-2020-03-30,Solano,111,0
-2020-03-30,Sonoma,146,1
-2020-03-30,Stanislaus,96,0
-2020-03-30,Sutter,20,0
-2020-03-30,Tehama,1,0
-2020-03-30,Trinity,0,0
-2020-03-30,Tulare,114,1
-2020-03-30,Tuolumne,3,0
-2020-03-30,Ventura,301,2
-2020-03-30,Yolo,56,1
-2020-03-30,Yuba,8,0
-2020-03-29,Alameda,634,6
-2020-03-29,Alpine,1,0
-2020-03-29,Amador,5,0
-2020-03-29,Butte,14,0
-2020-03-29,Calaveras,6,0
-2020-03-29,Colusa,3,0
-2020-03-29,Contra Costa,438,3
-2020-03-29,Del Norte,0,0
-2020-03-29,El Dorado,30,0
-2020-03-29,Fresno,197,0
-2020-03-29,Glenn,2,0
-2020-03-29,Humboldt,46,0
-2020-03-29,Imperial,84,0
-2020-03-29,Inyo,9,0
-2020-03-29,Kern,227,0
-2020-03-29,Kings,19,0
-2020-03-29,Lake,0,0
-2020-03-29,Lassen,1,0
-2020-03-29,Los Angeles,5739,37
-2020-03-29,Madera,40,1
-2020-03-29,Marin,124,0
-2020-03-29,Mariposa,0,0
-2020-03-29,Mendocino,5,0
-2020-03-29,Merced,28,0
-2020-03-29,Modoc,0,0
-2020-03-29,Mono,26,0
-2020-03-29,Monterey,66,1
-2020-03-29,Napa,32,0
-2020-03-29,Nevada,32,0
-2020-03-29,Orange,1205,2
-2020-03-29,Placer,116,2
-2020-03-29,Plumas,1,0
-2020-03-29,Riverside,990,7
-2020-03-29,Sacramento,543,7
-2020-03-29,San Benito,28,1
-2020-03-29,San Bernardino,648,2
-2020-03-29,San Diego,1439,7
-2020-03-29,San Francisco,661,5
-2020-03-29,San Joaquin,219,4
-2020-03-29,San Luis Obispo,110,0
-2020-03-29,San Mateo,691,12
-2020-03-29,Santa Barbara,246,0
-2020-03-29,Santa Clara,1313,30
-2020-03-29,Santa Cruz,80,1
-2020-03-29,Shasta,19,1
-2020-03-29,Sierra,0,0
-2020-03-29,Siskiyou,4,0
-2020-03-29,Solano,103,0
-2020-03-29,Sonoma,144,1
-2020-03-29,Stanislaus,91,0
-2020-03-29,Sutter,17,0
-2020-03-29,Tehama,1,0
-2020-03-29,Trinity,0,0
-2020-03-29,Tulare,95,1
-2020-03-29,Tuolumne,2,0
-2020-03-29,Ventura,274,2
-2020-03-29,Yolo,51,1
-2020-03-29,Yuba,8,0
-2020-03-28,Alameda,607,12
-2020-03-28,Alpine,1,0
-2020-03-28,Amador,5,0
-2020-03-28,Butte,14,0
-2020-03-28,Calaveras,6,0
-2020-03-28,Colusa,3,0
-2020-03-28,Contra Costa,415,4
-2020-03-28,Del Norte,0,0
-2020-03-28,El Dorado,29,0
-2020-03-28,Fresno,187,0
-2020-03-28,Glenn,2,0
-2020-03-28,Humboldt,46,0
-2020-03-28,Imperial,79,0
-2020-03-28,Inyo,9,0
-2020-03-28,Kern,210,0
-2020-03-28,Kings,18,0
-2020-03-28,Lake,0,0
-2020-03-28,Lassen,1,0
-2020-03-28,Los Angeles,5354,64
-2020-03-28,Madera,40,2
-2020-03-28,Marin,119,0
-2020-03-28,Mariposa,0,0
-2020-03-28,Mendocino,5,0
-2020-03-28,Merced,27,0
-2020-03-28,Modoc,0,0
-2020-03-28,Mono,24,0
-2020-03-28,Monterey,65,2
-2020-03-28,Napa,27,0
-2020-03-28,Nevada,32,0
-2020-03-28,Orange,1169,4
-2020-03-28,Placer,111,2
-2020-03-28,Plumas,1,0
-2020-03-28,Riverside,922,14
-2020-03-28,Sacramento,525,14
-2020-03-28,San Benito,28,2
-2020-03-28,San Bernardino,600,4
-2020-03-28,San Diego,1380,14
-2020-03-28,San Francisco,637,6
-2020-03-28,San Joaquin,212,8
-2020-03-28,San Luis Obispo,108,0
-2020-03-28,San Mateo,671,17
-2020-03-28,Santa Barbara,235,0
-2020-03-28,Santa Clara,1294,54
-2020-03-28,Santa Cruz,79,0
-2020-03-28,Shasta,19,2
-2020-03-28,Sierra,0,0
-2020-03-28,Siskiyou,4,0
-2020-03-28,Solano,99,0
-2020-03-28,Sonoma,142,2
-2020-03-28,Stanislaus,86,0
-2020-03-28,Sutter,17,0
-2020-03-28,Tehama,1,0
-2020-03-28,Trinity,0,0
-2020-03-28,Tulare,89,0
-2020-03-28,Tuolumne,2,0
-2020-03-28,Ventura,270,4
-2020-03-28,Yolo,50,2
-2020-03-28,Yuba,8,0
-2020-03-27,Alameda,588,4
-2020-03-27,Alpine,1,0
-2020-03-27,Amador,4,0
-2020-03-27,Butte,12,0
-2020-03-27,Calaveras,6,0
-2020-03-27,Colusa,3,0
-2020-03-27,Contra Costa,394,2
-2020-03-27,Del Norte,0,0
-2020-03-27,El Dorado,27,0
-2020-03-27,Fresno,175,0
-2020-03-27,Glenn,2,0
-2020-03-27,Humboldt,42,0
-2020-03-27,Imperial,74,0
-2020-03-27,Inyo,9,0
-2020-03-27,Kern,197,0
-2020-03-27,Kings,17,0
-2020-03-27,Lake,0,0
-2020-03-27,Lassen,1,0
-2020-03-27,Los Angeles,4941,26
-2020-03-27,Madera,38,1
-2020-03-27,Marin,114,0
-2020-03-27,Mariposa,0,0
-2020-03-27,Mendocino,5,0
-2020-03-27,Merced,26,0
-2020-03-27,Modoc,0,0
-2020-03-27,Mono,24,0
-2020-03-27,Monterey,62,1
-2020-03-27,Napa,27,0
-2020-03-27,Nevada,32,0
-2020-03-27,Orange,1117,2
-2020-03-27,Placer,108,1
-2020-03-27,Plumas,0,0
-2020-03-27,Riverside,866,7
-2020-03-27,Sacramento,502,6
-2020-03-27,San Benito,27,1
-2020-03-27,San Bernardino,510,2
-2020-03-27,San Diego,1323,5
-2020-03-27,San Francisco,612,2
-2020-03-27,San Joaquin,201,3
-2020-03-27,San Luis Obispo,106,0
-2020-03-27,San Mateo,645,7
-2020-03-27,Santa Barbara,219,0
-2020-03-27,Santa Clara,1257,25
-2020-03-27,Santa Cruz,78,0
-2020-03-27,Shasta,16,1
-2020-03-27,Sierra,0,0
-2020-03-27,Siskiyou,4,0
-2020-03-27,Solano,93,0
-2020-03-27,Sonoma,134,1
-2020-03-27,Stanislaus,84,0
-2020-03-27,Sutter,16,0
-2020-03-27,Tehama,1,0
-2020-03-27,Trinity,0,0
-2020-03-27,Tulare,81,0
-2020-03-27,Tuolumne,2,0
-2020-03-27,Ventura,261,2
-2020-03-27,Yolo,49,1
-2020-03-27,Yuba,7,0
-2020-03-26,Alameda,548,4
-2020-03-26,Alpine,1,0
-2020-03-26,Amador,4,0
-2020-03-26,Butte,12,0
-2020-03-26,Calaveras,6,0
-2020-03-26,Colusa,3,0
-2020-03-26,Contra Costa,384,2
-2020-03-26,Del Norte,0,0
-2020-03-26,El Dorado,26,0
-2020-03-26,Fresno,166,0
-2020-03-26,Glenn,2,0
-2020-03-26,Humboldt,38,0
-2020-03-26,Imperial,70,0
-2020-03-26,Inyo,8,0
-2020-03-26,Kern,181,0
-2020-03-26,Kings,17,0
-2020-03-26,Lake,0,0
-2020-03-26,Lassen,1,0
-2020-03-26,Los Angeles,4540,19
-2020-03-26,Madera,36,0
-2020-03-26,Marin,105,0
-2020-03-26,Mariposa,0,0
-2020-03-26,Mendocino,4,0
-2020-03-26,Merced,23,0
-2020-03-26,Modoc,0,0
-2020-03-26,Mono,23,0
-2020-03-26,Monterey,59,1
-2020-03-26,Napa,26,0
-2020-03-26,Nevada,32,0
-2020-03-26,Orange,1055,1
-2020-03-26,Placer,104,1
-2020-03-26,Plumas,0,0
-2020-03-26,Riverside,796,7
-2020-03-26,Sacramento,469,5
-2020-03-26,San Benito,27,1
-2020-03-26,San Bernardino,444,1
-2020-03-26,San Diego,1256,2
-2020-03-26,San Francisco,585,1
-2020-03-26,San Joaquin,190,3
-2020-03-26,San Luis Obispo,101,0
-2020-03-26,San Mateo,612,5
-2020-03-26,Santa Barbara,203,0
-2020-03-26,Santa Clara,1214,20
-2020-03-26,Santa Cruz,74,0
-2020-03-26,Shasta,16,1
-2020-03-26,Sierra,0,0
-2020-03-26,Siskiyou,4,0
-2020-03-26,Solano,85,0
-2020-03-26,Sonoma,129,1
-2020-03-26,Stanislaus,82,0
-2020-03-26,Sutter,12,0
-2020-03-26,Tehama,1,0
-2020-03-26,Trinity,0,0
-2020-03-26,Tulare,74,0
-2020-03-26,Tuolumne,2,0
-2020-03-26,Ventura,245,1
-2020-03-26,Yolo,45,1
-2020-03-26,Yuba,7,0
-2020-03-25,Alameda,527,3
-2020-03-25,Alpine,1,0
-2020-03-25,Amador,4,0
-2020-03-25,Butte,12,0
-2020-03-25,Calaveras,6,0
-2020-03-25,Colusa,2,0
-2020-03-25,Contra Costa,370,1
-2020-03-25,Del Norte,0,0
-2020-03-25,El Dorado,26,0
-2020-03-25,Fresno,150,0
-2020-03-25,Glenn,2,0
-2020-03-25,Humboldt,35,0
-2020-03-25,Imperial,62,0
-2020-03-25,Inyo,5,0
-2020-03-25,Kern,161,0
-2020-03-25,Kings,16,0
-2020-03-25,Lake,0,0
-2020-03-25,Lassen,1,0
-2020-03-25,Los Angeles,4143,10
-2020-03-25,Madera,34,0
-2020-03-25,Marin,99,0
-2020-03-25,Mariposa,0,0
-2020-03-25,Mendocino,3,0
-2020-03-25,Merced,19,0
-2020-03-25,Modoc,0,0
-2020-03-25,Mono,22,0
-2020-03-25,Monterey,56,1
-2020-03-25,Napa,26,0
-2020-03-25,Nevada,31,0
-2020-03-25,Orange,997,1
-2020-03-25,Placer,98,1
-2020-03-25,Plumas,0,0
-2020-03-25,Riverside,725,5
-2020-03-25,Sacramento,443,5
-2020-03-25,San Benito,26,1
-2020-03-25,San Bernardino,405,1
-2020-03-25,San Diego,1194,2
-2020-03-25,San Francisco,544,1
-2020-03-25,San Joaquin,177,2
-2020-03-25,San Luis Obispo,96,0
-2020-03-25,San Mateo,577,5
-2020-03-25,Santa Barbara,192,0
-2020-03-25,Santa Clara,1170,20
-2020-03-25,Santa Cruz,71,0
-2020-03-25,Shasta,15,1
-2020-03-25,Sierra,0,0
-2020-03-25,Siskiyou,4,0
-2020-03-25,Solano,80,0
-2020-03-25,Sonoma,124,1
-2020-03-25,Stanislaus,75,0
-2020-03-25,Sutter,9,0
-2020-03-25,Tehama,1,0
-2020-03-25,Trinity,0,0
-2020-03-25,Tulare,64,0
-2020-03-25,Tuolumne,2,0
-2020-03-25,Ventura,229,1
-2020-03-25,Yolo,43,1
-2020-03-25,Yuba,7,0
-2020-03-24,Alameda,495,2
-2020-03-24,Alpine,1,0
-2020-03-24,Amador,2,0
-2020-03-24,Butte,11,0
-2020-03-24,Calaveras,5,0
-2020-03-24,Colusa,2,0
-2020-03-24,Contra Costa,356,1
-2020-03-24,Del Norte,0,0
-2020-03-24,El Dorado,26,0
-2020-03-24,Fresno,131,0
-2020-03-24,Glenn,2,0
-2020-03-24,Humboldt,33,0
-2020-03-24,Imperial,59,0
-2020-03-24,Inyo,5,0
-2020-03-24,Kern,143,0
-2020-03-24,Kings,15,0
-2020-03-24,Lake,0,0
-2020-03-24,Lassen,1,0
-2020-03-24,Los Angeles,3693,7
-2020-03-24,Madera,33,0
-2020-03-24,Marin,88,0
-2020-03-24,Mariposa,0,0
-2020-03-24,Mendocino,3,0
-2020-03-24,Merced,17,0
-2020-03-24,Modoc,0,0
-2020-03-24,Mono,21,0
-2020-03-24,Monterey,52,1
-2020-03-24,Napa,23,0
-2020-03-24,Nevada,30,0
-2020-03-24,Orange,935,0
-2020-03-24,Placer,92,1
-2020-03-24,Plumas,0,0
-2020-03-24,Riverside,658,5
-2020-03-24,Sacramento,424,4
-2020-03-24,San Benito,25,1
-2020-03-24,San Bernardino,361,0
-2020-03-24,San Diego,1127,2
-2020-03-24,San Francisco,512,1
-2020-03-24,San Joaquin,166,2
-2020-03-24,San Luis Obispo,94,0
-2020-03-24,San Mateo,536,2
-2020-03-24,Santa Barbara,186,0
-2020-03-24,Santa Clara,1101,17
-2020-03-24,Santa Cruz,66,0
-2020-03-24,Shasta,14,0
-2020-03-24,Sierra,0,0
-2020-03-24,Siskiyou,4,0
-2020-03-24,Solano,78,0
-2020-03-24,Sonoma,117,1
-2020-03-24,Stanislaus,66,0
-2020-03-24,Sutter,9,0
-2020-03-24,Tehama,1,0
-2020-03-24,Trinity,0,0
-2020-03-24,Tulare,56,0
-2020-03-24,Tuolumne,2,0
-2020-03-24,Ventura,213,1
-2020-03-24,Yolo,39,0
-2020-03-24,Yuba,7,0
-2020-03-23,Alameda,465,1
-2020-03-23,Alpine,1,0
-2020-03-23,Amador,2,0
-2020-03-23,Butte,11,0
-2020-03-23,Calaveras,5,0
-2020-03-23,Colusa,1,0
-2020-03-23,Contra Costa,336,2
-2020-03-23,Del Norte,0,0
-2020-03-23,El Dorado,25,0
-2020-03-23,Fresno,121,0
-2020-03-23,Glenn,2,0
-2020-03-23,Humboldt,31,0
-2020-03-23,Imperial,55,0
-2020-03-23,Inyo,3,0
-2020-03-23,Kern,129,0
-2020-03-23,Kings,15,0
-2020-03-23,Lake,0,0
-2020-03-23,Lassen,1,0
-2020-03-23,Los Angeles,3389,4
-2020-03-23,Madera,33,0
-2020-03-23,Marin,83,0
-2020-03-23,Mariposa,0,0
-2020-03-23,Mendocino,3,0
-2020-03-23,Merced,11,0
-2020-03-23,Modoc,0,0
-2020-03-23,Mono,19,0
-2020-03-23,Monterey,47,1
-2020-03-23,Napa,21,0
-2020-03-23,Nevada,27,0
-2020-03-23,Orange,881,0
-2020-03-23,Placer,89,1
-2020-03-23,Plumas,0,0
-2020-03-23,Riverside,617,5
-2020-03-23,Sacramento,391,4
-2020-03-23,San Benito,24,1
-2020-03-23,San Bernardino,331,0
-2020-03-23,San Diego,1068,1
-2020-03-23,San Francisco,483,0
-2020-03-23,San Joaquin,154,2
-2020-03-23,San Luis Obispo,88,0
-2020-03-23,San Mateo,498,1
-2020-03-23,Santa Barbara,165,0
-2020-03-23,Santa Clara,1054,13
-2020-03-23,Santa Cruz,64,0
-2020-03-23,Shasta,12,0
-2020-03-23,Sierra,0,0
-2020-03-23,Siskiyou,4,0
-2020-03-23,Solano,74,0
-2020-03-23,Sonoma,105,1
-2020-03-23,Stanislaus,58,0
-2020-03-23,Sutter,9,0
-2020-03-23,Tehama,1,0
-2020-03-23,Trinity,0,0
-2020-03-23,Tulare,50,0
-2020-03-23,Tuolumne,2,0
-2020-03-23,Ventura,196,0
-2020-03-23,Yolo,38,0
-2020-03-23,Yuba,7,0
-2020-03-22,Alameda,426,1
-2020-03-22,Alpine,1,0
-2020-03-22,Amador,2,0
-2020-03-22,Butte,8,0
-2020-03-22,Calaveras,4,0
-2020-03-22,Colusa,1,0
-2020-03-22,Contra Costa,309,1
-2020-03-22,Del Norte,0,0
-2020-03-22,El Dorado,23,0
-2020-03-22,Fresno,102,0
-2020-03-22,Glenn,2,0
-2020-03-22,Humboldt,28,0
-2020-03-22,Imperial,53,0
-2020-03-22,Inyo,1,0
-2020-03-22,Kern,113,0
-2020-03-22,Kings,13,0
-2020-03-22,Lake,0,0
-2020-03-22,Lassen,1,0
-2020-03-22,Los Angeles,3066,3
-2020-03-22,Madera,31,0
-2020-03-22,Marin,73,0
-2020-03-22,Mariposa,0,0
-2020-03-22,Mendocino,3,0
-2020-03-22,Merced,7,0
-2020-03-22,Modoc,0,0
-2020-03-22,Mono,14,0
-2020-03-22,Monterey,45,1
-2020-03-22,Napa,17,0
-2020-03-22,Nevada,23,0
-2020-03-22,Orange,815,0
-2020-03-22,Placer,87,1
-2020-03-22,Plumas,0,0
-2020-03-22,Riverside,539,5
-2020-03-22,Sacramento,360,4
-2020-03-22,San Benito,19,1
-2020-03-22,San Bernardino,288,0
-2020-03-22,San Diego,980,0
-2020-03-22,San Francisco,446,0
-2020-03-22,San Joaquin,140,2
-2020-03-22,San Luis Obispo,83,0
-2020-03-22,San Mateo,465,1
-2020-03-22,Santa Barbara,147,0
-2020-03-22,Santa Clara,992,13
-2020-03-22,Santa Cruz,63,0
-2020-03-22,Shasta,12,0
-2020-03-22,Sierra,0,0
-2020-03-22,Siskiyou,4,0
-2020-03-22,Solano,65,0
-2020-03-22,Sonoma,100,1
-2020-03-22,Stanislaus,52,0
-2020-03-22,Sutter,8,0
-2020-03-22,Tehama,0,0
-2020-03-22,Trinity,0,0
-2020-03-22,Tulare,46,0
-2020-03-22,Tuolumne,2,0
-2020-03-22,Ventura,174,0
-2020-03-22,Yolo,32,0
-2020-03-22,Yuba,7,0
-2020-03-21,Alameda,403,0
-2020-03-21,Alpine,1,0
-2020-03-21,Amador,2,0
-2020-03-21,Butte,7,0
-2020-03-21,Calaveras,4,0
-2020-03-21,Colusa,1,0
-2020-03-21,Contra Costa,298,1
-2020-03-21,Del Norte,0,0
-2020-03-21,El Dorado,20,0
-2020-03-21,Fresno,98,0
-2020-03-21,Glenn,2,0
-2020-03-21,Humboldt,25,0
-2020-03-21,Imperial,49,0
-2020-03-21,Inyo,1,0
-2020-03-21,Kern,107,0
-2020-03-21,Kings,13,0
-2020-03-21,Lake,0,0
-2020-03-21,Lassen,1,0
-2020-03-21,Los Angeles,2794,2
-2020-03-21,Madera,31,0
-2020-03-21,Marin,68,0
-2020-03-21,Mariposa,0,0
-2020-03-21,Mendocino,3,0
-2020-03-21,Merced,6,0
-2020-03-21,Modoc,0,0
-2020-03-21,Mono,14,0
-2020-03-21,Monterey,43,1
-2020-03-21,Napa,17,0
-2020-03-21,Nevada,23,0
-2020-03-21,Orange,766,0
-2020-03-21,Placer,78,1
-2020-03-21,Plumas,0,0
-2020-03-21,Riverside,496,3
-2020-03-21,Sacramento,332,3
-2020-03-21,San Benito,17,1
-2020-03-21,San Bernardino,268,0
-2020-03-21,San Diego,903,0
-2020-03-21,San Francisco,410,0
-2020-03-21,San Joaquin,131,2
-2020-03-21,San Luis Obispo,79,0
-2020-03-21,San Mateo,427,1
-2020-03-21,Santa Barbara,132,0
-2020-03-21,Santa Clara,932,10
-2020-03-21,Santa Cruz,61,0
-2020-03-21,Shasta,11,0
-2020-03-21,Sierra,0,0
-2020-03-21,Siskiyou,4,0
-2020-03-21,Solano,63,0
-2020-03-21,Sonoma,99,1
-2020-03-21,Stanislaus,46,0
-2020-03-21,Sutter,7,0
-2020-03-21,Tehama,0,0
-2020-03-21,Trinity,0,0
-2020-03-21,Tulare,42,0
-2020-03-21,Tuolumne,2,0
-2020-03-21,Ventura,166,0
-2020-03-21,Yolo,32,0
-2020-03-21,Yuba,7,0
-2020-03-20,Alameda,382,0
-2020-03-20,Alpine,1,0
-2020-03-20,Amador,1,0
-2020-03-20,Butte,7,0
-2020-03-20,Calaveras,4,0
-2020-03-20,Colusa,1,0
-2020-03-20,Contra Costa,269,1
-2020-03-20,Del Norte,0,0
-2020-03-20,El Dorado,19,0
-2020-03-20,Fresno,95,0
-2020-03-20,Glenn,1,0
-2020-03-20,Humboldt,25,0
-2020-03-20,Imperial,48,0
-2020-03-20,Inyo,0,0
-2020-03-20,Kern,92,0
-2020-03-20,Kings,13,0
-2020-03-20,Lake,0,0
-2020-03-20,Lassen,1,0
-2020-03-20,Los Angeles,2569,1
-2020-03-20,Madera,30,0
-2020-03-20,Marin,65,0
-2020-03-20,Mariposa,0,0
-2020-03-20,Mendocino,3,0
-2020-03-20,Merced,6,0
-2020-03-20,Modoc,0,0
-2020-03-20,Mono,14,0
-2020-03-20,Monterey,42,0
-2020-03-20,Napa,16,0
-2020-03-20,Nevada,20,0
-2020-03-20,Orange,719,2
-2020-03-20,Placer,72,1
-2020-03-20,Plumas,0,0
-2020-03-20,Riverside,443,3
-2020-03-20,Sacramento,311,4
-2020-03-20,San Benito,17,1
-2020-03-20,San Bernardino,241,0
-2020-03-20,San Diego,851,0
-2020-03-20,San Francisco,378,0
-2020-03-20,San Joaquin,116,2
-2020-03-20,San Luis Obispo,76,0
-2020-03-20,San Mateo,397,1
-2020-03-20,Santa Barbara,116,0
-2020-03-20,Santa Clara,896,8
-2020-03-20,Santa Cruz,59,0
-2020-03-20,Shasta,10,0
-2020-03-20,Sierra,0,0
-2020-03-20,Siskiyou,4,0
-2020-03-20,Solano,59,0
-2020-03-20,Sonoma,91,0
-2020-03-20,Stanislaus,40,0
-2020-03-20,Sutter,7,0
-2020-03-20,Tehama,0,0
-2020-03-20,Trinity,0,0
-2020-03-20,Tulare,38,0
-2020-03-20,Tuolumne,2,0
-2020-03-20,Ventura,156,0
-2020-03-20,Yolo,30,0
-2020-03-20,Yuba,6,0
-2020-03-19,Alameda,346,0
-2020-03-19,Alpine,1,0
-2020-03-19,Amador,1,0
-2020-03-19,Butte,5,0
-2020-03-19,Calaveras,4,0
-2020-03-19,Colusa,0,0
-2020-03-19,Contra Costa,253,0
-2020-03-19,Del Norte,0,0
-2020-03-19,El Dorado,18,0
-2020-03-19,Fresno,87,0
-2020-03-19,Glenn,1,0
-2020-03-19,Humboldt,23,0
-2020-03-19,Imperial,41,0
-2020-03-19,Inyo,0,0
-2020-03-19,Kern,80,0
-2020-03-19,Kings,10,0
-2020-03-19,Lake,0,0
-2020-03-19,Lassen,0,0
-2020-03-19,Los Angeles,2282,0
-2020-03-19,Madera,29,0
-2020-03-19,Marin,62,0
-2020-03-19,Mariposa,0,0
-2020-03-19,Mendocino,2,0
-2020-03-19,Merced,5,0
-2020-03-19,Modoc,0,0
-2020-03-19,Mono,12,0
-2020-03-19,Monterey,34,0
-2020-03-19,Napa,14,0
-2020-03-19,Nevada,18,0
-2020-03-19,Orange,634,0
-2020-03-19,Placer,64,1
-2020-03-19,Plumas,0,0
-2020-03-19,Riverside,355,3
-2020-03-19,Sacramento,278,3
-2020-03-19,San Benito,14,0
-2020-03-19,San Bernardino,211,0
-2020-03-19,San Diego,768,0
-2020-03-19,San Francisco,342,0
-2020-03-19,San Joaquin,102,2
-2020-03-19,San Luis Obispo,74,0
-2020-03-19,San Mateo,362,1
-2020-03-19,Santa Barbara,101,0
-2020-03-19,Santa Clara,830,8
-2020-03-19,Santa Cruz,56,0
-2020-03-19,Shasta,9,0
-2020-03-19,Sierra,0,0
-2020-03-19,Siskiyou,3,0
-2020-03-19,Solano,55,0
-2020-03-19,Sonoma,88,0
-2020-03-19,Stanislaus,39,0
-2020-03-19,Sutter,7,0
-2020-03-19,Tehama,0,0
-2020-03-19,Trinity,0,0
-2020-03-19,Tulare,33,0
-2020-03-19,Tuolumne,2,0
-2020-03-19,Ventura,134,0
-2020-03-19,Yolo,26,0
-2020-03-19,Yuba,5,0
-2020-03-18,Alameda,318,0
-2020-03-18,Alpine,1,0
-2020-03-18,Amador,1,0
-2020-03-18,Butte,4,0
-2020-03-18,Calaveras,4,0
-2020-03-18,Colusa,0,0
-2020-03-18,Contra Costa,232,0
-2020-03-18,Del Norte,0,0
-2020-03-18,El Dorado,17,0
-2020-03-18,Fresno,78,0
-2020-03-18,Glenn,1,0
-2020-03-18,Humboldt,19,0
-2020-03-18,Imperial,34,0
-2020-03-18,Inyo,0,0
-2020-03-18,Kern,65,0
-2020-03-18,Kings,8,0
-2020-03-18,Lake,0,0
-2020-03-18,Lassen,0,0
-2020-03-18,Los Angeles,2043,0
-2020-03-18,Madera,28,0
-2020-03-18,Marin,58,0
-2020-03-18,Mariposa,0,0
-2020-03-18,Mendocino,2,0
-2020-03-18,Merced,5,0
-2020-03-18,Modoc,0,0
-2020-03-18,Mono,11,0
-2020-03-18,Monterey,28,0
-2020-03-18,Napa,11,0
-2020-03-18,Nevada,16,0
-2020-03-18,Orange,578,0
-2020-03-18,Placer,57,1
-2020-03-18,Plumas,0,0
-2020-03-18,Riverside,303,2
-2020-03-18,Sacramento,255,3
-2020-03-18,San Benito,13,0
-2020-03-18,San Bernardino,189,0
-2020-03-18,San Diego,683,0
-2020-03-18,San Francisco,323,0
-2020-03-18,San Joaquin,90,2
-2020-03-18,San Luis Obispo,68,0
-2020-03-18,San Mateo,339,1
-2020-03-18,Santa Barbara,88,0
-2020-03-18,Santa Clara,781,6
-2020-03-18,Santa Cruz,54,0
-2020-03-18,Shasta,8,0
-2020-03-18,Sierra,0,0
-2020-03-18,Siskiyou,3,0
-2020-03-18,Solano,51,0
-2020-03-18,Sonoma,79,0
-2020-03-18,Stanislaus,35,0
-2020-03-18,Sutter,5,0
-2020-03-18,Tehama,0,0
-2020-03-18,Trinity,0,0
-2020-03-18,Tulare,25,0
-2020-03-18,Tuolumne,2,0
-2020-03-18,Ventura,115,0
-2020-03-18,Yolo,23,0
-2020-03-18,Yuba,4,0
-2020-03-17,Alameda,287,0
-2020-03-17,Alpine,0,0
-2020-03-17,Amador,1,0
-2020-03-17,Butte,4,0
-2020-03-17,Calaveras,4,0
-2020-03-17,Colusa,0,0
-2020-03-17,Contra Costa,210,0
-2020-03-17,Del Norte,0,0
-2020-03-17,El Dorado,16,0
-2020-03-17,Fresno,68,0
-2020-03-17,Glenn,1,0
-2020-03-17,Humboldt,17,0
-2020-03-17,Imperial,28,0
-2020-03-17,Inyo,0,0
-2020-03-17,Kern,51,0
-2020-03-17,Kings,7,0
-2020-03-17,Lake,0,0
-2020-03-17,Lassen,0,0
-2020-03-17,Los Angeles,1842,0
-2020-03-17,Madera,21,0
-2020-03-17,Marin,51,0
-2020-03-17,Mariposa,0,0
-2020-03-17,Mendocino,2,0
-2020-03-17,Merced,5,0
-2020-03-17,Modoc,0,0
-2020-03-17,Mono,9,0
-2020-03-17,Monterey,26,0
-2020-03-17,Napa,8,0
-2020-03-17,Nevada,15,0
-2020-03-17,Orange,502,0
-2020-03-17,Placer,47,1
-2020-03-17,Plumas,0,0
-2020-03-17,Riverside,246,0
-2020-03-17,Sacramento,235,1
-2020-03-17,San Benito,12,0
-2020-03-17,San Bernardino,161,0
-2020-03-17,San Diego,616,0
-2020-03-17,San Francisco,297,0
-2020-03-17,San Joaquin,84,0
-2020-03-17,San Luis Obispo,61,0
-2020-03-17,San Mateo,307,1
-2020-03-17,Santa Barbara,75,0
-2020-03-17,Santa Clara,724,4
-2020-03-17,Santa Cruz,51,0
-2020-03-17,Shasta,4,0
-2020-03-17,Sierra,0,0
-2020-03-17,Siskiyou,3,0
-2020-03-17,Solano,48,0
-2020-03-17,Sonoma,71,0
-2020-03-17,Stanislaus,32,0
-2020-03-17,Sutter,5,0
-2020-03-17,Tehama,0,0
-2020-03-17,Trinity,0,0
-2020-03-17,Tulare,22,0
-2020-03-17,Tuolumne,2,0
-2020-03-17,Ventura,98,0
-2020-03-17,Yolo,19,0
-2020-03-17,Yuba,4,0
-2020-03-16,Alameda,258,0
-2020-03-16,Alpine,0,0
-2020-03-16,Amador,1,0
-2020-03-16,Butte,3,0
-2020-03-16,Calaveras,4,0
-2020-03-16,Colusa,0,0
-2020-03-16,Contra Costa,186,0
-2020-03-16,Del Norte,0,0
-2020-03-16,El Dorado,15,0
-2020-03-16,Fresno,53,0
-2020-03-16,Glenn,0,0
-2020-03-16,Humboldt,13,0
-2020-03-16,Imperial,23,0
-2020-03-16,Inyo,0,0
-2020-03-16,Kern,43,0
-2020-03-16,Kings,6,0
-2020-03-16,Lake,0,0
-2020-03-16,Lassen,0,0
-2020-03-16,Los Angeles,1609,0
-2020-03-16,Madera,20,0
-2020-03-16,Marin,48,0
-2020-03-16,Mariposa,0,0
-2020-03-16,Mendocino,2,0
-2020-03-16,Merced,5,0
-2020-03-16,Modoc,0,0
-2020-03-16,Mono,7,0
-2020-03-16,Monterey,25,0
-2020-03-16,Napa,7,0
-2020-03-16,Nevada,11,0
-2020-03-16,Orange,420,0
-2020-03-16,Placer,39,1
-2020-03-16,Plumas,0,0
-2020-03-16,Riverside,212,0
-2020-03-16,Sacramento,208,1
-2020-03-16,San Benito,8,0
-2020-03-16,San Bernardino,141,0
-2020-03-16,San Diego,525,0
-2020-03-16,San Francisco,261,0
-2020-03-16,San Joaquin,74,0
-2020-03-16,San Luis Obispo,54,0
-2020-03-16,San Mateo,269,1
-2020-03-16,Santa Barbara,63,0
-2020-03-16,Santa Clara,649,2
-2020-03-16,Santa Cruz,44,0
-2020-03-16,Shasta,4,0
-2020-03-16,Sierra,0,0
-2020-03-16,Siskiyou,2,0
-2020-03-16,Solano,43,0
-2020-03-16,Sonoma,63,0
-2020-03-16,Stanislaus,28,0
-2020-03-16,Sutter,3,0
-2020-03-16,Tehama,0,0
-2020-03-16,Trinity,0,0
-2020-03-16,Tulare,19,0
-2020-03-16,Tuolumne,2,0
-2020-03-16,Ventura,88,0
-2020-03-16,Yolo,18,0
-2020-03-16,Yuba,3,0
-2020-03-15,Alameda,212,0
-2020-03-15,Alpine,0,0
-2020-03-15,Amador,1,0
-2020-03-15,Butte,3,0
-2020-03-15,Calaveras,2,0
-2020-03-15,Colusa,0,0
-2020-03-15,Contra Costa,161,0
-2020-03-15,Del Norte,0,0
-2020-03-15,El Dorado,14,0
-2020-03-15,Fresno,33,0
-2020-03-15,Glenn,0,0
-2020-03-15,Humboldt,11,0
-2020-03-15,Imperial,18,0
-2020-03-15,Inyo,0,0
-2020-03-15,Kern,37,0
-2020-03-15,Kings,6,0
-2020-03-15,Lake,0,0
-2020-03-15,Lassen,0,0
-2020-03-15,Los Angeles,1371,0
-2020-03-15,Madera,19,0
-2020-03-15,Marin,41,0
-2020-03-15,Mariposa,0,0
-2020-03-15,Mendocino,2,0
-2020-03-15,Merced,3,0
-2020-03-15,Modoc,0,0
-2020-03-15,Mono,6,0
-2020-03-15,Monterey,19,0
-2020-03-15,Napa,7,0
-2020-03-15,Nevada,11,0
-2020-03-15,Orange,350,0
-2020-03-15,Placer,33,1
-2020-03-15,Plumas,0,0
-2020-03-15,Riverside,167,0
-2020-03-15,Sacramento,172,1
-2020-03-15,San Benito,8,0
-2020-03-15,San Bernardino,119,0
-2020-03-15,San Diego,438,0
-2020-03-15,San Francisco,205,0
-2020-03-15,San Joaquin,63,0
-2020-03-15,San Luis Obispo,45,0
-2020-03-15,San Mateo,235,1
-2020-03-15,Santa Barbara,53,0
-2020-03-15,Santa Clara,578,2
-2020-03-15,Santa Cruz,38,0
-2020-03-15,Shasta,4,0
-2020-03-15,Sierra,0,0
-2020-03-15,Siskiyou,2,0
-2020-03-15,Solano,42,0
-2020-03-15,Sonoma,54,0
-2020-03-15,Stanislaus,27,0
-2020-03-15,Sutter,2,0
-2020-03-15,Tehama,0,0
-2020-03-15,Trinity,0,0
-2020-03-15,Tulare,14,0
-2020-03-15,Tuolumne,1,0
-2020-03-15,Ventura,77,0
-2020-03-15,Yolo,15,0
-2020-03-15,Yuba,2,0
-2020-03-14,Alameda,193,0
-2020-03-14,Alpine,0,0
-2020-03-14,Amador,1,0
-2020-03-14,Butte,2,0
-2020-03-14,Calaveras,2,0
-2020-03-14,Colusa,0,0
-2020-03-14,Contra Costa,139,0
-2020-03-14,Del Norte,0,0
-2020-03-14,El Dorado,12,0
-2020-03-14,Fresno,25,0
-2020-03-14,Glenn,0,0
-2020-03-14,Humboldt,7,0
-2020-03-14,Imperial,14,0
-2020-03-14,Inyo,0,0
-2020-03-14,Kern,32,0
-2020-03-14,Kings,6,0
-2020-03-14,Lake,0,0
-2020-03-14,Lassen,0,0
-2020-03-14,Los Angeles,1193,0
-2020-03-14,Madera,19,0
-2020-03-14,Marin,37,0
-2020-03-14,Mariposa,0,0
-2020-03-14,Mendocino,2,0
-2020-03-14,Merced,3,0
-2020-03-14,Modoc,0,0
-2020-03-14,Mono,5,0
-2020-03-14,Monterey,13,0
-2020-03-14,Napa,5,0
-2020-03-14,Nevada,8,0
-2020-03-14,Orange,311,0
-2020-03-14,Placer,29,1
-2020-03-14,Plumas,0,0
-2020-03-14,Riverside,147,0
-2020-03-14,Sacramento,150,1
-2020-03-14,San Benito,8,0
-2020-03-14,San Bernardino,101,0
-2020-03-14,San Diego,363,0
-2020-03-14,San Francisco,184,0
-2020-03-14,San Joaquin,54,0
-2020-03-14,San Luis Obispo,40,0
-2020-03-14,San Mateo,212,0
-2020-03-14,Santa Barbara,41,0
-2020-03-14,Santa Clara,522,2
-2020-03-14,Santa Cruz,33,0
-2020-03-14,Shasta,4,0
-2020-03-14,Sierra,0,0
-2020-03-14,Siskiyou,1,0
-2020-03-14,Solano,40,0
-2020-03-14,Sonoma,41,0
-2020-03-14,Stanislaus,23,0
-2020-03-14,Sutter,2,0
-2020-03-14,Tehama,0,0
-2020-03-14,Trinity,0,0
-2020-03-14,Tulare,12,0
-2020-03-14,Tuolumne,1,0
-2020-03-14,Ventura,68,0
-2020-03-14,Yolo,15,0
-2020-03-14,Yuba,1,0
-2020-03-13,Alameda,175,0
-2020-03-13,Alpine,0,0
-2020-03-13,Amador,1,0
-2020-03-13,Butte,0,0
-2020-03-13,Calaveras,2,0
-2020-03-13,Colusa,0,0
-2020-03-13,Contra Costa,125,0
-2020-03-13,Del Norte,0,0
-2020-03-13,El Dorado,11,0
-2020-03-13,Fresno,20,0
-2020-03-13,Glenn,0,0
-2020-03-13,Humboldt,7,0
-2020-03-13,Imperial,13,0
-2020-03-13,Inyo,0,0
-2020-03-13,Kern,27,0
-2020-03-13,Kings,5,0
-2020-03-13,Lake,0,0
-2020-03-13,Lassen,0,0
-2020-03-13,Los Angeles,1040,0
-2020-03-13,Madera,18,0
-2020-03-13,Marin,34,0
-2020-03-13,Mariposa,0,0
-2020-03-13,Mendocino,2,0
-2020-03-13,Merced,2,0
-2020-03-13,Modoc,0,0
-2020-03-13,Mono,3,0
-2020-03-13,Monterey,8,0
-2020-03-13,Napa,3,0
-2020-03-13,Nevada,7,0
-2020-03-13,Orange,273,0
-2020-03-13,Placer,26,1
-2020-03-13,Plumas,0,0
-2020-03-13,Riverside,121,0
-2020-03-13,Sacramento,129,1
-2020-03-13,San Benito,6,0
-2020-03-13,San Bernardino,94,0
-2020-03-13,San Diego,313,0
-2020-03-13,San Francisco,170,0
-2020-03-13,San Joaquin,50,0
-2020-03-13,San Luis Obispo,32,0
-2020-03-13,San Mateo,191,0
-2020-03-13,Santa Barbara,37,0
-2020-03-13,Santa Clara,460,1
-2020-03-13,Santa Cruz,32,0
-2020-03-13,Shasta,3,0
-2020-03-13,Sierra,0,0
-2020-03-13,Siskiyou,0,0
-2020-03-13,Solano,39,0
-2020-03-13,Sonoma,40,0
-2020-03-13,Stanislaus,18,0
-2020-03-13,Sutter,2,0
-2020-03-13,Tehama,0,0
-2020-03-13,Trinity,0,0
-2020-03-13,Tulare,9,0
-2020-03-13,Tuolumne,1,0
-2020-03-13,Ventura,54,0
-2020-03-13,Yolo,15,0
-2020-03-13,Yuba,1,0
-2020-03-12,Alameda,150,0
-2020-03-12,Alpine,0,0
-2020-03-12,Amador,1,0
-2020-03-12,Butte,0,0
-2020-03-12,Calaveras,2,0
-2020-03-12,Colusa,0,0
-2020-03-12,Contra Costa,108,0
-2020-03-12,Del Norte,0,0
-2020-03-12,El Dorado,9,0
-2020-03-12,Fresno,11,0
-2020-03-12,Glenn,0,0
-2020-03-12,Humboldt,6,0
-2020-03-12,Imperial,12,0
-2020-03-12,Inyo,0,0
-2020-03-12,Kern,18,0
-2020-03-12,Kings,4,0
-2020-03-12,Lake,0,0
-2020-03-12,Lassen,0,0
-2020-03-12,Los Angeles,880,0
-2020-03-12,Madera,15,0
-2020-03-12,Marin,24,0
-2020-03-12,Mariposa,0,0
-2020-03-12,Mendocino,2,0
-2020-03-12,Merced,2,0
-2020-03-12,Modoc,0,0
-2020-03-12,Mono,3,0
-2020-03-12,Monterey,6,0
-2020-03-12,Napa,3,0
-2020-03-12,Nevada,4,0
-2020-03-12,Orange,237,0
-2020-03-12,Placer,22,1
-2020-03-12,Plumas,0,0
-2020-03-12,Riverside,98,0
-2020-03-12,Sacramento,105,1
-2020-03-12,San Benito,5,0
-2020-03-12,San Bernardino,78,0
-2020-03-12,San Diego,258,0
-2020-03-12,San Francisco,147,0
-2020-03-12,San Joaquin,44,1
-2020-03-12,San Luis Obispo,25,0
-2020-03-12,San Mateo,157,0
-2020-03-12,Santa Barbara,25,0
-2020-03-12,Santa Clara,402,1
-2020-03-12,Santa Cruz,29,0
-2020-03-12,Shasta,2,0
-2020-03-12,Sierra,0,0
-2020-03-12,Siskiyou,0,0
-2020-03-12,Solano,34,0
-2020-03-12,Sonoma,34,0
-2020-03-12,Stanislaus,16,0
-2020-03-12,Sutter,0,0
-2020-03-12,Tehama,0,0
-2020-03-12,Trinity,0,0
-2020-03-12,Tulare,9,0
-2020-03-12,Tuolumne,1,0
-2020-03-12,Ventura,45,0
-2020-03-12,Yolo,14,0
-2020-03-12,Yuba,1,0
-2020-03-11,Alameda,118,0
-2020-03-11,Alpine,0,0
-2020-03-11,Amador,1,0
-2020-03-11,Butte,0,0
-2020-03-11,Calaveras,2,0
-2020-03-11,Colusa,0,0
-2020-03-11,Contra Costa,93,0
-2020-03-11,Del Norte,0,0
-2020-03-11,El Dorado,8,0
-2020-03-11,Fresno,8,0
-2020-03-11,Glenn,0,0
-2020-03-11,Humboldt,6,0
-2020-03-11,Imperial,10,0
-2020-03-11,Inyo,0,0
-2020-03-11,Kern,16,0
-2020-03-11,Kings,3,0
-2020-03-11,Lake,0,0
-2020-03-11,Lassen,0,0
-2020-03-11,Los Angeles,712,0
-2020-03-11,Madera,13,0
-2020-03-11,Marin,17,0
-2020-03-11,Mariposa,0,0
-2020-03-11,Mendocino,1,0
-2020-03-11,Merced,2,0
-2020-03-11,Modoc,0,0
-2020-03-11,Mono,3,0
-2020-03-11,Monterey,5,0
-2020-03-11,Napa,2,0
-2020-03-11,Nevada,4,0
-2020-03-11,Orange,205,0
-2020-03-11,Placer,18,1
-2020-03-11,Plumas,0,0
-2020-03-11,Riverside,75,0
-2020-03-11,Sacramento,87,1
-2020-03-11,San Benito,5,0
-2020-03-11,San Bernardino,71,0
-2020-03-11,San Diego,208,0
-2020-03-11,San Francisco,122,0
-2020-03-11,San Joaquin,33,0
-2020-03-11,San Luis Obispo,22,0
-2020-03-11,San Mateo,139,0
-2020-03-11,Santa Barbara,15,0
-2020-03-11,Santa Clara,362,1
-2020-03-11,Santa Cruz,26,0
-2020-03-11,Shasta,2,0
-2020-03-11,Sierra,0,0
-2020-03-11,Siskiyou,0,0
-2020-03-11,Solano,29,0
-2020-03-11,Sonoma,30,0
-2020-03-11,Stanislaus,16,0
-2020-03-11,Sutter,0,0
-2020-03-11,Tehama,0,0
-2020-03-11,Trinity,0,0
-2020-03-11,Tulare,8,0
-2020-03-11,Tuolumne,1,0
-2020-03-11,Ventura,37,0
-2020-03-11,Yolo,10,0
-2020-03-11,Yuba,1,0
-2020-03-10,Alameda,98,0
-2020-03-10,Alpine,0,0
-2020-03-10,Amador,1,0
-2020-03-10,Butte,0,0
-2020-03-10,Calaveras,2,0
-2020-03-10,Colusa,0,0
-2020-03-10,Contra Costa,84,0
-2020-03-10,Del Norte,0,0
-2020-03-10,El Dorado,7,0
-2020-03-10,Fresno,6,0
-2020-03-10,Glenn,0,0
-2020-03-10,Humboldt,6,0
-2020-03-10,Imperial,9,0
-2020-03-10,Inyo,0,0
-2020-03-10,Kern,11,0
-2020-03-10,Kings,3,0
-2020-03-10,Lake,0,0
-2020-03-10,Lassen,0,0
-2020-03-10,Los Angeles,576,0
-2020-03-10,Madera,7,0
-2020-03-10,Marin,16,0
-2020-03-10,Mariposa,0,0
-2020-03-10,Mendocino,0,0
-2020-03-10,Merced,2,0
-2020-03-10,Modoc,0,0
-2020-03-10,Mono,3,0
-2020-03-10,Monterey,3,0
-2020-03-10,Napa,2,0
-2020-03-10,Nevada,3,0
-2020-03-10,Orange,185,1
-2020-03-10,Placer,14,1
-2020-03-10,Plumas,0,0
-2020-03-10,Riverside,56,0
-2020-03-10,Sacramento,78,0
-2020-03-10,San Benito,5,0
-2020-03-10,San Bernardino,63,0
-2020-03-10,San Diego,165,0
-2020-03-10,San Francisco,91,0
-2020-03-10,San Joaquin,30,0
-2020-03-10,San Luis Obispo,15,0
-2020-03-10,San Mateo,123,0
-2020-03-10,Santa Barbara,11,0
-2020-03-10,Santa Clara,315,1
-2020-03-10,Santa Cruz,22,0
-2020-03-10,Shasta,2,0
-2020-03-10,Sierra,0,0
-2020-03-10,Siskiyou,0,0
-2020-03-10,Solano,27,0
-2020-03-10,Sonoma,27,0
-2020-03-10,Stanislaus,12,0
-2020-03-10,Sutter,0,0
-2020-03-10,Tehama,0,0
-2020-03-10,Trinity,0,0
-2020-03-10,Tulare,7,0
-2020-03-10,Tuolumne,1,0
-2020-03-10,Ventura,29,0
-2020-03-10,Yolo,7,0
-2020-03-10,Yuba,1,0
-2020-03-09,Alameda,71,0
-2020-03-09,Alpine,0,0
-2020-03-09,Amador,0,0
-2020-03-09,Butte,0,0
-2020-03-09,Calaveras,2,0
-2020-03-09,Colusa,0,0
-2020-03-09,Contra Costa,72,0
-2020-03-09,Del Norte,0,0
-2020-03-09,El Dorado,5,0
-2020-03-09,Fresno,6,0
-2020-03-09,Glenn,0,0
-2020-03-09,Humboldt,5,0
-2020-03-09,Imperial,9,0
-2020-03-09,Inyo,0,0
-2020-03-09,Kern,8,0
-2020-03-09,Kings,2,0
-2020-03-09,Lake,0,0
-2020-03-09,Lassen,0,0
-2020-03-09,Los Angeles,475,0
-2020-03-09,Madera,7,0
-2020-03-09,Marin,15,0
-2020-03-09,Mariposa,0,0
-2020-03-09,Mendocino,0,0
-2020-03-09,Merced,2,0
-2020-03-09,Modoc,0,0
-2020-03-09,Mono,3,0
-2020-03-09,Monterey,1,0
-2020-03-09,Napa,2,0
-2020-03-09,Nevada,2,0
-2020-03-09,Orange,157,0
-2020-03-09,Placer,12,1
-2020-03-09,Plumas,0,0
-2020-03-09,Riverside,47,0
-2020-03-09,Sacramento,74,0
-2020-03-09,San Benito,3,0
-2020-03-09,San Bernardino,52,0
-2020-03-09,San Diego,126,0
-2020-03-09,San Francisco,71,0
-2020-03-09,San Joaquin,21,0
-2020-03-09,San Luis Obispo,15,0
-2020-03-09,San Mateo,109,0
-2020-03-09,Santa Barbara,9,0
-2020-03-09,Santa Clara,271,1
-2020-03-09,Santa Cruz,19,0
-2020-03-09,Shasta,2,0
-2020-03-09,Sierra,0,0
-2020-03-09,Siskiyou,0,0
-2020-03-09,Solano,25,0
-2020-03-09,Sonoma,22,0
-2020-03-09,Stanislaus,12,0
-2020-03-09,Sutter,0,0
-2020-03-09,Tehama,0,0
-2020-03-09,Trinity,0,0
-2020-03-09,Tulare,7,0
-2020-03-09,Tuolumne,1,0
-2020-03-09,Ventura,25,0
-2020-03-09,Yolo,6,0
-2020-03-09,Yuba,0,0
-2020-03-08,Alameda,46,0
-2020-03-08,Alpine,0,0
-2020-03-08,Amador,0,0
-2020-03-08,Butte,0,0
-2020-03-08,Calaveras,2,0
-2020-03-08,Colusa,0,0
-2020-03-08,Contra Costa,58,0
-2020-03-08,Del Norte,0,0
-2020-03-08,El Dorado,5,0
-2020-03-08,Fresno,4,0
-2020-03-08,Glenn,0,0
-2020-03-08,Humboldt,5,0
-2020-03-08,Imperial,9,0
-2020-03-08,Inyo,0,0
-2020-03-08,Kern,8,0
-2020-03-08,Kings,1,0
-2020-03-08,Lake,0,0
-2020-03-08,Lassen,0,0
-2020-03-08,Los Angeles,383,0
-2020-03-08,Madera,7,0
-2020-03-08,Marin,13,0
-2020-03-08,Mariposa,0,0
-2020-03-08,Mendocino,0,0
-2020-03-08,Merced,2,0
-2020-03-08,Modoc,0,0
-2020-03-08,Mono,3,0
-2020-03-08,Monterey,1,0
-2020-03-08,Napa,2,0
-2020-03-08,Nevada,1,0
-2020-03-08,Orange,132,0
-2020-03-08,Placer,11,1
-2020-03-08,Plumas,0,0
-2020-03-08,Riverside,40,0
-2020-03-08,Sacramento,64,0
-2020-03-08,San Benito,3,0
-2020-03-08,San Bernardino,41,0
-2020-03-08,San Diego,92,0
-2020-03-08,San Francisco,52,0
-2020-03-08,San Joaquin,18,0
-2020-03-08,San Luis Obispo,9,0
-2020-03-08,San Mateo,96,0
-2020-03-08,Santa Barbara,6,0
-2020-03-08,Santa Clara,230,0
-2020-03-08,Santa Cruz,17,0
-2020-03-08,Shasta,2,0
-2020-03-08,Sierra,0,0
-2020-03-08,Siskiyou,0,0
-2020-03-08,Solano,24,0
-2020-03-08,Sonoma,17,0
-2020-03-08,Stanislaus,11,0
-2020-03-08,Sutter,0,0
-2020-03-08,Tehama,0,0
-2020-03-08,Trinity,0,0
-2020-03-08,Tulare,7,0
-2020-03-08,Tuolumne,1,0
-2020-03-08,Ventura,21,0
-2020-03-08,Yolo,3,0
-2020-03-08,Yuba,0,0
-2020-03-07,Alameda,41,0
-2020-03-07,Alpine,0,0
-2020-03-07,Amador,0,0
-2020-03-07,Butte,0,0
-2020-03-07,Calaveras,2,0
-2020-03-07,Colusa,0,0
-2020-03-07,Contra Costa,55,0
-2020-03-07,Del Norte,0,0
-2020-03-07,El Dorado,4,0
-2020-03-07,Fresno,3,0
-2020-03-07,Glenn,0,0
-2020-03-07,Humboldt,5,0
-2020-03-07,Imperial,8,0
-2020-03-07,Inyo,0,0
-2020-03-07,Kern,7,0
-2020-03-07,Kings,1,0
-2020-03-07,Lake,0,0
-2020-03-07,Lassen,0,0
-2020-03-07,Los Angeles,333,0
-2020-03-07,Madera,6,0
-2020-03-07,Marin,11,0
-2020-03-07,Mariposa,0,0
-2020-03-07,Mendocino,0,0
-2020-03-07,Merced,2,0
-2020-03-07,Modoc,0,0
-2020-03-07,Mono,3,0
-2020-03-07,Monterey,1,0
-2020-03-07,Napa,1,0
-2020-03-07,Nevada,1,0
-2020-03-07,Orange,124,0
-2020-03-07,Placer,11,1
-2020-03-07,Plumas,0,0
-2020-03-07,Riverside,30,0
-2020-03-07,Sacramento,51,0
-2020-03-07,San Benito,3,0
-2020-03-07,San Bernardino,39,0
-2020-03-07,San Diego,74,0
-2020-03-07,San Francisco,46,0
-2020-03-07,San Joaquin,16,0
-2020-03-07,San Luis Obispo,6,0
-2020-03-07,San Mateo,86,0
-2020-03-07,Santa Barbara,5,0
-2020-03-07,Santa Clara,201,0
-2020-03-07,Santa Cruz,17,0
-2020-03-07,Shasta,2,0
-2020-03-07,Sierra,0,0
-2020-03-07,Siskiyou,0,0
-2020-03-07,Solano,23,0
-2020-03-07,Sonoma,13,0
-2020-03-07,Stanislaus,10,0
-2020-03-07,Sutter,0,0
-2020-03-07,Tehama,0,0
-2020-03-07,Trinity,0,0
-2020-03-07,Tulare,4,0
-2020-03-07,Tuolumne,1,0
-2020-03-07,Ventura,18,0
-2020-03-07,Yolo,3,0
-2020-03-07,Yuba,0,0
-2020-03-06,Alameda,39,0
-2020-03-06,Alpine,0,0
-2020-03-06,Amador,0,0
-2020-03-06,Butte,0,0
-2020-03-06,Calaveras,2,0
-2020-03-06,Colusa,0,0
-2020-03-06,Contra Costa,46,0
-2020-03-06,Del Norte,0,0
-2020-03-06,El Dorado,3,0
-2020-03-06,Fresno,2,0
-2020-03-06,Glenn,0,0
-2020-03-06,Humboldt,4,0
-2020-03-06,Imperial,7,0
-2020-03-06,Inyo,0,0
-2020-03-06,Kern,6,0
-2020-03-06,Kings,1,0
-2020-03-06,Lake,0,0
-2020-03-06,Lassen,0,0
-2020-03-06,Los Angeles,290,0
-2020-03-06,Madera,5,0
-2020-03-06,Marin,10,0
-2020-03-06,Mariposa,0,0
-2020-03-06,Mendocino,0,0
-2020-03-06,Merced,2,0
-2020-03-06,Modoc,0,0
-2020-03-06,Mono,1,0
-2020-03-06,Monterey,1,0
-2020-03-06,Napa,1,0
-2020-03-06,Nevada,1,0
-2020-03-06,Orange,98,0
-2020-03-06,Placer,10,1
-2020-03-06,Plumas,0,0
-2020-03-06,Riverside,30,0
-2020-03-06,Sacramento,42,0
-2020-03-06,San Benito,3,0
-2020-03-06,San Bernardino,37,0
-2020-03-06,San Diego,61,0
-2020-03-06,San Francisco,40,0
-2020-03-06,San Joaquin,13,0
-2020-03-06,San Luis Obispo,4,0
-2020-03-06,San Mateo,78,0
-2020-03-06,Santa Barbara,3,0
-2020-03-06,Santa Clara,183,0
-2020-03-06,Santa Cruz,15,0
-2020-03-06,Shasta,2,0
-2020-03-06,Sierra,0,0
-2020-03-06,Siskiyou,0,0
-2020-03-06,Solano,22,0
-2020-03-06,Sonoma,13,0
-2020-03-06,Stanislaus,6,0
-2020-03-06,Sutter,0,0
-2020-03-06,Tehama,0,0
-2020-03-06,Trinity,0,0
-2020-03-06,Tulare,4,0
-2020-03-06,Tuolumne,1,0
-2020-03-06,Ventura,15,0
-2020-03-06,Yolo,3,0
-2020-03-06,Yuba,0,0
-2020-03-05,Alameda,34,0
-2020-03-05,Alpine,0,0
-2020-03-05,Amador,0,0
-2020-03-05,Butte,0,0
-2020-03-05,Calaveras,2,0
-2020-03-05,Colusa,0,0
-2020-03-05,Contra Costa,39,0
-2020-03-05,Del Norte,0,0
-2020-03-05,El Dorado,1,0
-2020-03-05,Fresno,2,0
-2020-03-05,Glenn,0,0
-2020-03-05,Humboldt,4,0
-2020-03-05,Imperial,5,0
-2020-03-05,Inyo,0,0
-2020-03-05,Kern,6,0
-2020-03-05,Kings,1,0
-2020-03-05,Lake,0,0
-2020-03-05,Lassen,0,0
-2020-03-05,Los Angeles,243,0
-2020-03-05,Madera,5,0
-2020-03-05,Marin,10,0
-2020-03-05,Mariposa,0,0
-2020-03-05,Mendocino,0,0
-2020-03-05,Merced,2,0
-2020-03-05,Modoc,0,0
-2020-03-05,Mono,1,0
-2020-03-05,Monterey,1,0
-2020-03-05,Napa,1,0
-2020-03-05,Nevada,0,0
-2020-03-05,Orange,83,0
-2020-03-05,Placer,10,1
-2020-03-05,Plumas,0,0
-2020-03-05,Riverside,27,0
-2020-03-05,Sacramento,36,0
-2020-03-05,San Benito,1,0
-2020-03-05,San Bernardino,32,0
-2020-03-05,San Diego,54,0
-2020-03-05,San Francisco,30,0
-2020-03-05,San Joaquin,10,0
-2020-03-05,San Luis Obispo,4,0
-2020-03-05,San Mateo,65,0
-2020-03-05,Santa Barbara,2,0
-2020-03-05,Santa Clara,162,0
-2020-03-05,Santa Cruz,13,0
-2020-03-05,Shasta,2,0
-2020-03-05,Sierra,0,0
-2020-03-05,Siskiyou,0,0
-2020-03-05,Solano,22,0
-2020-03-05,Sonoma,12,0
-2020-03-05,Stanislaus,5,0
-2020-03-05,Sutter,0,0
-2020-03-05,Tehama,0,0
-2020-03-05,Trinity,0,0
-2020-03-05,Tulare,4,0
-2020-03-05,Tuolumne,1,0
-2020-03-05,Ventura,13,0
-2020-03-05,Yolo,3,0
-2020-03-05,Yuba,0,0
-2020-03-04,Alameda,30,0
-2020-03-04,Alpine,0,0
-2020-03-04,Amador,0,0
-2020-03-04,Butte,0,0
-2020-03-04,Calaveras,0,0
-2020-03-04,Colusa,0,0
-2020-03-04,Contra Costa,34,0
-2020-03-04,Del Norte,0,0
-2020-03-04,El Dorado,1,0
-2020-03-04,Fresno,2,0
-2020-03-04,Glenn,0,0
-2020-03-04,Humboldt,1,0
-2020-03-04,Imperial,5,0
-2020-03-04,Inyo,0,0
-2020-03-04,Kern,6,0
-2020-03-04,Kings,1,0
-2020-03-04,Lake,0,0
-2020-03-04,Lassen,0,0
-2020-03-04,Los Angeles,208,0
-2020-03-04,Madera,5,0
-2020-03-04,Marin,10,0
-2020-03-04,Mariposa,0,0
-2020-03-04,Mendocino,0,0
-2020-03-04,Merced,2,0
-2020-03-04,Modoc,0,0
-2020-03-04,Mono,1,0
-2020-03-04,Monterey,1,0
-2020-03-04,Napa,1,0
-2020-03-04,Nevada,0,0
-2020-03-04,Orange,80,0
-2020-03-04,Placer,9,1
-2020-03-04,Plumas,0,0
-2020-03-04,Riverside,23,0
-2020-03-04,Sacramento,32,0
-2020-03-04,San Benito,1,0
-2020-03-04,San Bernardino,29,0
-2020-03-04,San Diego,41,0
-2020-03-04,San Francisco,25,0
-2020-03-04,San Joaquin,9,0
-2020-03-04,San Luis Obispo,4,0
-2020-03-04,San Mateo,60,0
-2020-03-04,Santa Barbara,2,0
-2020-03-04,Santa Clara,145,0
-2020-03-04,Santa Cruz,13,0
-2020-03-04,Shasta,2,0
-2020-03-04,Sierra,0,0
-2020-03-04,Siskiyou,0,0
-2020-03-04,Solano,21,0
-2020-03-04,Sonoma,11,0
-2020-03-04,Stanislaus,5,0
-2020-03-04,Sutter,0,0
-2020-03-04,Tehama,0,0
-2020-03-04,Trinity,0,0
-2020-03-04,Tulare,4,0
-2020-03-04,Tuolumne,0,0
-2020-03-04,Ventura,12,0
-2020-03-04,Yolo,3,0
-2020-03-04,Yuba,0,0
-2020-03-03,Alameda,24,0
-2020-03-03,Alpine,0,0
-2020-03-03,Amador,0,0
-2020-03-03,Butte,0,0
-2020-03-03,Calaveras,0,0
-2020-03-03,Colusa,0,0
-2020-03-03,Contra Costa,30,0
-2020-03-03,Del Norte,0,0
-2020-03-03,El Dorado,1,0
-2020-03-03,Fresno,1,0
-2020-03-03,Glenn,0,0
-2020-03-03,Humboldt,1,0
-2020-03-03,Imperial,5,0
-2020-03-03,Inyo,0,0
-2020-03-03,Kern,4,0
-2020-03-03,Kings,1,0
-2020-03-03,Lake,0,0
-2020-03-03,Lassen,0,0
-2020-03-03,Los Angeles,189,0
-2020-03-03,Madera,4,0
-2020-03-03,Marin,6,0
-2020-03-03,Mariposa,0,0
-2020-03-03,Mendocino,0,0
-2020-03-03,Merced,2,0
-2020-03-03,Modoc,0,0
-2020-03-03,Mono,1,0
-2020-03-03,Monterey,0,0
-2020-03-03,Napa,1,0
-2020-03-03,Nevada,0,0
-2020-03-03,Orange,72,0
-2020-03-03,Placer,8,0
-2020-03-03,Plumas,0,0
-2020-03-03,Riverside,20,0
-2020-03-03,Sacramento,31,0
-2020-03-03,San Benito,1,0
-2020-03-03,San Bernardino,26,0
-2020-03-03,San Diego,34,0
-2020-03-03,San Francisco,23,0
-2020-03-03,San Joaquin,8,0
-2020-03-03,San Luis Obispo,2,0
-2020-03-03,San Mateo,53,0
-2020-03-03,Santa Barbara,1,0
-2020-03-03,Santa Clara,130,0
-2020-03-03,Santa Cruz,10,0
-2020-03-03,Shasta,2,0
-2020-03-03,Sierra,0,0
-2020-03-03,Siskiyou,0,0
-2020-03-03,Solano,20,0
-2020-03-03,Sonoma,11,0
-2020-03-03,Stanislaus,5,0
-2020-03-03,Sutter,0,0
-2020-03-03,Tehama,0,0
-2020-03-03,Trinity,0,0
-2020-03-03,Tulare,4,0
-2020-03-03,Tuolumne,0,0
-2020-03-03,Ventura,11,0
-2020-03-03,Yolo,2,0
-2020-03-03,Yuba,0,0
-2020-03-02,Alameda,21,0
-2020-03-02,Alpine,0,0
-2020-03-02,Amador,0,0
-2020-03-02,Butte,0,0
-2020-03-02,Calaveras,0,0
-2020-03-02,Colusa,0,0
-2020-03-02,Contra Costa,27,0
-2020-03-02,Del Norte,0,0
-2020-03-02,El Dorado,1,0
-2020-03-02,Fresno,1,0
-2020-03-02,Glenn,0,0
-2020-03-02,Humboldt,1,0
-2020-03-02,Imperial,5,0
-2020-03-02,Inyo,0,0
-2020-03-02,Kern,4,0
-2020-03-02,Kings,1,0
-2020-03-02,Lake,0,0
-2020-03-02,Lassen,0,0
-2020-03-02,Los Angeles,174,0
-2020-03-02,Madera,4,0
-2020-03-02,Marin,6,0
-2020-03-02,Mariposa,0,0
-2020-03-02,Mendocino,0,0
-2020-03-02,Merced,1,0
-2020-03-02,Modoc,0,0
-2020-03-02,Mono,1,0
-2020-03-02,Monterey,0,0
-2020-03-02,Napa,1,0
-2020-03-02,Nevada,0,0
-2020-03-02,Orange,67,0
-2020-03-02,Placer,8,0
-2020-03-02,Plumas,0,0
-2020-03-02,Riverside,19,0
-2020-03-02,Sacramento,25,0
-2020-03-02,San Benito,1,0
-2020-03-02,San Bernardino,26,0
-2020-03-02,San Diego,28,0
-2020-03-02,San Francisco,17,0
-2020-03-02,San Joaquin,7,0
-2020-03-02,San Luis Obispo,2,0
-2020-03-02,San Mateo,44,0
-2020-03-02,Santa Barbara,1,0
-2020-03-02,Santa Clara,108,0
-2020-03-02,Santa Cruz,9,0
-2020-03-02,Shasta,2,0
-2020-03-02,Sierra,0,0
-2020-03-02,Siskiyou,0,0
-2020-03-02,Solano,19,0
-2020-03-02,Sonoma,10,0
-2020-03-02,Stanislaus,2,0
-2020-03-02,Sutter,0,0
-2020-03-02,Tehama,0,0
-2020-03-02,Trinity,0,0
-2020-03-02,Tulare,4,0
-2020-03-02,Tuolumne,0,0
-2020-03-02,Ventura,10,0
-2020-03-02,Yolo,2,0
-2020-03-02,Yuba,0,0
-2020-03-01,Alameda,20,0
-2020-03-01,Alpine,0,0
-2020-03-01,Amador,0,0
-2020-03-01,Butte,0,0
-2020-03-01,Calaveras,0,0
-2020-03-01,Colusa,0,0
-2020-03-01,Contra Costa,24,0
-2020-03-01,Del Norte,0,0
-2020-03-01,El Dorado,1,0
-2020-03-01,Fresno,0,0
-2020-03-01,Glenn,0,0
-2020-03-01,Humboldt,1,0
-2020-03-01,Imperial,5,0
-2020-03-01,Inyo,0,0
-2020-03-01,Kern,2,0
-2020-03-01,Kings,1,0
-2020-03-01,Lake,0,0
-2020-03-01,Lassen,0,0
-2020-03-01,Los Angeles,155,0
-2020-03-01,Madera,2,0
-2020-03-01,Marin,5,0
-2020-03-01,Mariposa,0,0
-2020-03-01,Mendocino,0,0
-2020-03-01,Merced,1,0
-2020-03-01,Modoc,0,0
-2020-03-01,Mono,1,0
-2020-03-01,Monterey,0,0
-2020-03-01,Napa,1,0
-2020-03-01,Nevada,0,0
-2020-03-01,Orange,64,0
-2020-03-01,Placer,8,0
-2020-03-01,Plumas,0,0
-2020-03-01,Riverside,18,0
-2020-03-01,Sacramento,21,0
-2020-03-01,San Benito,0,0
-2020-03-01,San Bernardino,24,0
-2020-03-01,San Diego,21,0
-2020-03-01,San Francisco,13,0
-2020-03-01,San Joaquin,7,0
-2020-03-01,San Luis Obispo,2,0
-2020-03-01,San Mateo,36,0
-2020-03-01,Santa Barbara,1,0
-2020-03-01,Santa Clara,95,0
-2020-03-01,Santa Cruz,8,0
-2020-03-01,Shasta,2,0
-2020-03-01,Sierra,0,0
-2020-03-01,Siskiyou,0,0
-2020-03-01,Solano,19,0
-2020-03-01,Sonoma,9,0
-2020-03-01,Stanislaus,2,0
-2020-03-01,Sutter,0,0
-2020-03-01,Tehama,0,0
-2020-03-01,Trinity,0,0
-2020-03-01,Tulare,4,0
-2020-03-01,Tuolumne,0,0
-2020-03-01,Ventura,8,0
-2020-03-01,Yolo,2,0
-2020-03-01,Yuba,0,0
-2020-02-29,Alameda,16,0
-2020-02-29,Alpine,0,0
-2020-02-29,Amador,0,0
-2020-02-29,Butte,0,0
-2020-02-29,Calaveras,0,0
-2020-02-29,Colusa,0,0
-2020-02-29,Contra Costa,20,0
-2020-02-29,Del Norte,0,0
-2020-02-29,El Dorado,1,0
-2020-02-29,Fresno,0,0
-2020-02-29,Glenn,0,0
-2020-02-29,Humboldt,1,0
-2020-02-29,Imperial,3,0
-2020-02-29,Inyo,0,0
-2020-02-29,Kern,2,0
-2020-02-29,Kings,1,0
-2020-02-29,Lake,0,0
-2020-02-29,Lassen,0,0
-2020-02-29,Los Angeles,127,0
-2020-02-29,Madera,2,0
-2020-02-29,Marin,4,0
-2020-02-29,Mariposa,0,0
-2020-02-29,Mendocino,0,0
-2020-02-29,Merced,1,0
-2020-02-29,Modoc,0,0
-2020-02-29,Mono,1,0
-2020-02-29,Monterey,0,0
-2020-02-29,Napa,1,0
-2020-02-29,Nevada,0,0
-2020-02-29,Orange,59,0
-2020-02-29,Placer,7,0
-2020-02-29,Plumas,0,0
-2020-02-29,Riverside,15,0
-2020-02-29,Sacramento,16,0
-2020-02-29,San Benito,0,0
-2020-02-29,San Bernardino,22,0
-2020-02-29,San Diego,16,0
-2020-02-29,San Francisco,12,0
-2020-02-29,San Joaquin,6,0
-2020-02-29,San Luis Obispo,2,0
-2020-02-29,San Mateo,29,0
-2020-02-29,Santa Barbara,0,0
-2020-02-29,Santa Clara,73,0
-2020-02-29,Santa Cruz,8,0
-2020-02-29,Shasta,2,0
-2020-02-29,Sierra,0,0
-2020-02-29,Siskiyou,0,0
-2020-02-29,Solano,18,0
-2020-02-29,Sonoma,6,0
-2020-02-29,Stanislaus,2,0
-2020-02-29,Sutter,0,0
-2020-02-29,Tehama,0,0
-2020-02-29,Trinity,0,0
-2020-02-29,Tulare,2,0
-2020-02-29,Tuolumne,0,0
-2020-02-29,Ventura,6,0
-2020-02-29,Yolo,2,0
-2020-02-29,Yuba,0,0
-2020-02-28,Alameda,14,0
-2020-02-28,Alpine,0,0
-2020-02-28,Amador,0,0
-2020-02-28,Butte,0,0
-2020-02-28,Calaveras,0,0
-2020-02-28,Colusa,0,0
-2020-02-28,Contra Costa,20,0
-2020-02-28,Del Norte,0,0
-2020-02-28,El Dorado,0,0
-2020-02-28,Fresno,0,0
-2020-02-28,Glenn,0,0
-2020-02-28,Humboldt,1,0
-2020-02-28,Imperial,3,0
-2020-02-28,Inyo,0,0
-2020-02-28,Kern,2,0
-2020-02-28,Kings,1,0
-2020-02-28,Lake,0,0
-2020-02-28,Lassen,0,0
-2020-02-28,Los Angeles,118,0
-2020-02-28,Madera,2,0
-2020-02-28,Marin,2,0
-2020-02-28,Mariposa,0,0
-2020-02-28,Mendocino,0,0
-2020-02-28,Merced,1,0
-2020-02-28,Modoc,0,0
-2020-02-28,Mono,0,0
-2020-02-28,Monterey,0,0
-2020-02-28,Napa,1,0
-2020-02-28,Nevada,0,0
-2020-02-28,Orange,57,0
-2020-02-28,Placer,7,0
-2020-02-28,Plumas,0,0
-2020-02-28,Riverside,13,0
-2020-02-28,Sacramento,10,0
-2020-02-28,San Benito,0,0
-2020-02-28,San Bernardino,22,0
-2020-02-28,San Diego,13,0
-2020-02-28,San Francisco,10,0
-2020-02-28,San Joaquin,6,0
-2020-02-28,San Luis Obispo,2,0
-2020-02-28,San Mateo,24,0
-2020-02-28,Santa Barbara,0,0
-2020-02-28,Santa Clara,69,0
-2020-02-28,Santa Cruz,8,0
-2020-02-28,Shasta,2,0
-2020-02-28,Sierra,0,0
-2020-02-28,Siskiyou,0,0
-2020-02-28,Solano,17,0
-2020-02-28,Sonoma,6,0
-2020-02-28,Stanislaus,2,0
-2020-02-28,Sutter,0,0
-2020-02-28,Tehama,0,0
-2020-02-28,Trinity,0,0
-2020-02-28,Tulare,2,0
-2020-02-28,Tuolumne,0,0
-2020-02-28,Ventura,6,0
-2020-02-28,Yolo,2,0
-2020-02-28,Yuba,0,0
-2020-02-27,Alameda,13,0
-2020-02-27,Alpine,0,0
-2020-02-27,Amador,0,0
-2020-02-27,Butte,0,0
-2020-02-27,Calaveras,0,0
-2020-02-27,Colusa,0,0
-2020-02-27,Contra Costa,14,0
-2020-02-27,Del Norte,0,0
-2020-02-27,El Dorado,0,0
-2020-02-27,Fresno,0,0
-2020-02-27,Glenn,0,0
-2020-02-27,Humboldt,1,0
-2020-02-27,Imperial,3,0
-2020-02-27,Inyo,0,0
-2020-02-27,Kern,2,0
-2020-02-27,Kings,1,0
-2020-02-27,Lake,0,0
-2020-02-27,Lassen,0,0
-2020-02-27,Los Angeles,105,0
-2020-02-27,Madera,2,0
-2020-02-27,Marin,1,0
-2020-02-27,Mariposa,0,0
-2020-02-27,Mendocino,0,0
-2020-02-27,Merced,1,0
-2020-02-27,Modoc,0,0
-2020-02-27,Mono,0,0
-2020-02-27,Monterey,0,0
-2020-02-27,Napa,1,0
-2020-02-27,Nevada,0,0
-2020-02-27,Orange,51,0
-2020-02-27,Placer,6,0
-2020-02-27,Plumas,0,0
-2020-02-27,Riverside,12,0
-2020-02-27,Sacramento,10,0
-2020-02-27,San Benito,0,0
-2020-02-27,San Bernardino,22,0
-2020-02-27,San Diego,12,0
-2020-02-27,San Francisco,9,0
-2020-02-27,San Joaquin,5,0
-2020-02-27,San Luis Obispo,2,0
-2020-02-27,San Mateo,20,0
-2020-02-27,Santa Barbara,0,0
-2020-02-27,Santa Clara,58,0
-2020-02-27,Santa Cruz,6,0
-2020-02-27,Shasta,0,0
-2020-02-27,Sierra,0,0
-2020-02-27,Siskiyou,0,0
-2020-02-27,Solano,17,0
-2020-02-27,Sonoma,5,0
-2020-02-27,Stanislaus,2,0
-2020-02-27,Sutter,0,0
-2020-02-27,Tehama,0,0
-2020-02-27,Trinity,0,0
-2020-02-27,Tulare,2,0
-2020-02-27,Tuolumne,0,0
-2020-02-27,Ventura,4,0
-2020-02-27,Yolo,2,0
-2020-02-27,Yuba,0,0
-2020-02-26,Alameda,13,0
-2020-02-26,Alpine,0,0
-2020-02-26,Amador,0,0
-2020-02-26,Butte,0,0
-2020-02-26,Calaveras,0,0
-2020-02-26,Colusa,0,0
-2020-02-26,Contra Costa,13,0
-2020-02-26,Del Norte,0,0
-2020-02-26,El Dorado,0,0
-2020-02-26,Fresno,0,0
-2020-02-26,Glenn,0,0
-2020-02-26,Humboldt,1,0
-2020-02-26,Imperial,3,0
-2020-02-26,Inyo,0,0
-2020-02-26,Kern,2,0
-2020-02-26,Kings,1,0
-2020-02-26,Lake,0,0
-2020-02-26,Lassen,0,0
-2020-02-26,Los Angeles,99,0
-2020-02-26,Madera,2,0
-2020-02-26,Marin,1,0
-2020-02-26,Mariposa,0,0
-2020-02-26,Mendocino,0,0
-2020-02-26,Merced,1,0
-2020-02-26,Modoc,0,0
-2020-02-26,Mono,0,0
-2020-02-26,Monterey,0,0
-2020-02-26,Napa,0,0
-2020-02-26,Nevada,0,0
-2020-02-26,Orange,50,0
-2020-02-26,Placer,5,0
-2020-02-26,Plumas,0,0
-2020-02-26,Riverside,10,0
-2020-02-26,Sacramento,10,0
-2020-02-26,San Benito,0,0
-2020-02-26,San Bernardino,20,0
-2020-02-26,San Diego,11,0
-2020-02-26,San Francisco,9,0
-2020-02-26,San Joaquin,5,0
-2020-02-26,San Luis Obispo,2,0
-2020-02-26,San Mateo,18,0
-2020-02-26,Santa Barbara,0,0
-2020-02-26,Santa Clara,50,0
-2020-02-26,Santa Cruz,6,0
-2020-02-26,Shasta,0,0
-2020-02-26,Sierra,0,0
-2020-02-26,Siskiyou,0,0
-2020-02-26,Solano,17,0
-2020-02-26,Sonoma,5,0
-2020-02-26,Stanislaus,2,0
-2020-02-26,Sutter,0,0
-2020-02-26,Tehama,0,0
-2020-02-26,Trinity,0,0
-2020-02-26,Tulare,2,0
-2020-02-26,Tuolumne,0,0
-2020-02-26,Ventura,4,0
-2020-02-26,Yolo,2,0
-2020-02-26,Yuba,0,0
-2020-02-25,Alameda,13,0
-2020-02-25,Alpine,0,0
-2020-02-25,Amador,0,0
-2020-02-25,Butte,0,0
-2020-02-25,Calaveras,0,0
-2020-02-25,Colusa,0,0
-2020-02-25,Contra Costa,11,0
-2020-02-25,Del Norte,0,0
-2020-02-25,El Dorado,0,0
-2020-02-25,Fresno,0,0
-2020-02-25,Glenn,0,0
-2020-02-25,Humboldt,1,0
-2020-02-25,Imperial,3,0
-2020-02-25,Inyo,0,0
-2020-02-25,Kern,2,0
-2020-02-25,Kings,1,0
-2020-02-25,Lake,0,0
-2020-02-25,Lassen,0,0
-2020-02-25,Los Angeles,84,0
-2020-02-25,Madera,2,0
-2020-02-25,Marin,1,0
-2020-02-25,Mariposa,0,0
-2020-02-25,Mendocino,0,0
-2020-02-25,Merced,0,0
-2020-02-25,Modoc,0,0
-2020-02-25,Mono,0,0
-2020-02-25,Monterey,0,0
-2020-02-25,Napa,0,0
-2020-02-25,Nevada,0,0
-2020-02-25,Orange,49,0
-2020-02-25,Placer,5,0
-2020-02-25,Plumas,0,0
-2020-02-25,Riverside,10,0
-2020-02-25,Sacramento,8,0
-2020-02-25,San Benito,0,0
-2020-02-25,San Bernardino,18,0
-2020-02-25,San Diego,7,0
-2020-02-25,San Francisco,7,0
-2020-02-25,San Joaquin,5,0
-2020-02-25,San Luis Obispo,2,0
-2020-02-25,San Mateo,17,0
-2020-02-25,Santa Barbara,0,0
-2020-02-25,Santa Clara,40,0
-2020-02-25,Santa Cruz,5,0
-2020-02-25,Shasta,0,0
-2020-02-25,Sierra,0,0
-2020-02-25,Siskiyou,0,0
-2020-02-25,Solano,16,0
-2020-02-25,Sonoma,5,0
-2020-02-25,Stanislaus,2,0
-2020-02-25,Sutter,0,0
-2020-02-25,Tehama,0,0
-2020-02-25,Trinity,0,0
-2020-02-25,Tulare,2,0
-2020-02-25,Tuolumne,0,0
-2020-02-25,Ventura,4,0
-2020-02-25,Yolo,2,0
-2020-02-25,Yuba,0,0
-2020-02-24,Alameda,13,0
-2020-02-24,Alpine,0,0
-2020-02-24,Amador,0,0
-2020-02-24,Butte,0,0
-2020-02-24,Calaveras,0,0
-2020-02-24,Colusa,0,0
-2020-02-24,Contra Costa,9,0
-2020-02-24,Del Norte,0,0
-2020-02-24,El Dorado,0,0
-2020-02-24,Fresno,0,0
-2020-02-24,Glenn,0,0
-2020-02-24,Humboldt,1,0
-2020-02-24,Imperial,3,0
-2020-02-24,Inyo,0,0
-2020-02-24,Kern,2,0
-2020-02-24,Kings,1,0
-2020-02-24,Lake,0,0
-2020-02-24,Lassen,0,0
-2020-02-24,Los Angeles,78,0
-2020-02-24,Madera,1,0
-2020-02-24,Marin,1,0
-2020-02-24,Mariposa,0,0
-2020-02-24,Mendocino,0,0
-2020-02-24,Merced,0,0
-2020-02-24,Modoc,0,0
-2020-02-24,Mono,0,0
-2020-02-24,Monterey,0,0
-2020-02-24,Napa,0,0
-2020-02-24,Nevada,0,0
-2020-02-24,Orange,47,0
-2020-02-24,Placer,3,0
-2020-02-24,Plumas,0,0
-2020-02-24,Riverside,9,0
-2020-02-24,Sacramento,7,0
-2020-02-24,San Benito,0,0
-2020-02-24,San Bernardino,18,0
-2020-02-24,San Diego,7,0
-2020-02-24,San Francisco,6,0
-2020-02-24,San Joaquin,5,0
-2020-02-24,San Luis Obispo,2,0
-2020-02-24,San Mateo,13,0
-2020-02-24,Santa Barbara,0,0
-2020-02-24,Santa Clara,38,0
-2020-02-24,Santa Cruz,5,0
-2020-02-24,Shasta,0,0
-2020-02-24,Sierra,0,0
-2020-02-24,Siskiyou,0,0
-2020-02-24,Solano,13,0
-2020-02-24,Sonoma,5,0
-2020-02-24,Stanislaus,2,0
-2020-02-24,Sutter,0,0
-2020-02-24,Tehama,0,0
-2020-02-24,Trinity,0,0
-2020-02-24,Tulare,2,0
-2020-02-24,Tuolumne,0,0
-2020-02-24,Ventura,4,0
-2020-02-24,Yolo,2,0
-2020-02-24,Yuba,0,0
-2020-02-23,Alameda,11,0
-2020-02-23,Alpine,0,0
-2020-02-23,Amador,0,0
-2020-02-23,Butte,0,0
-2020-02-23,Calaveras,0,0
-2020-02-23,Colusa,0,0
-2020-02-23,Contra Costa,6,0
-2020-02-23,Del Norte,0,0
-2020-02-23,El Dorado,0,0
-2020-02-23,Fresno,0,0
-2020-02-23,Glenn,0,0
-2020-02-23,Humboldt,1,0
-2020-02-23,Imperial,3,0
-2020-02-23,Inyo,0,0
-2020-02-23,Kern,2,0
-2020-02-23,Kings,1,0
-2020-02-23,Lake,0,0
-2020-02-23,Lassen,0,0
-2020-02-23,Los Angeles,69,0
-2020-02-23,Madera,1,0
-2020-02-23,Marin,1,0
-2020-02-23,Mariposa,0,0
-2020-02-23,Mendocino,0,0
-2020-02-23,Merced,0,0
-2020-02-23,Modoc,0,0
-2020-02-23,Mono,0,0
-2020-02-23,Monterey,0,0
-2020-02-23,Napa,0,0
-2020-02-23,Nevada,0,0
-2020-02-23,Orange,47,0
-2020-02-23,Placer,3,0
-2020-02-23,Plumas,0,0
-2020-02-23,Riverside,9,0
-2020-02-23,Sacramento,6,0
-2020-02-23,San Benito,0,0
-2020-02-23,San Bernardino,17,0
-2020-02-23,San Diego,6,0
-2020-02-23,San Francisco,5,0
-2020-02-23,San Joaquin,4,0
-2020-02-23,San Luis Obispo,2,0
-2020-02-23,San Mateo,10,0
-2020-02-23,Santa Barbara,0,0
-2020-02-23,Santa Clara,26,0
-2020-02-23,Santa Cruz,2,0
-2020-02-23,Shasta,0,0
-2020-02-23,Sierra,0,0
-2020-02-23,Siskiyou,0,0
-2020-02-23,Solano,11,0
-2020-02-23,Sonoma,5,0
-2020-02-23,Stanislaus,2,0
-2020-02-23,Sutter,0,0
-2020-02-23,Tehama,0,0
-2020-02-23,Trinity,0,0
-2020-02-23,Tulare,2,0
-2020-02-23,Tuolumne,0,0
-2020-02-23,Ventura,4,0
-2020-02-23,Yolo,2,0
-2020-02-23,Yuba,0,0
-2020-02-22,Alameda,10,0
-2020-02-22,Alpine,0,0
-2020-02-22,Amador,0,0
-2020-02-22,Butte,0,0
-2020-02-22,Calaveras,0,0
-2020-02-22,Colusa,0,0
-2020-02-22,Contra Costa,5,0
-2020-02-22,Del Norte,0,0
-2020-02-22,El Dorado,0,0
-2020-02-22,Fresno,0,0
-2020-02-22,Glenn,0,0
-2020-02-22,Humboldt,1,0
-2020-02-22,Imperial,2,0
-2020-02-22,Inyo,0,0
-2020-02-22,Kern,2,0
-2020-02-22,Kings,1,0
-2020-02-22,Lake,0,0
-2020-02-22,Lassen,0,0
-2020-02-22,Los Angeles,67,0
-2020-02-22,Madera,0,0
-2020-02-22,Marin,1,0
-2020-02-22,Mariposa,0,0
-2020-02-22,Mendocino,0,0
-2020-02-22,Merced,0,0
-2020-02-22,Modoc,0,0
-2020-02-22,Mono,0,0
-2020-02-22,Monterey,0,0
-2020-02-22,Napa,0,0
-2020-02-22,Nevada,0,0
-2020-02-22,Orange,46,0
-2020-02-22,Placer,3,0
-2020-02-22,Plumas,0,0
-2020-02-22,Riverside,9,0
-2020-02-22,Sacramento,6,0
-2020-02-22,San Benito,0,0
-2020-02-22,San Bernardino,15,0
-2020-02-22,San Diego,5,0
-2020-02-22,San Francisco,3,0
-2020-02-22,San Joaquin,4,0
-2020-02-22,San Luis Obispo,2,0
-2020-02-22,San Mateo,8,0
-2020-02-22,Santa Barbara,0,0
-2020-02-22,Santa Clara,23,0
-2020-02-22,Santa Cruz,2,0
-2020-02-22,Shasta,0,0
-2020-02-22,Sierra,0,0
-2020-02-22,Siskiyou,0,0
-2020-02-22,Solano,11,0
-2020-02-22,Sonoma,4,0
-2020-02-22,Stanislaus,2,0
-2020-02-22,Sutter,0,0
-2020-02-22,Tehama,0,0
-2020-02-22,Trinity,0,0
-2020-02-22,Tulare,2,0
-2020-02-22,Tuolumne,0,0
-2020-02-22,Ventura,4,0
-2020-02-22,Yolo,1,0
-2020-02-22,Yuba,0,0
-2020-02-21,Alameda,9,0
-2020-02-21,Alpine,0,0
-2020-02-21,Amador,0,0
-2020-02-21,Butte,0,0
-2020-02-21,Calaveras,0,0
-2020-02-21,Colusa,0,0
-2020-02-21,Contra Costa,4,0
-2020-02-21,Del Norte,0,0
-2020-02-21,El Dorado,0,0
-2020-02-21,Fresno,0,0
-2020-02-21,Glenn,0,0
-2020-02-21,Humboldt,1,0
-2020-02-21,Imperial,2,0
-2020-02-21,Inyo,0,0
-2020-02-21,Kern,2,0
-2020-02-21,Kings,1,0
-2020-02-21,Lake,0,0
-2020-02-21,Lassen,0,0
-2020-02-21,Los Angeles,65,0
-2020-02-21,Madera,0,0
-2020-02-21,Marin,1,0
-2020-02-21,Mariposa,0,0
-2020-02-21,Mendocino,0,0
-2020-02-21,Merced,0,0
-2020-02-21,Modoc,0,0
-2020-02-21,Mono,0,0
-2020-02-21,Monterey,0,0
-2020-02-21,Napa,0,0
-2020-02-21,Nevada,0,0
-2020-02-21,Orange,44,0
-2020-02-21,Placer,2,0
-2020-02-21,Plumas,0,0
-2020-02-21,Riverside,9,0
-2020-02-21,Sacramento,5,0
-2020-02-21,San Benito,0,0
-2020-02-21,San Bernardino,14,0
-2020-02-21,San Diego,5,0
-2020-02-21,San Francisco,3,0
-2020-02-21,San Joaquin,2,0
-2020-02-21,San Luis Obispo,2,0
-2020-02-21,San Mateo,8,0
-2020-02-21,Santa Barbara,0,0
-2020-02-21,Santa Clara,21,0
-2020-02-21,Santa Cruz,2,0
-2020-02-21,Shasta,0,0
-2020-02-21,Sierra,0,0
-2020-02-21,Siskiyou,0,0
-2020-02-21,Solano,10,0
-2020-02-21,Sonoma,3,0
-2020-02-21,Stanislaus,2,0
-2020-02-21,Sutter,0,0
-2020-02-21,Tehama,0,0
-2020-02-21,Trinity,0,0
-2020-02-21,Tulare,2,0
-2020-02-21,Tuolumne,0,0
-2020-02-21,Ventura,4,0
-2020-02-21,Yolo,1,0
-2020-02-21,Yuba,0,0
-2020-02-20,Alameda,7,0
-2020-02-20,Alpine,0,0
-2020-02-20,Amador,0,0
-2020-02-20,Butte,0,0
-2020-02-20,Calaveras,0,0
-2020-02-20,Colusa,0,0
-2020-02-20,Contra Costa,3,0
-2020-02-20,Del Norte,0,0
-2020-02-20,El Dorado,0,0
-2020-02-20,Fresno,0,0
-2020-02-20,Glenn,0,0
-2020-02-20,Humboldt,1,0
-2020-02-20,Imperial,2,0
-2020-02-20,Inyo,0,0
-2020-02-20,Kern,2,0
-2020-02-20,Kings,1,0
-2020-02-20,Lake,0,0
-2020-02-20,Lassen,0,0
-2020-02-20,Los Angeles,63,0
-2020-02-20,Madera,0,0
-2020-02-20,Marin,0,0
-2020-02-20,Mariposa,0,0
-2020-02-20,Mendocino,0,0
-2020-02-20,Merced,0,0
-2020-02-20,Modoc,0,0
-2020-02-20,Mono,0,0
-2020-02-20,Monterey,0,0
-2020-02-20,Napa,0,0
-2020-02-20,Nevada,0,0
-2020-02-20,Orange,44,0
-2020-02-20,Placer,2,0
-2020-02-20,Plumas,0,0
-2020-02-20,Riverside,7,0
-2020-02-20,Sacramento,2,0
-2020-02-20,San Benito,0,0
-2020-02-20,San Bernardino,13,0
-2020-02-20,San Diego,5,0
-2020-02-20,San Francisco,3,0
-2020-02-20,San Joaquin,2,0
-2020-02-20,San Luis Obispo,2,0
-2020-02-20,San Mateo,7,0
-2020-02-20,Santa Barbara,0,0
-2020-02-20,Santa Clara,17,0
-2020-02-20,Santa Cruz,2,0
-2020-02-20,Shasta,0,0
-2020-02-20,Sierra,0,0
-2020-02-20,Siskiyou,0,0
-2020-02-20,Solano,8,0
-2020-02-20,Sonoma,2,0
-2020-02-20,Stanislaus,2,0
-2020-02-20,Sutter,0,0
-2020-02-20,Tehama,0,0
-2020-02-20,Trinity,0,0
-2020-02-20,Tulare,2,0
-2020-02-20,Tuolumne,0,0
-2020-02-20,Ventura,4,0
-2020-02-20,Yolo,1,0
-2020-02-20,Yuba,0,0
-2020-02-19,Alameda,6,0
-2020-02-19,Alpine,0,0
-2020-02-19,Amador,0,0
-2020-02-19,Butte,0,0
-2020-02-19,Calaveras,0,0
-2020-02-19,Colusa,0,0
-2020-02-19,Contra Costa,3,0
-2020-02-19,Del Norte,0,0
-2020-02-19,El Dorado,0,0
-2020-02-19,Fresno,0,0
-2020-02-19,Glenn,0,0
-2020-02-19,Humboldt,1,0
-2020-02-19,Imperial,2,0
-2020-02-19,Inyo,0,0
-2020-02-19,Kern,2,0
-2020-02-19,Kings,1,0
-2020-02-19,Lake,0,0
-2020-02-19,Lassen,0,0
-2020-02-19,Los Angeles,57,0
-2020-02-19,Madera,0,0
-2020-02-19,Marin,0,0
-2020-02-19,Mariposa,0,0
-2020-02-19,Mendocino,0,0
-2020-02-19,Merced,0,0
-2020-02-19,Modoc,0,0
-2020-02-19,Mono,0,0
-2020-02-19,Monterey,0,0
-2020-02-19,Napa,0,0
-2020-02-19,Nevada,0,0
-2020-02-19,Orange,43,0
-2020-02-19,Placer,2,0
-2020-02-19,Plumas,0,0
-2020-02-19,Riverside,5,0
-2020-02-19,Sacramento,2,0
-2020-02-19,San Benito,0,0
-2020-02-19,San Bernardino,12,0
-2020-02-19,San Diego,4,0
-2020-02-19,San Francisco,2,0
-2020-02-19,San Joaquin,2,0
-2020-02-19,San Luis Obispo,2,0
-2020-02-19,San Mateo,6,0
-2020-02-19,Santa Barbara,0,0
-2020-02-19,Santa Clara,15,0
-2020-02-19,Santa Cruz,0,0
-2020-02-19,Shasta,0,0
-2020-02-19,Sierra,0,0
-2020-02-19,Siskiyou,0,0
-2020-02-19,Solano,5,0
-2020-02-19,Sonoma,2,0
-2020-02-19,Stanislaus,1,0
-2020-02-19,Sutter,0,0
-2020-02-19,Tehama,0,0
-2020-02-19,Trinity,0,0
-2020-02-19,Tulare,2,0
-2020-02-19,Tuolumne,0,0
-2020-02-19,Ventura,2,0
-2020-02-19,Yolo,1,0
-2020-02-19,Yuba,0,0
-2020-02-18,Alameda,6,0
-2020-02-18,Alpine,0,0
-2020-02-18,Amador,0,0
-2020-02-18,Butte,0,0
-2020-02-18,Calaveras,0,0
-2020-02-18,Colusa,0,0
-2020-02-18,Contra Costa,3,0
-2020-02-18,Del Norte,0,0
-2020-02-18,El Dorado,0,0
-2020-02-18,Fresno,0,0
-2020-02-18,Glenn,0,0
-2020-02-18,Humboldt,1,0
-2020-02-18,Imperial,1,0
-2020-02-18,Inyo,0,0
-2020-02-18,Kern,2,0
-2020-02-18,Kings,1,0
-2020-02-18,Lake,0,0
-2020-02-18,Lassen,0,0
-2020-02-18,Los Angeles,54,0
-2020-02-18,Madera,0,0
-2020-02-18,Marin,0,0
-2020-02-18,Mariposa,0,0
-2020-02-18,Mendocino,0,0
-2020-02-18,Merced,0,0
-2020-02-18,Modoc,0,0
-2020-02-18,Mono,0,0
-2020-02-18,Monterey,0,0
-2020-02-18,Napa,0,0
-2020-02-18,Nevada,0,0
-2020-02-18,Orange,42,0
-2020-02-18,Placer,0,0
-2020-02-18,Plumas,0,0
-2020-02-18,Riverside,5,0
-2020-02-18,Sacramento,2,0
-2020-02-18,San Benito,0,0
-2020-02-18,San Bernardino,12,0
-2020-02-18,San Diego,4,0
-2020-02-18,San Francisco,2,0
-2020-02-18,San Joaquin,1,0
-2020-02-18,San Luis Obispo,2,0
-2020-02-18,San Mateo,5,0
-2020-02-18,Santa Barbara,0,0
-2020-02-18,Santa Clara,14,0
-2020-02-18,Santa Cruz,0,0
-2020-02-18,Shasta,0,0
-2020-02-18,Sierra,0,0
-2020-02-18,Siskiyou,0,0
-2020-02-18,Solano,5,0
-2020-02-18,Sonoma,1,0
-2020-02-18,Stanislaus,1,0
-2020-02-18,Sutter,0,0
-2020-02-18,Tehama,0,0
-2020-02-18,Trinity,0,0
-2020-02-18,Tulare,2,0
-2020-02-18,Tuolumne,0,0
-2020-02-18,Ventura,2,0
-2020-02-18,Yolo,1,0
-2020-02-18,Yuba,0,0
-2020-02-17,Alameda,6,0
-2020-02-17,Alpine,0,0
-2020-02-17,Amador,0,0
-2020-02-17,Butte,0,0
-2020-02-17,Calaveras,0,0
-2020-02-17,Colusa,0,0
-2020-02-17,Contra Costa,3,0
-2020-02-17,Del Norte,0,0
-2020-02-17,El Dorado,0,0
-2020-02-17,Fresno,0,0
-2020-02-17,Glenn,0,0
-2020-02-17,Humboldt,1,0
-2020-02-17,Imperial,1,0
-2020-02-17,Inyo,0,0
-2020-02-17,Kern,2,0
-2020-02-17,Kings,1,0
-2020-02-17,Lake,0,0
-2020-02-17,Lassen,0,0
-2020-02-17,Los Angeles,51,0
-2020-02-17,Madera,0,0
-2020-02-17,Marin,0,0
-2020-02-17,Mariposa,0,0
-2020-02-17,Mendocino,0,0
-2020-02-17,Merced,0,0
-2020-02-17,Modoc,0,0
-2020-02-17,Mono,0,0
-2020-02-17,Monterey,0,0
-2020-02-17,Napa,0,0
-2020-02-17,Nevada,0,0
-2020-02-17,Orange,42,0
-2020-02-17,Placer,0,0
-2020-02-17,Plumas,0,0
-2020-02-17,Riverside,5,0
-2020-02-17,Sacramento,2,0
-2020-02-17,San Benito,0,0
-2020-02-17,San Bernardino,10,0
-2020-02-17,San Diego,4,0
-2020-02-17,San Francisco,2,0
-2020-02-17,San Joaquin,1,0
-2020-02-17,San Luis Obispo,1,0
-2020-02-17,San Mateo,5,0
-2020-02-17,Santa Barbara,0,0
-2020-02-17,Santa Clara,12,0
-2020-02-17,Santa Cruz,0,0
-2020-02-17,Shasta,0,0
-2020-02-17,Sierra,0,0
-2020-02-17,Siskiyou,0,0
-2020-02-17,Solano,3,0
-2020-02-17,Sonoma,1,0
-2020-02-17,Stanislaus,1,0
-2020-02-17,Sutter,0,0
-2020-02-17,Tehama,0,0
-2020-02-17,Trinity,0,0
-2020-02-17,Tulare,2,0
-2020-02-17,Tuolumne,0,0
-2020-02-17,Ventura,2,0
-2020-02-17,Yolo,1,0
-2020-02-17,Yuba,0,0
-2020-02-16,Alameda,5,0
-2020-02-16,Alpine,0,0
-2020-02-16,Amador,0,0
-2020-02-16,Butte,0,0
-2020-02-16,Calaveras,0,0
-2020-02-16,Colusa,0,0
-2020-02-16,Contra Costa,3,0
-2020-02-16,Del Norte,0,0
-2020-02-16,El Dorado,0,0
-2020-02-16,Fresno,0,0
-2020-02-16,Glenn,0,0
-2020-02-16,Humboldt,1,0
-2020-02-16,Imperial,1,0
-2020-02-16,Inyo,0,0
-2020-02-16,Kern,2,0
-2020-02-16,Kings,1,0
-2020-02-16,Lake,0,0
-2020-02-16,Lassen,0,0
-2020-02-16,Los Angeles,44,0
-2020-02-16,Madera,0,0
-2020-02-16,Marin,0,0
-2020-02-16,Mariposa,0,0
-2020-02-16,Mendocino,0,0
-2020-02-16,Merced,0,0
-2020-02-16,Modoc,0,0
-2020-02-16,Mono,0,0
-2020-02-16,Monterey,0,0
-2020-02-16,Napa,0,0
-2020-02-16,Nevada,0,0
-2020-02-16,Orange,41,0
-2020-02-16,Placer,0,0
-2020-02-16,Plumas,0,0
-2020-02-16,Riverside,5,0
-2020-02-16,Sacramento,2,0
-2020-02-16,San Benito,0,0
-2020-02-16,San Bernardino,9,0
-2020-02-16,San Diego,4,0
-2020-02-16,San Francisco,2,0
-2020-02-16,San Joaquin,1,0
-2020-02-16,San Luis Obispo,1,0
-2020-02-16,San Mateo,4,0
-2020-02-16,Santa Barbara,0,0
-2020-02-16,Santa Clara,10,0
-2020-02-16,Santa Cruz,0,0
-2020-02-16,Shasta,0,0
-2020-02-16,Sierra,0,0
-2020-02-16,Siskiyou,0,0
-2020-02-16,Solano,1,0
-2020-02-16,Sonoma,1,0
-2020-02-16,Stanislaus,1,0
-2020-02-16,Sutter,0,0
-2020-02-16,Tehama,0,0
-2020-02-16,Trinity,0,0
-2020-02-16,Tulare,2,0
-2020-02-16,Tuolumne,0,0
-2020-02-16,Ventura,2,0
-2020-02-16,Yolo,1,0
-2020-02-16,Yuba,0,0
-2020-02-15,Alameda,5,0
-2020-02-15,Alpine,0,0
-2020-02-15,Amador,0,0
-2020-02-15,Butte,0,0
-2020-02-15,Calaveras,0,0
-2020-02-15,Colusa,0,0
-2020-02-15,Contra Costa,3,0
-2020-02-15,Del Norte,0,0
-2020-02-15,El Dorado,0,0
-2020-02-15,Fresno,0,0
-2020-02-15,Glenn,0,0
-2020-02-15,Humboldt,1,0
-2020-02-15,Imperial,1,0
-2020-02-15,Inyo,0,0
-2020-02-15,Kern,2,0
-2020-02-15,Kings,1,0
-2020-02-15,Lake,0,0
-2020-02-15,Lassen,0,0
-2020-02-15,Los Angeles,41,0
-2020-02-15,Madera,0,0
-2020-02-15,Marin,0,0
-2020-02-15,Mariposa,0,0
-2020-02-15,Mendocino,0,0
-2020-02-15,Merced,0,0
-2020-02-15,Modoc,0,0
-2020-02-15,Mono,0,0
-2020-02-15,Monterey,0,0
-2020-02-15,Napa,0,0
-2020-02-15,Nevada,0,0
-2020-02-15,Orange,40,0
-2020-02-15,Placer,0,0
-2020-02-15,Plumas,0,0
-2020-02-15,Riverside,4,0
-2020-02-15,Sacramento,2,0
-2020-02-15,San Benito,0,0
-2020-02-15,San Bernardino,8,0
-2020-02-15,San Diego,4,0
-2020-02-15,San Francisco,2,0
-2020-02-15,San Joaquin,1,0
-2020-02-15,San Luis Obispo,1,0
-2020-02-15,San Mateo,4,0
-2020-02-15,Santa Barbara,0,0
-2020-02-15,Santa Clara,10,0
-2020-02-15,Santa Cruz,0,0
-2020-02-15,Shasta,0,0
-2020-02-15,Sierra,0,0
-2020-02-15,Siskiyou,0,0
-2020-02-15,Solano,1,0
-2020-02-15,Sonoma,0,0
-2020-02-15,Stanislaus,1,0
-2020-02-15,Sutter,0,0
-2020-02-15,Tehama,0,0
-2020-02-15,Trinity,0,0
-2020-02-15,Tulare,2,0
-2020-02-15,Tuolumne,0,0
-2020-02-15,Ventura,2,0
-2020-02-15,Yolo,1,0
-2020-02-15,Yuba,0,0
-2020-02-14,Alameda,4,0
-2020-02-14,Alpine,0,0
-2020-02-14,Amador,0,0
-2020-02-14,Butte,0,0
-2020-02-14,Calaveras,0,0
-2020-02-14,Colusa,0,0
-2020-02-14,Contra Costa,3,0
-2020-02-14,Del Norte,0,0
-2020-02-14,El Dorado,0,0
-2020-02-14,Fresno,0,0
-2020-02-14,Glenn,0,0
-2020-02-14,Humboldt,1,0
-2020-02-14,Imperial,1,0
-2020-02-14,Inyo,0,0
-2020-02-14,Kern,2,0
-2020-02-14,Kings,1,0
-2020-02-14,Lake,0,0
-2020-02-14,Lassen,0,0
-2020-02-14,Los Angeles,36,0
-2020-02-14,Madera,0,0
-2020-02-14,Marin,0,0
-2020-02-14,Mariposa,0,0
-2020-02-14,Mendocino,0,0
-2020-02-14,Merced,0,0
-2020-02-14,Modoc,0,0
-2020-02-14,Mono,0,0
-2020-02-14,Monterey,0,0
-2020-02-14,Napa,0,0
-2020-02-14,Nevada,0,0
-2020-02-14,Orange,40,0
-2020-02-14,Placer,0,0
-2020-02-14,Plumas,0,0
-2020-02-14,Riverside,4,0
-2020-02-14,Sacramento,1,0
-2020-02-14,San Benito,0,0
-2020-02-14,San Bernardino,8,0
-2020-02-14,San Diego,3,0
-2020-02-14,San Francisco,2,0
-2020-02-14,San Joaquin,1,0
-2020-02-14,San Luis Obispo,0,0
-2020-02-14,San Mateo,3,0
-2020-02-14,Santa Barbara,0,0
-2020-02-14,Santa Clara,8,0
-2020-02-14,Santa Cruz,0,0
-2020-02-14,Shasta,0,0
-2020-02-14,Sierra,0,0
-2020-02-14,Siskiyou,0,0
-2020-02-14,Solano,1,0
-2020-02-14,Sonoma,0,0
-2020-02-14,Stanislaus,1,0
-2020-02-14,Sutter,0,0
-2020-02-14,Tehama,0,0
-2020-02-14,Trinity,0,0
-2020-02-14,Tulare,2,0
-2020-02-14,Tuolumne,0,0
-2020-02-14,Ventura,2,0
-2020-02-14,Yolo,1,0
-2020-02-14,Yuba,0,0
-2020-02-13,Alameda,4,0
-2020-02-13,Alpine,0,0
-2020-02-13,Amador,0,0
-2020-02-13,Butte,0,0
-2020-02-13,Calaveras,0,0
-2020-02-13,Colusa,0,0
-2020-02-13,Contra Costa,3,0
-2020-02-13,Del Norte,0,0
-2020-02-13,El Dorado,0,0
-2020-02-13,Fresno,0,0
-2020-02-13,Glenn,0,0
-2020-02-13,Humboldt,1,0
-2020-02-13,Imperial,1,0
-2020-02-13,Inyo,0,0
-2020-02-13,Kern,2,0
-2020-02-13,Kings,1,0
-2020-02-13,Lake,0,0
-2020-02-13,Lassen,0,0
-2020-02-13,Los Angeles,31,0
-2020-02-13,Madera,0,0
-2020-02-13,Marin,0,0
-2020-02-13,Mariposa,0,0
-2020-02-13,Mendocino,0,0
-2020-02-13,Merced,0,0
-2020-02-13,Modoc,0,0
-2020-02-13,Mono,0,0
-2020-02-13,Monterey,0,0
-2020-02-13,Napa,0,0
-2020-02-13,Nevada,0,0
-2020-02-13,Orange,39,0
-2020-02-13,Placer,0,0
-2020-02-13,Plumas,0,0
-2020-02-13,Riverside,4,0
-2020-02-13,Sacramento,1,0
-2020-02-13,San Benito,0,0
-2020-02-13,San Bernardino,8,0
-2020-02-13,San Diego,2,0
-2020-02-13,San Francisco,2,0
-2020-02-13,San Joaquin,1,0
-2020-02-13,San Luis Obispo,0,0
-2020-02-13,San Mateo,2,0
-2020-02-13,Santa Barbara,0,0
-2020-02-13,Santa Clara,7,0
-2020-02-13,Santa Cruz,0,0
-2020-02-13,Shasta,0,0
-2020-02-13,Sierra,0,0
-2020-02-13,Siskiyou,0,0
-2020-02-13,Solano,0,0
-2020-02-13,Sonoma,0,0
-2020-02-13,Stanislaus,1,0
-2020-02-13,Sutter,0,0
-2020-02-13,Tehama,0,0
-2020-02-13,Trinity,0,0
-2020-02-13,Tulare,2,0
-2020-02-13,Tuolumne,0,0
-2020-02-13,Ventura,2,0
-2020-02-13,Yolo,1,0
-2020-02-13,Yuba,0,0
-2020-02-12,Alameda,4,0
-2020-02-12,Alpine,0,0
-2020-02-12,Amador,0,0
-2020-02-12,Butte,0,0
-2020-02-12,Calaveras,0,0
-2020-02-12,Colusa,0,0
-2020-02-12,Contra Costa,3,0
-2020-02-12,Del Norte,0,0
-2020-02-12,El Dorado,0,0
-2020-02-12,Fresno,0,0
-2020-02-12,Glenn,0,0
-2020-02-12,Humboldt,1,0
-2020-02-12,Imperial,1,0
-2020-02-12,Inyo,0,0
-2020-02-12,Kern,2,0
-2020-02-12,Kings,1,0
-2020-02-12,Lake,0,0
-2020-02-12,Lassen,0,0
-2020-02-12,Los Angeles,29,0
-2020-02-12,Madera,0,0
-2020-02-12,Marin,0,0
-2020-02-12,Mariposa,0,0
-2020-02-12,Mendocino,0,0
-2020-02-12,Merced,0,0
-2020-02-12,Modoc,0,0
-2020-02-12,Mono,0,0
-2020-02-12,Monterey,0,0
-2020-02-12,Napa,0,0
-2020-02-12,Nevada,0,0
-2020-02-12,Orange,39,0
-2020-02-12,Placer,0,0
-2020-02-12,Plumas,0,0
-2020-02-12,Riverside,4,0
-2020-02-12,Sacramento,1,0
-2020-02-12,San Benito,0,0
-2020-02-12,San Bernardino,8,0
-2020-02-12,San Diego,2,0
-2020-02-12,San Francisco,2,0
-2020-02-12,San Joaquin,1,0
-2020-02-12,San Luis Obispo,0,0
-2020-02-12,San Mateo,2,0
-2020-02-12,Santa Barbara,0,0
-2020-02-12,Santa Clara,6,0
-2020-02-12,Santa Cruz,0,0
-2020-02-12,Shasta,0,0
-2020-02-12,Sierra,0,0
-2020-02-12,Siskiyou,0,0
-2020-02-12,Solano,0,0
-2020-02-12,Sonoma,0,0
-2020-02-12,Stanislaus,1,0
-2020-02-12,Sutter,0,0
-2020-02-12,Tehama,0,0
-2020-02-12,Trinity,0,0
-2020-02-12,Tulare,2,0
-2020-02-12,Tuolumne,0,0
-2020-02-12,Ventura,2,0
-2020-02-12,Yolo,1,0
-2020-02-12,Yuba,0,0
-2020-02-11,Alameda,4,0
-2020-02-11,Alpine,0,0
-2020-02-11,Amador,0,0
-2020-02-11,Butte,0,0
-2020-02-11,Calaveras,0,0
-2020-02-11,Colusa,0,0
-2020-02-11,Contra Costa,3,0
-2020-02-11,Del Norte,0,0
-2020-02-11,El Dorado,0,0
-2020-02-11,Fresno,0,0
-2020-02-11,Glenn,0,0
-2020-02-11,Humboldt,1,0
-2020-02-11,Imperial,1,0
-2020-02-11,Inyo,0,0
-2020-02-11,Kern,2,0
-2020-02-11,Kings,1,0
-2020-02-11,Lake,0,0
-2020-02-11,Lassen,0,0
-2020-02-11,Los Angeles,28,0
-2020-02-11,Madera,0,0
-2020-02-11,Marin,0,0
-2020-02-11,Mariposa,0,0
-2020-02-11,Mendocino,0,0
-2020-02-11,Merced,0,0
-2020-02-11,Modoc,0,0
-2020-02-11,Mono,0,0
-2020-02-11,Monterey,0,0
-2020-02-11,Napa,0,0
-2020-02-11,Nevada,0,0
-2020-02-11,Orange,38,0
-2020-02-11,Placer,0,0
-2020-02-11,Plumas,0,0
-2020-02-11,Riverside,4,0
-2020-02-11,Sacramento,1,0
-2020-02-11,San Benito,0,0
-2020-02-11,San Bernardino,8,0
-2020-02-11,San Diego,2,0
-2020-02-11,San Francisco,2,0
-2020-02-11,San Joaquin,0,0
-2020-02-11,San Luis Obispo,0,0
-2020-02-11,San Mateo,2,0
-2020-02-11,Santa Barbara,0,0
-2020-02-11,Santa Clara,5,0
-2020-02-11,Santa Cruz,0,0
-2020-02-11,Shasta,0,0
-2020-02-11,Sierra,0,0
-2020-02-11,Siskiyou,0,0
-2020-02-11,Solano,0,0
-2020-02-11,Sonoma,0,0
-2020-02-11,Stanislaus,1,0
-2020-02-11,Sutter,0,0
-2020-02-11,Tehama,0,0
-2020-02-11,Trinity,0,0
-2020-02-11,Tulare,2,0
-2020-02-11,Tuolumne,0,0
-2020-02-11,Ventura,2,0
-2020-02-11,Yolo,1,0
-2020-02-11,Yuba,0,0
-2020-02-10,Alameda,4,0
-2020-02-10,Alpine,0,0
-2020-02-10,Amador,0,0
-2020-02-10,Butte,0,0
-2020-02-10,Calaveras,0,0
-2020-02-10,Colusa,0,0
-2020-02-10,Contra Costa,3,0
-2020-02-10,Del Norte,0,0
-2020-02-10,El Dorado,0,0
-2020-02-10,Fresno,0,0
-2020-02-10,Glenn,0,0
-2020-02-10,Humboldt,0,0
-2020-02-10,Imperial,1,0
-2020-02-10,Inyo,0,0
-2020-02-10,Kern,2,0
-2020-02-10,Kings,1,0
-2020-02-10,Lake,0,0
-2020-02-10,Lassen,0,0
-2020-02-10,Los Angeles,26,0
-2020-02-10,Madera,0,0
-2020-02-10,Marin,0,0
-2020-02-10,Mariposa,0,0
-2020-02-10,Mendocino,0,0
-2020-02-10,Merced,0,0
-2020-02-10,Modoc,0,0
-2020-02-10,Mono,0,0
-2020-02-10,Monterey,0,0
-2020-02-10,Napa,0,0
-2020-02-10,Nevada,0,0
-2020-02-10,Orange,38,0
-2020-02-10,Placer,0,0
-2020-02-10,Plumas,0,0
-2020-02-10,Riverside,4,0
-2020-02-10,Sacramento,1,0
-2020-02-10,San Benito,0,0
-2020-02-10,San Bernardino,7,0
-2020-02-10,San Diego,2,0
-2020-02-10,San Francisco,2,0
-2020-02-10,San Joaquin,0,0
-2020-02-10,San Luis Obispo,0,0
-2020-02-10,San Mateo,2,0
-2020-02-10,Santa Barbara,0,0
-2020-02-10,Santa Clara,5,0
-2020-02-10,Santa Cruz,0,0
-2020-02-10,Shasta,0,0
-2020-02-10,Sierra,0,0
-2020-02-10,Siskiyou,0,0
-2020-02-10,Solano,0,0
-2020-02-10,Sonoma,0,0
-2020-02-10,Stanislaus,1,0
-2020-02-10,Sutter,0,0
-2020-02-10,Tehama,0,0
-2020-02-10,Trinity,0,0
-2020-02-10,Tulare,2,0
-2020-02-10,Tuolumne,0,0
-2020-02-10,Ventura,2,0
-2020-02-10,Yolo,1,0
-2020-02-10,Yuba,0,0
-2020-02-09,Alameda,4,0
-2020-02-09,Alpine,0,0
-2020-02-09,Amador,0,0
-2020-02-09,Butte,0,0
-2020-02-09,Calaveras,0,0
-2020-02-09,Colusa,0,0
-2020-02-09,Contra Costa,3,0
-2020-02-09,Del Norte,0,0
-2020-02-09,El Dorado,0,0
-2020-02-09,Fresno,0,0
-2020-02-09,Glenn,0,0
-2020-02-09,Humboldt,0,0
-2020-02-09,Imperial,1,0
-2020-02-09,Inyo,0,0
-2020-02-09,Kern,2,0
-2020-02-09,Kings,1,0
-2020-02-09,Lake,0,0
-2020-02-09,Lassen,0,0
-2020-02-09,Los Angeles,24,0
-2020-02-09,Madera,0,0
-2020-02-09,Marin,0,0
-2020-02-09,Mariposa,0,0
-2020-02-09,Mendocino,0,0
-2020-02-09,Merced,0,0
-2020-02-09,Modoc,0,0
-2020-02-09,Mono,0,0
-2020-02-09,Monterey,0,0
-2020-02-09,Napa,0,0
-2020-02-09,Nevada,0,0
-2020-02-09,Orange,37,0
-2020-02-09,Placer,0,0
-2020-02-09,Plumas,0,0
-2020-02-09,Riverside,4,0
-2020-02-09,Sacramento,0,0
-2020-02-09,San Benito,0,0
-2020-02-09,San Bernardino,7,0
-2020-02-09,San Diego,2,0
-2020-02-09,San Francisco,1,0
-2020-02-09,San Joaquin,0,0
-2020-02-09,San Luis Obispo,0,0
-2020-02-09,San Mateo,2,0
-2020-02-09,Santa Barbara,0,0
-2020-02-09,Santa Clara,4,0
-2020-02-09,Santa Cruz,0,0
-2020-02-09,Shasta,0,0
-2020-02-09,Sierra,0,0
-2020-02-09,Siskiyou,0,0
-2020-02-09,Solano,0,0
-2020-02-09,Sonoma,0,0
-2020-02-09,Stanislaus,0,0
-2020-02-09,Sutter,0,0
-2020-02-09,Tehama,0,0
-2020-02-09,Trinity,0,0
-2020-02-09,Tulare,2,0
-2020-02-09,Tuolumne,0,0
-2020-02-09,Ventura,1,0
-2020-02-09,Yolo,1,0
-2020-02-09,Yuba,0,0
-2020-02-08,Alameda,3,0
-2020-02-08,Alpine,0,0
-2020-02-08,Amador,0,0
-2020-02-08,Butte,0,0
-2020-02-08,Calaveras,0,0
-2020-02-08,Colusa,0,0
-2020-02-08,Contra Costa,2,0
-2020-02-08,Del Norte,0,0
-2020-02-08,El Dorado,0,0
-2020-02-08,Fresno,0,0
-2020-02-08,Glenn,0,0
-2020-02-08,Humboldt,0,0
-2020-02-08,Imperial,1,0
-2020-02-08,Inyo,0,0
-2020-02-08,Kern,2,0
-2020-02-08,Kings,1,0
-2020-02-08,Lake,0,0
-2020-02-08,Lassen,0,0
-2020-02-08,Los Angeles,21,0
-2020-02-08,Madera,0,0
-2020-02-08,Marin,0,0
-2020-02-08,Mariposa,0,0
-2020-02-08,Mendocino,0,0
-2020-02-08,Merced,0,0
-2020-02-08,Modoc,0,0
-2020-02-08,Mono,0,0
-2020-02-08,Monterey,0,0
-2020-02-08,Napa,0,0
-2020-02-08,Nevada,0,0
-2020-02-08,Orange,37,0
-2020-02-08,Placer,0,0
-2020-02-08,Plumas,0,0
-2020-02-08,Riverside,4,0
-2020-02-08,Sacramento,0,0
-2020-02-08,San Benito,0,0
-2020-02-08,San Bernardino,7,0
-2020-02-08,San Diego,1,0
-2020-02-08,San Francisco,1,0
-2020-02-08,San Joaquin,0,0
-2020-02-08,San Luis Obispo,0,0
-2020-02-08,San Mateo,2,0
-2020-02-08,Santa Barbara,0,0
-2020-02-08,Santa Clara,4,0
-2020-02-08,Santa Cruz,0,0
-2020-02-08,Shasta,0,0
-2020-02-08,Sierra,0,0
-2020-02-08,Siskiyou,0,0
-2020-02-08,Solano,0,0
-2020-02-08,Sonoma,0,0
-2020-02-08,Stanislaus,0,0
-2020-02-08,Sutter,0,0
-2020-02-08,Tehama,0,0
-2020-02-08,Trinity,0,0
-2020-02-08,Tulare,2,0
-2020-02-08,Tuolumne,0,0
-2020-02-08,Ventura,1,0
-2020-02-08,Yolo,1,0
-2020-02-08,Yuba,0,0
-2020-02-07,Alameda,3,0
-2020-02-07,Alpine,0,0
-2020-02-07,Amador,0,0
-2020-02-07,Butte,0,0
-2020-02-07,Calaveras,0,0
-2020-02-07,Colusa,0,0
-2020-02-07,Contra Costa,2,0
-2020-02-07,Del Norte,0,0
-2020-02-07,El Dorado,0,0
-2020-02-07,Fresno,0,0
-2020-02-07,Glenn,0,0
-2020-02-07,Humboldt,0,0
-2020-02-07,Imperial,1,0
-2020-02-07,Inyo,0,0
-2020-02-07,Kern,2,0
-2020-02-07,Kings,1,0
-2020-02-07,Lake,0,0
-2020-02-07,Lassen,0,0
-2020-02-07,Los Angeles,20,0
-2020-02-07,Madera,0,0
-2020-02-07,Marin,0,0
-2020-02-07,Mariposa,0,0
-2020-02-07,Mendocino,0,0
-2020-02-07,Merced,0,0
-2020-02-07,Modoc,0,0
-2020-02-07,Mono,0,0
-2020-02-07,Monterey,0,0
-2020-02-07,Napa,0,0
-2020-02-07,Nevada,0,0
-2020-02-07,Orange,35,0
-2020-02-07,Placer,0,0
-2020-02-07,Plumas,0,0
-2020-02-07,Riverside,4,0
-2020-02-07,Sacramento,0,0
-2020-02-07,San Benito,0,0
-2020-02-07,San Bernardino,4,0
-2020-02-07,San Diego,1,0
-2020-02-07,San Francisco,1,0
-2020-02-07,San Joaquin,0,0
-2020-02-07,San Luis Obispo,0,0
-2020-02-07,San Mateo,1,0
-2020-02-07,Santa Barbara,0,0
-2020-02-07,Santa Clara,4,0
-2020-02-07,Santa Cruz,0,0
-2020-02-07,Shasta,0,0
-2020-02-07,Sierra,0,0
-2020-02-07,Siskiyou,0,0
-2020-02-07,Solano,0,0
-2020-02-07,Sonoma,0,0
-2020-02-07,Stanislaus,0,0
-2020-02-07,Sutter,0,0
-2020-02-07,Tehama,0,0
-2020-02-07,Trinity,0,0
-2020-02-07,Tulare,2,0
-2020-02-07,Tuolumne,0,0
-2020-02-07,Ventura,1,0
-2020-02-07,Yolo,1,0
-2020-02-07,Yuba,0,0
-2020-02-06,Alameda,3,0
-2020-02-06,Alpine,0,0
-2020-02-06,Amador,0,0
-2020-02-06,Butte,0,0
-2020-02-06,Calaveras,0,0
-2020-02-06,Colusa,0,0
-2020-02-06,Contra Costa,2,0
-2020-02-06,Del Norte,0,0
-2020-02-06,El Dorado,0,0
-2020-02-06,Fresno,0,0
-2020-02-06,Glenn,0,0
-2020-02-06,Humboldt,0,0
-2020-02-06,Imperial,1,0
-2020-02-06,Inyo,0,0
-2020-02-06,Kern,2,0
-2020-02-06,Kings,0,0
-2020-02-06,Lake,0,0
-2020-02-06,Lassen,0,0
-2020-02-06,Los Angeles,18,0
-2020-02-06,Madera,0,0
-2020-02-06,Marin,0,0
-2020-02-06,Mariposa,0,0
-2020-02-06,Mendocino,0,0
-2020-02-06,Merced,0,0
-2020-02-06,Modoc,0,0
-2020-02-06,Mono,0,0
-2020-02-06,Monterey,0,0
-2020-02-06,Napa,0,0
-2020-02-06,Nevada,0,0
-2020-02-06,Orange,5,0
-2020-02-06,Placer,0,0
-2020-02-06,Plumas,0,0
-2020-02-06,Riverside,4,0
-2020-02-06,Sacramento,0,0
-2020-02-06,San Benito,0,0
-2020-02-06,San Bernardino,4,0
-2020-02-06,San Diego,1,0
-2020-02-06,San Francisco,1,0
-2020-02-06,San Joaquin,0,0
-2020-02-06,San Luis Obispo,0,0
-2020-02-06,San Mateo,1,0
-2020-02-06,Santa Barbara,0,0
-2020-02-06,Santa Clara,4,0
-2020-02-06,Santa Cruz,0,0
-2020-02-06,Shasta,0,0
-2020-02-06,Sierra,0,0
-2020-02-06,Siskiyou,0,0
-2020-02-06,Solano,0,0
-2020-02-06,Sonoma,0,0
-2020-02-06,Stanislaus,0,0
-2020-02-06,Sutter,0,0
-2020-02-06,Tehama,0,0
-2020-02-06,Trinity,0,0
-2020-02-06,Tulare,2,0
-2020-02-06,Tuolumne,0,0
-2020-02-06,Ventura,1,0
-2020-02-06,Yolo,1,0
-2020-02-06,Yuba,0,0
-2020-02-05,Alameda,3,0
-2020-02-05,Alpine,0,0
-2020-02-05,Amador,0,0
-2020-02-05,Butte,0,0
-2020-02-05,Calaveras,0,0
-2020-02-05,Colusa,0,0
-2020-02-05,Contra Costa,2,0
-2020-02-05,Del Norte,0,0
-2020-02-05,El Dorado,0,0
-2020-02-05,Fresno,0,0
-2020-02-05,Glenn,0,0
-2020-02-05,Humboldt,0,0
-2020-02-05,Imperial,1,0
-2020-02-05,Inyo,0,0
-2020-02-05,Kern,1,0
-2020-02-05,Kings,0,0
-2020-02-05,Lake,0,0
-2020-02-05,Lassen,0,0
-2020-02-05,Los Angeles,18,0
-2020-02-05,Madera,0,0
-2020-02-05,Marin,0,0
-2020-02-05,Mariposa,0,0
-2020-02-05,Mendocino,0,0
-2020-02-05,Merced,0,0
-2020-02-05,Modoc,0,0
-2020-02-05,Mono,0,0
-2020-02-05,Monterey,0,0
-2020-02-05,Napa,0,0
-2020-02-05,Nevada,0,0
-2020-02-05,Orange,4,0
-2020-02-05,Placer,0,0
-2020-02-05,Plumas,0,0
-2020-02-05,Riverside,4,0
-2020-02-05,Sacramento,0,0
-2020-02-05,San Benito,0,0
-2020-02-05,San Bernardino,4,0
-2020-02-05,San Diego,0,0
-2020-02-05,San Francisco,1,0
-2020-02-05,San Joaquin,0,0
-2020-02-05,San Luis Obispo,0,0
-2020-02-05,San Mateo,1,0
-2020-02-05,Santa Barbara,0,0
-2020-02-05,Santa Clara,2,0
-2020-02-05,Santa Cruz,0,0
-2020-02-05,Shasta,0,0
-2020-02-05,Sierra,0,0
-2020-02-05,Siskiyou,0,0
-2020-02-05,Solano,0,0
-2020-02-05,Sonoma,0,0
-2020-02-05,Stanislaus,0,0
-2020-02-05,Sutter,0,0
-2020-02-05,Tehama,0,0
-2020-02-05,Trinity,0,0
-2020-02-05,Tulare,2,0
-2020-02-05,Tuolumne,0,0
-2020-02-05,Ventura,0,0
-2020-02-05,Yolo,1,0
-2020-02-05,Yuba,0,0
-2020-02-04,Alameda,3,0
-2020-02-04,Alpine,0,0
-2020-02-04,Amador,0,0
-2020-02-04,Butte,0,0
-2020-02-04,Calaveras,0,0
-2020-02-04,Colusa,0,0
-2020-02-04,Contra Costa,2,0
-2020-02-04,Del Norte,0,0
-2020-02-04,El Dorado,0,0
-2020-02-04,Fresno,0,0
-2020-02-04,Glenn,0,0
-2020-02-04,Humboldt,0,0
-2020-02-04,Imperial,1,0
-2020-02-04,Inyo,0,0
-2020-02-04,Kern,0,0
-2020-02-04,Kings,0,0
-2020-02-04,Lake,0,0
-2020-02-04,Lassen,0,0
-2020-02-04,Los Angeles,17,0
-2020-02-04,Madera,0,0
-2020-02-04,Marin,0,0
-2020-02-04,Mariposa,0,0
-2020-02-04,Mendocino,0,0
-2020-02-04,Merced,0,0
-2020-02-04,Modoc,0,0
-2020-02-04,Mono,0,0
-2020-02-04,Monterey,0,0
-2020-02-04,Napa,0,0
-2020-02-04,Nevada,0,0
-2020-02-04,Orange,4,0
-2020-02-04,Placer,0,0
-2020-02-04,Plumas,0,0
-2020-02-04,Riverside,4,0
-2020-02-04,Sacramento,0,0
-2020-02-04,San Benito,0,0
-2020-02-04,San Bernardino,3,0
-2020-02-04,San Diego,0,0
-2020-02-04,San Francisco,1,0
-2020-02-04,San Joaquin,0,0
-2020-02-04,San Luis Obispo,0,0
-2020-02-04,San Mateo,0,0
-2020-02-04,Santa Barbara,0,0
-2020-02-04,Santa Clara,2,0
-2020-02-04,Santa Cruz,0,0
-2020-02-04,Shasta,0,0
-2020-02-04,Sierra,0,0
-2020-02-04,Siskiyou,0,0
-2020-02-04,Solano,0,0
-2020-02-04,Sonoma,0,0
-2020-02-04,Stanislaus,0,0
-2020-02-04,Sutter,0,0
-2020-02-04,Tehama,0,0
-2020-02-04,Trinity,0,0
-2020-02-04,Tulare,2,0
-2020-02-04,Tuolumne,0,0
-2020-02-04,Ventura,0,0
-2020-02-04,Yolo,1,0
-2020-02-04,Yuba,0,0
-2020-02-03,Alameda,3,0
-2020-02-03,Alpine,0,0
-2020-02-03,Amador,0,0
-2020-02-03,Butte,0,0
-2020-02-03,Calaveras,0,0
-2020-02-03,Colusa,0,0
-2020-02-03,Contra Costa,2,0
-2020-02-03,Del Norte,0,0
-2020-02-03,El Dorado,0,0
-2020-02-03,Fresno,0,0
-2020-02-03,Glenn,0,0
-2020-02-03,Humboldt,0,0
-2020-02-03,Imperial,1,0
-2020-02-03,Inyo,0,0
-2020-02-03,Kern,0,0
-2020-02-03,Kings,0,0
-2020-02-03,Lake,0,0
-2020-02-03,Lassen,0,0
-2020-02-03,Los Angeles,17,0
-2020-02-03,Madera,0,0
-2020-02-03,Marin,0,0
-2020-02-03,Mariposa,0,0
-2020-02-03,Mendocino,0,0
-2020-02-03,Merced,0,0
-2020-02-03,Modoc,0,0
-2020-02-03,Mono,0,0
-2020-02-03,Monterey,0,0
-2020-02-03,Napa,0,0
-2020-02-03,Nevada,0,0
-2020-02-03,Orange,3,0
-2020-02-03,Placer,0,0
-2020-02-03,Plumas,0,0
-2020-02-03,Riverside,4,0
-2020-02-03,Sacramento,0,0
-2020-02-03,San Benito,0,0
-2020-02-03,San Bernardino,3,0
-2020-02-03,San Diego,0,0
-2020-02-03,San Francisco,1,0
-2020-02-03,San Joaquin,0,0
-2020-02-03,San Luis Obispo,0,0
-2020-02-03,San Mateo,0,0
-2020-02-03,Santa Barbara,0,0
-2020-02-03,Santa Clara,2,0
-2020-02-03,Santa Cruz,0,0
-2020-02-03,Shasta,0,0
-2020-02-03,Sierra,0,0
-2020-02-03,Siskiyou,0,0
-2020-02-03,Solano,0,0
-2020-02-03,Sonoma,0,0
-2020-02-03,Stanislaus,0,0
-2020-02-03,Sutter,0,0
-2020-02-03,Tehama,0,0
-2020-02-03,Trinity,0,0
-2020-02-03,Tulare,2,0
-2020-02-03,Tuolumne,0,0
-2020-02-03,Ventura,0,0
-2020-02-03,Yolo,1,0
-2020-02-03,Yuba,0,0
-2020-02-02,Alameda,3,0
-2020-02-02,Alpine,0,0
-2020-02-02,Amador,0,0
-2020-02-02,Butte,0,0
-2020-02-02,Calaveras,0,0
-2020-02-02,Colusa,0,0
-2020-02-02,Contra Costa,1,0
-2020-02-02,Del Norte,0,0
-2020-02-02,El Dorado,0,0
-2020-02-02,Fresno,0,0
-2020-02-02,Glenn,0,0
-2020-02-02,Humboldt,0,0
-2020-02-02,Imperial,1,0
-2020-02-02,Inyo,0,0
-2020-02-02,Kern,0,0
-2020-02-02,Kings,0,0
-2020-02-02,Lake,0,0
-2020-02-02,Lassen,0,0
-2020-02-02,Los Angeles,15,0
-2020-02-02,Madera,0,0
-2020-02-02,Marin,0,0
-2020-02-02,Mariposa,0,0
-2020-02-02,Mendocino,0,0
-2020-02-02,Merced,0,0
-2020-02-02,Modoc,0,0
-2020-02-02,Mono,0,0
-2020-02-02,Monterey,0,0
-2020-02-02,Napa,0,0
-2020-02-02,Nevada,0,0
-2020-02-02,Orange,3,0
-2020-02-02,Placer,0,0
-2020-02-02,Plumas,0,0
-2020-02-02,Riverside,3,0
-2020-02-02,Sacramento,0,0
-2020-02-02,San Benito,0,0
-2020-02-02,San Bernardino,2,0
-2020-02-02,San Diego,0,0
-2020-02-02,San Francisco,1,0
-2020-02-02,San Joaquin,0,0
-2020-02-02,San Luis Obispo,0,0
-2020-02-02,San Mateo,0,0
-2020-02-02,Santa Barbara,0,0
-2020-02-02,Santa Clara,2,0
-2020-02-02,Santa Cruz,0,0
-2020-02-02,Shasta,0,0
-2020-02-02,Sierra,0,0
-2020-02-02,Siskiyou,0,0
-2020-02-02,Solano,0,0
-2020-02-02,Sonoma,0,0
-2020-02-02,Stanislaus,0,0
-2020-02-02,Sutter,0,0
-2020-02-02,Tehama,0,0
-2020-02-02,Trinity,0,0
-2020-02-02,Tulare,2,0
-2020-02-02,Tuolumne,0,0
-2020-02-02,Ventura,0,0
-2020-02-02,Yolo,1,0
-2020-02-02,Yuba,0,0
-2020-02-01,Alameda,3,0
-2020-02-01,Alpine,0,0
-2020-02-01,Amador,0,0
-2020-02-01,Butte,0,0
-2020-02-01,Calaveras,0,0
-2020-02-01,Colusa,0,0
-2020-02-01,Contra Costa,0,0
-2020-02-01,Del Norte,0,0
-2020-02-01,El Dorado,0,0
-2020-02-01,Fresno,0,0
-2020-02-01,Glenn,0,0
-2020-02-01,Humboldt,0,0
-2020-02-01,Imperial,0,0
-2020-02-01,Inyo,0,0
-2020-02-01,Kern,0,0
-2020-02-01,Kings,0,0
-2020-02-01,Lake,0,0
-2020-02-01,Lassen,0,0
-2020-02-01,Los Angeles,14,0
-2020-02-01,Madera,0,0
-2020-02-01,Marin,0,0
-2020-02-01,Mariposa,0,0
-2020-02-01,Mendocino,0,0
-2020-02-01,Merced,0,0
-2020-02-01,Modoc,0,0
-2020-02-01,Mono,0,0
-2020-02-01,Monterey,0,0
-2020-02-01,Napa,0,0
-2020-02-01,Nevada,0,0
-2020-02-01,Orange,3,0
-2020-02-01,Placer,0,0
-2020-02-01,Plumas,0,0
-2020-02-01,Riverside,2,0
-2020-02-01,Sacramento,0,0
-2020-02-01,San Benito,0,0
-2020-02-01,San Bernardino,1,0
-2020-02-01,San Diego,0,0
-2020-02-01,San Francisco,1,0
-2020-02-01,San Joaquin,0,0
-2020-02-01,San Luis Obispo,0,0
-2020-02-01,San Mateo,0,0
-2020-02-01,Santa Barbara,0,0
-2020-02-01,Santa Clara,2,0
-2020-02-01,Santa Cruz,0,0
-2020-02-01,Shasta,0,0
-2020-02-01,Sierra,0,0
-2020-02-01,Siskiyou,0,0
-2020-02-01,Solano,0,0
-2020-02-01,Sonoma,0,0
-2020-02-01,Stanislaus,0,0
-2020-02-01,Sutter,0,0
-2020-02-01,Tehama,0,0
-2020-02-01,Trinity,0,0
-2020-02-01,Tulare,1,0
-2020-02-01,Tuolumne,0,0
-2020-02-01,Ventura,0,0
-2020-02-01,Yolo,0,0
-2020-02-01,Yuba,0,0
+date,county,cases,deaths,new_cases,new_deaths
+2020-02-01,Alameda,3,0,N,N
+2020-02-02,Alameda,3,0,N,N
+2020-02-03,Alameda,3,0,N,N
+2020-02-04,Alameda,3,0,N,N
+2020-02-05,Alameda,3,0,N,N
+2020-02-06,Alameda,3,0,N,N
+2020-02-07,Alameda,3,0,N,N
+2020-02-08,Alameda,3,0,0,0
+2020-02-09,Alameda,4,0,1,0
+2020-02-10,Alameda,4,0,1,0
+2020-02-11,Alameda,4,0,1,0
+2020-02-12,Alameda,4,0,1,0
+2020-02-13,Alameda,4,0,1,0
+2020-02-14,Alameda,4,0,1,0
+2020-02-15,Alameda,5,0,2,0
+2020-02-16,Alameda,5,0,1,0
+2020-02-17,Alameda,6,0,2,0
+2020-02-18,Alameda,6,0,2,0
+2020-02-19,Alameda,6,0,2,0
+2020-02-20,Alameda,7,0,3,0
+2020-02-21,Alameda,9,0,5,0
+2020-02-22,Alameda,10,0,5,0
+2020-02-23,Alameda,11,0,6,0
+2020-02-24,Alameda,13,0,7,0
+2020-02-25,Alameda,13,0,7,0
+2020-02-26,Alameda,13,0,7,0
+2020-02-27,Alameda,13,0,6,0
+2020-02-28,Alameda,14,0,5,0
+2020-02-29,Alameda,16,0,6,0
+2020-03-01,Alameda,20,0,9,0
+2020-03-02,Alameda,21,0,8,0
+2020-03-03,Alameda,24,0,11,0
+2020-03-04,Alameda,30,0,17,0
+2020-03-05,Alameda,34,0,21,0
+2020-03-06,Alameda,39,0,25,0
+2020-03-07,Alameda,41,0,25,0
+2020-03-08,Alameda,46,0,26,0
+2020-03-09,Alameda,71,0,50,0
+2020-03-10,Alameda,98,0,74,0
+2020-03-11,Alameda,118,0,88,0
+2020-03-12,Alameda,150,0,116,0
+2020-03-13,Alameda,175,0,136,0
+2020-03-14,Alameda,193,0,152,0
+2020-03-15,Alameda,212,0,166,0
+2020-03-16,Alameda,258,0,187,0
+2020-03-17,Alameda,287,0,189,0
+2020-03-18,Alameda,318,0,200,0
+2020-03-19,Alameda,346,0,196,0
+2020-03-20,Alameda,382,0,207,0
+2020-03-21,Alameda,403,0,210,0
+2020-03-22,Alameda,426,1,214,1
+2020-03-23,Alameda,465,1,207,1
+2020-03-24,Alameda,495,2,208,2
+2020-03-25,Alameda,527,3,209,3
+2020-03-26,Alameda,548,4,202,4
+2020-03-27,Alameda,588,4,206,4
+2020-03-28,Alameda,607,12,204,12
+2020-03-29,Alameda,634,6,208,5
+2020-03-30,Alameda,668,7,203,6
+2020-03-31,Alameda,708,7,213,5
+2020-02-01,Alpine,0,0,N,N
+2020-02-02,Alpine,0,0,N,N
+2020-02-03,Alpine,0,0,N,N
+2020-02-04,Alpine,0,0,N,N
+2020-02-05,Alpine,0,0,N,N
+2020-02-06,Alpine,0,0,N,N
+2020-02-07,Alpine,0,0,N,N
+2020-02-08,Alpine,0,0,0,0
+2020-02-09,Alpine,0,0,0,0
+2020-02-10,Alpine,0,0,0,0
+2020-02-11,Alpine,0,0,0,0
+2020-02-12,Alpine,0,0,0,0
+2020-02-13,Alpine,0,0,0,0
+2020-02-14,Alpine,0,0,0,0
+2020-02-15,Alpine,0,0,0,0
+2020-02-16,Alpine,0,0,0,0
+2020-02-17,Alpine,0,0,0,0
+2020-02-18,Alpine,0,0,0,0
+2020-02-19,Alpine,0,0,0,0
+2020-02-20,Alpine,0,0,0,0
+2020-02-21,Alpine,0,0,0,0
+2020-02-22,Alpine,0,0,0,0
+2020-02-23,Alpine,0,0,0,0
+2020-02-24,Alpine,0,0,0,0
+2020-02-25,Alpine,0,0,0,0
+2020-02-26,Alpine,0,0,0,0
+2020-02-27,Alpine,0,0,0,0
+2020-02-28,Alpine,0,0,0,0
+2020-02-29,Alpine,0,0,0,0
+2020-03-01,Alpine,0,0,0,0
+2020-03-02,Alpine,0,0,0,0
+2020-03-03,Alpine,0,0,0,0
+2020-03-04,Alpine,0,0,0,0
+2020-03-05,Alpine,0,0,0,0
+2020-03-06,Alpine,0,0,0,0
+2020-03-07,Alpine,0,0,0,0
+2020-03-08,Alpine,0,0,0,0
+2020-03-09,Alpine,0,0,0,0
+2020-03-10,Alpine,0,0,0,0
+2020-03-11,Alpine,0,0,0,0
+2020-03-12,Alpine,0,0,0,0
+2020-03-13,Alpine,0,0,0,0
+2020-03-14,Alpine,0,0,0,0
+2020-03-15,Alpine,0,0,0,0
+2020-03-16,Alpine,0,0,0,0
+2020-03-17,Alpine,0,0,0,0
+2020-03-18,Alpine,1,0,1,0
+2020-03-19,Alpine,1,0,1,0
+2020-03-20,Alpine,1,0,1,0
+2020-03-21,Alpine,1,0,1,0
+2020-03-22,Alpine,1,0,1,0
+2020-03-23,Alpine,1,0,1,0
+2020-03-24,Alpine,1,0,1,0
+2020-03-25,Alpine,1,0,0,0
+2020-03-26,Alpine,1,0,0,0
+2020-03-27,Alpine,1,0,0,0
+2020-03-28,Alpine,1,0,0,0
+2020-03-29,Alpine,1,0,0,0
+2020-03-30,Alpine,1,0,0,0
+2020-03-31,Alpine,1,0,0,0
+2020-02-01,Amador,0,0,N,N
+2020-02-02,Amador,0,0,N,N
+2020-02-03,Amador,0,0,N,N
+2020-02-04,Amador,0,0,N,N
+2020-02-05,Amador,0,0,N,N
+2020-02-06,Amador,0,0,N,N
+2020-02-07,Amador,0,0,N,N
+2020-02-08,Amador,0,0,0,0
+2020-02-09,Amador,0,0,0,0
+2020-02-10,Amador,0,0,0,0
+2020-02-11,Amador,0,0,0,0
+2020-02-12,Amador,0,0,0,0
+2020-02-13,Amador,0,0,0,0
+2020-02-14,Amador,0,0,0,0
+2020-02-15,Amador,0,0,0,0
+2020-02-16,Amador,0,0,0,0
+2020-02-17,Amador,0,0,0,0
+2020-02-18,Amador,0,0,0,0
+2020-02-19,Amador,0,0,0,0
+2020-02-20,Amador,0,0,0,0
+2020-02-21,Amador,0,0,0,0
+2020-02-22,Amador,0,0,0,0
+2020-02-23,Amador,0,0,0,0
+2020-02-24,Amador,0,0,0,0
+2020-02-25,Amador,0,0,0,0
+2020-02-26,Amador,0,0,0,0
+2020-02-27,Amador,0,0,0,0
+2020-02-28,Amador,0,0,0,0
+2020-02-29,Amador,0,0,0,0
+2020-03-01,Amador,0,0,0,0
+2020-03-02,Amador,0,0,0,0
+2020-03-03,Amador,0,0,0,0
+2020-03-04,Amador,0,0,0,0
+2020-03-05,Amador,0,0,0,0
+2020-03-06,Amador,0,0,0,0
+2020-03-07,Amador,0,0,0,0
+2020-03-08,Amador,0,0,0,0
+2020-03-09,Amador,0,0,0,0
+2020-03-10,Amador,1,0,1,0
+2020-03-11,Amador,1,0,1,0
+2020-03-12,Amador,1,0,1,0
+2020-03-13,Amador,1,0,1,0
+2020-03-14,Amador,1,0,1,0
+2020-03-15,Amador,1,0,1,0
+2020-03-16,Amador,1,0,1,0
+2020-03-17,Amador,1,0,0,0
+2020-03-18,Amador,1,0,0,0
+2020-03-19,Amador,1,0,0,0
+2020-03-20,Amador,1,0,0,0
+2020-03-21,Amador,2,0,1,0
+2020-03-22,Amador,2,0,1,0
+2020-03-23,Amador,2,0,1,0
+2020-03-24,Amador,2,0,1,0
+2020-03-25,Amador,4,0,3,0
+2020-03-26,Amador,4,0,3,0
+2020-03-27,Amador,4,0,3,0
+2020-03-28,Amador,5,0,3,0
+2020-03-29,Amador,5,0,3,0
+2020-03-30,Amador,5,0,3,0
+2020-03-31,Amador,5,0,3,0
+2020-02-01,Butte,0,0,N,N
+2020-02-02,Butte,0,0,N,N
+2020-02-03,Butte,0,0,N,N
+2020-02-04,Butte,0,0,N,N
+2020-02-05,Butte,0,0,N,N
+2020-02-06,Butte,0,0,N,N
+2020-02-07,Butte,0,0,N,N
+2020-02-08,Butte,0,0,0,0
+2020-02-09,Butte,0,0,0,0
+2020-02-10,Butte,0,0,0,0
+2020-02-11,Butte,0,0,0,0
+2020-02-12,Butte,0,0,0,0
+2020-02-13,Butte,0,0,0,0
+2020-02-14,Butte,0,0,0,0
+2020-02-15,Butte,0,0,0,0
+2020-02-16,Butte,0,0,0,0
+2020-02-17,Butte,0,0,0,0
+2020-02-18,Butte,0,0,0,0
+2020-02-19,Butte,0,0,0,0
+2020-02-20,Butte,0,0,0,0
+2020-02-21,Butte,0,0,0,0
+2020-02-22,Butte,0,0,0,0
+2020-02-23,Butte,0,0,0,0
+2020-02-24,Butte,0,0,0,0
+2020-02-25,Butte,0,0,0,0
+2020-02-26,Butte,0,0,0,0
+2020-02-27,Butte,0,0,0,0
+2020-02-28,Butte,0,0,0,0
+2020-02-29,Butte,0,0,0,0
+2020-03-01,Butte,0,0,0,0
+2020-03-02,Butte,0,0,0,0
+2020-03-03,Butte,0,0,0,0
+2020-03-04,Butte,0,0,0,0
+2020-03-05,Butte,0,0,0,0
+2020-03-06,Butte,0,0,0,0
+2020-03-07,Butte,0,0,0,0
+2020-03-08,Butte,0,0,0,0
+2020-03-09,Butte,0,0,0,0
+2020-03-10,Butte,0,0,0,0
+2020-03-11,Butte,0,0,0,0
+2020-03-12,Butte,0,0,0,0
+2020-03-13,Butte,0,0,0,0
+2020-03-14,Butte,2,0,2,0
+2020-03-15,Butte,3,0,3,0
+2020-03-16,Butte,3,0,3,0
+2020-03-17,Butte,4,0,4,0
+2020-03-18,Butte,4,0,4,0
+2020-03-19,Butte,5,0,5,0
+2020-03-20,Butte,7,0,7,0
+2020-03-21,Butte,7,0,5,0
+2020-03-22,Butte,8,0,5,0
+2020-03-23,Butte,11,0,8,0
+2020-03-24,Butte,11,0,7,0
+2020-03-25,Butte,12,0,8,0
+2020-03-26,Butte,12,0,7,0
+2020-03-27,Butte,12,0,5,0
+2020-03-28,Butte,14,0,7,0
+2020-03-29,Butte,14,0,6,0
+2020-03-30,Butte,14,0,3,0
+2020-03-31,Butte,16,0,5,0
+2020-02-01,Calaveras,0,0,N,N
+2020-02-02,Calaveras,0,0,N,N
+2020-02-03,Calaveras,0,0,N,N
+2020-02-04,Calaveras,0,0,N,N
+2020-02-05,Calaveras,0,0,N,N
+2020-02-06,Calaveras,0,0,N,N
+2020-02-07,Calaveras,0,0,N,N
+2020-02-08,Calaveras,0,0,0,0
+2020-02-09,Calaveras,0,0,0,0
+2020-02-10,Calaveras,0,0,0,0
+2020-02-11,Calaveras,0,0,0,0
+2020-02-12,Calaveras,0,0,0,0
+2020-02-13,Calaveras,0,0,0,0
+2020-02-14,Calaveras,0,0,0,0
+2020-02-15,Calaveras,0,0,0,0
+2020-02-16,Calaveras,0,0,0,0
+2020-02-17,Calaveras,0,0,0,0
+2020-02-18,Calaveras,0,0,0,0
+2020-02-19,Calaveras,0,0,0,0
+2020-02-20,Calaveras,0,0,0,0
+2020-02-21,Calaveras,0,0,0,0
+2020-02-22,Calaveras,0,0,0,0
+2020-02-23,Calaveras,0,0,0,0
+2020-02-24,Calaveras,0,0,0,0
+2020-02-25,Calaveras,0,0,0,0
+2020-02-26,Calaveras,0,0,0,0
+2020-02-27,Calaveras,0,0,0,0
+2020-02-28,Calaveras,0,0,0,0
+2020-02-29,Calaveras,0,0,0,0
+2020-03-01,Calaveras,0,0,0,0
+2020-03-02,Calaveras,0,0,0,0
+2020-03-03,Calaveras,0,0,0,0
+2020-03-04,Calaveras,0,0,0,0
+2020-03-05,Calaveras,2,0,2,0
+2020-03-06,Calaveras,2,0,2,0
+2020-03-07,Calaveras,2,0,2,0
+2020-03-08,Calaveras,2,0,2,0
+2020-03-09,Calaveras,2,0,2,0
+2020-03-10,Calaveras,2,0,2,0
+2020-03-11,Calaveras,2,0,2,0
+2020-03-12,Calaveras,2,0,0,0
+2020-03-13,Calaveras,2,0,0,0
+2020-03-14,Calaveras,2,0,0,0
+2020-03-15,Calaveras,2,0,0,0
+2020-03-16,Calaveras,4,0,2,0
+2020-03-17,Calaveras,4,0,2,0
+2020-03-18,Calaveras,4,0,2,0
+2020-03-19,Calaveras,4,0,2,0
+2020-03-20,Calaveras,4,0,2,0
+2020-03-21,Calaveras,4,0,2,0
+2020-03-22,Calaveras,4,0,2,0
+2020-03-23,Calaveras,5,0,1,0
+2020-03-24,Calaveras,5,0,1,0
+2020-03-25,Calaveras,6,0,2,0
+2020-03-26,Calaveras,6,0,2,0
+2020-03-27,Calaveras,6,0,2,0
+2020-03-28,Calaveras,6,0,2,0
+2020-03-29,Calaveras,6,0,2,0
+2020-03-30,Calaveras,6,0,1,0
+2020-03-31,Calaveras,6,0,1,0
+2020-02-01,Colusa,0,0,N,N
+2020-02-02,Colusa,0,0,N,N
+2020-02-03,Colusa,0,0,N,N
+2020-02-04,Colusa,0,0,N,N
+2020-02-05,Colusa,0,0,N,N
+2020-02-06,Colusa,0,0,N,N
+2020-02-07,Colusa,0,0,N,N
+2020-02-08,Colusa,0,0,0,0
+2020-02-09,Colusa,0,0,0,0
+2020-02-10,Colusa,0,0,0,0
+2020-02-11,Colusa,0,0,0,0
+2020-02-12,Colusa,0,0,0,0
+2020-02-13,Colusa,0,0,0,0
+2020-02-14,Colusa,0,0,0,0
+2020-02-15,Colusa,0,0,0,0
+2020-02-16,Colusa,0,0,0,0
+2020-02-17,Colusa,0,0,0,0
+2020-02-18,Colusa,0,0,0,0
+2020-02-19,Colusa,0,0,0,0
+2020-02-20,Colusa,0,0,0,0
+2020-02-21,Colusa,0,0,0,0
+2020-02-22,Colusa,0,0,0,0
+2020-02-23,Colusa,0,0,0,0
+2020-02-24,Colusa,0,0,0,0
+2020-02-25,Colusa,0,0,0,0
+2020-02-26,Colusa,0,0,0,0
+2020-02-27,Colusa,0,0,0,0
+2020-02-28,Colusa,0,0,0,0
+2020-02-29,Colusa,0,0,0,0
+2020-03-01,Colusa,0,0,0,0
+2020-03-02,Colusa,0,0,0,0
+2020-03-03,Colusa,0,0,0,0
+2020-03-04,Colusa,0,0,0,0
+2020-03-05,Colusa,0,0,0,0
+2020-03-06,Colusa,0,0,0,0
+2020-03-07,Colusa,0,0,0,0
+2020-03-08,Colusa,0,0,0,0
+2020-03-09,Colusa,0,0,0,0
+2020-03-10,Colusa,0,0,0,0
+2020-03-11,Colusa,0,0,0,0
+2020-03-12,Colusa,0,0,0,0
+2020-03-13,Colusa,0,0,0,0
+2020-03-14,Colusa,0,0,0,0
+2020-03-15,Colusa,0,0,0,0
+2020-03-16,Colusa,0,0,0,0
+2020-03-17,Colusa,0,0,0,0
+2020-03-18,Colusa,0,0,0,0
+2020-03-19,Colusa,0,0,0,0
+2020-03-20,Colusa,1,0,1,0
+2020-03-21,Colusa,1,0,1,0
+2020-03-22,Colusa,1,0,1,0
+2020-03-23,Colusa,1,0,1,0
+2020-03-24,Colusa,2,0,2,0
+2020-03-25,Colusa,2,0,2,0
+2020-03-26,Colusa,3,0,3,0
+2020-03-27,Colusa,3,0,2,0
+2020-03-28,Colusa,3,0,2,0
+2020-03-29,Colusa,3,0,2,0
+2020-03-30,Colusa,3,0,2,0
+2020-03-31,Colusa,3,0,1,0
+2020-02-01,Contra Costa,0,0,N,N
+2020-02-02,Contra Costa,1,0,N,N
+2020-02-03,Contra Costa,2,0,N,N
+2020-02-04,Contra Costa,2,0,N,N
+2020-02-05,Contra Costa,2,0,N,N
+2020-02-06,Contra Costa,2,0,N,N
+2020-02-07,Contra Costa,2,0,N,N
+2020-02-08,Contra Costa,2,0,2,0
+2020-02-09,Contra Costa,3,0,2,0
+2020-02-10,Contra Costa,3,0,1,0
+2020-02-11,Contra Costa,3,0,1,0
+2020-02-12,Contra Costa,3,0,1,0
+2020-02-13,Contra Costa,3,0,1,0
+2020-02-14,Contra Costa,3,0,1,0
+2020-02-15,Contra Costa,3,0,1,0
+2020-02-16,Contra Costa,3,0,0,0
+2020-02-17,Contra Costa,3,0,0,0
+2020-02-18,Contra Costa,3,0,0,0
+2020-02-19,Contra Costa,3,0,0,0
+2020-02-20,Contra Costa,3,0,0,0
+2020-02-21,Contra Costa,4,0,1,0
+2020-02-22,Contra Costa,5,0,2,0
+2020-02-23,Contra Costa,6,0,3,0
+2020-02-24,Contra Costa,9,0,6,0
+2020-02-25,Contra Costa,11,0,8,0
+2020-02-26,Contra Costa,13,0,10,0
+2020-02-27,Contra Costa,14,0,11,0
+2020-02-28,Contra Costa,20,0,16,0
+2020-02-29,Contra Costa,20,0,15,0
+2020-03-01,Contra Costa,24,0,18,0
+2020-03-02,Contra Costa,27,0,18,0
+2020-03-03,Contra Costa,30,0,19,0
+2020-03-04,Contra Costa,34,0,21,0
+2020-03-05,Contra Costa,39,0,25,0
+2020-03-06,Contra Costa,46,0,26,0
+2020-03-07,Contra Costa,55,0,35,0
+2020-03-08,Contra Costa,58,0,34,0
+2020-03-09,Contra Costa,72,0,45,0
+2020-03-10,Contra Costa,84,0,54,0
+2020-03-11,Contra Costa,93,0,59,0
+2020-03-12,Contra Costa,108,0,69,0
+2020-03-13,Contra Costa,125,0,79,0
+2020-03-14,Contra Costa,139,0,84,0
+2020-03-15,Contra Costa,161,0,103,0
+2020-03-16,Contra Costa,186,0,114,0
+2020-03-17,Contra Costa,210,0,126,0
+2020-03-18,Contra Costa,232,0,139,0
+2020-03-19,Contra Costa,253,0,145,0
+2020-03-20,Contra Costa,269,1,144,1
+2020-03-21,Contra Costa,298,1,159,1
+2020-03-22,Contra Costa,309,1,148,1
+2020-03-23,Contra Costa,336,2,150,2
+2020-03-24,Contra Costa,356,1,146,1
+2020-03-25,Contra Costa,370,1,138,1
+2020-03-26,Contra Costa,384,2,131,2
+2020-03-27,Contra Costa,394,2,125,1
+2020-03-28,Contra Costa,415,4,117,3
+2020-03-29,Contra Costa,438,3,129,2
+2020-03-30,Contra Costa,468,3,132,1
+2020-03-31,Contra Costa,494,3,138,2
+2020-02-01,Del Norte,0,0,N,N
+2020-02-02,Del Norte,0,0,N,N
+2020-02-03,Del Norte,0,0,N,N
+2020-02-04,Del Norte,0,0,N,N
+2020-02-05,Del Norte,0,0,N,N
+2020-02-06,Del Norte,0,0,N,N
+2020-02-07,Del Norte,0,0,N,N
+2020-02-08,Del Norte,0,0,0,0
+2020-02-09,Del Norte,0,0,0,0
+2020-02-10,Del Norte,0,0,0,0
+2020-02-11,Del Norte,0,0,0,0
+2020-02-12,Del Norte,0,0,0,0
+2020-02-13,Del Norte,0,0,0,0
+2020-02-14,Del Norte,0,0,0,0
+2020-02-15,Del Norte,0,0,0,0
+2020-02-16,Del Norte,0,0,0,0
+2020-02-17,Del Norte,0,0,0,0
+2020-02-18,Del Norte,0,0,0,0
+2020-02-19,Del Norte,0,0,0,0
+2020-02-20,Del Norte,0,0,0,0
+2020-02-21,Del Norte,0,0,0,0
+2020-02-22,Del Norte,0,0,0,0
+2020-02-23,Del Norte,0,0,0,0
+2020-02-24,Del Norte,0,0,0,0
+2020-02-25,Del Norte,0,0,0,0
+2020-02-26,Del Norte,0,0,0,0
+2020-02-27,Del Norte,0,0,0,0
+2020-02-28,Del Norte,0,0,0,0
+2020-02-29,Del Norte,0,0,0,0
+2020-03-01,Del Norte,0,0,0,0
+2020-03-02,Del Norte,0,0,0,0
+2020-03-03,Del Norte,0,0,0,0
+2020-03-04,Del Norte,0,0,0,0
+2020-03-05,Del Norte,0,0,0,0
+2020-03-06,Del Norte,0,0,0,0
+2020-03-07,Del Norte,0,0,0,0
+2020-03-08,Del Norte,0,0,0,0
+2020-03-09,Del Norte,0,0,0,0
+2020-03-10,Del Norte,0,0,0,0
+2020-03-11,Del Norte,0,0,0,0
+2020-03-12,Del Norte,0,0,0,0
+2020-03-13,Del Norte,0,0,0,0
+2020-03-14,Del Norte,0,0,0,0
+2020-03-15,Del Norte,0,0,0,0
+2020-03-16,Del Norte,0,0,0,0
+2020-03-17,Del Norte,0,0,0,0
+2020-03-18,Del Norte,0,0,0,0
+2020-03-19,Del Norte,0,0,0,0
+2020-03-20,Del Norte,0,0,0,0
+2020-03-21,Del Norte,0,0,0,0
+2020-03-22,Del Norte,0,0,0,0
+2020-03-23,Del Norte,0,0,0,0
+2020-03-24,Del Norte,0,0,0,0
+2020-03-25,Del Norte,0,0,0,0
+2020-03-26,Del Norte,0,0,0,0
+2020-03-27,Del Norte,0,0,0,0
+2020-03-28,Del Norte,0,0,0,0
+2020-03-29,Del Norte,0,0,0,0
+2020-03-30,Del Norte,0,0,0,0
+2020-03-31,Del Norte,1,0,1,0
+2020-02-01,El Dorado,0,0,N,N
+2020-02-02,El Dorado,0,0,N,N
+2020-02-03,El Dorado,0,0,N,N
+2020-02-04,El Dorado,0,0,N,N
+2020-02-05,El Dorado,0,0,N,N
+2020-02-06,El Dorado,0,0,N,N
+2020-02-07,El Dorado,0,0,N,N
+2020-02-08,El Dorado,0,0,0,0
+2020-02-09,El Dorado,0,0,0,0
+2020-02-10,El Dorado,0,0,0,0
+2020-02-11,El Dorado,0,0,0,0
+2020-02-12,El Dorado,0,0,0,0
+2020-02-13,El Dorado,0,0,0,0
+2020-02-14,El Dorado,0,0,0,0
+2020-02-15,El Dorado,0,0,0,0
+2020-02-16,El Dorado,0,0,0,0
+2020-02-17,El Dorado,0,0,0,0
+2020-02-18,El Dorado,0,0,0,0
+2020-02-19,El Dorado,0,0,0,0
+2020-02-20,El Dorado,0,0,0,0
+2020-02-21,El Dorado,0,0,0,0
+2020-02-22,El Dorado,0,0,0,0
+2020-02-23,El Dorado,0,0,0,0
+2020-02-24,El Dorado,0,0,0,0
+2020-02-25,El Dorado,0,0,0,0
+2020-02-26,El Dorado,0,0,0,0
+2020-02-27,El Dorado,0,0,0,0
+2020-02-28,El Dorado,0,0,0,0
+2020-02-29,El Dorado,1,0,1,0
+2020-03-01,El Dorado,1,0,1,0
+2020-03-02,El Dorado,1,0,1,0
+2020-03-03,El Dorado,1,0,1,0
+2020-03-04,El Dorado,1,0,1,0
+2020-03-05,El Dorado,1,0,1,0
+2020-03-06,El Dorado,3,0,3,0
+2020-03-07,El Dorado,4,0,3,0
+2020-03-08,El Dorado,5,0,4,0
+2020-03-09,El Dorado,5,0,4,0
+2020-03-10,El Dorado,7,0,6,0
+2020-03-11,El Dorado,8,0,7,0
+2020-03-12,El Dorado,9,0,8,0
+2020-03-13,El Dorado,11,0,8,0
+2020-03-14,El Dorado,12,0,8,0
+2020-03-15,El Dorado,14,0,9,0
+2020-03-16,El Dorado,15,0,10,0
+2020-03-17,El Dorado,16,0,9,0
+2020-03-18,El Dorado,17,0,9,0
+2020-03-19,El Dorado,18,0,9,0
+2020-03-20,El Dorado,19,0,8,0
+2020-03-21,El Dorado,20,0,8,0
+2020-03-22,El Dorado,23,0,9,0
+2020-03-23,El Dorado,25,0,10,0
+2020-03-24,El Dorado,26,0,10,0
+2020-03-25,El Dorado,26,0,9,0
+2020-03-26,El Dorado,26,0,8,0
+2020-03-27,El Dorado,27,0,8,0
+2020-03-28,El Dorado,29,0,9,0
+2020-03-29,El Dorado,30,0,7,0
+2020-03-30,El Dorado,31,0,6,0
+2020-03-31,El Dorado,31,0,5,0
+2020-02-01,Fresno,0,0,N,N
+2020-02-02,Fresno,0,0,N,N
+2020-02-03,Fresno,0,0,N,N
+2020-02-04,Fresno,0,0,N,N
+2020-02-05,Fresno,0,0,N,N
+2020-02-06,Fresno,0,0,N,N
+2020-02-07,Fresno,0,0,N,N
+2020-02-08,Fresno,0,0,0,0
+2020-02-09,Fresno,0,0,0,0
+2020-02-10,Fresno,0,0,0,0
+2020-02-11,Fresno,0,0,0,0
+2020-02-12,Fresno,0,0,0,0
+2020-02-13,Fresno,0,0,0,0
+2020-02-14,Fresno,0,0,0,0
+2020-02-15,Fresno,0,0,0,0
+2020-02-16,Fresno,0,0,0,0
+2020-02-17,Fresno,0,0,0,0
+2020-02-18,Fresno,0,0,0,0
+2020-02-19,Fresno,0,0,0,0
+2020-02-20,Fresno,0,0,0,0
+2020-02-21,Fresno,0,0,0,0
+2020-02-22,Fresno,0,0,0,0
+2020-02-23,Fresno,0,0,0,0
+2020-02-24,Fresno,0,0,0,0
+2020-02-25,Fresno,0,0,0,0
+2020-02-26,Fresno,0,0,0,0
+2020-02-27,Fresno,0,0,0,0
+2020-02-28,Fresno,0,0,0,0
+2020-02-29,Fresno,0,0,0,0
+2020-03-01,Fresno,0,0,0,0
+2020-03-02,Fresno,1,0,1,0
+2020-03-03,Fresno,1,0,1,0
+2020-03-04,Fresno,2,0,2,0
+2020-03-05,Fresno,2,0,2,0
+2020-03-06,Fresno,2,0,2,0
+2020-03-07,Fresno,3,0,3,0
+2020-03-08,Fresno,4,0,4,0
+2020-03-09,Fresno,6,0,5,0
+2020-03-10,Fresno,6,0,5,0
+2020-03-11,Fresno,8,0,6,0
+2020-03-12,Fresno,11,0,9,0
+2020-03-13,Fresno,20,0,18,0
+2020-03-14,Fresno,25,0,22,0
+2020-03-15,Fresno,33,0,29,0
+2020-03-16,Fresno,53,0,47,0
+2020-03-17,Fresno,68,0,62,0
+2020-03-18,Fresno,78,0,70,0
+2020-03-19,Fresno,87,0,76,0
+2020-03-20,Fresno,95,0,75,0
+2020-03-21,Fresno,98,0,73,0
+2020-03-22,Fresno,102,0,69,0
+2020-03-23,Fresno,121,0,68,0
+2020-03-24,Fresno,131,0,63,0
+2020-03-25,Fresno,150,0,72,0
+2020-03-26,Fresno,166,0,79,0
+2020-03-27,Fresno,175,0,80,0
+2020-03-28,Fresno,187,0,89,0
+2020-03-29,Fresno,197,0,95,0
+2020-03-30,Fresno,221,0,100,0
+2020-03-31,Fresno,245,0,114,0
+2020-02-01,Glenn,0,0,N,N
+2020-02-02,Glenn,0,0,N,N
+2020-02-03,Glenn,0,0,N,N
+2020-02-04,Glenn,0,0,N,N
+2020-02-05,Glenn,0,0,N,N
+2020-02-06,Glenn,0,0,N,N
+2020-02-07,Glenn,0,0,N,N
+2020-02-08,Glenn,0,0,0,0
+2020-02-09,Glenn,0,0,0,0
+2020-02-10,Glenn,0,0,0,0
+2020-02-11,Glenn,0,0,0,0
+2020-02-12,Glenn,0,0,0,0
+2020-02-13,Glenn,0,0,0,0
+2020-02-14,Glenn,0,0,0,0
+2020-02-15,Glenn,0,0,0,0
+2020-02-16,Glenn,0,0,0,0
+2020-02-17,Glenn,0,0,0,0
+2020-02-18,Glenn,0,0,0,0
+2020-02-19,Glenn,0,0,0,0
+2020-02-20,Glenn,0,0,0,0
+2020-02-21,Glenn,0,0,0,0
+2020-02-22,Glenn,0,0,0,0
+2020-02-23,Glenn,0,0,0,0
+2020-02-24,Glenn,0,0,0,0
+2020-02-25,Glenn,0,0,0,0
+2020-02-26,Glenn,0,0,0,0
+2020-02-27,Glenn,0,0,0,0
+2020-02-28,Glenn,0,0,0,0
+2020-02-29,Glenn,0,0,0,0
+2020-03-01,Glenn,0,0,0,0
+2020-03-02,Glenn,0,0,0,0
+2020-03-03,Glenn,0,0,0,0
+2020-03-04,Glenn,0,0,0,0
+2020-03-05,Glenn,0,0,0,0
+2020-03-06,Glenn,0,0,0,0
+2020-03-07,Glenn,0,0,0,0
+2020-03-08,Glenn,0,0,0,0
+2020-03-09,Glenn,0,0,0,0
+2020-03-10,Glenn,0,0,0,0
+2020-03-11,Glenn,0,0,0,0
+2020-03-12,Glenn,0,0,0,0
+2020-03-13,Glenn,0,0,0,0
+2020-03-14,Glenn,0,0,0,0
+2020-03-15,Glenn,0,0,0,0
+2020-03-16,Glenn,0,0,0,0
+2020-03-17,Glenn,1,0,1,0
+2020-03-18,Glenn,1,0,1,0
+2020-03-19,Glenn,1,0,1,0
+2020-03-20,Glenn,1,0,1,0
+2020-03-21,Glenn,2,0,2,0
+2020-03-22,Glenn,2,0,2,0
+2020-03-23,Glenn,2,0,2,0
+2020-03-24,Glenn,2,0,1,0
+2020-03-25,Glenn,2,0,1,0
+2020-03-26,Glenn,2,0,1,0
+2020-03-27,Glenn,2,0,1,0
+2020-03-28,Glenn,2,0,0,0
+2020-03-29,Glenn,2,0,0,0
+2020-03-30,Glenn,3,0,1,0
+2020-03-31,Glenn,3,0,1,0
+2020-02-01,Humboldt,0,0,N,N
+2020-02-02,Humboldt,0,0,N,N
+2020-02-03,Humboldt,0,0,N,N
+2020-02-04,Humboldt,0,0,N,N
+2020-02-05,Humboldt,0,0,N,N
+2020-02-06,Humboldt,0,0,N,N
+2020-02-07,Humboldt,0,0,N,N
+2020-02-08,Humboldt,0,0,0,0
+2020-02-09,Humboldt,0,0,0,0
+2020-02-10,Humboldt,0,0,0,0
+2020-02-11,Humboldt,1,0,1,0
+2020-02-12,Humboldt,1,0,1,0
+2020-02-13,Humboldt,1,0,1,0
+2020-02-14,Humboldt,1,0,1,0
+2020-02-15,Humboldt,1,0,1,0
+2020-02-16,Humboldt,1,0,1,0
+2020-02-17,Humboldt,1,0,1,0
+2020-02-18,Humboldt,1,0,0,0
+2020-02-19,Humboldt,1,0,0,0
+2020-02-20,Humboldt,1,0,0,0
+2020-02-21,Humboldt,1,0,0,0
+2020-02-22,Humboldt,1,0,0,0
+2020-02-23,Humboldt,1,0,0,0
+2020-02-24,Humboldt,1,0,0,0
+2020-02-25,Humboldt,1,0,0,0
+2020-02-26,Humboldt,1,0,0,0
+2020-02-27,Humboldt,1,0,0,0
+2020-02-28,Humboldt,1,0,0,0
+2020-02-29,Humboldt,1,0,0,0
+2020-03-01,Humboldt,1,0,0,0
+2020-03-02,Humboldt,1,0,0,0
+2020-03-03,Humboldt,1,0,0,0
+2020-03-04,Humboldt,1,0,0,0
+2020-03-05,Humboldt,4,0,3,0
+2020-03-06,Humboldt,4,0,3,0
+2020-03-07,Humboldt,5,0,4,0
+2020-03-08,Humboldt,5,0,4,0
+2020-03-09,Humboldt,5,0,4,0
+2020-03-10,Humboldt,6,0,5,0
+2020-03-11,Humboldt,6,0,5,0
+2020-03-12,Humboldt,6,0,2,0
+2020-03-13,Humboldt,7,0,3,0
+2020-03-14,Humboldt,7,0,2,0
+2020-03-15,Humboldt,11,0,6,0
+2020-03-16,Humboldt,13,0,8,0
+2020-03-17,Humboldt,17,0,11,0
+2020-03-18,Humboldt,19,0,13,0
+2020-03-19,Humboldt,23,0,17,0
+2020-03-20,Humboldt,25,0,18,0
+2020-03-21,Humboldt,25,0,18,0
+2020-03-22,Humboldt,28,0,17,0
+2020-03-23,Humboldt,31,0,18,0
+2020-03-24,Humboldt,33,0,16,0
+2020-03-25,Humboldt,35,0,16,0
+2020-03-26,Humboldt,38,0,15,0
+2020-03-27,Humboldt,42,0,17,0
+2020-03-28,Humboldt,46,0,21,0
+2020-03-29,Humboldt,46,0,18,0
+2020-03-30,Humboldt,49,0,18,0
+2020-03-31,Humboldt,51,0,18,0
+2020-02-01,Imperial,0,0,N,N
+2020-02-02,Imperial,1,0,N,N
+2020-02-03,Imperial,1,0,N,N
+2020-02-04,Imperial,1,0,N,N
+2020-02-05,Imperial,1,0,N,N
+2020-02-06,Imperial,1,0,N,N
+2020-02-07,Imperial,1,0,N,N
+2020-02-08,Imperial,1,0,1,0
+2020-02-09,Imperial,1,0,0,0
+2020-02-10,Imperial,1,0,0,0
+2020-02-11,Imperial,1,0,0,0
+2020-02-12,Imperial,1,0,0,0
+2020-02-13,Imperial,1,0,0,0
+2020-02-14,Imperial,1,0,0,0
+2020-02-15,Imperial,1,0,0,0
+2020-02-16,Imperial,1,0,0,0
+2020-02-17,Imperial,1,0,0,0
+2020-02-18,Imperial,1,0,0,0
+2020-02-19,Imperial,2,0,1,0
+2020-02-20,Imperial,2,0,1,0
+2020-02-21,Imperial,2,0,1,0
+2020-02-22,Imperial,2,0,1,0
+2020-02-23,Imperial,3,0,2,0
+2020-02-24,Imperial,3,0,2,0
+2020-02-25,Imperial,3,0,2,0
+2020-02-26,Imperial,3,0,1,0
+2020-02-27,Imperial,3,0,1,0
+2020-02-28,Imperial,3,0,1,0
+2020-02-29,Imperial,3,0,1,0
+2020-03-01,Imperial,5,0,2,0
+2020-03-02,Imperial,5,0,2,0
+2020-03-03,Imperial,5,0,2,0
+2020-03-04,Imperial,5,0,2,0
+2020-03-05,Imperial,5,0,2,0
+2020-03-06,Imperial,7,0,4,0
+2020-03-07,Imperial,8,0,5,0
+2020-03-08,Imperial,9,0,4,0
+2020-03-09,Imperial,9,0,4,0
+2020-03-10,Imperial,9,0,4,0
+2020-03-11,Imperial,10,0,5,0
+2020-03-12,Imperial,12,0,7,0
+2020-03-13,Imperial,13,0,6,0
+2020-03-14,Imperial,14,0,6,0
+2020-03-15,Imperial,18,0,9,0
+2020-03-16,Imperial,23,0,14,0
+2020-03-17,Imperial,28,0,19,0
+2020-03-18,Imperial,34,0,24,0
+2020-03-19,Imperial,41,0,29,0
+2020-03-20,Imperial,48,0,35,0
+2020-03-21,Imperial,49,0,35,0
+2020-03-22,Imperial,53,0,35,0
+2020-03-23,Imperial,55,0,32,0
+2020-03-24,Imperial,59,0,31,0
+2020-03-25,Imperial,62,0,28,0
+2020-03-26,Imperial,70,0,29,0
+2020-03-27,Imperial,74,0,26,0
+2020-03-28,Imperial,79,0,30,0
+2020-03-29,Imperial,84,0,31,0
+2020-03-30,Imperial,90,0,35,0
+2020-03-31,Imperial,94,0,35,0
+2020-02-01,Inyo,0,0,N,N
+2020-02-02,Inyo,0,0,N,N
+2020-02-03,Inyo,0,0,N,N
+2020-02-04,Inyo,0,0,N,N
+2020-02-05,Inyo,0,0,N,N
+2020-02-06,Inyo,0,0,N,N
+2020-02-07,Inyo,0,0,N,N
+2020-02-08,Inyo,0,0,0,0
+2020-02-09,Inyo,0,0,0,0
+2020-02-10,Inyo,0,0,0,0
+2020-02-11,Inyo,0,0,0,0
+2020-02-12,Inyo,0,0,0,0
+2020-02-13,Inyo,0,0,0,0
+2020-02-14,Inyo,0,0,0,0
+2020-02-15,Inyo,0,0,0,0
+2020-02-16,Inyo,0,0,0,0
+2020-02-17,Inyo,0,0,0,0
+2020-02-18,Inyo,0,0,0,0
+2020-02-19,Inyo,0,0,0,0
+2020-02-20,Inyo,0,0,0,0
+2020-02-21,Inyo,0,0,0,0
+2020-02-22,Inyo,0,0,0,0
+2020-02-23,Inyo,0,0,0,0
+2020-02-24,Inyo,0,0,0,0
+2020-02-25,Inyo,0,0,0,0
+2020-02-26,Inyo,0,0,0,0
+2020-02-27,Inyo,0,0,0,0
+2020-02-28,Inyo,0,0,0,0
+2020-02-29,Inyo,0,0,0,0
+2020-03-01,Inyo,0,0,0,0
+2020-03-02,Inyo,0,0,0,0
+2020-03-03,Inyo,0,0,0,0
+2020-03-04,Inyo,0,0,0,0
+2020-03-05,Inyo,0,0,0,0
+2020-03-06,Inyo,0,0,0,0
+2020-03-07,Inyo,0,0,0,0
+2020-03-08,Inyo,0,0,0,0
+2020-03-09,Inyo,0,0,0,0
+2020-03-10,Inyo,0,0,0,0
+2020-03-11,Inyo,0,0,0,0
+2020-03-12,Inyo,0,0,0,0
+2020-03-13,Inyo,0,0,0,0
+2020-03-14,Inyo,0,0,0,0
+2020-03-15,Inyo,0,0,0,0
+2020-03-16,Inyo,0,0,0,0
+2020-03-17,Inyo,0,0,0,0
+2020-03-18,Inyo,0,0,0,0
+2020-03-19,Inyo,0,0,0,0
+2020-03-20,Inyo,0,0,0,0
+2020-03-21,Inyo,1,0,1,0
+2020-03-22,Inyo,1,0,1,0
+2020-03-23,Inyo,3,0,3,0
+2020-03-24,Inyo,5,0,5,0
+2020-03-25,Inyo,5,0,5,0
+2020-03-26,Inyo,8,0,8,0
+2020-03-27,Inyo,9,0,9,0
+2020-03-28,Inyo,9,0,8,0
+2020-03-29,Inyo,9,0,8,0
+2020-03-30,Inyo,10,0,7,0
+2020-03-31,Inyo,10,0,5,0
+2020-02-01,Kern,0,0,N,N
+2020-02-02,Kern,0,0,N,N
+2020-02-03,Kern,0,0,N,N
+2020-02-04,Kern,0,0,N,N
+2020-02-05,Kern,1,0,N,N
+2020-02-06,Kern,2,0,N,N
+2020-02-07,Kern,2,0,N,N
+2020-02-08,Kern,2,0,2,0
+2020-02-09,Kern,2,0,2,0
+2020-02-10,Kern,2,0,2,0
+2020-02-11,Kern,2,0,2,0
+2020-02-12,Kern,2,0,1,0
+2020-02-13,Kern,2,0,0,0
+2020-02-14,Kern,2,0,0,0
+2020-02-15,Kern,2,0,0,0
+2020-02-16,Kern,2,0,0,0
+2020-02-17,Kern,2,0,0,0
+2020-02-18,Kern,2,0,0,0
+2020-02-19,Kern,2,0,0,0
+2020-02-20,Kern,2,0,0,0
+2020-02-21,Kern,2,0,0,0
+2020-02-22,Kern,2,0,0,0
+2020-02-23,Kern,2,0,0,0
+2020-02-24,Kern,2,0,0,0
+2020-02-25,Kern,2,0,0,0
+2020-02-26,Kern,2,0,0,0
+2020-02-27,Kern,2,0,0,0
+2020-02-28,Kern,2,0,0,0
+2020-02-29,Kern,2,0,0,0
+2020-03-01,Kern,2,0,0,0
+2020-03-02,Kern,4,0,2,0
+2020-03-03,Kern,4,0,2,0
+2020-03-04,Kern,6,0,4,0
+2020-03-05,Kern,6,0,4,0
+2020-03-06,Kern,6,0,4,0
+2020-03-07,Kern,7,0,5,0
+2020-03-08,Kern,8,0,6,0
+2020-03-09,Kern,8,0,4,0
+2020-03-10,Kern,11,0,7,0
+2020-03-11,Kern,16,0,10,0
+2020-03-12,Kern,18,0,12,0
+2020-03-13,Kern,27,0,21,0
+2020-03-14,Kern,32,0,25,0
+2020-03-15,Kern,37,0,29,0
+2020-03-16,Kern,43,0,35,0
+2020-03-17,Kern,51,0,40,0
+2020-03-18,Kern,65,0,49,0
+2020-03-19,Kern,80,0,62,0
+2020-03-20,Kern,92,0,65,0
+2020-03-21,Kern,107,0,75,0
+2020-03-22,Kern,113,0,76,0
+2020-03-23,Kern,129,0,86,0
+2020-03-24,Kern,143,0,92,0
+2020-03-25,Kern,161,0,96,0
+2020-03-26,Kern,181,0,101,0
+2020-03-27,Kern,197,0,105,0
+2020-03-28,Kern,210,0,103,0
+2020-03-29,Kern,227,0,114,0
+2020-03-30,Kern,245,0,116,0
+2020-03-31,Kern,278,0,135,0
+2020-02-01,Kings,0,0,N,N
+2020-02-02,Kings,0,0,N,N
+2020-02-03,Kings,0,0,N,N
+2020-02-04,Kings,0,0,N,N
+2020-02-05,Kings,0,0,N,N
+2020-02-06,Kings,0,0,N,N
+2020-02-07,Kings,1,0,N,N
+2020-02-08,Kings,1,0,1,0
+2020-02-09,Kings,1,0,1,0
+2020-02-10,Kings,1,0,1,0
+2020-02-11,Kings,1,0,1,0
+2020-02-12,Kings,1,0,1,0
+2020-02-13,Kings,1,0,1,0
+2020-02-14,Kings,1,0,0,0
+2020-02-15,Kings,1,0,0,0
+2020-02-16,Kings,1,0,0,0
+2020-02-17,Kings,1,0,0,0
+2020-02-18,Kings,1,0,0,0
+2020-02-19,Kings,1,0,0,0
+2020-02-20,Kings,1,0,0,0
+2020-02-21,Kings,1,0,0,0
+2020-02-22,Kings,1,0,0,0
+2020-02-23,Kings,1,0,0,0
+2020-02-24,Kings,1,0,0,0
+2020-02-25,Kings,1,0,0,0
+2020-02-26,Kings,1,0,0,0
+2020-02-27,Kings,1,0,0,0
+2020-02-28,Kings,1,0,0,0
+2020-02-29,Kings,1,0,0,0
+2020-03-01,Kings,1,0,0,0
+2020-03-02,Kings,1,0,0,0
+2020-03-03,Kings,1,0,0,0
+2020-03-04,Kings,1,0,0,0
+2020-03-05,Kings,1,0,0,0
+2020-03-06,Kings,1,0,0,0
+2020-03-07,Kings,1,0,0,0
+2020-03-08,Kings,1,0,0,0
+2020-03-09,Kings,2,0,1,0
+2020-03-10,Kings,3,0,2,0
+2020-03-11,Kings,3,0,2,0
+2020-03-12,Kings,4,0,3,0
+2020-03-13,Kings,5,0,4,0
+2020-03-14,Kings,6,0,5,0
+2020-03-15,Kings,6,0,5,0
+2020-03-16,Kings,6,0,4,0
+2020-03-17,Kings,7,0,4,0
+2020-03-18,Kings,8,0,5,0
+2020-03-19,Kings,10,0,6,0
+2020-03-20,Kings,13,0,8,0
+2020-03-21,Kings,13,0,7,0
+2020-03-22,Kings,13,0,7,0
+2020-03-23,Kings,15,0,9,0
+2020-03-24,Kings,15,0,8,0
+2020-03-25,Kings,16,0,8,0
+2020-03-26,Kings,17,0,7,0
+2020-03-27,Kings,17,0,4,0
+2020-03-28,Kings,18,0,5,0
+2020-03-29,Kings,19,0,6,0
+2020-03-30,Kings,22,0,7,0
+2020-03-31,Kings,22,0,7,0
+2020-02-01,Lake,0,0,N,N
+2020-02-02,Lake,0,0,N,N
+2020-02-03,Lake,0,0,N,N
+2020-02-04,Lake,0,0,N,N
+2020-02-05,Lake,0,0,N,N
+2020-02-06,Lake,0,0,N,N
+2020-02-07,Lake,0,0,N,N
+2020-02-08,Lake,0,0,0,0
+2020-02-09,Lake,0,0,0,0
+2020-02-10,Lake,0,0,0,0
+2020-02-11,Lake,0,0,0,0
+2020-02-12,Lake,0,0,0,0
+2020-02-13,Lake,0,0,0,0
+2020-02-14,Lake,0,0,0,0
+2020-02-15,Lake,0,0,0,0
+2020-02-16,Lake,0,0,0,0
+2020-02-17,Lake,0,0,0,0
+2020-02-18,Lake,0,0,0,0
+2020-02-19,Lake,0,0,0,0
+2020-02-20,Lake,0,0,0,0
+2020-02-21,Lake,0,0,0,0
+2020-02-22,Lake,0,0,0,0
+2020-02-23,Lake,0,0,0,0
+2020-02-24,Lake,0,0,0,0
+2020-02-25,Lake,0,0,0,0
+2020-02-26,Lake,0,0,0,0
+2020-02-27,Lake,0,0,0,0
+2020-02-28,Lake,0,0,0,0
+2020-02-29,Lake,0,0,0,0
+2020-03-01,Lake,0,0,0,0
+2020-03-02,Lake,0,0,0,0
+2020-03-03,Lake,0,0,0,0
+2020-03-04,Lake,0,0,0,0
+2020-03-05,Lake,0,0,0,0
+2020-03-06,Lake,0,0,0,0
+2020-03-07,Lake,0,0,0,0
+2020-03-08,Lake,0,0,0,0
+2020-03-09,Lake,0,0,0,0
+2020-03-10,Lake,0,0,0,0
+2020-03-11,Lake,0,0,0,0
+2020-03-12,Lake,0,0,0,0
+2020-03-13,Lake,0,0,0,0
+2020-03-14,Lake,0,0,0,0
+2020-03-15,Lake,0,0,0,0
+2020-03-16,Lake,0,0,0,0
+2020-03-17,Lake,0,0,0,0
+2020-03-18,Lake,0,0,0,0
+2020-03-19,Lake,0,0,0,0
+2020-03-20,Lake,0,0,0,0
+2020-03-21,Lake,0,0,0,0
+2020-03-22,Lake,0,0,0,0
+2020-03-23,Lake,0,0,0,0
+2020-03-24,Lake,0,0,0,0
+2020-03-25,Lake,0,0,0,0
+2020-03-26,Lake,0,0,0,0
+2020-03-27,Lake,0,0,0,0
+2020-03-28,Lake,0,0,0,0
+2020-03-29,Lake,0,0,0,0
+2020-03-30,Lake,1,0,1,0
+2020-03-31,Lake,1,0,1,0
+2020-02-01,Lassen,0,0,N,N
+2020-02-02,Lassen,0,0,N,N
+2020-02-03,Lassen,0,0,N,N
+2020-02-04,Lassen,0,0,N,N
+2020-02-05,Lassen,0,0,N,N
+2020-02-06,Lassen,0,0,N,N
+2020-02-07,Lassen,0,0,N,N
+2020-02-08,Lassen,0,0,0,0
+2020-02-09,Lassen,0,0,0,0
+2020-02-10,Lassen,0,0,0,0
+2020-02-11,Lassen,0,0,0,0
+2020-02-12,Lassen,0,0,0,0
+2020-02-13,Lassen,0,0,0,0
+2020-02-14,Lassen,0,0,0,0
+2020-02-15,Lassen,0,0,0,0
+2020-02-16,Lassen,0,0,0,0
+2020-02-17,Lassen,0,0,0,0
+2020-02-18,Lassen,0,0,0,0
+2020-02-19,Lassen,0,0,0,0
+2020-02-20,Lassen,0,0,0,0
+2020-02-21,Lassen,0,0,0,0
+2020-02-22,Lassen,0,0,0,0
+2020-02-23,Lassen,0,0,0,0
+2020-02-24,Lassen,0,0,0,0
+2020-02-25,Lassen,0,0,0,0
+2020-02-26,Lassen,0,0,0,0
+2020-02-27,Lassen,0,0,0,0
+2020-02-28,Lassen,0,0,0,0
+2020-02-29,Lassen,0,0,0,0
+2020-03-01,Lassen,0,0,0,0
+2020-03-02,Lassen,0,0,0,0
+2020-03-03,Lassen,0,0,0,0
+2020-03-04,Lassen,0,0,0,0
+2020-03-05,Lassen,0,0,0,0
+2020-03-06,Lassen,0,0,0,0
+2020-03-07,Lassen,0,0,0,0
+2020-03-08,Lassen,0,0,0,0
+2020-03-09,Lassen,0,0,0,0
+2020-03-10,Lassen,0,0,0,0
+2020-03-11,Lassen,0,0,0,0
+2020-03-12,Lassen,0,0,0,0
+2020-03-13,Lassen,0,0,0,0
+2020-03-14,Lassen,0,0,0,0
+2020-03-15,Lassen,0,0,0,0
+2020-03-16,Lassen,0,0,0,0
+2020-03-17,Lassen,0,0,0,0
+2020-03-18,Lassen,0,0,0,0
+2020-03-19,Lassen,0,0,0,0
+2020-03-20,Lassen,1,0,1,0
+2020-03-21,Lassen,1,0,1,0
+2020-03-22,Lassen,1,0,1,0
+2020-03-23,Lassen,1,0,1,0
+2020-03-24,Lassen,1,0,1,0
+2020-03-25,Lassen,1,0,1,0
+2020-03-26,Lassen,1,0,1,0
+2020-03-27,Lassen,1,0,0,0
+2020-03-28,Lassen,1,0,0,0
+2020-03-29,Lassen,1,0,0,0
+2020-03-30,Lassen,1,0,0,0
+2020-03-31,Lassen,1,0,0,0
+2020-02-01,Los Angeles,14,0,N,N
+2020-02-02,Los Angeles,15,0,N,N
+2020-02-03,Los Angeles,17,0,N,N
+2020-02-04,Los Angeles,17,0,N,N
+2020-02-05,Los Angeles,18,0,N,N
+2020-02-06,Los Angeles,18,0,N,N
+2020-02-07,Los Angeles,20,0,N,N
+2020-02-08,Los Angeles,21,0,7,0
+2020-02-09,Los Angeles,24,0,9,0
+2020-02-10,Los Angeles,26,0,9,0
+2020-02-11,Los Angeles,28,0,11,0
+2020-02-12,Los Angeles,29,0,11,0
+2020-02-13,Los Angeles,31,0,13,0
+2020-02-14,Los Angeles,36,0,16,0
+2020-02-15,Los Angeles,41,0,20,0
+2020-02-16,Los Angeles,44,0,20,0
+2020-02-17,Los Angeles,51,0,25,0
+2020-02-18,Los Angeles,54,0,26,0
+2020-02-19,Los Angeles,57,0,28,0
+2020-02-20,Los Angeles,63,0,32,0
+2020-02-21,Los Angeles,65,0,29,0
+2020-02-22,Los Angeles,67,0,26,0
+2020-02-23,Los Angeles,69,0,25,0
+2020-02-24,Los Angeles,78,0,27,0
+2020-02-25,Los Angeles,84,0,30,0
+2020-02-26,Los Angeles,99,0,42,0
+2020-02-27,Los Angeles,105,0,42,0
+2020-02-28,Los Angeles,118,0,53,0
+2020-02-29,Los Angeles,127,0,60,0
+2020-03-01,Los Angeles,155,0,86,0
+2020-03-02,Los Angeles,174,0,96,0
+2020-03-03,Los Angeles,189,0,105,0
+2020-03-04,Los Angeles,208,0,109,0
+2020-03-05,Los Angeles,243,0,138,0
+2020-03-06,Los Angeles,290,0,172,0
+2020-03-07,Los Angeles,333,0,206,0
+2020-03-08,Los Angeles,383,0,228,0
+2020-03-09,Los Angeles,475,0,301,0
+2020-03-10,Los Angeles,576,0,387,0
+2020-03-11,Los Angeles,712,0,504,0
+2020-03-12,Los Angeles,880,0,637,0
+2020-03-13,Los Angeles,1040,0,750,0
+2020-03-14,Los Angeles,1193,0,860,0
+2020-03-15,Los Angeles,1371,0,988,0
+2020-03-16,Los Angeles,1609,0,1134,0
+2020-03-17,Los Angeles,1842,0,1266,0
+2020-03-18,Los Angeles,2043,0,1331,0
+2020-03-19,Los Angeles,2282,0,1402,0
+2020-03-20,Los Angeles,2569,1,1529,1
+2020-03-21,Los Angeles,2794,2,1601,2
+2020-03-22,Los Angeles,3066,3,1695,3
+2020-03-23,Los Angeles,3389,4,1780,4
+2020-03-24,Los Angeles,3693,7,1851,7
+2020-03-25,Los Angeles,4143,10,2100,10
+2020-03-26,Los Angeles,4540,19,2258,19
+2020-03-27,Los Angeles,4941,26,2372,25
+2020-03-28,Los Angeles,5354,64,2560,62
+2020-03-29,Los Angeles,5739,37,2673,34
+2020-03-30,Los Angeles,6383,44,2994,40
+2020-03-31,Los Angeles,7036,53,3343,46
+2020-02-01,Madera,0,0,N,N
+2020-02-02,Madera,0,0,N,N
+2020-02-03,Madera,0,0,N,N
+2020-02-04,Madera,0,0,N,N
+2020-02-05,Madera,0,0,N,N
+2020-02-06,Madera,0,0,N,N
+2020-02-07,Madera,0,0,N,N
+2020-02-08,Madera,0,0,0,0
+2020-02-09,Madera,0,0,0,0
+2020-02-10,Madera,0,0,0,0
+2020-02-11,Madera,0,0,0,0
+2020-02-12,Madera,0,0,0,0
+2020-02-13,Madera,0,0,0,0
+2020-02-14,Madera,0,0,0,0
+2020-02-15,Madera,0,0,0,0
+2020-02-16,Madera,0,0,0,0
+2020-02-17,Madera,0,0,0,0
+2020-02-18,Madera,0,0,0,0
+2020-02-19,Madera,0,0,0,0
+2020-02-20,Madera,0,0,0,0
+2020-02-21,Madera,0,0,0,0
+2020-02-22,Madera,0,0,0,0
+2020-02-23,Madera,1,0,1,0
+2020-02-24,Madera,1,0,1,0
+2020-02-25,Madera,2,0,2,0
+2020-02-26,Madera,2,0,2,0
+2020-02-27,Madera,2,0,2,0
+2020-02-28,Madera,2,0,2,0
+2020-02-29,Madera,2,0,2,0
+2020-03-01,Madera,2,0,1,0
+2020-03-02,Madera,4,0,3,0
+2020-03-03,Madera,4,0,2,0
+2020-03-04,Madera,5,0,3,0
+2020-03-05,Madera,5,0,3,0
+2020-03-06,Madera,5,0,3,0
+2020-03-07,Madera,6,0,4,0
+2020-03-08,Madera,7,0,5,0
+2020-03-09,Madera,7,0,3,0
+2020-03-10,Madera,7,0,3,0
+2020-03-11,Madera,13,0,8,0
+2020-03-12,Madera,15,0,10,0
+2020-03-13,Madera,18,0,13,0
+2020-03-14,Madera,19,0,13,0
+2020-03-15,Madera,19,0,12,0
+2020-03-16,Madera,20,0,13,0
+2020-03-17,Madera,21,0,14,0
+2020-03-18,Madera,28,0,15,0
+2020-03-19,Madera,29,0,14,0
+2020-03-20,Madera,30,0,12,0
+2020-03-21,Madera,31,0,12,0
+2020-03-22,Madera,31,0,12,0
+2020-03-23,Madera,33,0,13,0
+2020-03-24,Madera,33,0,12,0
+2020-03-25,Madera,34,0,6,0
+2020-03-26,Madera,36,0,7,0
+2020-03-27,Madera,38,1,8,1
+2020-03-28,Madera,40,2,9,2
+2020-03-29,Madera,40,1,9,1
+2020-03-30,Madera,45,1,12,1
+2020-03-31,Madera,46,1,13,1
+2020-02-01,Marin,0,0,N,N
+2020-02-02,Marin,0,0,N,N
+2020-02-03,Marin,0,0,N,N
+2020-02-04,Marin,0,0,N,N
+2020-02-05,Marin,0,0,N,N
+2020-02-06,Marin,0,0,N,N
+2020-02-07,Marin,0,0,N,N
+2020-02-08,Marin,0,0,0,0
+2020-02-09,Marin,0,0,0,0
+2020-02-10,Marin,0,0,0,0
+2020-02-11,Marin,0,0,0,0
+2020-02-12,Marin,0,0,0,0
+2020-02-13,Marin,0,0,0,0
+2020-02-14,Marin,0,0,0,0
+2020-02-15,Marin,0,0,0,0
+2020-02-16,Marin,0,0,0,0
+2020-02-17,Marin,0,0,0,0
+2020-02-18,Marin,0,0,0,0
+2020-02-19,Marin,0,0,0,0
+2020-02-20,Marin,0,0,0,0
+2020-02-21,Marin,1,0,1,0
+2020-02-22,Marin,1,0,1,0
+2020-02-23,Marin,1,0,1,0
+2020-02-24,Marin,1,0,1,0
+2020-02-25,Marin,1,0,1,0
+2020-02-26,Marin,1,0,1,0
+2020-02-27,Marin,1,0,1,0
+2020-02-28,Marin,2,0,1,0
+2020-02-29,Marin,4,0,3,0
+2020-03-01,Marin,5,0,4,0
+2020-03-02,Marin,6,0,5,0
+2020-03-03,Marin,6,0,5,0
+2020-03-04,Marin,10,0,9,0
+2020-03-05,Marin,10,0,9,0
+2020-03-06,Marin,10,0,8,0
+2020-03-07,Marin,11,0,7,0
+2020-03-08,Marin,13,0,8,0
+2020-03-09,Marin,15,0,9,0
+2020-03-10,Marin,16,0,10,0
+2020-03-11,Marin,17,0,7,0
+2020-03-12,Marin,24,0,14,0
+2020-03-13,Marin,34,0,24,0
+2020-03-14,Marin,37,0,26,0
+2020-03-15,Marin,41,0,28,0
+2020-03-16,Marin,48,0,33,0
+2020-03-17,Marin,51,0,35,0
+2020-03-18,Marin,58,0,41,0
+2020-03-19,Marin,62,0,38,0
+2020-03-20,Marin,65,0,31,0
+2020-03-21,Marin,68,0,31,0
+2020-03-22,Marin,73,0,32,0
+2020-03-23,Marin,83,0,35,0
+2020-03-24,Marin,88,0,37,0
+2020-03-25,Marin,99,0,41,0
+2020-03-26,Marin,105,0,43,0
+2020-03-27,Marin,114,0,49,0
+2020-03-28,Marin,119,0,51,0
+2020-03-29,Marin,124,0,51,0
+2020-03-30,Marin,129,0,46,0
+2020-03-31,Marin,136,1,48,1
+2020-02-01,Mariposa,0,0,N,N
+2020-02-02,Mariposa,0,0,N,N
+2020-02-03,Mariposa,0,0,N,N
+2020-02-04,Mariposa,0,0,N,N
+2020-02-05,Mariposa,0,0,N,N
+2020-02-06,Mariposa,0,0,N,N
+2020-02-07,Mariposa,0,0,N,N
+2020-02-08,Mariposa,0,0,0,0
+2020-02-09,Mariposa,0,0,0,0
+2020-02-10,Mariposa,0,0,0,0
+2020-02-11,Mariposa,0,0,0,0
+2020-02-12,Mariposa,0,0,0,0
+2020-02-13,Mariposa,0,0,0,0
+2020-02-14,Mariposa,0,0,0,0
+2020-02-15,Mariposa,0,0,0,0
+2020-02-16,Mariposa,0,0,0,0
+2020-02-17,Mariposa,0,0,0,0
+2020-02-18,Mariposa,0,0,0,0
+2020-02-19,Mariposa,0,0,0,0
+2020-02-20,Mariposa,0,0,0,0
+2020-02-21,Mariposa,0,0,0,0
+2020-02-22,Mariposa,0,0,0,0
+2020-02-23,Mariposa,0,0,0,0
+2020-02-24,Mariposa,0,0,0,0
+2020-02-25,Mariposa,0,0,0,0
+2020-02-26,Mariposa,0,0,0,0
+2020-02-27,Mariposa,0,0,0,0
+2020-02-28,Mariposa,0,0,0,0
+2020-02-29,Mariposa,0,0,0,0
+2020-03-01,Mariposa,0,0,0,0
+2020-03-02,Mariposa,0,0,0,0
+2020-03-03,Mariposa,0,0,0,0
+2020-03-04,Mariposa,0,0,0,0
+2020-03-05,Mariposa,0,0,0,0
+2020-03-06,Mariposa,0,0,0,0
+2020-03-07,Mariposa,0,0,0,0
+2020-03-08,Mariposa,0,0,0,0
+2020-03-09,Mariposa,0,0,0,0
+2020-03-10,Mariposa,0,0,0,0
+2020-03-11,Mariposa,0,0,0,0
+2020-03-12,Mariposa,0,0,0,0
+2020-03-13,Mariposa,0,0,0,0
+2020-03-14,Mariposa,0,0,0,0
+2020-03-15,Mariposa,0,0,0,0
+2020-03-16,Mariposa,0,0,0,0
+2020-03-17,Mariposa,0,0,0,0
+2020-03-18,Mariposa,0,0,0,0
+2020-03-19,Mariposa,0,0,0,0
+2020-03-20,Mariposa,0,0,0,0
+2020-03-21,Mariposa,0,0,0,0
+2020-03-22,Mariposa,0,0,0,0
+2020-03-23,Mariposa,0,0,0,0
+2020-03-24,Mariposa,0,0,0,0
+2020-03-25,Mariposa,0,0,0,0
+2020-03-26,Mariposa,0,0,0,0
+2020-03-27,Mariposa,0,0,0,0
+2020-03-28,Mariposa,0,0,0,0
+2020-03-29,Mariposa,0,0,0,0
+2020-03-30,Mariposa,0,0,0,0
+2020-03-31,Mariposa,0,0,0,0
+2020-02-01,Mendocino,0,0,N,N
+2020-02-02,Mendocino,0,0,N,N
+2020-02-03,Mendocino,0,0,N,N
+2020-02-04,Mendocino,0,0,N,N
+2020-02-05,Mendocino,0,0,N,N
+2020-02-06,Mendocino,0,0,N,N
+2020-02-07,Mendocino,0,0,N,N
+2020-02-08,Mendocino,0,0,0,0
+2020-02-09,Mendocino,0,0,0,0
+2020-02-10,Mendocino,0,0,0,0
+2020-02-11,Mendocino,0,0,0,0
+2020-02-12,Mendocino,0,0,0,0
+2020-02-13,Mendocino,0,0,0,0
+2020-02-14,Mendocino,0,0,0,0
+2020-02-15,Mendocino,0,0,0,0
+2020-02-16,Mendocino,0,0,0,0
+2020-02-17,Mendocino,0,0,0,0
+2020-02-18,Mendocino,0,0,0,0
+2020-02-19,Mendocino,0,0,0,0
+2020-02-20,Mendocino,0,0,0,0
+2020-02-21,Mendocino,0,0,0,0
+2020-02-22,Mendocino,0,0,0,0
+2020-02-23,Mendocino,0,0,0,0
+2020-02-24,Mendocino,0,0,0,0
+2020-02-25,Mendocino,0,0,0,0
+2020-02-26,Mendocino,0,0,0,0
+2020-02-27,Mendocino,0,0,0,0
+2020-02-28,Mendocino,0,0,0,0
+2020-02-29,Mendocino,0,0,0,0
+2020-03-01,Mendocino,0,0,0,0
+2020-03-02,Mendocino,0,0,0,0
+2020-03-03,Mendocino,0,0,0,0
+2020-03-04,Mendocino,0,0,0,0
+2020-03-05,Mendocino,0,0,0,0
+2020-03-06,Mendocino,0,0,0,0
+2020-03-07,Mendocino,0,0,0,0
+2020-03-08,Mendocino,0,0,0,0
+2020-03-09,Mendocino,0,0,0,0
+2020-03-10,Mendocino,0,0,0,0
+2020-03-11,Mendocino,1,0,1,0
+2020-03-12,Mendocino,2,0,2,0
+2020-03-13,Mendocino,2,0,2,0
+2020-03-14,Mendocino,2,0,2,0
+2020-03-15,Mendocino,2,0,2,0
+2020-03-16,Mendocino,2,0,2,0
+2020-03-17,Mendocino,2,0,2,0
+2020-03-18,Mendocino,2,0,1,0
+2020-03-19,Mendocino,2,0,0,0
+2020-03-20,Mendocino,3,0,1,0
+2020-03-21,Mendocino,3,0,1,0
+2020-03-22,Mendocino,3,0,1,0
+2020-03-23,Mendocino,3,0,1,0
+2020-03-24,Mendocino,3,0,1,0
+2020-03-25,Mendocino,3,0,1,0
+2020-03-26,Mendocino,4,0,2,0
+2020-03-27,Mendocino,5,0,2,0
+2020-03-28,Mendocino,5,0,2,0
+2020-03-29,Mendocino,5,0,2,0
+2020-03-30,Mendocino,5,0,2,0
+2020-03-31,Mendocino,6,0,3,0
+2020-02-01,Merced,0,0,N,N
+2020-02-02,Merced,0,0,N,N
+2020-02-03,Merced,0,0,N,N
+2020-02-04,Merced,0,0,N,N
+2020-02-05,Merced,0,0,N,N
+2020-02-06,Merced,0,0,N,N
+2020-02-07,Merced,0,0,N,N
+2020-02-08,Merced,0,0,0,0
+2020-02-09,Merced,0,0,0,0
+2020-02-10,Merced,0,0,0,0
+2020-02-11,Merced,0,0,0,0
+2020-02-12,Merced,0,0,0,0
+2020-02-13,Merced,0,0,0,0
+2020-02-14,Merced,0,0,0,0
+2020-02-15,Merced,0,0,0,0
+2020-02-16,Merced,0,0,0,0
+2020-02-17,Merced,0,0,0,0
+2020-02-18,Merced,0,0,0,0
+2020-02-19,Merced,0,0,0,0
+2020-02-20,Merced,0,0,0,0
+2020-02-21,Merced,0,0,0,0
+2020-02-22,Merced,0,0,0,0
+2020-02-23,Merced,0,0,0,0
+2020-02-24,Merced,0,0,0,0
+2020-02-25,Merced,0,0,0,0
+2020-02-26,Merced,1,0,1,0
+2020-02-27,Merced,1,0,1,0
+2020-02-28,Merced,1,0,1,0
+2020-02-29,Merced,1,0,1,0
+2020-03-01,Merced,1,0,1,0
+2020-03-02,Merced,1,0,1,0
+2020-03-03,Merced,2,0,2,0
+2020-03-04,Merced,2,0,1,0
+2020-03-05,Merced,2,0,1,0
+2020-03-06,Merced,2,0,1,0
+2020-03-07,Merced,2,0,1,0
+2020-03-08,Merced,2,0,1,0
+2020-03-09,Merced,2,0,1,0
+2020-03-10,Merced,2,0,0,0
+2020-03-11,Merced,2,0,0,0
+2020-03-12,Merced,2,0,0,0
+2020-03-13,Merced,2,0,0,0
+2020-03-14,Merced,3,0,1,0
+2020-03-15,Merced,3,0,1,0
+2020-03-16,Merced,5,0,3,0
+2020-03-17,Merced,5,0,3,0
+2020-03-18,Merced,5,0,3,0
+2020-03-19,Merced,5,0,3,0
+2020-03-20,Merced,6,0,4,0
+2020-03-21,Merced,6,0,3,0
+2020-03-22,Merced,7,0,4,0
+2020-03-23,Merced,11,0,6,0
+2020-03-24,Merced,17,0,12,0
+2020-03-25,Merced,19,0,14,0
+2020-03-26,Merced,23,0,18,0
+2020-03-27,Merced,26,0,20,0
+2020-03-28,Merced,27,0,21,0
+2020-03-29,Merced,28,0,21,0
+2020-03-30,Merced,29,0,18,0
+2020-03-31,Merced,33,0,16,0
+2020-02-01,Modoc,0,0,N,N
+2020-02-02,Modoc,0,0,N,N
+2020-02-03,Modoc,0,0,N,N
+2020-02-04,Modoc,0,0,N,N
+2020-02-05,Modoc,0,0,N,N
+2020-02-06,Modoc,0,0,N,N
+2020-02-07,Modoc,0,0,N,N
+2020-02-08,Modoc,0,0,0,0
+2020-02-09,Modoc,0,0,0,0
+2020-02-10,Modoc,0,0,0,0
+2020-02-11,Modoc,0,0,0,0
+2020-02-12,Modoc,0,0,0,0
+2020-02-13,Modoc,0,0,0,0
+2020-02-14,Modoc,0,0,0,0
+2020-02-15,Modoc,0,0,0,0
+2020-02-16,Modoc,0,0,0,0
+2020-02-17,Modoc,0,0,0,0
+2020-02-18,Modoc,0,0,0,0
+2020-02-19,Modoc,0,0,0,0
+2020-02-20,Modoc,0,0,0,0
+2020-02-21,Modoc,0,0,0,0
+2020-02-22,Modoc,0,0,0,0
+2020-02-23,Modoc,0,0,0,0
+2020-02-24,Modoc,0,0,0,0
+2020-02-25,Modoc,0,0,0,0
+2020-02-26,Modoc,0,0,0,0
+2020-02-27,Modoc,0,0,0,0
+2020-02-28,Modoc,0,0,0,0
+2020-02-29,Modoc,0,0,0,0
+2020-03-01,Modoc,0,0,0,0
+2020-03-02,Modoc,0,0,0,0
+2020-03-03,Modoc,0,0,0,0
+2020-03-04,Modoc,0,0,0,0
+2020-03-05,Modoc,0,0,0,0
+2020-03-06,Modoc,0,0,0,0
+2020-03-07,Modoc,0,0,0,0
+2020-03-08,Modoc,0,0,0,0
+2020-03-09,Modoc,0,0,0,0
+2020-03-10,Modoc,0,0,0,0
+2020-03-11,Modoc,0,0,0,0
+2020-03-12,Modoc,0,0,0,0
+2020-03-13,Modoc,0,0,0,0
+2020-03-14,Modoc,0,0,0,0
+2020-03-15,Modoc,0,0,0,0
+2020-03-16,Modoc,0,0,0,0
+2020-03-17,Modoc,0,0,0,0
+2020-03-18,Modoc,0,0,0,0
+2020-03-19,Modoc,0,0,0,0
+2020-03-20,Modoc,0,0,0,0
+2020-03-21,Modoc,0,0,0,0
+2020-03-22,Modoc,0,0,0,0
+2020-03-23,Modoc,0,0,0,0
+2020-03-24,Modoc,0,0,0,0
+2020-03-25,Modoc,0,0,0,0
+2020-03-26,Modoc,0,0,0,0
+2020-03-27,Modoc,0,0,0,0
+2020-03-28,Modoc,0,0,0,0
+2020-03-29,Modoc,0,0,0,0
+2020-03-30,Modoc,0,0,0,0
+2020-03-31,Modoc,0,0,0,0
+2020-02-01,Mono,0,0,N,N
+2020-02-02,Mono,0,0,N,N
+2020-02-03,Mono,0,0,N,N
+2020-02-04,Mono,0,0,N,N
+2020-02-05,Mono,0,0,N,N
+2020-02-06,Mono,0,0,N,N
+2020-02-07,Mono,0,0,N,N
+2020-02-08,Mono,0,0,0,0
+2020-02-09,Mono,0,0,0,0
+2020-02-10,Mono,0,0,0,0
+2020-02-11,Mono,0,0,0,0
+2020-02-12,Mono,0,0,0,0
+2020-02-13,Mono,0,0,0,0
+2020-02-14,Mono,0,0,0,0
+2020-02-15,Mono,0,0,0,0
+2020-02-16,Mono,0,0,0,0
+2020-02-17,Mono,0,0,0,0
+2020-02-18,Mono,0,0,0,0
+2020-02-19,Mono,0,0,0,0
+2020-02-20,Mono,0,0,0,0
+2020-02-21,Mono,0,0,0,0
+2020-02-22,Mono,0,0,0,0
+2020-02-23,Mono,0,0,0,0
+2020-02-24,Mono,0,0,0,0
+2020-02-25,Mono,0,0,0,0
+2020-02-26,Mono,0,0,0,0
+2020-02-27,Mono,0,0,0,0
+2020-02-28,Mono,0,0,0,0
+2020-02-29,Mono,1,0,1,0
+2020-03-01,Mono,1,0,1,0
+2020-03-02,Mono,1,0,1,0
+2020-03-03,Mono,1,0,1,0
+2020-03-04,Mono,1,0,1,0
+2020-03-05,Mono,1,0,1,0
+2020-03-06,Mono,1,0,1,0
+2020-03-07,Mono,3,0,2,0
+2020-03-08,Mono,3,0,2,0
+2020-03-09,Mono,3,0,2,0
+2020-03-10,Mono,3,0,2,0
+2020-03-11,Mono,3,0,2,0
+2020-03-12,Mono,3,0,2,0
+2020-03-13,Mono,3,0,2,0
+2020-03-14,Mono,5,0,2,0
+2020-03-15,Mono,6,0,3,0
+2020-03-16,Mono,7,0,4,0
+2020-03-17,Mono,9,0,6,0
+2020-03-18,Mono,11,0,8,0
+2020-03-19,Mono,12,0,9,0
+2020-03-20,Mono,14,0,11,0
+2020-03-21,Mono,14,0,9,0
+2020-03-22,Mono,14,0,8,0
+2020-03-23,Mono,19,0,12,0
+2020-03-24,Mono,21,0,12,0
+2020-03-25,Mono,22,0,11,0
+2020-03-26,Mono,23,0,11,0
+2020-03-27,Mono,24,0,10,0
+2020-03-28,Mono,24,0,10,0
+2020-03-29,Mono,26,0,12,0
+2020-03-30,Mono,26,0,7,0
+2020-03-31,Mono,26,0,5,0
+2020-02-01,Monterey,0,0,N,N
+2020-02-02,Monterey,0,0,N,N
+2020-02-03,Monterey,0,0,N,N
+2020-02-04,Monterey,0,0,N,N
+2020-02-05,Monterey,0,0,N,N
+2020-02-06,Monterey,0,0,N,N
+2020-02-07,Monterey,0,0,N,N
+2020-02-08,Monterey,0,0,0,0
+2020-02-09,Monterey,0,0,0,0
+2020-02-10,Monterey,0,0,0,0
+2020-02-11,Monterey,0,0,0,0
+2020-02-12,Monterey,0,0,0,0
+2020-02-13,Monterey,0,0,0,0
+2020-02-14,Monterey,0,0,0,0
+2020-02-15,Monterey,0,0,0,0
+2020-02-16,Monterey,0,0,0,0
+2020-02-17,Monterey,0,0,0,0
+2020-02-18,Monterey,0,0,0,0
+2020-02-19,Monterey,0,0,0,0
+2020-02-20,Monterey,0,0,0,0
+2020-02-21,Monterey,0,0,0,0
+2020-02-22,Monterey,0,0,0,0
+2020-02-23,Monterey,0,0,0,0
+2020-02-24,Monterey,0,0,0,0
+2020-02-25,Monterey,0,0,0,0
+2020-02-26,Monterey,0,0,0,0
+2020-02-27,Monterey,0,0,0,0
+2020-02-28,Monterey,0,0,0,0
+2020-02-29,Monterey,0,0,0,0
+2020-03-01,Monterey,0,0,0,0
+2020-03-02,Monterey,0,0,0,0
+2020-03-03,Monterey,0,0,0,0
+2020-03-04,Monterey,1,0,1,0
+2020-03-05,Monterey,1,0,1,0
+2020-03-06,Monterey,1,0,1,0
+2020-03-07,Monterey,1,0,1,0
+2020-03-08,Monterey,1,0,1,0
+2020-03-09,Monterey,1,0,1,0
+2020-03-10,Monterey,3,0,3,0
+2020-03-11,Monterey,5,0,4,0
+2020-03-12,Monterey,6,0,5,0
+2020-03-13,Monterey,8,0,7,0
+2020-03-14,Monterey,13,0,12,0
+2020-03-15,Monterey,19,0,18,0
+2020-03-16,Monterey,25,0,24,0
+2020-03-17,Monterey,26,0,23,0
+2020-03-18,Monterey,28,0,23,0
+2020-03-19,Monterey,34,0,28,0
+2020-03-20,Monterey,42,0,34,0
+2020-03-21,Monterey,43,1,30,1
+2020-03-22,Monterey,45,1,26,1
+2020-03-23,Monterey,47,1,22,1
+2020-03-24,Monterey,52,1,26,1
+2020-03-25,Monterey,56,1,28,1
+2020-03-26,Monterey,59,1,25,1
+2020-03-27,Monterey,62,1,20,1
+2020-03-28,Monterey,65,2,22,1
+2020-03-29,Monterey,66,1,21,0
+2020-03-30,Monterey,71,1,24,0
+2020-03-31,Monterey,76,2,24,1
+2020-02-01,Napa,0,0,N,N
+2020-02-02,Napa,0,0,N,N
+2020-02-03,Napa,0,0,N,N
+2020-02-04,Napa,0,0,N,N
+2020-02-05,Napa,0,0,N,N
+2020-02-06,Napa,0,0,N,N
+2020-02-07,Napa,0,0,N,N
+2020-02-08,Napa,0,0,0,0
+2020-02-09,Napa,0,0,0,0
+2020-02-10,Napa,0,0,0,0
+2020-02-11,Napa,0,0,0,0
+2020-02-12,Napa,0,0,0,0
+2020-02-13,Napa,0,0,0,0
+2020-02-14,Napa,0,0,0,0
+2020-02-15,Napa,0,0,0,0
+2020-02-16,Napa,0,0,0,0
+2020-02-17,Napa,0,0,0,0
+2020-02-18,Napa,0,0,0,0
+2020-02-19,Napa,0,0,0,0
+2020-02-20,Napa,0,0,0,0
+2020-02-21,Napa,0,0,0,0
+2020-02-22,Napa,0,0,0,0
+2020-02-23,Napa,0,0,0,0
+2020-02-24,Napa,0,0,0,0
+2020-02-25,Napa,0,0,0,0
+2020-02-26,Napa,0,0,0,0
+2020-02-27,Napa,1,0,1,0
+2020-02-28,Napa,1,0,1,0
+2020-02-29,Napa,1,0,1,0
+2020-03-01,Napa,1,0,1,0
+2020-03-02,Napa,1,0,1,0
+2020-03-03,Napa,1,0,1,0
+2020-03-04,Napa,1,0,1,0
+2020-03-05,Napa,1,0,0,0
+2020-03-06,Napa,1,0,0,0
+2020-03-07,Napa,1,0,0,0
+2020-03-08,Napa,2,0,1,0
+2020-03-09,Napa,2,0,1,0
+2020-03-10,Napa,2,0,1,0
+2020-03-11,Napa,2,0,1,0
+2020-03-12,Napa,3,0,2,0
+2020-03-13,Napa,3,0,2,0
+2020-03-14,Napa,5,0,4,0
+2020-03-15,Napa,7,0,5,0
+2020-03-16,Napa,7,0,5,0
+2020-03-17,Napa,8,0,6,0
+2020-03-18,Napa,11,0,9,0
+2020-03-19,Napa,14,0,11,0
+2020-03-20,Napa,16,0,13,0
+2020-03-21,Napa,17,0,12,0
+2020-03-22,Napa,17,0,10,0
+2020-03-23,Napa,21,0,14,0
+2020-03-24,Napa,23,0,15,0
+2020-03-25,Napa,26,0,15,0
+2020-03-26,Napa,26,0,12,0
+2020-03-27,Napa,27,0,11,0
+2020-03-28,Napa,27,0,10,0
+2020-03-29,Napa,32,0,15,0
+2020-03-30,Napa,34,0,13,0
+2020-03-31,Napa,35,0,12,0
+2020-02-01,Nevada,0,0,N,N
+2020-02-02,Nevada,0,0,N,N
+2020-02-03,Nevada,0,0,N,N
+2020-02-04,Nevada,0,0,N,N
+2020-02-05,Nevada,0,0,N,N
+2020-02-06,Nevada,0,0,N,N
+2020-02-07,Nevada,0,0,N,N
+2020-02-08,Nevada,0,0,0,0
+2020-02-09,Nevada,0,0,0,0
+2020-02-10,Nevada,0,0,0,0
+2020-02-11,Nevada,0,0,0,0
+2020-02-12,Nevada,0,0,0,0
+2020-02-13,Nevada,0,0,0,0
+2020-02-14,Nevada,0,0,0,0
+2020-02-15,Nevada,0,0,0,0
+2020-02-16,Nevada,0,0,0,0
+2020-02-17,Nevada,0,0,0,0
+2020-02-18,Nevada,0,0,0,0
+2020-02-19,Nevada,0,0,0,0
+2020-02-20,Nevada,0,0,0,0
+2020-02-21,Nevada,0,0,0,0
+2020-02-22,Nevada,0,0,0,0
+2020-02-23,Nevada,0,0,0,0
+2020-02-24,Nevada,0,0,0,0
+2020-02-25,Nevada,0,0,0,0
+2020-02-26,Nevada,0,0,0,0
+2020-02-27,Nevada,0,0,0,0
+2020-02-28,Nevada,0,0,0,0
+2020-02-29,Nevada,0,0,0,0
+2020-03-01,Nevada,0,0,0,0
+2020-03-02,Nevada,0,0,0,0
+2020-03-03,Nevada,0,0,0,0
+2020-03-04,Nevada,0,0,0,0
+2020-03-05,Nevada,0,0,0,0
+2020-03-06,Nevada,1,0,1,0
+2020-03-07,Nevada,1,0,1,0
+2020-03-08,Nevada,1,0,1,0
+2020-03-09,Nevada,2,0,2,0
+2020-03-10,Nevada,3,0,3,0
+2020-03-11,Nevada,4,0,4,0
+2020-03-12,Nevada,4,0,4,0
+2020-03-13,Nevada,7,0,6,0
+2020-03-14,Nevada,8,0,7,0
+2020-03-15,Nevada,11,0,10,0
+2020-03-16,Nevada,11,0,9,0
+2020-03-17,Nevada,15,0,12,0
+2020-03-18,Nevada,16,0,12,0
+2020-03-19,Nevada,18,0,14,0
+2020-03-20,Nevada,20,0,13,0
+2020-03-21,Nevada,23,0,15,0
+2020-03-22,Nevada,23,0,12,0
+2020-03-23,Nevada,27,0,16,0
+2020-03-24,Nevada,30,0,15,0
+2020-03-25,Nevada,31,0,15,0
+2020-03-26,Nevada,32,0,14,0
+2020-03-27,Nevada,32,0,12,0
+2020-03-28,Nevada,32,0,9,0
+2020-03-29,Nevada,32,0,9,0
+2020-03-30,Nevada,34,0,7,0
+2020-03-31,Nevada,35,0,5,0
+2020-02-01,Orange,3,0,N,N
+2020-02-02,Orange,3,0,N,N
+2020-02-03,Orange,3,0,N,N
+2020-02-04,Orange,4,0,N,N
+2020-02-05,Orange,4,0,N,N
+2020-02-06,Orange,5,0,N,N
+2020-02-07,Orange,35,0,N,N
+2020-02-08,Orange,37,0,34,0
+2020-02-09,Orange,37,0,34,0
+2020-02-10,Orange,38,0,35,0
+2020-02-11,Orange,38,0,34,0
+2020-02-12,Orange,39,0,35,0
+2020-02-13,Orange,39,0,34,0
+2020-02-14,Orange,40,0,5,0
+2020-02-15,Orange,40,0,3,0
+2020-02-16,Orange,41,0,4,0
+2020-02-17,Orange,42,0,4,0
+2020-02-18,Orange,42,0,4,0
+2020-02-19,Orange,43,0,4,0
+2020-02-20,Orange,44,0,5,0
+2020-02-21,Orange,44,0,4,0
+2020-02-22,Orange,46,0,6,0
+2020-02-23,Orange,47,0,6,0
+2020-02-24,Orange,47,0,5,0
+2020-02-25,Orange,49,0,7,0
+2020-02-26,Orange,50,0,7,0
+2020-02-27,Orange,51,0,7,0
+2020-02-28,Orange,57,0,13,0
+2020-02-29,Orange,59,0,13,0
+2020-03-01,Orange,64,0,17,0
+2020-03-02,Orange,67,0,20,0
+2020-03-03,Orange,72,0,23,0
+2020-03-04,Orange,80,0,30,0
+2020-03-05,Orange,83,0,32,0
+2020-03-06,Orange,98,0,41,0
+2020-03-07,Orange,124,0,65,0
+2020-03-08,Orange,132,0,68,0
+2020-03-09,Orange,157,0,90,0
+2020-03-10,Orange,185,1,113,1
+2020-03-11,Orange,205,0,125,0
+2020-03-12,Orange,237,0,154,0
+2020-03-13,Orange,273,0,175,0
+2020-03-14,Orange,311,0,187,0
+2020-03-15,Orange,350,0,218,0
+2020-03-16,Orange,420,0,263,0
+2020-03-17,Orange,502,0,317,-1
+2020-03-18,Orange,578,0,373,0
+2020-03-19,Orange,634,0,397,0
+2020-03-20,Orange,719,2,446,2
+2020-03-21,Orange,766,0,455,0
+2020-03-22,Orange,815,0,465,0
+2020-03-23,Orange,881,0,461,0
+2020-03-24,Orange,935,0,433,0
+2020-03-25,Orange,997,1,419,1
+2020-03-26,Orange,1055,1,421,1
+2020-03-27,Orange,1117,2,398,0
+2020-03-28,Orange,1169,4,403,4
+2020-03-29,Orange,1205,2,390,2
+2020-03-30,Orange,1278,5,397,5
+2020-03-31,Orange,1343,7,408,7
+2020-02-01,Placer,0,0,N,N
+2020-02-02,Placer,0,0,N,N
+2020-02-03,Placer,0,0,N,N
+2020-02-04,Placer,0,0,N,N
+2020-02-05,Placer,0,0,N,N
+2020-02-06,Placer,0,0,N,N
+2020-02-07,Placer,0,0,N,N
+2020-02-08,Placer,0,0,0,0
+2020-02-09,Placer,0,0,0,0
+2020-02-10,Placer,0,0,0,0
+2020-02-11,Placer,0,0,0,0
+2020-02-12,Placer,0,0,0,0
+2020-02-13,Placer,0,0,0,0
+2020-02-14,Placer,0,0,0,0
+2020-02-15,Placer,0,0,0,0
+2020-02-16,Placer,0,0,0,0
+2020-02-17,Placer,0,0,0,0
+2020-02-18,Placer,0,0,0,0
+2020-02-19,Placer,2,0,2,0
+2020-02-20,Placer,2,0,2,0
+2020-02-21,Placer,2,0,2,0
+2020-02-22,Placer,3,0,3,0
+2020-02-23,Placer,3,0,3,0
+2020-02-24,Placer,3,0,3,0
+2020-02-25,Placer,5,0,5,0
+2020-02-26,Placer,5,0,3,0
+2020-02-27,Placer,6,0,4,0
+2020-02-28,Placer,7,0,5,0
+2020-02-29,Placer,7,0,4,0
+2020-03-01,Placer,8,0,5,0
+2020-03-02,Placer,8,0,5,0
+2020-03-03,Placer,8,0,3,0
+2020-03-04,Placer,9,1,4,1
+2020-03-05,Placer,10,1,4,1
+2020-03-06,Placer,10,1,3,1
+2020-03-07,Placer,11,1,4,1
+2020-03-08,Placer,11,1,3,1
+2020-03-09,Placer,12,1,4,1
+2020-03-10,Placer,14,1,6,1
+2020-03-11,Placer,18,1,9,0
+2020-03-12,Placer,22,1,12,0
+2020-03-13,Placer,26,1,16,0
+2020-03-14,Placer,29,1,18,0
+2020-03-15,Placer,33,1,22,0
+2020-03-16,Placer,39,1,27,0
+2020-03-17,Placer,47,1,33,0
+2020-03-18,Placer,57,1,39,0
+2020-03-19,Placer,64,1,42,0
+2020-03-20,Placer,72,1,46,0
+2020-03-21,Placer,78,1,49,0
+2020-03-22,Placer,87,1,54,0
+2020-03-23,Placer,89,1,50,0
+2020-03-24,Placer,92,1,45,0
+2020-03-25,Placer,98,1,41,0
+2020-03-26,Placer,104,1,40,0
+2020-03-27,Placer,108,1,36,0
+2020-03-28,Placer,111,2,33,1
+2020-03-29,Placer,116,2,29,1
+2020-03-30,Placer,117,2,28,1
+2020-03-31,Placer,120,2,28,1
+2020-02-01,Plumas,0,0,N,N
+2020-02-02,Plumas,0,0,N,N
+2020-02-03,Plumas,0,0,N,N
+2020-02-04,Plumas,0,0,N,N
+2020-02-05,Plumas,0,0,N,N
+2020-02-06,Plumas,0,0,N,N
+2020-02-07,Plumas,0,0,N,N
+2020-02-08,Plumas,0,0,0,0
+2020-02-09,Plumas,0,0,0,0
+2020-02-10,Plumas,0,0,0,0
+2020-02-11,Plumas,0,0,0,0
+2020-02-12,Plumas,0,0,0,0
+2020-02-13,Plumas,0,0,0,0
+2020-02-14,Plumas,0,0,0,0
+2020-02-15,Plumas,0,0,0,0
+2020-02-16,Plumas,0,0,0,0
+2020-02-17,Plumas,0,0,0,0
+2020-02-18,Plumas,0,0,0,0
+2020-02-19,Plumas,0,0,0,0
+2020-02-20,Plumas,0,0,0,0
+2020-02-21,Plumas,0,0,0,0
+2020-02-22,Plumas,0,0,0,0
+2020-02-23,Plumas,0,0,0,0
+2020-02-24,Plumas,0,0,0,0
+2020-02-25,Plumas,0,0,0,0
+2020-02-26,Plumas,0,0,0,0
+2020-02-27,Plumas,0,0,0,0
+2020-02-28,Plumas,0,0,0,0
+2020-02-29,Plumas,0,0,0,0
+2020-03-01,Plumas,0,0,0,0
+2020-03-02,Plumas,0,0,0,0
+2020-03-03,Plumas,0,0,0,0
+2020-03-04,Plumas,0,0,0,0
+2020-03-05,Plumas,0,0,0,0
+2020-03-06,Plumas,0,0,0,0
+2020-03-07,Plumas,0,0,0,0
+2020-03-08,Plumas,0,0,0,0
+2020-03-09,Plumas,0,0,0,0
+2020-03-10,Plumas,0,0,0,0
+2020-03-11,Plumas,0,0,0,0
+2020-03-12,Plumas,0,0,0,0
+2020-03-13,Plumas,0,0,0,0
+2020-03-14,Plumas,0,0,0,0
+2020-03-15,Plumas,0,0,0,0
+2020-03-16,Plumas,0,0,0,0
+2020-03-17,Plumas,0,0,0,0
+2020-03-18,Plumas,0,0,0,0
+2020-03-19,Plumas,0,0,0,0
+2020-03-20,Plumas,0,0,0,0
+2020-03-21,Plumas,0,0,0,0
+2020-03-22,Plumas,0,0,0,0
+2020-03-23,Plumas,0,0,0,0
+2020-03-24,Plumas,0,0,0,0
+2020-03-25,Plumas,0,0,0,0
+2020-03-26,Plumas,0,0,0,0
+2020-03-27,Plumas,0,0,0,0
+2020-03-28,Plumas,1,0,1,0
+2020-03-29,Plumas,1,0,1,0
+2020-03-30,Plumas,1,0,1,0
+2020-03-31,Plumas,1,0,1,0
+2020-02-01,Riverside,2,0,N,N
+2020-02-02,Riverside,3,0,N,N
+2020-02-03,Riverside,4,0,N,N
+2020-02-04,Riverside,4,0,N,N
+2020-02-05,Riverside,4,0,N,N
+2020-02-06,Riverside,4,0,N,N
+2020-02-07,Riverside,4,0,N,N
+2020-02-08,Riverside,4,0,2,0
+2020-02-09,Riverside,4,0,1,0
+2020-02-10,Riverside,4,0,0,0
+2020-02-11,Riverside,4,0,0,0
+2020-02-12,Riverside,4,0,0,0
+2020-02-13,Riverside,4,0,0,0
+2020-02-14,Riverside,4,0,0,0
+2020-02-15,Riverside,4,0,0,0
+2020-02-16,Riverside,5,0,1,0
+2020-02-17,Riverside,5,0,1,0
+2020-02-18,Riverside,5,0,1,0
+2020-02-19,Riverside,5,0,1,0
+2020-02-20,Riverside,7,0,3,0
+2020-02-21,Riverside,9,0,5,0
+2020-02-22,Riverside,9,0,5,0
+2020-02-23,Riverside,9,0,4,0
+2020-02-24,Riverside,9,0,4,0
+2020-02-25,Riverside,10,0,5,0
+2020-02-26,Riverside,10,0,5,0
+2020-02-27,Riverside,12,0,5,0
+2020-02-28,Riverside,13,0,4,0
+2020-02-29,Riverside,15,0,6,0
+2020-03-01,Riverside,18,0,9,0
+2020-03-02,Riverside,19,0,10,0
+2020-03-03,Riverside,20,0,10,0
+2020-03-04,Riverside,23,0,13,0
+2020-03-05,Riverside,27,0,15,0
+2020-03-06,Riverside,30,0,17,0
+2020-03-07,Riverside,30,0,15,0
+2020-03-08,Riverside,40,0,22,0
+2020-03-09,Riverside,47,0,28,0
+2020-03-10,Riverside,56,0,36,0
+2020-03-11,Riverside,75,0,52,0
+2020-03-12,Riverside,98,0,71,0
+2020-03-13,Riverside,121,0,91,0
+2020-03-14,Riverside,147,0,117,0
+2020-03-15,Riverside,167,0,127,0
+2020-03-16,Riverside,212,0,165,0
+2020-03-17,Riverside,246,0,190,0
+2020-03-18,Riverside,303,2,228,2
+2020-03-19,Riverside,355,3,257,3
+2020-03-20,Riverside,443,3,322,3
+2020-03-21,Riverside,496,3,349,3
+2020-03-22,Riverside,539,5,372,5
+2020-03-23,Riverside,617,5,405,5
+2020-03-24,Riverside,658,5,412,5
+2020-03-25,Riverside,725,5,422,3
+2020-03-26,Riverside,796,7,441,4
+2020-03-27,Riverside,866,7,423,4
+2020-03-28,Riverside,922,14,426,11
+2020-03-29,Riverside,990,7,451,2
+2020-03-30,Riverside,1114,7,497,2
+2020-03-31,Riverside,1194,8,536,3
+2020-02-01,Sacramento,0,0,N,N
+2020-02-02,Sacramento,0,0,N,N
+2020-02-03,Sacramento,0,0,N,N
+2020-02-04,Sacramento,0,0,N,N
+2020-02-05,Sacramento,0,0,N,N
+2020-02-06,Sacramento,0,0,N,N
+2020-02-07,Sacramento,0,0,N,N
+2020-02-08,Sacramento,0,0,0,0
+2020-02-09,Sacramento,0,0,0,0
+2020-02-10,Sacramento,1,0,1,0
+2020-02-11,Sacramento,1,0,1,0
+2020-02-12,Sacramento,1,0,1,0
+2020-02-13,Sacramento,1,0,1,0
+2020-02-14,Sacramento,1,0,1,0
+2020-02-15,Sacramento,2,0,2,0
+2020-02-16,Sacramento,2,0,2,0
+2020-02-17,Sacramento,2,0,1,0
+2020-02-18,Sacramento,2,0,1,0
+2020-02-19,Sacramento,2,0,1,0
+2020-02-20,Sacramento,2,0,1,0
+2020-02-21,Sacramento,5,0,4,0
+2020-02-22,Sacramento,6,0,4,0
+2020-02-23,Sacramento,6,0,4,0
+2020-02-24,Sacramento,7,0,5,0
+2020-02-25,Sacramento,8,0,6,0
+2020-02-26,Sacramento,10,0,8,0
+2020-02-27,Sacramento,10,0,8,0
+2020-02-28,Sacramento,10,0,5,0
+2020-02-29,Sacramento,16,0,10,0
+2020-03-01,Sacramento,21,0,15,0
+2020-03-02,Sacramento,25,0,18,0
+2020-03-03,Sacramento,31,0,23,0
+2020-03-04,Sacramento,32,0,22,0
+2020-03-05,Sacramento,36,0,26,0
+2020-03-06,Sacramento,42,0,32,0
+2020-03-07,Sacramento,51,0,35,0
+2020-03-08,Sacramento,64,0,43,0
+2020-03-09,Sacramento,74,0,49,0
+2020-03-10,Sacramento,78,0,47,0
+2020-03-11,Sacramento,87,1,55,1
+2020-03-12,Sacramento,105,1,69,1
+2020-03-13,Sacramento,129,1,87,1
+2020-03-14,Sacramento,150,1,99,1
+2020-03-15,Sacramento,172,1,108,1
+2020-03-16,Sacramento,208,1,134,1
+2020-03-17,Sacramento,235,1,157,1
+2020-03-18,Sacramento,255,3,168,2
+2020-03-19,Sacramento,278,3,173,2
+2020-03-20,Sacramento,311,4,182,3
+2020-03-21,Sacramento,332,3,182,2
+2020-03-22,Sacramento,360,4,188,3
+2020-03-23,Sacramento,391,4,183,3
+2020-03-24,Sacramento,424,4,189,3
+2020-03-25,Sacramento,443,5,188,2
+2020-03-26,Sacramento,469,5,191,2
+2020-03-27,Sacramento,502,6,191,2
+2020-03-28,Sacramento,525,14,193,11
+2020-03-29,Sacramento,543,7,183,3
+2020-03-30,Sacramento,583,8,192,4
+2020-03-31,Sacramento,607,8,183,4
+2020-02-01,San Benito,0,0,N,N
+2020-02-02,San Benito,0,0,N,N
+2020-02-03,San Benito,0,0,N,N
+2020-02-04,San Benito,0,0,N,N
+2020-02-05,San Benito,0,0,N,N
+2020-02-06,San Benito,0,0,N,N
+2020-02-07,San Benito,0,0,N,N
+2020-02-08,San Benito,0,0,0,0
+2020-02-09,San Benito,0,0,0,0
+2020-02-10,San Benito,0,0,0,0
+2020-02-11,San Benito,0,0,0,0
+2020-02-12,San Benito,0,0,0,0
+2020-02-13,San Benito,0,0,0,0
+2020-02-14,San Benito,0,0,0,0
+2020-02-15,San Benito,0,0,0,0
+2020-02-16,San Benito,0,0,0,0
+2020-02-17,San Benito,0,0,0,0
+2020-02-18,San Benito,0,0,0,0
+2020-02-19,San Benito,0,0,0,0
+2020-02-20,San Benito,0,0,0,0
+2020-02-21,San Benito,0,0,0,0
+2020-02-22,San Benito,0,0,0,0
+2020-02-23,San Benito,0,0,0,0
+2020-02-24,San Benito,0,0,0,0
+2020-02-25,San Benito,0,0,0,0
+2020-02-26,San Benito,0,0,0,0
+2020-02-27,San Benito,0,0,0,0
+2020-02-28,San Benito,0,0,0,0
+2020-02-29,San Benito,0,0,0,0
+2020-03-01,San Benito,0,0,0,0
+2020-03-02,San Benito,1,0,1,0
+2020-03-03,San Benito,1,0,1,0
+2020-03-04,San Benito,1,0,1,0
+2020-03-05,San Benito,1,0,1,0
+2020-03-06,San Benito,3,0,3,0
+2020-03-07,San Benito,3,0,3,0
+2020-03-08,San Benito,3,0,3,0
+2020-03-09,San Benito,3,0,2,0
+2020-03-10,San Benito,5,0,4,0
+2020-03-11,San Benito,5,0,4,0
+2020-03-12,San Benito,5,0,4,0
+2020-03-13,San Benito,6,0,3,0
+2020-03-14,San Benito,8,0,5,0
+2020-03-15,San Benito,8,0,5,0
+2020-03-16,San Benito,8,0,5,0
+2020-03-17,San Benito,12,0,7,0
+2020-03-18,San Benito,13,0,8,0
+2020-03-19,San Benito,14,0,9,0
+2020-03-20,San Benito,17,1,11,1
+2020-03-21,San Benito,17,1,9,1
+2020-03-22,San Benito,19,1,11,1
+2020-03-23,San Benito,24,1,16,1
+2020-03-24,San Benito,25,1,13,1
+2020-03-25,San Benito,26,1,13,1
+2020-03-26,San Benito,27,1,13,1
+2020-03-27,San Benito,27,1,10,0
+2020-03-28,San Benito,28,2,11,1
+2020-03-29,San Benito,28,1,9,0
+2020-03-30,San Benito,29,1,5,0
+2020-03-31,San Benito,29,1,4,0
+2020-02-01,San Bernardino,1,0,N,N
+2020-02-02,San Bernardino,2,0,N,N
+2020-02-03,San Bernardino,3,0,N,N
+2020-02-04,San Bernardino,3,0,N,N
+2020-02-05,San Bernardino,4,0,N,N
+2020-02-06,San Bernardino,4,0,N,N
+2020-02-07,San Bernardino,4,0,N,N
+2020-02-08,San Bernardino,7,0,6,0
+2020-02-09,San Bernardino,7,0,5,0
+2020-02-10,San Bernardino,7,0,4,0
+2020-02-11,San Bernardino,8,0,5,0
+2020-02-12,San Bernardino,8,0,4,0
+2020-02-13,San Bernardino,8,0,4,0
+2020-02-14,San Bernardino,8,0,4,0
+2020-02-15,San Bernardino,8,0,1,0
+2020-02-16,San Bernardino,9,0,2,0
+2020-02-17,San Bernardino,10,0,3,0
+2020-02-18,San Bernardino,12,0,4,0
+2020-02-19,San Bernardino,12,0,4,0
+2020-02-20,San Bernardino,13,0,5,0
+2020-02-21,San Bernardino,14,0,6,0
+2020-02-22,San Bernardino,15,0,7,0
+2020-02-23,San Bernardino,17,0,8,0
+2020-02-24,San Bernardino,18,0,8,0
+2020-02-25,San Bernardino,18,0,6,0
+2020-02-26,San Bernardino,20,0,8,0
+2020-02-27,San Bernardino,22,0,9,0
+2020-02-28,San Bernardino,22,0,8,0
+2020-02-29,San Bernardino,22,0,7,0
+2020-03-01,San Bernardino,24,0,7,0
+2020-03-02,San Bernardino,26,0,8,0
+2020-03-03,San Bernardino,26,0,8,0
+2020-03-04,San Bernardino,29,0,9,0
+2020-03-05,San Bernardino,32,0,10,0
+2020-03-06,San Bernardino,37,0,15,0
+2020-03-07,San Bernardino,39,0,17,0
+2020-03-08,San Bernardino,41,0,17,0
+2020-03-09,San Bernardino,52,0,26,0
+2020-03-10,San Bernardino,63,0,37,0
+2020-03-11,San Bernardino,71,0,42,0
+2020-03-12,San Bernardino,78,0,46,0
+2020-03-13,San Bernardino,94,0,57,0
+2020-03-14,San Bernardino,101,0,62,0
+2020-03-15,San Bernardino,119,0,78,0
+2020-03-16,San Bernardino,141,0,89,0
+2020-03-17,San Bernardino,161,0,98,0
+2020-03-18,San Bernardino,189,0,118,0
+2020-03-19,San Bernardino,211,0,133,0
+2020-03-20,San Bernardino,241,0,147,0
+2020-03-21,San Bernardino,268,0,167,0
+2020-03-22,San Bernardino,288,0,169,0
+2020-03-23,San Bernardino,331,0,190,0
+2020-03-24,San Bernardino,361,0,200,0
+2020-03-25,San Bernardino,405,1,216,1
+2020-03-26,San Bernardino,444,1,233,1
+2020-03-27,San Bernardino,510,2,269,2
+2020-03-28,San Bernardino,600,4,332,4
+2020-03-29,San Bernardino,648,2,360,2
+2020-03-30,San Bernardino,700,4,369,4
+2020-03-31,San Bernardino,744,5,383,5
+2020-02-01,San Diego,0,0,N,N
+2020-02-02,San Diego,0,0,N,N
+2020-02-03,San Diego,0,0,N,N
+2020-02-04,San Diego,0,0,N,N
+2020-02-05,San Diego,0,0,N,N
+2020-02-06,San Diego,1,0,N,N
+2020-02-07,San Diego,1,0,N,N
+2020-02-08,San Diego,1,0,1,0
+2020-02-09,San Diego,2,0,2,0
+2020-02-10,San Diego,2,0,2,0
+2020-02-11,San Diego,2,0,2,0
+2020-02-12,San Diego,2,0,2,0
+2020-02-13,San Diego,2,0,1,0
+2020-02-14,San Diego,3,0,2,0
+2020-02-15,San Diego,4,0,3,0
+2020-02-16,San Diego,4,0,2,0
+2020-02-17,San Diego,4,0,2,0
+2020-02-18,San Diego,4,0,2,0
+2020-02-19,San Diego,4,0,2,0
+2020-02-20,San Diego,5,0,3,0
+2020-02-21,San Diego,5,0,2,0
+2020-02-22,San Diego,5,0,1,0
+2020-02-23,San Diego,6,0,2,0
+2020-02-24,San Diego,7,0,3,0
+2020-02-25,San Diego,7,0,3,0
+2020-02-26,San Diego,11,0,7,0
+2020-02-27,San Diego,12,0,7,0
+2020-02-28,San Diego,13,0,8,0
+2020-02-29,San Diego,16,0,11,0
+2020-03-01,San Diego,21,0,15,0
+2020-03-02,San Diego,28,0,21,0
+2020-03-03,San Diego,34,0,27,0
+2020-03-04,San Diego,41,0,30,0
+2020-03-05,San Diego,54,0,42,0
+2020-03-06,San Diego,61,0,48,0
+2020-03-07,San Diego,74,0,58,0
+2020-03-08,San Diego,92,0,71,0
+2020-03-09,San Diego,126,0,98,0
+2020-03-10,San Diego,165,0,131,0
+2020-03-11,San Diego,208,0,167,0
+2020-03-12,San Diego,258,0,204,0
+2020-03-13,San Diego,313,0,252,0
+2020-03-14,San Diego,363,0,289,0
+2020-03-15,San Diego,438,0,346,0
+2020-03-16,San Diego,525,0,399,0
+2020-03-17,San Diego,616,0,451,0
+2020-03-18,San Diego,683,0,475,0
+2020-03-19,San Diego,768,0,510,0
+2020-03-20,San Diego,851,0,538,0
+2020-03-21,San Diego,903,0,540,0
+2020-03-22,San Diego,980,0,542,0
+2020-03-23,San Diego,1068,1,543,1
+2020-03-24,San Diego,1127,2,511,2
+2020-03-25,San Diego,1194,2,511,2
+2020-03-26,San Diego,1256,2,488,2
+2020-03-27,San Diego,1323,5,472,5
+2020-03-28,San Diego,1380,14,477,14
+2020-03-29,San Diego,1439,7,459,7
+2020-03-30,San Diego,1511,7,443,6
+2020-03-31,San Diego,1581,9,454,7
+2020-02-01,San Francisco,1,0,N,N
+2020-02-02,San Francisco,1,0,N,N
+2020-02-03,San Francisco,1,0,N,N
+2020-02-04,San Francisco,1,0,N,N
+2020-02-05,San Francisco,1,0,N,N
+2020-02-06,San Francisco,1,0,N,N
+2020-02-07,San Francisco,1,0,N,N
+2020-02-08,San Francisco,1,0,0,0
+2020-02-09,San Francisco,1,0,0,0
+2020-02-10,San Francisco,2,0,1,0
+2020-02-11,San Francisco,2,0,1,0
+2020-02-12,San Francisco,2,0,1,0
+2020-02-13,San Francisco,2,0,1,0
+2020-02-14,San Francisco,2,0,1,0
+2020-02-15,San Francisco,2,0,1,0
+2020-02-16,San Francisco,2,0,1,0
+2020-02-17,San Francisco,2,0,0,0
+2020-02-18,San Francisco,2,0,0,0
+2020-02-19,San Francisco,2,0,0,0
+2020-02-20,San Francisco,3,0,1,0
+2020-02-21,San Francisco,3,0,1,0
+2020-02-22,San Francisco,3,0,1,0
+2020-02-23,San Francisco,5,0,3,0
+2020-02-24,San Francisco,6,0,4,0
+2020-02-25,San Francisco,7,0,5,0
+2020-02-26,San Francisco,9,0,7,0
+2020-02-27,San Francisco,9,0,6,0
+2020-02-28,San Francisco,10,0,7,0
+2020-02-29,San Francisco,12,0,9,0
+2020-03-01,San Francisco,13,0,8,0
+2020-03-02,San Francisco,17,0,11,0
+2020-03-03,San Francisco,23,0,16,0
+2020-03-04,San Francisco,25,0,16,0
+2020-03-05,San Francisco,30,0,21,0
+2020-03-06,San Francisco,40,0,30,0
+2020-03-07,San Francisco,46,0,34,0
+2020-03-08,San Francisco,52,0,39,0
+2020-03-09,San Francisco,71,0,54,0
+2020-03-10,San Francisco,91,0,68,0
+2020-03-11,San Francisco,122,0,97,0
+2020-03-12,San Francisco,147,0,117,0
+2020-03-13,San Francisco,170,0,130,0
+2020-03-14,San Francisco,184,0,138,0
+2020-03-15,San Francisco,205,0,153,0
+2020-03-16,San Francisco,261,0,190,0
+2020-03-17,San Francisco,297,0,206,0
+2020-03-18,San Francisco,323,0,201,0
+2020-03-19,San Francisco,342,0,195,0
+2020-03-20,San Francisco,378,0,208,0
+2020-03-21,San Francisco,410,0,226,0
+2020-03-22,San Francisco,446,0,241,0
+2020-03-23,San Francisco,483,0,222,0
+2020-03-24,San Francisco,512,1,215,1
+2020-03-25,San Francisco,544,1,221,1
+2020-03-26,San Francisco,585,1,243,1
+2020-03-27,San Francisco,612,2,234,2
+2020-03-28,San Francisco,637,6,227,6
+2020-03-29,San Francisco,661,5,215,5
+2020-03-30,San Francisco,705,5,222,5
+2020-03-31,San Francisco,745,5,233,4
+2020-02-01,San Joaquin,0,0,N,N
+2020-02-02,San Joaquin,0,0,N,N
+2020-02-03,San Joaquin,0,0,N,N
+2020-02-04,San Joaquin,0,0,N,N
+2020-02-05,San Joaquin,0,0,N,N
+2020-02-06,San Joaquin,0,0,N,N
+2020-02-07,San Joaquin,0,0,N,N
+2020-02-08,San Joaquin,0,0,0,0
+2020-02-09,San Joaquin,0,0,0,0
+2020-02-10,San Joaquin,0,0,0,0
+2020-02-11,San Joaquin,0,0,0,0
+2020-02-12,San Joaquin,1,0,1,0
+2020-02-13,San Joaquin,1,0,1,0
+2020-02-14,San Joaquin,1,0,1,0
+2020-02-15,San Joaquin,1,0,1,0
+2020-02-16,San Joaquin,1,0,1,0
+2020-02-17,San Joaquin,1,0,1,0
+2020-02-18,San Joaquin,1,0,1,0
+2020-02-19,San Joaquin,2,0,1,0
+2020-02-20,San Joaquin,2,0,1,0
+2020-02-21,San Joaquin,2,0,1,0
+2020-02-22,San Joaquin,4,0,3,0
+2020-02-23,San Joaquin,4,0,3,0
+2020-02-24,San Joaquin,5,0,4,0
+2020-02-25,San Joaquin,5,0,4,0
+2020-02-26,San Joaquin,5,0,3,0
+2020-02-27,San Joaquin,5,0,3,0
+2020-02-28,San Joaquin,6,0,4,0
+2020-02-29,San Joaquin,6,0,2,0
+2020-03-01,San Joaquin,7,0,3,0
+2020-03-02,San Joaquin,7,0,2,0
+2020-03-03,San Joaquin,8,0,3,0
+2020-03-04,San Joaquin,9,0,4,0
+2020-03-05,San Joaquin,10,0,5,0
+2020-03-06,San Joaquin,13,0,7,0
+2020-03-07,San Joaquin,16,0,10,0
+2020-03-08,San Joaquin,18,0,11,0
+2020-03-09,San Joaquin,21,0,14,0
+2020-03-10,San Joaquin,30,0,22,0
+2020-03-11,San Joaquin,33,0,24,0
+2020-03-12,San Joaquin,44,1,34,1
+2020-03-13,San Joaquin,50,0,37,0
+2020-03-14,San Joaquin,54,0,38,0
+2020-03-15,San Joaquin,63,0,45,0
+2020-03-16,San Joaquin,74,0,53,0
+2020-03-17,San Joaquin,84,0,54,0
+2020-03-18,San Joaquin,90,2,57,2
+2020-03-19,San Joaquin,102,2,58,1
+2020-03-20,San Joaquin,116,2,66,2
+2020-03-21,San Joaquin,131,2,77,2
+2020-03-22,San Joaquin,140,2,77,2
+2020-03-23,San Joaquin,154,2,80,2
+2020-03-24,San Joaquin,166,2,82,2
+2020-03-25,San Joaquin,177,2,87,0
+2020-03-26,San Joaquin,190,3,88,1
+2020-03-27,San Joaquin,201,3,85,1
+2020-03-28,San Joaquin,212,8,81,6
+2020-03-29,San Joaquin,219,4,79,2
+2020-03-30,San Joaquin,228,5,74,3
+2020-03-31,San Joaquin,235,7,69,5
+2020-02-01,San Luis Obispo,0,0,N,N
+2020-02-02,San Luis Obispo,0,0,N,N
+2020-02-03,San Luis Obispo,0,0,N,N
+2020-02-04,San Luis Obispo,0,0,N,N
+2020-02-05,San Luis Obispo,0,0,N,N
+2020-02-06,San Luis Obispo,0,0,N,N
+2020-02-07,San Luis Obispo,0,0,N,N
+2020-02-08,San Luis Obispo,0,0,0,0
+2020-02-09,San Luis Obispo,0,0,0,0
+2020-02-10,San Luis Obispo,0,0,0,0
+2020-02-11,San Luis Obispo,0,0,0,0
+2020-02-12,San Luis Obispo,0,0,0,0
+2020-02-13,San Luis Obispo,0,0,0,0
+2020-02-14,San Luis Obispo,0,0,0,0
+2020-02-15,San Luis Obispo,1,0,1,0
+2020-02-16,San Luis Obispo,1,0,1,0
+2020-02-17,San Luis Obispo,1,0,1,0
+2020-02-18,San Luis Obispo,2,0,2,0
+2020-02-19,San Luis Obispo,2,0,2,0
+2020-02-20,San Luis Obispo,2,0,2,0
+2020-02-21,San Luis Obispo,2,0,2,0
+2020-02-22,San Luis Obispo,2,0,1,0
+2020-02-23,San Luis Obispo,2,0,1,0
+2020-02-24,San Luis Obispo,2,0,1,0
+2020-02-25,San Luis Obispo,2,0,0,0
+2020-02-26,San Luis Obispo,2,0,0,0
+2020-02-27,San Luis Obispo,2,0,0,0
+2020-02-28,San Luis Obispo,2,0,0,0
+2020-02-29,San Luis Obispo,2,0,0,0
+2020-03-01,San Luis Obispo,2,0,0,0
+2020-03-02,San Luis Obispo,2,0,0,0
+2020-03-03,San Luis Obispo,2,0,0,0
+2020-03-04,San Luis Obispo,4,0,2,0
+2020-03-05,San Luis Obispo,4,0,2,0
+2020-03-06,San Luis Obispo,4,0,2,0
+2020-03-07,San Luis Obispo,6,0,4,0
+2020-03-08,San Luis Obispo,9,0,7,0
+2020-03-09,San Luis Obispo,15,0,13,0
+2020-03-10,San Luis Obispo,15,0,13,0
+2020-03-11,San Luis Obispo,22,0,18,0
+2020-03-12,San Luis Obispo,25,0,21,0
+2020-03-13,San Luis Obispo,32,0,28,0
+2020-03-14,San Luis Obispo,40,0,34,0
+2020-03-15,San Luis Obispo,45,0,36,0
+2020-03-16,San Luis Obispo,54,0,39,0
+2020-03-17,San Luis Obispo,61,0,46,0
+2020-03-18,San Luis Obispo,68,0,46,0
+2020-03-19,San Luis Obispo,74,0,49,0
+2020-03-20,San Luis Obispo,76,0,44,0
+2020-03-21,San Luis Obispo,79,0,39,0
+2020-03-22,San Luis Obispo,83,0,38,0
+2020-03-23,San Luis Obispo,88,0,34,0
+2020-03-24,San Luis Obispo,94,0,33,0
+2020-03-25,San Luis Obispo,96,0,28,0
+2020-03-26,San Luis Obispo,101,0,27,0
+2020-03-27,San Luis Obispo,106,0,30,0
+2020-03-28,San Luis Obispo,108,0,29,0
+2020-03-29,San Luis Obispo,110,0,27,0
+2020-03-30,San Luis Obispo,115,0,27,0
+2020-03-31,San Luis Obispo,117,0,23,0
+2020-02-01,San Mateo,0,0,N,N
+2020-02-02,San Mateo,0,0,N,N
+2020-02-03,San Mateo,0,0,N,N
+2020-02-04,San Mateo,0,0,N,N
+2020-02-05,San Mateo,1,0,N,N
+2020-02-06,San Mateo,1,0,N,N
+2020-02-07,San Mateo,1,0,N,N
+2020-02-08,San Mateo,2,0,2,0
+2020-02-09,San Mateo,2,0,2,0
+2020-02-10,San Mateo,2,0,2,0
+2020-02-11,San Mateo,2,0,2,0
+2020-02-12,San Mateo,2,0,1,0
+2020-02-13,San Mateo,2,0,1,0
+2020-02-14,San Mateo,3,0,2,0
+2020-02-15,San Mateo,4,0,2,0
+2020-02-16,San Mateo,4,0,2,0
+2020-02-17,San Mateo,5,0,3,0
+2020-02-18,San Mateo,5,0,3,0
+2020-02-19,San Mateo,6,0,4,0
+2020-02-20,San Mateo,7,0,5,0
+2020-02-21,San Mateo,8,0,5,0
+2020-02-22,San Mateo,8,0,4,0
+2020-02-23,San Mateo,10,0,6,0
+2020-02-24,San Mateo,13,0,8,0
+2020-02-25,San Mateo,17,0,12,0
+2020-02-26,San Mateo,18,0,12,0
+2020-02-27,San Mateo,20,0,13,0
+2020-02-28,San Mateo,24,0,16,0
+2020-02-29,San Mateo,29,0,21,0
+2020-03-01,San Mateo,36,0,26,0
+2020-03-02,San Mateo,44,0,31,0
+2020-03-03,San Mateo,53,0,36,0
+2020-03-04,San Mateo,60,0,42,0
+2020-03-05,San Mateo,65,0,45,0
+2020-03-06,San Mateo,78,0,54,0
+2020-03-07,San Mateo,86,0,57,0
+2020-03-08,San Mateo,96,0,60,0
+2020-03-09,San Mateo,109,0,65,0
+2020-03-10,San Mateo,123,0,70,0
+2020-03-11,San Mateo,139,0,79,0
+2020-03-12,San Mateo,157,0,92,0
+2020-03-13,San Mateo,191,0,113,0
+2020-03-14,San Mateo,212,0,126,0
+2020-03-15,San Mateo,235,1,139,1
+2020-03-16,San Mateo,269,1,160,1
+2020-03-17,San Mateo,307,1,184,1
+2020-03-18,San Mateo,339,1,200,1
+2020-03-19,San Mateo,362,1,205,1
+2020-03-20,San Mateo,397,1,206,1
+2020-03-21,San Mateo,427,1,215,1
+2020-03-22,San Mateo,465,1,230,0
+2020-03-23,San Mateo,498,1,229,0
+2020-03-24,San Mateo,536,2,229,1
+2020-03-25,San Mateo,577,5,238,4
+2020-03-26,San Mateo,612,5,250,4
+2020-03-27,San Mateo,645,7,248,6
+2020-03-28,San Mateo,671,17,244,16
+2020-03-29,San Mateo,691,12,226,11
+2020-03-30,San Mateo,716,11,218,10
+2020-03-31,San Mateo,740,12,204,10
+2020-02-01,Santa Barbara,0,0,N,N
+2020-02-02,Santa Barbara,0,0,N,N
+2020-02-03,Santa Barbara,0,0,N,N
+2020-02-04,Santa Barbara,0,0,N,N
+2020-02-05,Santa Barbara,0,0,N,N
+2020-02-06,Santa Barbara,0,0,N,N
+2020-02-07,Santa Barbara,0,0,N,N
+2020-02-08,Santa Barbara,0,0,0,0
+2020-02-09,Santa Barbara,0,0,0,0
+2020-02-10,Santa Barbara,0,0,0,0
+2020-02-11,Santa Barbara,0,0,0,0
+2020-02-12,Santa Barbara,0,0,0,0
+2020-02-13,Santa Barbara,0,0,0,0
+2020-02-14,Santa Barbara,0,0,0,0
+2020-02-15,Santa Barbara,0,0,0,0
+2020-02-16,Santa Barbara,0,0,0,0
+2020-02-17,Santa Barbara,0,0,0,0
+2020-02-18,Santa Barbara,0,0,0,0
+2020-02-19,Santa Barbara,0,0,0,0
+2020-02-20,Santa Barbara,0,0,0,0
+2020-02-21,Santa Barbara,0,0,0,0
+2020-02-22,Santa Barbara,0,0,0,0
+2020-02-23,Santa Barbara,0,0,0,0
+2020-02-24,Santa Barbara,0,0,0,0
+2020-02-25,Santa Barbara,0,0,0,0
+2020-02-26,Santa Barbara,0,0,0,0
+2020-02-27,Santa Barbara,0,0,0,0
+2020-02-28,Santa Barbara,0,0,0,0
+2020-02-29,Santa Barbara,0,0,0,0
+2020-03-01,Santa Barbara,1,0,1,0
+2020-03-02,Santa Barbara,1,0,1,0
+2020-03-03,Santa Barbara,1,0,1,0
+2020-03-04,Santa Barbara,2,0,2,0
+2020-03-05,Santa Barbara,2,0,2,0
+2020-03-06,Santa Barbara,3,0,3,0
+2020-03-07,Santa Barbara,5,0,5,0
+2020-03-08,Santa Barbara,6,0,5,0
+2020-03-09,Santa Barbara,9,0,8,0
+2020-03-10,Santa Barbara,11,0,10,0
+2020-03-11,Santa Barbara,15,0,13,0
+2020-03-12,Santa Barbara,25,0,23,0
+2020-03-13,Santa Barbara,37,0,34,0
+2020-03-14,Santa Barbara,41,0,36,0
+2020-03-15,Santa Barbara,53,0,47,0
+2020-03-16,Santa Barbara,63,0,54,0
+2020-03-17,Santa Barbara,75,0,64,0
+2020-03-18,Santa Barbara,88,0,73,0
+2020-03-19,Santa Barbara,101,0,76,0
+2020-03-20,Santa Barbara,116,0,79,0
+2020-03-21,Santa Barbara,132,0,91,0
+2020-03-22,Santa Barbara,147,0,94,0
+2020-03-23,Santa Barbara,165,0,102,0
+2020-03-24,Santa Barbara,186,0,111,0
+2020-03-25,Santa Barbara,192,0,104,0
+2020-03-26,Santa Barbara,203,0,102,0
+2020-03-27,Santa Barbara,219,0,103,0
+2020-03-28,Santa Barbara,235,0,103,0
+2020-03-29,Santa Barbara,246,0,99,0
+2020-03-30,Santa Barbara,257,0,92,0
+2020-03-31,Santa Barbara,267,0,81,0
+2020-02-01,Santa Clara,2,0,N,N
+2020-02-02,Santa Clara,2,0,N,N
+2020-02-03,Santa Clara,2,0,N,N
+2020-02-04,Santa Clara,2,0,N,N
+2020-02-05,Santa Clara,2,0,N,N
+2020-02-06,Santa Clara,4,0,N,N
+2020-02-07,Santa Clara,4,0,N,N
+2020-02-08,Santa Clara,4,0,2,0
+2020-02-09,Santa Clara,4,0,2,0
+2020-02-10,Santa Clara,5,0,3,0
+2020-02-11,Santa Clara,5,0,3,0
+2020-02-12,Santa Clara,6,0,4,0
+2020-02-13,Santa Clara,7,0,3,0
+2020-02-14,Santa Clara,8,0,4,0
+2020-02-15,Santa Clara,10,0,6,0
+2020-02-16,Santa Clara,10,0,6,0
+2020-02-17,Santa Clara,12,0,7,0
+2020-02-18,Santa Clara,14,0,9,0
+2020-02-19,Santa Clara,15,0,9,0
+2020-02-20,Santa Clara,17,0,10,0
+2020-02-21,Santa Clara,21,0,13,0
+2020-02-22,Santa Clara,23,0,13,0
+2020-02-23,Santa Clara,26,0,16,0
+2020-02-24,Santa Clara,38,0,26,0
+2020-02-25,Santa Clara,40,0,26,0
+2020-02-26,Santa Clara,50,0,35,0
+2020-02-27,Santa Clara,58,0,41,0
+2020-02-28,Santa Clara,69,0,48,0
+2020-02-29,Santa Clara,73,0,50,0
+2020-03-01,Santa Clara,95,0,69,0
+2020-03-02,Santa Clara,108,0,70,0
+2020-03-03,Santa Clara,130,0,90,0
+2020-03-04,Santa Clara,145,0,95,0
+2020-03-05,Santa Clara,162,0,104,0
+2020-03-06,Santa Clara,183,0,114,0
+2020-03-07,Santa Clara,201,0,128,0
+2020-03-08,Santa Clara,230,0,135,0
+2020-03-09,Santa Clara,271,1,163,1
+2020-03-10,Santa Clara,315,1,185,1
+2020-03-11,Santa Clara,362,1,217,1
+2020-03-12,Santa Clara,402,1,240,1
+2020-03-13,Santa Clara,460,1,277,1
+2020-03-14,Santa Clara,522,2,321,2
+2020-03-15,Santa Clara,578,2,348,2
+2020-03-16,Santa Clara,649,2,378,1
+2020-03-17,Santa Clara,724,4,409,3
+2020-03-18,Santa Clara,781,6,419,5
+2020-03-19,Santa Clara,830,8,428,7
+2020-03-20,Santa Clara,896,8,436,7
+2020-03-21,Santa Clara,932,10,410,8
+2020-03-22,Santa Clara,992,13,414,11
+2020-03-23,Santa Clara,1054,13,405,11
+2020-03-24,Santa Clara,1101,17,377,13
+2020-03-25,Santa Clara,1170,20,389,14
+2020-03-26,Santa Clara,1214,20,384,12
+2020-03-27,Santa Clara,1257,25,361,17
+2020-03-28,Santa Clara,1294,54,362,44
+2020-03-29,Santa Clara,1313,30,321,17
+2020-03-30,Santa Clara,1368,31,314,18
+2020-03-31,Santa Clara,1399,30,298,13
+2020-02-01,Santa Cruz,0,0,N,N
+2020-02-02,Santa Cruz,0,0,N,N
+2020-02-03,Santa Cruz,0,0,N,N
+2020-02-04,Santa Cruz,0,0,N,N
+2020-02-05,Santa Cruz,0,0,N,N
+2020-02-06,Santa Cruz,0,0,N,N
+2020-02-07,Santa Cruz,0,0,N,N
+2020-02-08,Santa Cruz,0,0,0,0
+2020-02-09,Santa Cruz,0,0,0,0
+2020-02-10,Santa Cruz,0,0,0,0
+2020-02-11,Santa Cruz,0,0,0,0
+2020-02-12,Santa Cruz,0,0,0,0
+2020-02-13,Santa Cruz,0,0,0,0
+2020-02-14,Santa Cruz,0,0,0,0
+2020-02-15,Santa Cruz,0,0,0,0
+2020-02-16,Santa Cruz,0,0,0,0
+2020-02-17,Santa Cruz,0,0,0,0
+2020-02-18,Santa Cruz,0,0,0,0
+2020-02-19,Santa Cruz,0,0,0,0
+2020-02-20,Santa Cruz,2,0,2,0
+2020-02-21,Santa Cruz,2,0,2,0
+2020-02-22,Santa Cruz,2,0,2,0
+2020-02-23,Santa Cruz,2,0,2,0
+2020-02-24,Santa Cruz,5,0,5,0
+2020-02-25,Santa Cruz,5,0,5,0
+2020-02-26,Santa Cruz,6,0,6,0
+2020-02-27,Santa Cruz,6,0,4,0
+2020-02-28,Santa Cruz,8,0,6,0
+2020-02-29,Santa Cruz,8,0,6,0
+2020-03-01,Santa Cruz,8,0,6,0
+2020-03-02,Santa Cruz,9,0,4,0
+2020-03-03,Santa Cruz,10,0,5,0
+2020-03-04,Santa Cruz,13,0,7,0
+2020-03-05,Santa Cruz,13,0,7,0
+2020-03-06,Santa Cruz,15,0,7,0
+2020-03-07,Santa Cruz,17,0,9,0
+2020-03-08,Santa Cruz,17,0,9,0
+2020-03-09,Santa Cruz,19,0,10,0
+2020-03-10,Santa Cruz,22,0,12,0
+2020-03-11,Santa Cruz,26,0,13,0
+2020-03-12,Santa Cruz,29,0,16,0
+2020-03-13,Santa Cruz,32,0,17,0
+2020-03-14,Santa Cruz,33,0,16,0
+2020-03-15,Santa Cruz,38,0,21,0
+2020-03-16,Santa Cruz,44,0,25,0
+2020-03-17,Santa Cruz,51,0,29,0
+2020-03-18,Santa Cruz,54,0,28,0
+2020-03-19,Santa Cruz,56,0,27,0
+2020-03-20,Santa Cruz,59,0,27,0
+2020-03-21,Santa Cruz,61,0,28,0
+2020-03-22,Santa Cruz,63,0,25,0
+2020-03-23,Santa Cruz,64,0,20,0
+2020-03-24,Santa Cruz,66,0,15,0
+2020-03-25,Santa Cruz,71,0,17,0
+2020-03-26,Santa Cruz,74,0,18,0
+2020-03-27,Santa Cruz,78,0,19,0
+2020-03-28,Santa Cruz,79,0,18,0
+2020-03-29,Santa Cruz,80,1,17,1
+2020-03-30,Santa Cruz,80,1,16,1
+2020-03-31,Santa Cruz,83,1,17,1
+2020-02-01,Shasta,0,0,N,N
+2020-02-02,Shasta,0,0,N,N
+2020-02-03,Shasta,0,0,N,N
+2020-02-04,Shasta,0,0,N,N
+2020-02-05,Shasta,0,0,N,N
+2020-02-06,Shasta,0,0,N,N
+2020-02-07,Shasta,0,0,N,N
+2020-02-08,Shasta,0,0,0,0
+2020-02-09,Shasta,0,0,0,0
+2020-02-10,Shasta,0,0,0,0
+2020-02-11,Shasta,0,0,0,0
+2020-02-12,Shasta,0,0,0,0
+2020-02-13,Shasta,0,0,0,0
+2020-02-14,Shasta,0,0,0,0
+2020-02-15,Shasta,0,0,0,0
+2020-02-16,Shasta,0,0,0,0
+2020-02-17,Shasta,0,0,0,0
+2020-02-18,Shasta,0,0,0,0
+2020-02-19,Shasta,0,0,0,0
+2020-02-20,Shasta,0,0,0,0
+2020-02-21,Shasta,0,0,0,0
+2020-02-22,Shasta,0,0,0,0
+2020-02-23,Shasta,0,0,0,0
+2020-02-24,Shasta,0,0,0,0
+2020-02-25,Shasta,0,0,0,0
+2020-02-26,Shasta,0,0,0,0
+2020-02-27,Shasta,0,0,0,0
+2020-02-28,Shasta,2,0,2,0
+2020-02-29,Shasta,2,0,2,0
+2020-03-01,Shasta,2,0,2,0
+2020-03-02,Shasta,2,0,2,0
+2020-03-03,Shasta,2,0,2,0
+2020-03-04,Shasta,2,0,2,0
+2020-03-05,Shasta,2,0,2,0
+2020-03-06,Shasta,2,0,0,0
+2020-03-07,Shasta,2,0,0,0
+2020-03-08,Shasta,2,0,0,0
+2020-03-09,Shasta,2,0,0,0
+2020-03-10,Shasta,2,0,0,0
+2020-03-11,Shasta,2,0,0,0
+2020-03-12,Shasta,2,0,0,0
+2020-03-13,Shasta,3,0,1,0
+2020-03-14,Shasta,4,0,2,0
+2020-03-15,Shasta,4,0,2,0
+2020-03-16,Shasta,4,0,2,0
+2020-03-17,Shasta,4,0,2,0
+2020-03-18,Shasta,8,0,6,0
+2020-03-19,Shasta,9,0,7,0
+2020-03-20,Shasta,10,0,7,0
+2020-03-21,Shasta,11,0,7,0
+2020-03-22,Shasta,12,0,8,0
+2020-03-23,Shasta,12,0,8,0
+2020-03-24,Shasta,14,0,10,0
+2020-03-25,Shasta,15,1,7,1
+2020-03-26,Shasta,16,1,7,1
+2020-03-27,Shasta,16,1,6,1
+2020-03-28,Shasta,19,2,8,2
+2020-03-29,Shasta,19,1,7,1
+2020-03-30,Shasta,20,1,8,1
+2020-03-31,Shasta,21,1,7,1
+2020-02-01,Sierra,0,0,N,N
+2020-02-02,Sierra,0,0,N,N
+2020-02-03,Sierra,0,0,N,N
+2020-02-04,Sierra,0,0,N,N
+2020-02-05,Sierra,0,0,N,N
+2020-02-06,Sierra,0,0,N,N
+2020-02-07,Sierra,0,0,N,N
+2020-02-08,Sierra,0,0,0,0
+2020-02-09,Sierra,0,0,0,0
+2020-02-10,Sierra,0,0,0,0
+2020-02-11,Sierra,0,0,0,0
+2020-02-12,Sierra,0,0,0,0
+2020-02-13,Sierra,0,0,0,0
+2020-02-14,Sierra,0,0,0,0
+2020-02-15,Sierra,0,0,0,0
+2020-02-16,Sierra,0,0,0,0
+2020-02-17,Sierra,0,0,0,0
+2020-02-18,Sierra,0,0,0,0
+2020-02-19,Sierra,0,0,0,0
+2020-02-20,Sierra,0,0,0,0
+2020-02-21,Sierra,0,0,0,0
+2020-02-22,Sierra,0,0,0,0
+2020-02-23,Sierra,0,0,0,0
+2020-02-24,Sierra,0,0,0,0
+2020-02-25,Sierra,0,0,0,0
+2020-02-26,Sierra,0,0,0,0
+2020-02-27,Sierra,0,0,0,0
+2020-02-28,Sierra,0,0,0,0
+2020-02-29,Sierra,0,0,0,0
+2020-03-01,Sierra,0,0,0,0
+2020-03-02,Sierra,0,0,0,0
+2020-03-03,Sierra,0,0,0,0
+2020-03-04,Sierra,0,0,0,0
+2020-03-05,Sierra,0,0,0,0
+2020-03-06,Sierra,0,0,0,0
+2020-03-07,Sierra,0,0,0,0
+2020-03-08,Sierra,0,0,0,0
+2020-03-09,Sierra,0,0,0,0
+2020-03-10,Sierra,0,0,0,0
+2020-03-11,Sierra,0,0,0,0
+2020-03-12,Sierra,0,0,0,0
+2020-03-13,Sierra,0,0,0,0
+2020-03-14,Sierra,0,0,0,0
+2020-03-15,Sierra,0,0,0,0
+2020-03-16,Sierra,0,0,0,0
+2020-03-17,Sierra,0,0,0,0
+2020-03-18,Sierra,0,0,0,0
+2020-03-19,Sierra,0,0,0,0
+2020-03-20,Sierra,0,0,0,0
+2020-03-21,Sierra,0,0,0,0
+2020-03-22,Sierra,0,0,0,0
+2020-03-23,Sierra,0,0,0,0
+2020-03-24,Sierra,0,0,0,0
+2020-03-25,Sierra,0,0,0,0
+2020-03-26,Sierra,0,0,0,0
+2020-03-27,Sierra,0,0,0,0
+2020-03-28,Sierra,0,0,0,0
+2020-03-29,Sierra,0,0,0,0
+2020-03-30,Sierra,0,0,0,0
+2020-03-31,Sierra,0,0,0,0
+2020-02-01,Siskiyou,0,0,N,N
+2020-02-02,Siskiyou,0,0,N,N
+2020-02-03,Siskiyou,0,0,N,N
+2020-02-04,Siskiyou,0,0,N,N
+2020-02-05,Siskiyou,0,0,N,N
+2020-02-06,Siskiyou,0,0,N,N
+2020-02-07,Siskiyou,0,0,N,N
+2020-02-08,Siskiyou,0,0,0,0
+2020-02-09,Siskiyou,0,0,0,0
+2020-02-10,Siskiyou,0,0,0,0
+2020-02-11,Siskiyou,0,0,0,0
+2020-02-12,Siskiyou,0,0,0,0
+2020-02-13,Siskiyou,0,0,0,0
+2020-02-14,Siskiyou,0,0,0,0
+2020-02-15,Siskiyou,0,0,0,0
+2020-02-16,Siskiyou,0,0,0,0
+2020-02-17,Siskiyou,0,0,0,0
+2020-02-18,Siskiyou,0,0,0,0
+2020-02-19,Siskiyou,0,0,0,0
+2020-02-20,Siskiyou,0,0,0,0
+2020-02-21,Siskiyou,0,0,0,0
+2020-02-22,Siskiyou,0,0,0,0
+2020-02-23,Siskiyou,0,0,0,0
+2020-02-24,Siskiyou,0,0,0,0
+2020-02-25,Siskiyou,0,0,0,0
+2020-02-26,Siskiyou,0,0,0,0
+2020-02-27,Siskiyou,0,0,0,0
+2020-02-28,Siskiyou,0,0,0,0
+2020-02-29,Siskiyou,0,0,0,0
+2020-03-01,Siskiyou,0,0,0,0
+2020-03-02,Siskiyou,0,0,0,0
+2020-03-03,Siskiyou,0,0,0,0
+2020-03-04,Siskiyou,0,0,0,0
+2020-03-05,Siskiyou,0,0,0,0
+2020-03-06,Siskiyou,0,0,0,0
+2020-03-07,Siskiyou,0,0,0,0
+2020-03-08,Siskiyou,0,0,0,0
+2020-03-09,Siskiyou,0,0,0,0
+2020-03-10,Siskiyou,0,0,0,0
+2020-03-11,Siskiyou,0,0,0,0
+2020-03-12,Siskiyou,0,0,0,0
+2020-03-13,Siskiyou,0,0,0,0
+2020-03-14,Siskiyou,1,0,1,0
+2020-03-15,Siskiyou,2,0,2,0
+2020-03-16,Siskiyou,2,0,2,0
+2020-03-17,Siskiyou,3,0,3,0
+2020-03-18,Siskiyou,3,0,3,0
+2020-03-19,Siskiyou,3,0,3,0
+2020-03-20,Siskiyou,4,0,4,0
+2020-03-21,Siskiyou,4,0,3,0
+2020-03-22,Siskiyou,4,0,2,0
+2020-03-23,Siskiyou,4,0,2,0
+2020-03-24,Siskiyou,4,0,1,0
+2020-03-25,Siskiyou,4,0,1,0
+2020-03-26,Siskiyou,4,0,1,0
+2020-03-27,Siskiyou,4,0,0,0
+2020-03-28,Siskiyou,4,0,0,0
+2020-03-29,Siskiyou,4,0,0,0
+2020-03-30,Siskiyou,4,0,0,0
+2020-03-31,Siskiyou,4,0,0,0
+2020-02-01,Solano,0,0,N,N
+2020-02-02,Solano,0,0,N,N
+2020-02-03,Solano,0,0,N,N
+2020-02-04,Solano,0,0,N,N
+2020-02-05,Solano,0,0,N,N
+2020-02-06,Solano,0,0,N,N
+2020-02-07,Solano,0,0,N,N
+2020-02-08,Solano,0,0,0,0
+2020-02-09,Solano,0,0,0,0
+2020-02-10,Solano,0,0,0,0
+2020-02-11,Solano,0,0,0,0
+2020-02-12,Solano,0,0,0,0
+2020-02-13,Solano,0,0,0,0
+2020-02-14,Solano,1,0,1,0
+2020-02-15,Solano,1,0,1,0
+2020-02-16,Solano,1,0,1,0
+2020-02-17,Solano,3,0,3,0
+2020-02-18,Solano,5,0,5,0
+2020-02-19,Solano,5,0,5,0
+2020-02-20,Solano,8,0,8,0
+2020-02-21,Solano,10,0,9,0
+2020-02-22,Solano,11,0,10,0
+2020-02-23,Solano,11,0,10,0
+2020-02-24,Solano,13,0,10,0
+2020-02-25,Solano,16,0,11,0
+2020-02-26,Solano,17,0,12,0
+2020-02-27,Solano,17,0,9,0
+2020-02-28,Solano,17,0,7,0
+2020-02-29,Solano,18,0,7,0
+2020-03-01,Solano,19,0,8,0
+2020-03-02,Solano,19,0,6,0
+2020-03-03,Solano,20,0,4,0
+2020-03-04,Solano,21,0,4,0
+2020-03-05,Solano,22,0,5,0
+2020-03-06,Solano,22,0,5,0
+2020-03-07,Solano,23,0,5,0
+2020-03-08,Solano,24,0,5,0
+2020-03-09,Solano,25,0,6,0
+2020-03-10,Solano,27,0,7,0
+2020-03-11,Solano,29,0,8,0
+2020-03-12,Solano,34,0,12,0
+2020-03-13,Solano,39,0,17,0
+2020-03-14,Solano,40,0,17,0
+2020-03-15,Solano,42,0,18,0
+2020-03-16,Solano,43,0,18,0
+2020-03-17,Solano,48,0,21,0
+2020-03-18,Solano,51,0,22,0
+2020-03-19,Solano,55,0,21,0
+2020-03-20,Solano,59,0,20,0
+2020-03-21,Solano,63,0,23,0
+2020-03-22,Solano,65,0,23,0
+2020-03-23,Solano,74,0,31,0
+2020-03-24,Solano,78,0,30,0
+2020-03-25,Solano,80,0,29,0
+2020-03-26,Solano,85,0,30,0
+2020-03-27,Solano,93,0,34,0
+2020-03-28,Solano,99,0,36,0
+2020-03-29,Solano,103,0,38,0
+2020-03-30,Solano,111,0,37,0
+2020-03-31,Solano,117,0,39,0
+2020-02-01,Sonoma,0,0,N,N
+2020-02-02,Sonoma,0,0,N,N
+2020-02-03,Sonoma,0,0,N,N
+2020-02-04,Sonoma,0,0,N,N
+2020-02-05,Sonoma,0,0,N,N
+2020-02-06,Sonoma,0,0,N,N
+2020-02-07,Sonoma,0,0,N,N
+2020-02-08,Sonoma,0,0,0,0
+2020-02-09,Sonoma,0,0,0,0
+2020-02-10,Sonoma,0,0,0,0
+2020-02-11,Sonoma,0,0,0,0
+2020-02-12,Sonoma,0,0,0,0
+2020-02-13,Sonoma,0,0,0,0
+2020-02-14,Sonoma,0,0,0,0
+2020-02-15,Sonoma,0,0,0,0
+2020-02-16,Sonoma,1,0,1,0
+2020-02-17,Sonoma,1,0,1,0
+2020-02-18,Sonoma,1,0,1,0
+2020-02-19,Sonoma,2,0,2,0
+2020-02-20,Sonoma,2,0,2,0
+2020-02-21,Sonoma,3,0,3,0
+2020-02-22,Sonoma,4,0,4,0
+2020-02-23,Sonoma,5,0,4,0
+2020-02-24,Sonoma,5,0,4,0
+2020-02-25,Sonoma,5,0,4,0
+2020-02-26,Sonoma,5,0,3,0
+2020-02-27,Sonoma,5,0,3,0
+2020-02-28,Sonoma,6,0,3,0
+2020-02-29,Sonoma,6,0,2,0
+2020-03-01,Sonoma,9,0,4,0
+2020-03-02,Sonoma,10,0,5,0
+2020-03-03,Sonoma,11,0,6,0
+2020-03-04,Sonoma,11,0,6,0
+2020-03-05,Sonoma,12,0,7,0
+2020-03-06,Sonoma,13,0,7,0
+2020-03-07,Sonoma,13,0,7,0
+2020-03-08,Sonoma,17,0,8,0
+2020-03-09,Sonoma,22,0,12,0
+2020-03-10,Sonoma,27,0,16,0
+2020-03-11,Sonoma,30,0,19,0
+2020-03-12,Sonoma,34,0,22,0
+2020-03-13,Sonoma,40,0,27,0
+2020-03-14,Sonoma,41,0,28,0
+2020-03-15,Sonoma,54,0,37,0
+2020-03-16,Sonoma,63,0,41,0
+2020-03-17,Sonoma,71,0,44,0
+2020-03-18,Sonoma,79,0,49,0
+2020-03-19,Sonoma,88,0,54,0
+2020-03-20,Sonoma,91,0,51,0
+2020-03-21,Sonoma,99,1,58,1
+2020-03-22,Sonoma,100,1,46,1
+2020-03-23,Sonoma,105,1,42,1
+2020-03-24,Sonoma,117,1,46,1
+2020-03-25,Sonoma,124,1,45,1
+2020-03-26,Sonoma,129,1,41,1
+2020-03-27,Sonoma,134,1,43,1
+2020-03-28,Sonoma,142,2,43,1
+2020-03-29,Sonoma,144,1,44,0
+2020-03-30,Sonoma,146,1,41,0
+2020-03-31,Sonoma,149,1,32,0
+2020-02-01,Stanislaus,0,0,N,N
+2020-02-02,Stanislaus,0,0,N,N
+2020-02-03,Stanislaus,0,0,N,N
+2020-02-04,Stanislaus,0,0,N,N
+2020-02-05,Stanislaus,0,0,N,N
+2020-02-06,Stanislaus,0,0,N,N
+2020-02-07,Stanislaus,0,0,N,N
+2020-02-08,Stanislaus,0,0,0,0
+2020-02-09,Stanislaus,0,0,0,0
+2020-02-10,Stanislaus,1,0,1,0
+2020-02-11,Stanislaus,1,0,1,0
+2020-02-12,Stanislaus,1,0,1,0
+2020-02-13,Stanislaus,1,0,1,0
+2020-02-14,Stanislaus,1,0,1,0
+2020-02-15,Stanislaus,1,0,1,0
+2020-02-16,Stanislaus,1,0,1,0
+2020-02-17,Stanislaus,1,0,0,0
+2020-02-18,Stanislaus,1,0,0,0
+2020-02-19,Stanislaus,1,0,0,0
+2020-02-20,Stanislaus,2,0,1,0
+2020-02-21,Stanislaus,2,0,1,0
+2020-02-22,Stanislaus,2,0,1,0
+2020-02-23,Stanislaus,2,0,1,0
+2020-02-24,Stanislaus,2,0,1,0
+2020-02-25,Stanislaus,2,0,1,0
+2020-02-26,Stanislaus,2,0,1,0
+2020-02-27,Stanislaus,2,0,0,0
+2020-02-28,Stanislaus,2,0,0,0
+2020-02-29,Stanislaus,2,0,0,0
+2020-03-01,Stanislaus,2,0,0,0
+2020-03-02,Stanislaus,2,0,0,0
+2020-03-03,Stanislaus,5,0,3,0
+2020-03-04,Stanislaus,5,0,3,0
+2020-03-05,Stanislaus,5,0,3,0
+2020-03-06,Stanislaus,6,0,4,0
+2020-03-07,Stanislaus,10,0,8,0
+2020-03-08,Stanislaus,11,0,9,0
+2020-03-09,Stanislaus,12,0,10,0
+2020-03-10,Stanislaus,12,0,7,0
+2020-03-11,Stanislaus,16,0,11,0
+2020-03-12,Stanislaus,16,0,11,0
+2020-03-13,Stanislaus,18,0,12,0
+2020-03-14,Stanislaus,23,0,13,0
+2020-03-15,Stanislaus,27,0,16,0
+2020-03-16,Stanislaus,28,0,16,0
+2020-03-17,Stanislaus,32,0,20,0
+2020-03-18,Stanislaus,35,0,19,0
+2020-03-19,Stanislaus,39,0,23,0
+2020-03-20,Stanislaus,40,0,22,0
+2020-03-21,Stanislaus,46,0,23,0
+2020-03-22,Stanislaus,52,0,25,0
+2020-03-23,Stanislaus,58,0,30,0
+2020-03-24,Stanislaus,66,0,34,0
+2020-03-25,Stanislaus,75,0,40,0
+2020-03-26,Stanislaus,82,0,43,0
+2020-03-27,Stanislaus,84,0,44,0
+2020-03-28,Stanislaus,86,0,40,0
+2020-03-29,Stanislaus,91,0,39,0
+2020-03-30,Stanislaus,96,0,38,0
+2020-03-31,Stanislaus,103,0,37,0
+2020-02-01,Sutter,0,0,N,N
+2020-02-02,Sutter,0,0,N,N
+2020-02-03,Sutter,0,0,N,N
+2020-02-04,Sutter,0,0,N,N
+2020-02-05,Sutter,0,0,N,N
+2020-02-06,Sutter,0,0,N,N
+2020-02-07,Sutter,0,0,N,N
+2020-02-08,Sutter,0,0,0,0
+2020-02-09,Sutter,0,0,0,0
+2020-02-10,Sutter,0,0,0,0
+2020-02-11,Sutter,0,0,0,0
+2020-02-12,Sutter,0,0,0,0
+2020-02-13,Sutter,0,0,0,0
+2020-02-14,Sutter,0,0,0,0
+2020-02-15,Sutter,0,0,0,0
+2020-02-16,Sutter,0,0,0,0
+2020-02-17,Sutter,0,0,0,0
+2020-02-18,Sutter,0,0,0,0
+2020-02-19,Sutter,0,0,0,0
+2020-02-20,Sutter,0,0,0,0
+2020-02-21,Sutter,0,0,0,0
+2020-02-22,Sutter,0,0,0,0
+2020-02-23,Sutter,0,0,0,0
+2020-02-24,Sutter,0,0,0,0
+2020-02-25,Sutter,0,0,0,0
+2020-02-26,Sutter,0,0,0,0
+2020-02-27,Sutter,0,0,0,0
+2020-02-28,Sutter,0,0,0,0
+2020-02-29,Sutter,0,0,0,0
+2020-03-01,Sutter,0,0,0,0
+2020-03-02,Sutter,0,0,0,0
+2020-03-03,Sutter,0,0,0,0
+2020-03-04,Sutter,0,0,0,0
+2020-03-05,Sutter,0,0,0,0
+2020-03-06,Sutter,0,0,0,0
+2020-03-07,Sutter,0,0,0,0
+2020-03-08,Sutter,0,0,0,0
+2020-03-09,Sutter,0,0,0,0
+2020-03-10,Sutter,0,0,0,0
+2020-03-11,Sutter,0,0,0,0
+2020-03-12,Sutter,0,0,0,0
+2020-03-13,Sutter,2,0,2,0
+2020-03-14,Sutter,2,0,2,0
+2020-03-15,Sutter,2,0,2,0
+2020-03-16,Sutter,3,0,3,0
+2020-03-17,Sutter,5,0,5,0
+2020-03-18,Sutter,5,0,5,0
+2020-03-19,Sutter,7,0,7,0
+2020-03-20,Sutter,7,0,5,0
+2020-03-21,Sutter,7,0,5,0
+2020-03-22,Sutter,8,0,6,0
+2020-03-23,Sutter,9,0,6,0
+2020-03-24,Sutter,9,0,4,0
+2020-03-25,Sutter,9,0,4,0
+2020-03-26,Sutter,12,0,5,0
+2020-03-27,Sutter,16,0,9,0
+2020-03-28,Sutter,17,0,10,0
+2020-03-29,Sutter,17,0,9,0
+2020-03-30,Sutter,20,0,11,0
+2020-03-31,Sutter,21,0,12,0
+2020-02-01,Tehama,0,0,N,N
+2020-02-02,Tehama,0,0,N,N
+2020-02-03,Tehama,0,0,N,N
+2020-02-04,Tehama,0,0,N,N
+2020-02-05,Tehama,0,0,N,N
+2020-02-06,Tehama,0,0,N,N
+2020-02-07,Tehama,0,0,N,N
+2020-02-08,Tehama,0,0,0,0
+2020-02-09,Tehama,0,0,0,0
+2020-02-10,Tehama,0,0,0,0
+2020-02-11,Tehama,0,0,0,0
+2020-02-12,Tehama,0,0,0,0
+2020-02-13,Tehama,0,0,0,0
+2020-02-14,Tehama,0,0,0,0
+2020-02-15,Tehama,0,0,0,0
+2020-02-16,Tehama,0,0,0,0
+2020-02-17,Tehama,0,0,0,0
+2020-02-18,Tehama,0,0,0,0
+2020-02-19,Tehama,0,0,0,0
+2020-02-20,Tehama,0,0,0,0
+2020-02-21,Tehama,0,0,0,0
+2020-02-22,Tehama,0,0,0,0
+2020-02-23,Tehama,0,0,0,0
+2020-02-24,Tehama,0,0,0,0
+2020-02-25,Tehama,0,0,0,0
+2020-02-26,Tehama,0,0,0,0
+2020-02-27,Tehama,0,0,0,0
+2020-02-28,Tehama,0,0,0,0
+2020-02-29,Tehama,0,0,0,0
+2020-03-01,Tehama,0,0,0,0
+2020-03-02,Tehama,0,0,0,0
+2020-03-03,Tehama,0,0,0,0
+2020-03-04,Tehama,0,0,0,0
+2020-03-05,Tehama,0,0,0,0
+2020-03-06,Tehama,0,0,0,0
+2020-03-07,Tehama,0,0,0,0
+2020-03-08,Tehama,0,0,0,0
+2020-03-09,Tehama,0,0,0,0
+2020-03-10,Tehama,0,0,0,0
+2020-03-11,Tehama,0,0,0,0
+2020-03-12,Tehama,0,0,0,0
+2020-03-13,Tehama,0,0,0,0
+2020-03-14,Tehama,0,0,0,0
+2020-03-15,Tehama,0,0,0,0
+2020-03-16,Tehama,0,0,0,0
+2020-03-17,Tehama,0,0,0,0
+2020-03-18,Tehama,0,0,0,0
+2020-03-19,Tehama,0,0,0,0
+2020-03-20,Tehama,0,0,0,0
+2020-03-21,Tehama,0,0,0,0
+2020-03-22,Tehama,0,0,0,0
+2020-03-23,Tehama,1,0,1,0
+2020-03-24,Tehama,1,0,1,0
+2020-03-25,Tehama,1,0,1,0
+2020-03-26,Tehama,1,0,1,0
+2020-03-27,Tehama,1,0,1,0
+2020-03-28,Tehama,1,0,1,0
+2020-03-29,Tehama,1,0,1,0
+2020-03-30,Tehama,1,0,0,0
+2020-03-31,Tehama,1,0,0,0
+2020-02-01,Trinity,0,0,N,N
+2020-02-02,Trinity,0,0,N,N
+2020-02-03,Trinity,0,0,N,N
+2020-02-04,Trinity,0,0,N,N
+2020-02-05,Trinity,0,0,N,N
+2020-02-06,Trinity,0,0,N,N
+2020-02-07,Trinity,0,0,N,N
+2020-02-08,Trinity,0,0,0,0
+2020-02-09,Trinity,0,0,0,0
+2020-02-10,Trinity,0,0,0,0
+2020-02-11,Trinity,0,0,0,0
+2020-02-12,Trinity,0,0,0,0
+2020-02-13,Trinity,0,0,0,0
+2020-02-14,Trinity,0,0,0,0
+2020-02-15,Trinity,0,0,0,0
+2020-02-16,Trinity,0,0,0,0
+2020-02-17,Trinity,0,0,0,0
+2020-02-18,Trinity,0,0,0,0
+2020-02-19,Trinity,0,0,0,0
+2020-02-20,Trinity,0,0,0,0
+2020-02-21,Trinity,0,0,0,0
+2020-02-22,Trinity,0,0,0,0
+2020-02-23,Trinity,0,0,0,0
+2020-02-24,Trinity,0,0,0,0
+2020-02-25,Trinity,0,0,0,0
+2020-02-26,Trinity,0,0,0,0
+2020-02-27,Trinity,0,0,0,0
+2020-02-28,Trinity,0,0,0,0
+2020-02-29,Trinity,0,0,0,0
+2020-03-01,Trinity,0,0,0,0
+2020-03-02,Trinity,0,0,0,0
+2020-03-03,Trinity,0,0,0,0
+2020-03-04,Trinity,0,0,0,0
+2020-03-05,Trinity,0,0,0,0
+2020-03-06,Trinity,0,0,0,0
+2020-03-07,Trinity,0,0,0,0
+2020-03-08,Trinity,0,0,0,0
+2020-03-09,Trinity,0,0,0,0
+2020-03-10,Trinity,0,0,0,0
+2020-03-11,Trinity,0,0,0,0
+2020-03-12,Trinity,0,0,0,0
+2020-03-13,Trinity,0,0,0,0
+2020-03-14,Trinity,0,0,0,0
+2020-03-15,Trinity,0,0,0,0
+2020-03-16,Trinity,0,0,0,0
+2020-03-17,Trinity,0,0,0,0
+2020-03-18,Trinity,0,0,0,0
+2020-03-19,Trinity,0,0,0,0
+2020-03-20,Trinity,0,0,0,0
+2020-03-21,Trinity,0,0,0,0
+2020-03-22,Trinity,0,0,0,0
+2020-03-23,Trinity,0,0,0,0
+2020-03-24,Trinity,0,0,0,0
+2020-03-25,Trinity,0,0,0,0
+2020-03-26,Trinity,0,0,0,0
+2020-03-27,Trinity,0,0,0,0
+2020-03-28,Trinity,0,0,0,0
+2020-03-29,Trinity,0,0,0,0
+2020-03-30,Trinity,0,0,0,0
+2020-03-31,Trinity,0,0,0,0
+2020-02-01,Tulare,1,0,N,N
+2020-02-02,Tulare,2,0,N,N
+2020-02-03,Tulare,2,0,N,N
+2020-02-04,Tulare,2,0,N,N
+2020-02-05,Tulare,2,0,N,N
+2020-02-06,Tulare,2,0,N,N
+2020-02-07,Tulare,2,0,N,N
+2020-02-08,Tulare,2,0,1,0
+2020-02-09,Tulare,2,0,0,0
+2020-02-10,Tulare,2,0,0,0
+2020-02-11,Tulare,2,0,0,0
+2020-02-12,Tulare,2,0,0,0
+2020-02-13,Tulare,2,0,0,0
+2020-02-14,Tulare,2,0,0,0
+2020-02-15,Tulare,2,0,0,0
+2020-02-16,Tulare,2,0,0,0
+2020-02-17,Tulare,2,0,0,0
+2020-02-18,Tulare,2,0,0,0
+2020-02-19,Tulare,2,0,0,0
+2020-02-20,Tulare,2,0,0,0
+2020-02-21,Tulare,2,0,0,0
+2020-02-22,Tulare,2,0,0,0
+2020-02-23,Tulare,2,0,0,0
+2020-02-24,Tulare,2,0,0,0
+2020-02-25,Tulare,2,0,0,0
+2020-02-26,Tulare,2,0,0,0
+2020-02-27,Tulare,2,0,0,0
+2020-02-28,Tulare,2,0,0,0
+2020-02-29,Tulare,2,0,0,0
+2020-03-01,Tulare,4,0,2,0
+2020-03-02,Tulare,4,0,2,0
+2020-03-03,Tulare,4,0,2,0
+2020-03-04,Tulare,4,0,2,0
+2020-03-05,Tulare,4,0,2,0
+2020-03-06,Tulare,4,0,2,0
+2020-03-07,Tulare,4,0,2,0
+2020-03-08,Tulare,7,0,3,0
+2020-03-09,Tulare,7,0,3,0
+2020-03-10,Tulare,7,0,3,0
+2020-03-11,Tulare,8,0,4,0
+2020-03-12,Tulare,9,0,5,0
+2020-03-13,Tulare,9,0,5,0
+2020-03-14,Tulare,12,0,8,0
+2020-03-15,Tulare,14,0,7,0
+2020-03-16,Tulare,19,0,12,0
+2020-03-17,Tulare,22,0,15,0
+2020-03-18,Tulare,25,0,17,0
+2020-03-19,Tulare,33,0,24,0
+2020-03-20,Tulare,38,0,29,0
+2020-03-21,Tulare,42,0,30,0
+2020-03-22,Tulare,46,0,32,0
+2020-03-23,Tulare,50,0,31,0
+2020-03-24,Tulare,56,0,34,0
+2020-03-25,Tulare,64,0,39,0
+2020-03-26,Tulare,74,0,41,0
+2020-03-27,Tulare,81,0,43,0
+2020-03-28,Tulare,89,0,47,0
+2020-03-29,Tulare,95,1,49,1
+2020-03-30,Tulare,114,1,64,1
+2020-03-31,Tulare,124,1,68,1
+2020-02-01,Tuolumne,0,0,N,N
+2020-02-02,Tuolumne,0,0,N,N
+2020-02-03,Tuolumne,0,0,N,N
+2020-02-04,Tuolumne,0,0,N,N
+2020-02-05,Tuolumne,0,0,N,N
+2020-02-06,Tuolumne,0,0,N,N
+2020-02-07,Tuolumne,0,0,N,N
+2020-02-08,Tuolumne,0,0,0,0
+2020-02-09,Tuolumne,0,0,0,0
+2020-02-10,Tuolumne,0,0,0,0
+2020-02-11,Tuolumne,0,0,0,0
+2020-02-12,Tuolumne,0,0,0,0
+2020-02-13,Tuolumne,0,0,0,0
+2020-02-14,Tuolumne,0,0,0,0
+2020-02-15,Tuolumne,0,0,0,0
+2020-02-16,Tuolumne,0,0,0,0
+2020-02-17,Tuolumne,0,0,0,0
+2020-02-18,Tuolumne,0,0,0,0
+2020-02-19,Tuolumne,0,0,0,0
+2020-02-20,Tuolumne,0,0,0,0
+2020-02-21,Tuolumne,0,0,0,0
+2020-02-22,Tuolumne,0,0,0,0
+2020-02-23,Tuolumne,0,0,0,0
+2020-02-24,Tuolumne,0,0,0,0
+2020-02-25,Tuolumne,0,0,0,0
+2020-02-26,Tuolumne,0,0,0,0
+2020-02-27,Tuolumne,0,0,0,0
+2020-02-28,Tuolumne,0,0,0,0
+2020-02-29,Tuolumne,0,0,0,0
+2020-03-01,Tuolumne,0,0,0,0
+2020-03-02,Tuolumne,0,0,0,0
+2020-03-03,Tuolumne,0,0,0,0
+2020-03-04,Tuolumne,0,0,0,0
+2020-03-05,Tuolumne,1,0,1,0
+2020-03-06,Tuolumne,1,0,1,0
+2020-03-07,Tuolumne,1,0,1,0
+2020-03-08,Tuolumne,1,0,1,0
+2020-03-09,Tuolumne,1,0,1,0
+2020-03-10,Tuolumne,1,0,1,0
+2020-03-11,Tuolumne,1,0,1,0
+2020-03-12,Tuolumne,1,0,0,0
+2020-03-13,Tuolumne,1,0,0,0
+2020-03-14,Tuolumne,1,0,0,0
+2020-03-15,Tuolumne,1,0,0,0
+2020-03-16,Tuolumne,2,0,1,0
+2020-03-17,Tuolumne,2,0,1,0
+2020-03-18,Tuolumne,2,0,1,0
+2020-03-19,Tuolumne,2,0,1,0
+2020-03-20,Tuolumne,2,0,1,0
+2020-03-21,Tuolumne,2,0,1,0
+2020-03-22,Tuolumne,2,0,1,0
+2020-03-23,Tuolumne,2,0,0,0
+2020-03-24,Tuolumne,2,0,0,0
+2020-03-25,Tuolumne,2,0,0,0
+2020-03-26,Tuolumne,2,0,0,0
+2020-03-27,Tuolumne,2,0,0,0
+2020-03-28,Tuolumne,2,0,0,0
+2020-03-29,Tuolumne,2,0,0,0
+2020-03-30,Tuolumne,3,0,1,0
+2020-03-31,Tuolumne,3,0,1,0
+2020-02-01,Ventura,0,0,N,N
+2020-02-02,Ventura,0,0,N,N
+2020-02-03,Ventura,0,0,N,N
+2020-02-04,Ventura,0,0,N,N
+2020-02-05,Ventura,0,0,N,N
+2020-02-06,Ventura,1,0,N,N
+2020-02-07,Ventura,1,0,N,N
+2020-02-08,Ventura,1,0,1,0
+2020-02-09,Ventura,1,0,1,0
+2020-02-10,Ventura,2,0,2,0
+2020-02-11,Ventura,2,0,2,0
+2020-02-12,Ventura,2,0,2,0
+2020-02-13,Ventura,2,0,1,0
+2020-02-14,Ventura,2,0,1,0
+2020-02-15,Ventura,2,0,1,0
+2020-02-16,Ventura,2,0,1,0
+2020-02-17,Ventura,2,0,0,0
+2020-02-18,Ventura,2,0,0,0
+2020-02-19,Ventura,2,0,0,0
+2020-02-20,Ventura,4,0,2,0
+2020-02-21,Ventura,4,0,2,0
+2020-02-22,Ventura,4,0,2,0
+2020-02-23,Ventura,4,0,2,0
+2020-02-24,Ventura,4,0,2,0
+2020-02-25,Ventura,4,0,2,0
+2020-02-26,Ventura,4,0,2,0
+2020-02-27,Ventura,4,0,0,0
+2020-02-28,Ventura,6,0,2,0
+2020-02-29,Ventura,6,0,2,0
+2020-03-01,Ventura,8,0,4,0
+2020-03-02,Ventura,10,0,6,0
+2020-03-03,Ventura,11,0,7,0
+2020-03-04,Ventura,12,0,8,0
+2020-03-05,Ventura,13,0,9,0
+2020-03-06,Ventura,15,0,9,0
+2020-03-07,Ventura,18,0,12,0
+2020-03-08,Ventura,21,0,13,0
+2020-03-09,Ventura,25,0,15,0
+2020-03-10,Ventura,29,0,18,0
+2020-03-11,Ventura,37,0,25,0
+2020-03-12,Ventura,45,0,32,0
+2020-03-13,Ventura,54,0,39,0
+2020-03-14,Ventura,68,0,50,0
+2020-03-15,Ventura,77,0,56,0
+2020-03-16,Ventura,88,0,63,0
+2020-03-17,Ventura,98,0,69,0
+2020-03-18,Ventura,115,0,78,0
+2020-03-19,Ventura,134,0,89,0
+2020-03-20,Ventura,156,0,102,0
+2020-03-21,Ventura,166,0,98,0
+2020-03-22,Ventura,174,0,97,0
+2020-03-23,Ventura,196,0,108,0
+2020-03-24,Ventura,213,1,115,1
+2020-03-25,Ventura,229,1,114,1
+2020-03-26,Ventura,245,1,111,1
+2020-03-27,Ventura,261,2,105,2
+2020-03-28,Ventura,270,4,104,4
+2020-03-29,Ventura,274,2,100,2
+2020-03-30,Ventura,301,2,105,2
+2020-03-31,Ventura,312,4,99,3
+2020-02-01,Yolo,0,0,N,N
+2020-02-02,Yolo,1,0,N,N
+2020-02-03,Yolo,1,0,N,N
+2020-02-04,Yolo,1,0,N,N
+2020-02-05,Yolo,1,0,N,N
+2020-02-06,Yolo,1,0,N,N
+2020-02-07,Yolo,1,0,N,N
+2020-02-08,Yolo,1,0,1,0
+2020-02-09,Yolo,1,0,0,0
+2020-02-10,Yolo,1,0,0,0
+2020-02-11,Yolo,1,0,0,0
+2020-02-12,Yolo,1,0,0,0
+2020-02-13,Yolo,1,0,0,0
+2020-02-14,Yolo,1,0,0,0
+2020-02-15,Yolo,1,0,0,0
+2020-02-16,Yolo,1,0,0,0
+2020-02-17,Yolo,1,0,0,0
+2020-02-18,Yolo,1,0,0,0
+2020-02-19,Yolo,1,0,0,0
+2020-02-20,Yolo,1,0,0,0
+2020-02-21,Yolo,1,0,0,0
+2020-02-22,Yolo,1,0,0,0
+2020-02-23,Yolo,2,0,1,0
+2020-02-24,Yolo,2,0,1,0
+2020-02-25,Yolo,2,0,1,0
+2020-02-26,Yolo,2,0,1,0
+2020-02-27,Yolo,2,0,1,0
+2020-02-28,Yolo,2,0,1,0
+2020-02-29,Yolo,2,0,1,0
+2020-03-01,Yolo,2,0,0,0
+2020-03-02,Yolo,2,0,0,0
+2020-03-03,Yolo,2,0,0,0
+2020-03-04,Yolo,3,0,1,0
+2020-03-05,Yolo,3,0,1,0
+2020-03-06,Yolo,3,0,1,0
+2020-03-07,Yolo,3,0,1,0
+2020-03-08,Yolo,3,0,1,0
+2020-03-09,Yolo,6,0,4,0
+2020-03-10,Yolo,7,0,5,0
+2020-03-11,Yolo,10,0,7,0
+2020-03-12,Yolo,14,0,11,0
+2020-03-13,Yolo,15,0,12,0
+2020-03-14,Yolo,15,0,12,0
+2020-03-15,Yolo,15,0,12,0
+2020-03-16,Yolo,18,0,12,0
+2020-03-17,Yolo,19,0,12,0
+2020-03-18,Yolo,23,0,13,0
+2020-03-19,Yolo,26,0,12,0
+2020-03-20,Yolo,30,0,15,0
+2020-03-21,Yolo,32,0,17,0
+2020-03-22,Yolo,32,0,17,0
+2020-03-23,Yolo,38,0,20,0
+2020-03-24,Yolo,39,0,20,0
+2020-03-25,Yolo,43,1,20,1
+2020-03-26,Yolo,45,1,19,1
+2020-03-27,Yolo,49,1,19,1
+2020-03-28,Yolo,50,2,18,2
+2020-03-29,Yolo,51,1,19,1
+2020-03-30,Yolo,56,1,18,1
+2020-03-31,Yolo,58,1,19,1
+2020-02-01,Yuba,0,0,N,N
+2020-02-02,Yuba,0,0,N,N
+2020-02-03,Yuba,0,0,N,N
+2020-02-04,Yuba,0,0,N,N
+2020-02-05,Yuba,0,0,N,N
+2020-02-06,Yuba,0,0,N,N
+2020-02-07,Yuba,0,0,N,N
+2020-02-08,Yuba,0,0,0,0
+2020-02-09,Yuba,0,0,0,0
+2020-02-10,Yuba,0,0,0,0
+2020-02-11,Yuba,0,0,0,0
+2020-02-12,Yuba,0,0,0,0
+2020-02-13,Yuba,0,0,0,0
+2020-02-14,Yuba,0,0,0,0
+2020-02-15,Yuba,0,0,0,0
+2020-02-16,Yuba,0,0,0,0
+2020-02-17,Yuba,0,0,0,0
+2020-02-18,Yuba,0,0,0,0
+2020-02-19,Yuba,0,0,0,0
+2020-02-20,Yuba,0,0,0,0
+2020-02-21,Yuba,0,0,0,0
+2020-02-22,Yuba,0,0,0,0
+2020-02-23,Yuba,0,0,0,0
+2020-02-24,Yuba,0,0,0,0
+2020-02-25,Yuba,0,0,0,0
+2020-02-26,Yuba,0,0,0,0
+2020-02-27,Yuba,0,0,0,0
+2020-02-28,Yuba,0,0,0,0
+2020-02-29,Yuba,0,0,0,0
+2020-03-01,Yuba,0,0,0,0
+2020-03-02,Yuba,0,0,0,0
+2020-03-03,Yuba,0,0,0,0
+2020-03-04,Yuba,0,0,0,0
+2020-03-05,Yuba,0,0,0,0
+2020-03-06,Yuba,0,0,0,0
+2020-03-07,Yuba,0,0,0,0
+2020-03-08,Yuba,0,0,0,0
+2020-03-09,Yuba,0,0,0,0
+2020-03-10,Yuba,1,0,1,0
+2020-03-11,Yuba,1,0,1,0
+2020-03-12,Yuba,1,0,1,0
+2020-03-13,Yuba,1,0,1,0
+2020-03-14,Yuba,1,0,1,0
+2020-03-15,Yuba,2,0,2,0
+2020-03-16,Yuba,3,0,3,0
+2020-03-17,Yuba,4,0,3,0
+2020-03-18,Yuba,4,0,3,0
+2020-03-19,Yuba,5,0,4,0
+2020-03-20,Yuba,6,0,5,0
+2020-03-21,Yuba,7,0,6,0
+2020-03-22,Yuba,7,0,5,0
+2020-03-23,Yuba,7,0,4,0
+2020-03-24,Yuba,7,0,3,0
+2020-03-25,Yuba,7,0,3,0
+2020-03-26,Yuba,7,0,2,0
+2020-03-27,Yuba,7,0,1,0
+2020-03-28,Yuba,8,0,1,0
+2020-03-29,Yuba,8,0,1,0
+2020-03-30,Yuba,8,0,1,0
+2020-03-31,Yuba,9,0,2,0
