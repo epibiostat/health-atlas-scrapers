@@ -7,6 +7,7 @@ all: scrape          \
 
 scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call make,county-cases/Makefile)
+	$(call make,county-vaccinations/Makefile)
 	$(call make,zip-vaccinations/Makefile)
 
 
