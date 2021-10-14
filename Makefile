@@ -7,6 +7,7 @@ all: scrape          \
 
 scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call make,county-cases/Makefile)
+	$(call make,zip-vaccinations/Makefile)
 
 
 clean_notebooks: ## Remove all temporary notebook outputs created by the our commands. Example: make clean_notebooks
