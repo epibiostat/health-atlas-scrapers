@@ -22,7 +22,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Marin,5,4,1
 2020-09-30,Mariposa,0,0,0
 2020-09-30,Mendocino,1,0,0
-2020-09-30,Merced,2,1,0
+2020-09-30,Merced,3,2,0
 2020-09-30,Modoc,0,0,0
 2020-09-30,Mono,0,0,0
 2020-09-30,Monterey,0,0,0
@@ -35,13 +35,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Sacramento,101,62,9
 2020-09-30,San Benito,0,0,0
 2020-09-30,San Bernardino,12,5,0
-2020-09-30,San Diego,266,187,4
+2020-09-30,San Diego,267,187,4
 2020-09-30,San Francisco,22,12,3
 2020-09-30,San Joaquin,8,8,1
 2020-09-30,San Luis Obispo,1,1,0
-2020-09-30,San Mateo,20,13,0
+2020-09-30,San Mateo,21,14,0
 2020-09-30,Santa Barbara,3,1,0
-2020-09-30,Santa Clara,72,56,6
+2020-09-30,Santa Clara,70,54,6
 2020-09-30,Santa Cruz,2,1,0
 2020-09-30,Shasta,166,136,4
 2020-09-30,Sierra,0,0,0
@@ -54,7 +54,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Trinity,1,1,0
 2020-09-30,Tulare,0,0,0
 2020-09-30,Tuolumne,1,0,1
-2020-09-30,Ventura,10,8,1
+2020-09-30,Ventura,11,8,1
 2020-09-30,Yolo,29,20,0
 2020-09-30,Yuba,0,0,0
 2020-09-29,Alameda,40,31,0
@@ -80,7 +80,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Marin,5,3,0
 2020-09-29,Mariposa,0,0,0
 2020-09-29,Mendocino,1,0,0
-2020-09-29,Merced,2,1,1
+2020-09-29,Merced,3,2,1
 2020-09-29,Modoc,0,0,0
 2020-09-29,Mono,0,0,0
 2020-09-29,Monterey,0,0,0
@@ -93,13 +93,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Sacramento,99,55,4
 2020-09-29,San Benito,0,0,0
 2020-09-29,San Bernardino,12,5,0
-2020-09-29,San Diego,265,185,18
+2020-09-29,San Diego,266,185,18
 2020-09-29,San Francisco,22,9,0
 2020-09-29,San Joaquin,8,7,1
 2020-09-29,San Luis Obispo,1,1,0
-2020-09-29,San Mateo,20,13,0
+2020-09-29,San Mateo,21,14,0
 2020-09-29,Santa Barbara,3,1,0
-2020-09-29,Santa Clara,71,51,1
+2020-09-29,Santa Clara,69,49,1
 2020-09-29,Santa Cruz,2,1,0
 2020-09-29,Shasta,166,132,0
 2020-09-29,Sierra,0,0,0
@@ -112,7 +112,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Trinity,1,1,0
 2020-09-29,Tulare,0,0,0
 2020-09-29,Tuolumne,0,0,0
-2020-09-29,Ventura,10,7,2
+2020-09-29,Ventura,11,7,2
 2020-09-29,Yolo,29,20,1
 2020-09-29,Yuba,0,0,0
 2020-09-28,Alameda,40,31,1
@@ -138,7 +138,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Marin,5,3,0
 2020-09-28,Mariposa,0,0,0
 2020-09-28,Mendocino,1,0,0
-2020-09-28,Merced,2,0,0
+2020-09-28,Merced,3,1,0
 2020-09-28,Modoc,0,0,0
 2020-09-28,Mono,0,0,0
 2020-09-28,Monterey,0,0,0
@@ -151,13 +151,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Sacramento,99,51,2
 2020-09-28,San Benito,0,0,0
 2020-09-28,San Bernardino,12,5,0
-2020-09-28,San Diego,261,172,17
+2020-09-28,San Diego,262,172,17
 2020-09-28,San Francisco,22,9,0
 2020-09-28,San Joaquin,8,6,0
 2020-09-28,San Luis Obispo,1,1,0
-2020-09-28,San Mateo,20,13,1
+2020-09-28,San Mateo,21,14,1
 2020-09-28,Santa Barbara,3,1,0
-2020-09-28,Santa Clara,71,50,2
+2020-09-28,Santa Clara,69,48,2
 2020-09-28,Santa Cruz,2,1,0
 2020-09-28,Shasta,166,132,10
 2020-09-28,Sierra,0,0,0
@@ -170,7 +170,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Trinity,1,1,0
 2020-09-28,Tulare,0,0,0
 2020-09-28,Tuolumne,0,0,0
-2020-09-28,Ventura,10,5,0
+2020-09-28,Ventura,11,5,0
 2020-09-28,Yolo,29,19,0
 2020-09-28,Yuba,0,0,0
 2020-09-27,Alameda,40,30,0
@@ -196,7 +196,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Marin,5,3,0
 2020-09-27,Mariposa,0,0,0
 2020-09-27,Mendocino,1,0,0
-2020-09-27,Merced,2,0,0
+2020-09-27,Merced,3,1,0
 2020-09-27,Modoc,0,0,0
 2020-09-27,Mono,0,0,0
 2020-09-27,Monterey,0,0,0
@@ -209,13 +209,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Sacramento,99,49,0
 2020-09-27,San Benito,0,0,0
 2020-09-27,San Bernardino,12,5,0
-2020-09-27,San Diego,259,157,0
+2020-09-27,San Diego,260,157,0
 2020-09-27,San Francisco,22,9,0
 2020-09-27,San Joaquin,8,6,0
 2020-09-27,San Luis Obispo,1,1,0
-2020-09-27,San Mateo,20,12,0
+2020-09-27,San Mateo,21,13,0
 2020-09-27,Santa Barbara,3,1,0
-2020-09-27,Santa Clara,71,48,0
+2020-09-27,Santa Clara,69,46,0
 2020-09-27,Santa Cruz,2,1,0
 2020-09-27,Shasta,166,122,0
 2020-09-27,Sierra,0,0,0
@@ -228,7 +228,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Trinity,1,1,0
 2020-09-27,Tulare,0,0,0
 2020-09-27,Tuolumne,0,0,0
-2020-09-27,Ventura,10,5,0
+2020-09-27,Ventura,11,5,0
 2020-09-27,Yolo,29,19,0
 2020-09-27,Yuba,0,0,0
 2020-09-26,Alameda,40,30,0
@@ -254,7 +254,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Marin,5,3,0
 2020-09-26,Mariposa,0,0,0
 2020-09-26,Mendocino,1,0,0
-2020-09-26,Merced,2,0,0
+2020-09-26,Merced,3,1,0
 2020-09-26,Modoc,0,0,0
 2020-09-26,Mono,0,0,0
 2020-09-26,Monterey,0,0,0
@@ -267,13 +267,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Sacramento,99,49,0
 2020-09-26,San Benito,0,0,0
 2020-09-26,San Bernardino,12,5,0
-2020-09-26,San Diego,259,157,2
+2020-09-26,San Diego,260,157,2
 2020-09-26,San Francisco,22,9,1
 2020-09-26,San Joaquin,8,6,0
 2020-09-26,San Luis Obispo,1,1,0
-2020-09-26,San Mateo,20,12,0
+2020-09-26,San Mateo,21,13,0
 2020-09-26,Santa Barbara,3,1,1
-2020-09-26,Santa Clara,71,48,0
+2020-09-26,Santa Clara,69,46,0
 2020-09-26,Santa Cruz,2,1,0
 2020-09-26,Shasta,166,122,0
 2020-09-26,Sierra,0,0,0
@@ -286,7 +286,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Trinity,1,1,0
 2020-09-26,Tulare,0,0,0
 2020-09-26,Tuolumne,0,0,0
-2020-09-26,Ventura,10,5,0
+2020-09-26,Ventura,11,5,0
 2020-09-26,Yolo,29,19,0
 2020-09-26,Yuba,0,0,0
 2020-09-25,Alameda,40,30,1
@@ -312,7 +312,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Marin,5,3,1
 2020-09-25,Mariposa,0,0,0
 2020-09-25,Mendocino,1,0,0
-2020-09-25,Merced,2,0,0
+2020-09-25,Merced,3,1,0
 2020-09-25,Modoc,0,0,0
 2020-09-25,Mono,0,0,0
 2020-09-25,Monterey,0,0,0
@@ -325,13 +325,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Sacramento,99,49,3
 2020-09-25,San Benito,0,0,0
 2020-09-25,San Bernardino,12,5,0
-2020-09-25,San Diego,259,155,10
+2020-09-25,San Diego,260,155,10
 2020-09-25,San Francisco,22,9,0
 2020-09-25,San Joaquin,8,6,0
 2020-09-25,San Luis Obispo,1,1,0
-2020-09-25,San Mateo,20,12,0
+2020-09-25,San Mateo,21,13,0
 2020-09-25,Santa Barbara,3,0,0
-2020-09-25,Santa Clara,71,48,0
+2020-09-25,Santa Clara,69,46,0
 2020-09-25,Santa Cruz,2,1,0
 2020-09-25,Shasta,166,122,6
 2020-09-25,Sierra,0,0,0
@@ -344,7 +344,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Trinity,1,1,0
 2020-09-25,Tulare,0,0,0
 2020-09-25,Tuolumne,0,0,0
-2020-09-25,Ventura,10,5,1
+2020-09-25,Ventura,11,5,1
 2020-09-25,Yolo,29,19,2
 2020-09-25,Yuba,0,0,0
 2020-09-24,Alameda,40,29,1
@@ -370,7 +370,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Marin,5,2,0
 2020-09-24,Mariposa,0,0,0
 2020-09-24,Mendocino,1,0,0
-2020-09-24,Merced,2,0,0
+2020-09-24,Merced,3,1,0
 2020-09-24,Modoc,0,0,0
 2020-09-24,Mono,0,0,0
 2020-09-24,Monterey,0,0,0
@@ -383,13 +383,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Sacramento,99,46,3
 2020-09-24,San Benito,0,0,0
 2020-09-24,San Bernardino,12,5,1
-2020-09-24,San Diego,255,150,7
+2020-09-24,San Diego,256,150,7
 2020-09-24,San Francisco,22,9,1
 2020-09-24,San Joaquin,8,6,0
 2020-09-24,San Luis Obispo,1,1,0
-2020-09-24,San Mateo,20,12,0
+2020-09-24,San Mateo,21,13,0
 2020-09-24,Santa Barbara,3,0,0
-2020-09-24,Santa Clara,71,48,7
+2020-09-24,Santa Clara,69,46,7
 2020-09-24,Santa Cruz,2,1,0
 2020-09-24,Shasta,166,116,2
 2020-09-24,Sierra,0,0,0
@@ -402,7 +402,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Trinity,1,1,0
 2020-09-24,Tulare,0,0,0
 2020-09-24,Tuolumne,0,0,0
-2020-09-24,Ventura,10,4,0
+2020-09-24,Ventura,11,4,0
 2020-09-24,Yolo,29,17,2
 2020-09-24,Yuba,0,0,0
 2020-09-23,Alameda,40,28,2
@@ -428,7 +428,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Marin,5,2,0
 2020-09-23,Mariposa,0,0,0
 2020-09-23,Mendocino,1,0,0
-2020-09-23,Merced,2,0,0
+2020-09-23,Merced,3,1,0
 2020-09-23,Modoc,0,0,0
 2020-09-23,Mono,0,0,0
 2020-09-23,Monterey,0,0,0
@@ -441,13 +441,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Sacramento,99,43,3
 2020-09-23,San Benito,0,0,0
 2020-09-23,San Bernardino,11,5,0
-2020-09-23,San Diego,254,145,12
+2020-09-23,San Diego,255,145,12
 2020-09-23,San Francisco,22,8,0
 2020-09-23,San Joaquin,8,6,0
 2020-09-23,San Luis Obispo,1,1,0
-2020-09-23,San Mateo,20,12,2
+2020-09-23,San Mateo,21,13,2
 2020-09-23,Santa Barbara,3,0,0
-2020-09-23,Santa Clara,70,42,3
+2020-09-23,Santa Clara,68,40,3
 2020-09-23,Santa Cruz,2,1,0
 2020-09-23,Shasta,166,114,10
 2020-09-23,Sierra,0,0,0
@@ -460,7 +460,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Trinity,1,1,0
 2020-09-23,Tulare,0,0,0
 2020-09-23,Tuolumne,0,0,0
-2020-09-23,Ventura,10,4,0
+2020-09-23,Ventura,11,4,0
 2020-09-23,Yolo,29,15,1
 2020-09-23,Yuba,0,0,0
 2020-09-22,Alameda,40,26,0
@@ -486,7 +486,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Marin,5,2,0
 2020-09-22,Mariposa,0,0,0
 2020-09-22,Mendocino,1,0,0
-2020-09-22,Merced,2,0,0
+2020-09-22,Merced,3,1,0
 2020-09-22,Modoc,0,0,0
 2020-09-22,Mono,0,0,0
 2020-09-22,Monterey,0,0,0
@@ -499,13 +499,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Sacramento,98,41,4
 2020-09-22,San Benito,0,0,0
 2020-09-22,San Bernardino,11,5,1
-2020-09-22,San Diego,253,134,14
+2020-09-22,San Diego,254,134,14
 2020-09-22,San Francisco,22,8,1
 2020-09-22,San Joaquin,8,6,0
 2020-09-22,San Luis Obispo,1,1,0
-2020-09-22,San Mateo,20,10,0
+2020-09-22,San Mateo,21,11,0
 2020-09-22,Santa Barbara,3,0,0
-2020-09-22,Santa Clara,69,40,3
+2020-09-22,Santa Clara,67,38,3
 2020-09-22,Santa Cruz,2,1,0
 2020-09-22,Shasta,164,106,4
 2020-09-22,Sierra,0,0,0
@@ -518,7 +518,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Trinity,1,1,0
 2020-09-22,Tulare,0,0,0
 2020-09-22,Tuolumne,0,0,0
-2020-09-22,Ventura,10,4,1
+2020-09-22,Ventura,11,4,1
 2020-09-22,Yolo,28,15,2
 2020-09-22,Yuba,0,0,0
 2020-09-21,Alameda,40,26,2
@@ -544,7 +544,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Marin,5,2,2
 2020-09-21,Mariposa,0,0,0
 2020-09-21,Mendocino,1,0,0
-2020-09-21,Merced,2,0,0
+2020-09-21,Merced,3,1,0
 2020-09-21,Modoc,0,0,0
 2020-09-21,Mono,0,0,0
 2020-09-21,Monterey,0,0,0
@@ -557,13 +557,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Sacramento,97,38,6
 2020-09-21,San Benito,0,0,0
 2020-09-21,San Bernardino,11,4,1
-2020-09-21,San Diego,251,121,14
+2020-09-21,San Diego,252,121,14
 2020-09-21,San Francisco,22,7,2
 2020-09-21,San Joaquin,8,6,1
 2020-09-21,San Luis Obispo,1,1,0
-2020-09-21,San Mateo,20,10,1
+2020-09-21,San Mateo,21,11,1
 2020-09-21,Santa Barbara,3,0,0
-2020-09-21,Santa Clara,69,37,5
+2020-09-21,Santa Clara,67,35,5
 2020-09-21,Santa Cruz,2,1,0
 2020-09-21,Shasta,164,102,5
 2020-09-21,Sierra,0,0,0
@@ -576,7 +576,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Trinity,1,1,0
 2020-09-21,Tulare,0,0,0
 2020-09-21,Tuolumne,0,0,0
-2020-09-21,Ventura,10,3,1
+2020-09-21,Ventura,11,3,1
 2020-09-21,Yolo,28,13,3
 2020-09-21,Yuba,0,0,0
 2020-09-20,Alameda,40,24,0
@@ -602,7 +602,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Marin,4,1,0
 2020-09-20,Mariposa,0,0,0
 2020-09-20,Mendocino,1,0,0
-2020-09-20,Merced,2,0,0
+2020-09-20,Merced,3,1,0
 2020-09-20,Modoc,0,0,0
 2020-09-20,Mono,0,0,0
 2020-09-20,Monterey,0,0,0
@@ -615,13 +615,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Sacramento,95,34,0
 2020-09-20,San Benito,0,0,0
 2020-09-20,San Bernardino,10,4,0
-2020-09-20,San Diego,251,107,3
+2020-09-20,San Diego,252,107,3
 2020-09-20,San Francisco,20,7,0
 2020-09-20,San Joaquin,8,5,0
 2020-09-20,San Luis Obispo,1,1,0
-2020-09-20,San Mateo,19,10,0
+2020-09-20,San Mateo,20,11,0
 2020-09-20,Santa Barbara,3,0,0
-2020-09-20,Santa Clara,67,34,1
+2020-09-20,Santa Clara,65,32,1
 2020-09-20,Santa Cruz,2,1,0
 2020-09-20,Shasta,164,97,0
 2020-09-20,Sierra,0,0,0
@@ -634,7 +634,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Trinity,1,1,0
 2020-09-20,Tulare,0,0,0
 2020-09-20,Tuolumne,0,0,0
-2020-09-20,Ventura,10,2,0
+2020-09-20,Ventura,11,2,0
 2020-09-20,Yolo,27,11,0
 2020-09-20,Yuba,0,0,0
 2020-09-19,Alameda,40,24,0
@@ -660,7 +660,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Marin,4,1,0
 2020-09-19,Mariposa,0,0,0
 2020-09-19,Mendocino,1,0,0
-2020-09-19,Merced,2,0,0
+2020-09-19,Merced,3,1,0
 2020-09-19,Modoc,0,0,0
 2020-09-19,Mono,0,0,0
 2020-09-19,Monterey,0,0,0
@@ -673,13 +673,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Sacramento,95,34,0
 2020-09-19,San Benito,0,0,0
 2020-09-19,San Bernardino,10,4,0
-2020-09-19,San Diego,250,106,2
+2020-09-19,San Diego,251,106,2
 2020-09-19,San Francisco,20,7,0
 2020-09-19,San Joaquin,8,5,0
 2020-09-19,San Luis Obispo,1,1,0
-2020-09-19,San Mateo,19,10,0
+2020-09-19,San Mateo,20,11,0
 2020-09-19,Santa Barbara,3,0,0
-2020-09-19,Santa Clara,66,34,0
+2020-09-19,Santa Clara,64,32,0
 2020-09-19,Santa Cruz,2,1,0
 2020-09-19,Shasta,164,97,0
 2020-09-19,Sierra,0,0,0
@@ -692,7 +692,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Trinity,1,1,0
 2020-09-19,Tulare,0,0,0
 2020-09-19,Tuolumne,0,0,0
-2020-09-19,Ventura,10,2,0
+2020-09-19,Ventura,11,2,0
 2020-09-19,Yolo,27,11,0
 2020-09-19,Yuba,0,0,0
 2020-09-18,Alameda,40,24,1
@@ -718,7 +718,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Marin,4,1,0
 2020-09-18,Mariposa,0,0,0
 2020-09-18,Mendocino,1,0,0
-2020-09-18,Merced,2,0,0
+2020-09-18,Merced,3,1,0
 2020-09-18,Modoc,0,0,0
 2020-09-18,Mono,0,0,0
 2020-09-18,Monterey,0,0,0
@@ -731,13 +731,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Sacramento,95,34,8
 2020-09-18,San Benito,0,0,0
 2020-09-18,San Bernardino,10,4,0
-2020-09-18,San Diego,248,106,6
+2020-09-18,San Diego,249,106,6
 2020-09-18,San Francisco,20,7,1
 2020-09-18,San Joaquin,8,5,1
 2020-09-18,San Luis Obispo,1,1,0
-2020-09-18,San Mateo,19,10,2
+2020-09-18,San Mateo,20,11,2
 2020-09-18,Santa Barbara,3,0,0
-2020-09-18,Santa Clara,66,34,2
+2020-09-18,Santa Clara,64,32,2
 2020-09-18,Santa Cruz,2,1,0
 2020-09-18,Shasta,164,97,10
 2020-09-18,Sierra,0,0,0
@@ -750,7 +750,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Trinity,1,1,0
 2020-09-18,Tulare,0,0,0
 2020-09-18,Tuolumne,0,0,0
-2020-09-18,Ventura,10,2,1
+2020-09-18,Ventura,11,2,1
 2020-09-18,Yolo,27,11,1
 2020-09-18,Yuba,0,0,0
 2020-09-17,Alameda,40,23,1
@@ -776,7 +776,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Marin,4,1,0
 2020-09-17,Mariposa,0,0,0
 2020-09-17,Mendocino,1,0,0
-2020-09-17,Merced,2,0,0
+2020-09-17,Merced,3,1,0
 2020-09-17,Modoc,0,0,0
 2020-09-17,Mono,0,0,0
 2020-09-17,Monterey,0,0,0
@@ -789,13 +789,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Sacramento,89,32,5
 2020-09-17,San Benito,0,0,0
 2020-09-17,San Bernardino,10,4,2
-2020-09-17,San Diego,245,103,5
+2020-09-17,San Diego,246,103,5
 2020-09-17,San Francisco,20,6,2
 2020-09-17,San Joaquin,8,4,0
 2020-09-17,San Luis Obispo,1,1,0
-2020-09-17,San Mateo,18,9,0
+2020-09-17,San Mateo,19,10,0
 2020-09-17,Santa Barbara,3,0,0
-2020-09-17,Santa Clara,65,33,3
+2020-09-17,Santa Clara,63,31,3
 2020-09-17,Santa Cruz,2,1,0
 2020-09-17,Shasta,163,88,15
 2020-09-17,Sierra,0,0,0
@@ -808,7 +808,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Trinity,1,1,0
 2020-09-17,Tulare,0,0,0
 2020-09-17,Tuolumne,0,0,0
-2020-09-17,Ventura,10,1,0
+2020-09-17,Ventura,11,1,0
 2020-09-17,Yolo,26,11,0
 2020-09-17,Yuba,0,0,0
 2020-09-16,Alameda,40,22,4
@@ -834,7 +834,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Marin,4,1,0
 2020-09-16,Mariposa,0,0,0
 2020-09-16,Mendocino,1,0,0
-2020-09-16,Merced,2,0,0
+2020-09-16,Merced,3,1,0
 2020-09-16,Modoc,0,0,0
 2020-09-16,Mono,0,0,0
 2020-09-16,Monterey,0,0,0
@@ -847,13 +847,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Sacramento,86,30,8
 2020-09-16,San Benito,0,0,0
 2020-09-16,San Bernardino,8,4,0
-2020-09-16,San Diego,243,100,9
+2020-09-16,San Diego,244,100,9
 2020-09-16,San Francisco,18,6,1
 2020-09-16,San Joaquin,8,4,0
 2020-09-16,San Luis Obispo,1,1,0
-2020-09-16,San Mateo,18,9,1
+2020-09-16,San Mateo,19,10,1
 2020-09-16,Santa Barbara,3,0,0
-2020-09-16,Santa Clara,65,30,3
+2020-09-16,Santa Clara,63,28,3
 2020-09-16,Santa Cruz,2,1,0
 2020-09-16,Shasta,163,73,6
 2020-09-16,Sierra,0,0,0
@@ -866,7 +866,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Trinity,1,1,0
 2020-09-16,Tulare,0,0,0
 2020-09-16,Tuolumne,0,0,0
-2020-09-16,Ventura,10,1,0
+2020-09-16,Ventura,11,1,0
 2020-09-16,Yolo,26,11,2
 2020-09-16,Yuba,0,0,0
 2020-09-15,Alameda,38,20,3
@@ -892,7 +892,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Marin,4,1,0
 2020-09-15,Mariposa,0,0,0
 2020-09-15,Mendocino,1,0,0
-2020-09-15,Merced,2,0,0
+2020-09-15,Merced,3,1,0
 2020-09-15,Modoc,0,0,0
 2020-09-15,Mono,0,0,0
 2020-09-15,Monterey,0,0,0
@@ -905,13 +905,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Sacramento,83,25,6
 2020-09-15,San Benito,0,0,0
 2020-09-15,San Bernardino,8,4,1
-2020-09-15,San Diego,239,95,16
+2020-09-15,San Diego,240,95,17
 2020-09-15,San Francisco,17,6,1
 2020-09-15,San Joaquin,8,4,0
 2020-09-15,San Luis Obispo,1,1,0
-2020-09-15,San Mateo,18,8,2
+2020-09-15,San Mateo,19,9,2
 2020-09-15,Santa Barbara,3,0,0
-2020-09-15,Santa Clara,64,28,0
+2020-09-15,Santa Clara,62,26,0
 2020-09-15,Santa Cruz,2,1,0
 2020-09-15,Shasta,163,67,10
 2020-09-15,Sierra,0,0,0
@@ -924,7 +924,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Trinity,1,1,0
 2020-09-15,Tulare,0,0,0
 2020-09-15,Tuolumne,0,0,0
-2020-09-15,Ventura,10,1,1
+2020-09-15,Ventura,11,1,1
 2020-09-15,Yolo,24,11,2
 2020-09-15,Yuba,0,0,0
 2020-09-14,Alameda,37,18,0
@@ -950,7 +950,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Marin,4,1,0
 2020-09-14,Mariposa,0,0,0
 2020-09-14,Mendocino,1,0,0
-2020-09-14,Merced,2,0,0
+2020-09-14,Merced,3,1,0
 2020-09-14,Modoc,0,0,0
 2020-09-14,Mono,0,0,0
 2020-09-14,Monterey,0,0,0
@@ -967,9 +967,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,San Francisco,17,5,3
 2020-09-14,San Joaquin,8,4,0
 2020-09-14,San Luis Obispo,1,1,0
-2020-09-14,San Mateo,18,6,1
+2020-09-14,San Mateo,19,7,2
 2020-09-14,Santa Barbara,3,0,0
-2020-09-14,Santa Clara,64,28,5
+2020-09-14,Santa Clara,62,26,4
 2020-09-14,Santa Cruz,2,1,0
 2020-09-14,Shasta,163,57,8
 2020-09-14,Sierra,0,0,0
@@ -982,7 +982,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Trinity,1,1,0
 2020-09-14,Tulare,0,0,0
 2020-09-14,Tuolumne,0,0,0
-2020-09-14,Ventura,9,1,1
+2020-09-14,Ventura,10,1,1
 2020-09-14,Yolo,23,10,2
 2020-09-14,Yuba,0,0,0
 2020-09-13,Alameda,37,18,0
@@ -1008,7 +1008,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Marin,4,1,0
 2020-09-13,Mariposa,0,0,0
 2020-09-13,Mendocino,1,0,0
-2020-09-13,Merced,2,0,0
+2020-09-13,Merced,3,1,0
 2020-09-13,Modoc,0,0,0
 2020-09-13,Mono,0,0,0
 2020-09-13,Monterey,0,0,0
@@ -1025,9 +1025,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,San Francisco,14,5,0
 2020-09-13,San Joaquin,8,4,0
 2020-09-13,San Luis Obispo,1,1,0
-2020-09-13,San Mateo,18,5,0
+2020-09-13,San Mateo,19,5,0
 2020-09-13,Santa Barbara,3,0,0
-2020-09-13,Santa Clara,64,23,0
+2020-09-13,Santa Clara,62,22,0
 2020-09-13,Santa Cruz,2,1,0
 2020-09-13,Shasta,163,49,0
 2020-09-13,Sierra,0,0,0
@@ -1040,7 +1040,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Trinity,1,1,0
 2020-09-13,Tulare,0,0,0
 2020-09-13,Tuolumne,0,0,0
-2020-09-13,Ventura,8,1,0
+2020-09-13,Ventura,9,1,0
 2020-09-13,Yolo,23,8,0
 2020-09-13,Yuba,0,0,0
 2020-09-12,Alameda,37,18,0
@@ -1066,7 +1066,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Marin,4,1,0
 2020-09-12,Mariposa,0,0,0
 2020-09-12,Mendocino,1,0,0
-2020-09-12,Merced,2,0,0
+2020-09-12,Merced,3,1,0
 2020-09-12,Modoc,0,0,0
 2020-09-12,Mono,0,0,0
 2020-09-12,Monterey,0,0,0
@@ -1083,9 +1083,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,San Francisco,14,5,0
 2020-09-12,San Joaquin,8,4,0
 2020-09-12,San Luis Obispo,1,1,0
-2020-09-12,San Mateo,18,5,0
+2020-09-12,San Mateo,19,5,0
 2020-09-12,Santa Barbara,3,0,0
-2020-09-12,Santa Clara,64,23,0
+2020-09-12,Santa Clara,62,22,0
 2020-09-12,Santa Cruz,2,1,0
 2020-09-12,Shasta,163,49,4
 2020-09-12,Sierra,0,0,0
@@ -1098,7 +1098,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Trinity,1,1,0
 2020-09-12,Tulare,0,0,0
 2020-09-12,Tuolumne,0,0,0
-2020-09-12,Ventura,8,1,0
+2020-09-12,Ventura,9,1,0
 2020-09-12,Yolo,23,8,3
 2020-09-12,Yuba,0,0,0
 2020-09-11,Alameda,37,18,3
@@ -1124,7 +1124,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Marin,4,1,0
 2020-09-11,Mariposa,0,0,0
 2020-09-11,Mendocino,1,0,0
-2020-09-11,Merced,2,0,0
+2020-09-11,Merced,3,1,0
 2020-09-11,Modoc,0,0,0
 2020-09-11,Mono,0,0,0
 2020-09-11,Monterey,0,0,0
@@ -1141,9 +1141,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,San Francisco,14,5,1
 2020-09-11,San Joaquin,8,4,1
 2020-09-11,San Luis Obispo,1,1,0
-2020-09-11,San Mateo,18,5,0
+2020-09-11,San Mateo,19,5,0
 2020-09-11,Santa Barbara,3,0,0
-2020-09-11,Santa Clara,64,23,7
+2020-09-11,Santa Clara,62,22,7
 2020-09-11,Santa Cruz,2,1,0
 2020-09-11,Shasta,159,49,5
 2020-09-11,Sierra,0,0,0
@@ -1156,7 +1156,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Trinity,1,1,0
 2020-09-11,Tulare,0,0,0
 2020-09-11,Tuolumne,0,0,0
-2020-09-11,Ventura,8,1,0
+2020-09-11,Ventura,9,1,1
 2020-09-11,Yolo,23,5,2
 2020-09-11,Yuba,0,0,0
 2020-09-10,Alameda,34,18,3
@@ -1182,7 +1182,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,Marin,4,1,2
 2020-09-10,Mariposa,0,0,0
 2020-09-10,Mendocino,1,0,0
-2020-09-10,Merced,2,0,0
+2020-09-10,Merced,3,1,0
 2020-09-10,Modoc,0,0,0
 2020-09-10,Mono,0,0,0
 2020-09-10,Monterey,0,0,0
@@ -1199,9 +1199,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,San Francisco,13,5,0
 2020-09-10,San Joaquin,7,3,2
 2020-09-10,San Luis Obispo,1,1,0
-2020-09-10,San Mateo,18,5,0
+2020-09-10,San Mateo,19,5,0
 2020-09-10,Santa Barbara,3,0,0
-2020-09-10,Santa Clara,60,20,5
+2020-09-10,Santa Clara,58,19,5
 2020-09-10,Santa Cruz,2,1,0
 2020-09-10,Shasta,155,48,8
 2020-09-10,Sierra,0,0,0
@@ -1240,7 +1240,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,Marin,3,0,0
 2020-09-09,Mariposa,0,0,0
 2020-09-09,Mendocino,1,0,0
-2020-09-09,Merced,2,0,0
+2020-09-09,Merced,3,1,1
 2020-09-09,Modoc,0,0,0
 2020-09-09,Mono,0,0,0
 2020-09-09,Monterey,0,0,0
@@ -1257,9 +1257,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,San Francisco,13,5,1
 2020-09-09,San Joaquin,6,2,0
 2020-09-09,San Luis Obispo,1,1,0
-2020-09-09,San Mateo,18,5,1
+2020-09-09,San Mateo,19,5,1
 2020-09-09,Santa Barbara,3,0,0
-2020-09-09,Santa Clara,57,18,8
+2020-09-09,Santa Clara,55,17,7
 2020-09-09,Santa Cruz,2,1,1
 2020-09-09,Shasta,149,46,19
 2020-09-09,Sierra,0,0,0
@@ -1298,7 +1298,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,Marin,3,0,0
 2020-09-08,Mariposa,0,0,0
 2020-09-08,Mendocino,1,0,0
-2020-09-08,Merced,2,0,0
+2020-09-08,Merced,3,0,0
 2020-09-08,Modoc,0,0,0
 2020-09-08,Mono,0,0,0
 2020-09-08,Monterey,0,0,0
@@ -1315,9 +1315,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,San Francisco,12,5,3
 2020-09-08,San Joaquin,6,2,0
 2020-09-08,San Luis Obispo,1,1,1
-2020-09-08,San Mateo,18,4,1
+2020-09-08,San Mateo,19,4,1
 2020-09-08,Santa Barbara,3,0,0
-2020-09-08,Santa Clara,54,13,7
+2020-09-08,Santa Clara,52,13,7
 2020-09-08,Santa Cruz,2,0,0
 2020-09-08,Shasta,149,27,16
 2020-09-08,Sierra,0,0,0
@@ -1356,7 +1356,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,Marin,3,0,0
 2020-09-07,Mariposa,0,0,0
 2020-09-07,Mendocino,1,0,0
-2020-09-07,Merced,2,0,0
+2020-09-07,Merced,3,0,0
 2020-09-07,Modoc,0,0,0
 2020-09-07,Mono,0,0,0
 2020-09-07,Monterey,0,0,0
@@ -1373,9 +1373,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,San Francisco,12,2,0
 2020-09-07,San Joaquin,6,2,0
 2020-09-07,San Luis Obispo,1,0,0
-2020-09-07,San Mateo,18,3,0
+2020-09-07,San Mateo,19,3,0
 2020-09-07,Santa Barbara,3,0,0
-2020-09-07,Santa Clara,50,10,0
+2020-09-07,Santa Clara,48,10,0
 2020-09-07,Santa Cruz,2,0,0
 2020-09-07,Shasta,147,13,0
 2020-09-07,Sierra,0,0,0
@@ -1414,7 +1414,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,Marin,3,0,0
 2020-09-06,Mariposa,0,0,0
 2020-09-06,Mendocino,1,0,0
-2020-09-06,Merced,2,0,0
+2020-09-06,Merced,3,0,0
 2020-09-06,Modoc,0,0,0
 2020-09-06,Mono,0,0,0
 2020-09-06,Monterey,0,0,0
@@ -1431,9 +1431,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,San Francisco,12,2,0
 2020-09-06,San Joaquin,6,2,0
 2020-09-06,San Luis Obispo,1,0,0
-2020-09-06,San Mateo,18,3,0
+2020-09-06,San Mateo,19,3,0
 2020-09-06,Santa Barbara,3,0,0
-2020-09-06,Santa Clara,50,10,0
+2020-09-06,Santa Clara,48,10,0
 2020-09-06,Santa Cruz,2,0,0
 2020-09-06,Shasta,147,13,0
 2020-09-06,Sierra,0,0,0
@@ -1472,7 +1472,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,Marin,3,0,0
 2020-09-05,Mariposa,0,0,0
 2020-09-05,Mendocino,1,0,0
-2020-09-05,Merced,2,0,0
+2020-09-05,Merced,3,0,0
 2020-09-05,Modoc,0,0,0
 2020-09-05,Mono,0,0,0
 2020-09-05,Monterey,0,0,0
@@ -1489,9 +1489,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,San Francisco,12,2,0
 2020-09-05,San Joaquin,6,2,0
 2020-09-05,San Luis Obispo,1,0,0
-2020-09-05,San Mateo,18,3,0
+2020-09-05,San Mateo,19,3,0
 2020-09-05,Santa Barbara,3,0,0
-2020-09-05,Santa Clara,50,10,0
+2020-09-05,Santa Clara,48,10,0
 2020-09-05,Santa Cruz,2,0,0
 2020-09-05,Shasta,147,13,2
 2020-09-05,Sierra,0,0,0
@@ -1530,7 +1530,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,Marin,3,0,1
 2020-09-04,Mariposa,0,0,0
 2020-09-04,Mendocino,1,0,0
-2020-09-04,Merced,2,0,0
+2020-09-04,Merced,3,0,0
 2020-09-04,Modoc,0,0,0
 2020-09-04,Mono,0,0,0
 2020-09-04,Monterey,0,0,0
@@ -1547,9 +1547,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,San Francisco,12,2,2
 2020-09-04,San Joaquin,6,2,0
 2020-09-04,San Luis Obispo,1,0,0
-2020-09-04,San Mateo,18,3,1
+2020-09-04,San Mateo,19,3,1
 2020-09-04,Santa Barbara,3,0,1
-2020-09-04,Santa Clara,50,10,5
+2020-09-04,Santa Clara,48,10,5
 2020-09-04,Santa Cruz,2,0,0
 2020-09-04,Shasta,145,13,13
 2020-09-04,Sierra,0,0,0
@@ -1588,7 +1588,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,Marin,2,0,0
 2020-09-03,Mariposa,0,0,0
 2020-09-03,Mendocino,1,0,0
-2020-09-03,Merced,2,0,0
+2020-09-03,Merced,3,0,0
 2020-09-03,Modoc,0,0,0
 2020-09-03,Mono,0,0,0
 2020-09-03,Monterey,0,0,0
@@ -1605,9 +1605,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,San Francisco,10,2,1
 2020-09-03,San Joaquin,6,2,0
 2020-09-03,San Luis Obispo,1,0,0
-2020-09-03,San Mateo,17,3,0
+2020-09-03,San Mateo,18,3,0
 2020-09-03,Santa Barbara,2,0,0
-2020-09-03,Santa Clara,48,7,3
+2020-09-03,Santa Clara,46,7,3
 2020-09-03,Santa Cruz,2,0,0
 2020-09-03,Shasta,144,1,9
 2020-09-03,Sierra,0,0,0
@@ -1646,7 +1646,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,Marin,2,0,0
 2020-09-02,Mariposa,0,0,0
 2020-09-02,Mendocino,1,0,0
-2020-09-02,Merced,2,0,1
+2020-09-02,Merced,3,0,1
 2020-09-02,Modoc,0,0,0
 2020-09-02,Mono,0,0,0
 2020-09-02,Monterey,0,0,0
@@ -1663,9 +1663,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,San Francisco,9,2,2
 2020-09-02,San Joaquin,6,2,0
 2020-09-02,San Luis Obispo,1,0,0
-2020-09-02,San Mateo,17,3,2
+2020-09-02,San Mateo,18,3,2
 2020-09-02,Santa Barbara,2,0,0
-2020-09-02,Santa Clara,45,7,6
+2020-09-02,Santa Clara,43,7,6
 2020-09-02,Santa Cruz,2,0,0
 2020-09-02,Shasta,135,1,9
 2020-09-02,Sierra,0,0,0
@@ -1704,7 +1704,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,Marin,2,0,0
 2020-09-01,Mariposa,0,0,0
 2020-09-01,Mendocino,1,0,0
-2020-09-01,Merced,1,0,1
+2020-09-01,Merced,2,0,1
 2020-09-01,Modoc,0,0,0
 2020-09-01,Mono,0,0,0
 2020-09-01,Monterey,0,0,0
@@ -1721,9 +1721,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,San Francisco,7,2,1
 2020-09-01,San Joaquin,6,2,1
 2020-09-01,San Luis Obispo,1,0,0
-2020-09-01,San Mateo,15,3,3
+2020-09-01,San Mateo,16,3,3
 2020-09-01,Santa Barbara,2,0,0
-2020-09-01,Santa Clara,41,5,5
+2020-09-01,Santa Clara,39,5,5
 2020-09-01,Santa Cruz,2,0,0
 2020-09-01,Shasta,127,0,6
 2020-09-01,Sierra,0,0,0
@@ -1762,7 +1762,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,Marin,2,0,1
 2020-08-31,Mariposa,0,0,0
 2020-08-31,Mendocino,1,0,0
-2020-08-31,Merced,0,0,0
+2020-08-31,Merced,1,0,0
 2020-08-31,Modoc,0,0,0
 2020-08-31,Mono,0,0,0
 2020-08-31,Monterey,0,0,0
@@ -1779,9 +1779,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,San Francisco,7,1,0
 2020-08-31,San Joaquin,5,2,1
 2020-08-31,San Luis Obispo,1,0,0
-2020-08-31,San Mateo,14,1,1
+2020-08-31,San Mateo,15,1,1
 2020-08-31,Santa Barbara,2,0,0
-2020-08-31,Santa Clara,37,4,5
+2020-08-31,Santa Clara,35,4,5
 2020-08-31,Santa Cruz,2,0,0
 2020-08-31,Shasta,121,0,6
 2020-08-31,Sierra,0,0,0
@@ -1820,7 +1820,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-30,Marin,1,0,0
 2020-08-30,Mariposa,0,0,0
 2020-08-30,Mendocino,1,0,0
-2020-08-30,Merced,0,0,0
+2020-08-30,Merced,1,0,0
 2020-08-30,Modoc,0,0,0
 2020-08-30,Mono,0,0,0
 2020-08-30,Monterey,0,0,0
@@ -1837,9 +1837,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-30,San Francisco,7,1,0
 2020-08-30,San Joaquin,4,2,0
 2020-08-30,San Luis Obispo,1,0,0
-2020-08-30,San Mateo,14,0,0
+2020-08-30,San Mateo,15,0,0
 2020-08-30,Santa Barbara,2,0,0
-2020-08-30,Santa Clara,35,1,0
+2020-08-30,Santa Clara,33,1,0
 2020-08-30,Santa Cruz,2,0,0
 2020-08-30,Shasta,115,0,0
 2020-08-30,Sierra,0,0,0
@@ -1878,7 +1878,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-29,Marin,1,0,0
 2020-08-29,Mariposa,0,0,0
 2020-08-29,Mendocino,1,0,0
-2020-08-29,Merced,0,0,0
+2020-08-29,Merced,1,0,0
 2020-08-29,Modoc,0,0,0
 2020-08-29,Mono,0,0,0
 2020-08-29,Monterey,0,0,0
@@ -1895,9 +1895,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-29,San Francisco,7,1,0
 2020-08-29,San Joaquin,4,2,0
 2020-08-29,San Luis Obispo,1,0,0
-2020-08-29,San Mateo,14,0,0
+2020-08-29,San Mateo,15,0,0
 2020-08-29,Santa Barbara,2,0,0
-2020-08-29,Santa Clara,35,1,0
+2020-08-29,Santa Clara,33,1,0
 2020-08-29,Santa Cruz,2,0,0
 2020-08-29,Shasta,115,0,0
 2020-08-29,Sierra,0,0,0
@@ -1936,7 +1936,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-28,Marin,1,0,0
 2020-08-28,Mariposa,0,0,0
 2020-08-28,Mendocino,1,0,0
-2020-08-28,Merced,0,0,0
+2020-08-28,Merced,1,0,0
 2020-08-28,Modoc,0,0,0
 2020-08-28,Mono,0,0,0
 2020-08-28,Monterey,0,0,0
@@ -1953,9 +1953,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-28,San Francisco,7,1,1
 2020-08-28,San Joaquin,4,2,2
 2020-08-28,San Luis Obispo,1,0,0
-2020-08-28,San Mateo,14,0,2
+2020-08-28,San Mateo,15,0,2
 2020-08-28,Santa Barbara,2,0,0
-2020-08-28,Santa Clara,35,1,5
+2020-08-28,Santa Clara,33,1,5
 2020-08-28,Santa Cruz,2,0,0
 2020-08-28,Shasta,115,0,6
 2020-08-28,Sierra,0,0,0
@@ -1994,7 +1994,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-27,Marin,1,0,0
 2020-08-27,Mariposa,0,0,0
 2020-08-27,Mendocino,1,0,0
-2020-08-27,Merced,0,0,0
+2020-08-27,Merced,1,0,0
 2020-08-27,Modoc,0,0,0
 2020-08-27,Mono,0,0,0
 2020-08-27,Monterey,0,0,0
@@ -2011,9 +2011,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-27,San Francisco,6,1,0
 2020-08-27,San Joaquin,3,1,0
 2020-08-27,San Luis Obispo,1,0,0
-2020-08-27,San Mateo,12,0,2
+2020-08-27,San Mateo,13,0,2
 2020-08-27,Santa Barbara,2,0,0
-2020-08-27,Santa Clara,30,1,1
+2020-08-27,Santa Clara,28,1,1
 2020-08-27,Santa Cruz,2,0,0
 2020-08-27,Shasta,109,0,7
 2020-08-27,Sierra,0,0,0
@@ -2052,7 +2052,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-26,Marin,1,0,0
 2020-08-26,Mariposa,0,0,0
 2020-08-26,Mendocino,1,0,0
-2020-08-26,Merced,0,0,0
+2020-08-26,Merced,1,0,0
 2020-08-26,Modoc,0,0,0
 2020-08-26,Mono,0,0,0
 2020-08-26,Monterey,0,0,0
@@ -2069,9 +2069,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-26,San Francisco,6,1,0
 2020-08-26,San Joaquin,3,1,0
 2020-08-26,San Luis Obispo,1,0,0
-2020-08-26,San Mateo,10,0,1
+2020-08-26,San Mateo,11,0,2
 2020-08-26,Santa Barbara,2,0,0
-2020-08-26,Santa Clara,29,1,2
+2020-08-26,Santa Clara,27,1,1
 2020-08-26,Santa Cruz,2,0,0
 2020-08-26,Shasta,102,0,7
 2020-08-26,Sierra,0,0,0
@@ -2110,7 +2110,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-25,Marin,1,0,0
 2020-08-25,Mariposa,0,0,0
 2020-08-25,Mendocino,1,0,0
-2020-08-25,Merced,0,0,0
+2020-08-25,Merced,1,0,0
 2020-08-25,Modoc,0,0,0
 2020-08-25,Mono,0,0,0
 2020-08-25,Monterey,0,0,0
@@ -2129,7 +2129,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-25,San Luis Obispo,1,0,0
 2020-08-25,San Mateo,9,0,2
 2020-08-25,Santa Barbara,2,0,0
-2020-08-25,Santa Clara,27,1,0
+2020-08-25,Santa Clara,26,1,0
 2020-08-25,Santa Cruz,2,0,0
 2020-08-25,Shasta,95,0,6
 2020-08-25,Sierra,0,0,0
@@ -2168,7 +2168,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-24,Marin,1,0,0
 2020-08-24,Mariposa,0,0,0
 2020-08-24,Mendocino,1,0,0
-2020-08-24,Merced,0,0,0
+2020-08-24,Merced,1,0,0
 2020-08-24,Modoc,0,0,0
 2020-08-24,Mono,0,0,0
 2020-08-24,Monterey,0,0,0
@@ -2187,7 +2187,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-24,San Luis Obispo,1,0,0
 2020-08-24,San Mateo,7,0,0
 2020-08-24,Santa Barbara,2,0,0
-2020-08-24,Santa Clara,27,1,3
+2020-08-24,Santa Clara,26,1,3
 2020-08-24,Santa Cruz,2,0,0
 2020-08-24,Shasta,89,0,5
 2020-08-24,Sierra,0,0,0
@@ -2226,7 +2226,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-23,Marin,1,0,0
 2020-08-23,Mariposa,0,0,0
 2020-08-23,Mendocino,1,0,0
-2020-08-23,Merced,0,0,0
+2020-08-23,Merced,1,0,0
 2020-08-23,Modoc,0,0,0
 2020-08-23,Mono,0,0,0
 2020-08-23,Monterey,0,0,0
@@ -2245,7 +2245,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-23,San Luis Obispo,1,0,0
 2020-08-23,San Mateo,7,0,0
 2020-08-23,Santa Barbara,2,0,0
-2020-08-23,Santa Clara,24,1,0
+2020-08-23,Santa Clara,23,1,0
 2020-08-23,Santa Cruz,2,0,0
 2020-08-23,Shasta,84,0,0
 2020-08-23,Sierra,0,0,0
@@ -2284,7 +2284,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-22,Marin,1,0,0
 2020-08-22,Mariposa,0,0,0
 2020-08-22,Mendocino,1,0,0
-2020-08-22,Merced,0,0,0
+2020-08-22,Merced,1,0,0
 2020-08-22,Modoc,0,0,0
 2020-08-22,Mono,0,0,0
 2020-08-22,Monterey,0,0,0
@@ -2303,7 +2303,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-22,San Luis Obispo,1,0,0
 2020-08-22,San Mateo,7,0,0
 2020-08-22,Santa Barbara,2,0,0
-2020-08-22,Santa Clara,24,1,0
+2020-08-22,Santa Clara,23,1,0
 2020-08-22,Santa Cruz,2,0,0
 2020-08-22,Shasta,84,0,4
 2020-08-22,Sierra,0,0,0
@@ -2342,7 +2342,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-21,Marin,1,0,0
 2020-08-21,Mariposa,0,0,0
 2020-08-21,Mendocino,1,0,0
-2020-08-21,Merced,0,0,0
+2020-08-21,Merced,1,0,0
 2020-08-21,Modoc,0,0,0
 2020-08-21,Mono,0,0,0
 2020-08-21,Monterey,0,0,0
@@ -2361,7 +2361,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-21,San Luis Obispo,1,0,0
 2020-08-21,San Mateo,7,0,0
 2020-08-21,Santa Barbara,2,0,0
-2020-08-21,Santa Clara,24,1,4
+2020-08-21,Santa Clara,23,1,4
 2020-08-21,Santa Cruz,2,0,0
 2020-08-21,Shasta,80,0,7
 2020-08-21,Sierra,0,0,0
@@ -2400,7 +2400,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-20,Marin,1,0,1
 2020-08-20,Mariposa,0,0,0
 2020-08-20,Mendocino,1,0,0
-2020-08-20,Merced,0,0,0
+2020-08-20,Merced,1,0,1
 2020-08-20,Modoc,0,0,0
 2020-08-20,Mono,0,0,0
 2020-08-20,Monterey,0,0,0
@@ -2419,7 +2419,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-20,San Luis Obispo,1,0,0
 2020-08-20,San Mateo,7,0,0
 2020-08-20,Santa Barbara,2,0,0
-2020-08-20,Santa Clara,20,1,4
+2020-08-20,Santa Clara,19,1,3
 2020-08-20,Santa Cruz,2,0,1
 2020-08-20,Shasta,73,0,9
 2020-08-20,Sierra,0,0,0
