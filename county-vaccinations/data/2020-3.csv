@@ -17,7 +17,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Kings,0,0,0
 2020-09-30,Lake,0,0,0
 2020-09-30,Lassen,0,0,0
-2020-09-30,Los Angeles,289,161,6
+2020-09-30,Los Angeles,291,163,6
 2020-09-30,Madera,0,0,0
 2020-09-30,Marin,5,4,1
 2020-09-30,Mariposa,0,0,0
@@ -27,7 +27,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Mono,0,0,0
 2020-09-30,Monterey,0,0,0
 2020-09-30,Napa,0,0,0
-2020-09-30,Nevada,0,0,0
+2020-09-30,Nevada,1,1,0
 2020-09-30,Orange,74,39,1
 2020-09-30,Placer,11,7,1
 2020-09-30,Plumas,0,0,0
@@ -41,14 +41,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,San Luis Obispo,1,1,0
 2020-09-30,San Mateo,21,14,0
 2020-09-30,Santa Barbara,3,1,0
-2020-09-30,Santa Clara,70,54,6
+2020-09-30,Santa Clara,71,55,6
 2020-09-30,Santa Cruz,2,1,0
 2020-09-30,Shasta,166,136,4
 2020-09-30,Sierra,0,0,0
 2020-09-30,Siskiyou,5,4,0
 2020-09-30,Solano,3,2,0
 2020-09-30,Sonoma,5,2,0
-2020-09-30,Stanislaus,9,2,0
+2020-09-30,Stanislaus,10,3,0
 2020-09-30,Sutter,1,0,0
 2020-09-30,Tehama,13,11,2
 2020-09-30,Trinity,1,1,0
@@ -75,7 +75,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Kings,0,0,0
 2020-09-29,Lake,0,0,0
 2020-09-29,Lassen,0,0,0
-2020-09-29,Los Angeles,287,156,9
+2020-09-29,Los Angeles,289,158,9
 2020-09-29,Madera,0,0,0
 2020-09-29,Marin,5,3,0
 2020-09-29,Mariposa,0,0,0
@@ -85,7 +85,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Mono,0,0,0
 2020-09-29,Monterey,0,0,0
 2020-09-29,Napa,0,0,0
-2020-09-29,Nevada,0,0,0
+2020-09-29,Nevada,1,1,0
 2020-09-29,Orange,73,39,0
 2020-09-29,Placer,11,6,0
 2020-09-29,Plumas,0,0,0
@@ -99,14 +99,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,San Luis Obispo,1,1,0
 2020-09-29,San Mateo,21,14,0
 2020-09-29,Santa Barbara,3,1,0
-2020-09-29,Santa Clara,69,49,1
+2020-09-29,Santa Clara,70,50,1
 2020-09-29,Santa Cruz,2,1,0
 2020-09-29,Shasta,166,132,0
 2020-09-29,Sierra,0,0,0
 2020-09-29,Siskiyou,5,4,0
 2020-09-29,Solano,3,2,0
 2020-09-29,Sonoma,5,2,0
-2020-09-29,Stanislaus,9,2,0
+2020-09-29,Stanislaus,10,3,0
 2020-09-29,Sutter,1,0,0
 2020-09-29,Tehama,13,9,0
 2020-09-29,Trinity,1,1,0
@@ -133,7 +133,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Kings,0,0,0
 2020-09-28,Lake,0,0,0
 2020-09-28,Lassen,0,0,0
-2020-09-28,Los Angeles,286,147,7
+2020-09-28,Los Angeles,288,149,7
 2020-09-28,Madera,0,0,0
 2020-09-28,Marin,5,3,0
 2020-09-28,Mariposa,0,0,0
@@ -143,7 +143,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Mono,0,0,0
 2020-09-28,Monterey,0,0,0
 2020-09-28,Napa,0,0,0
-2020-09-28,Nevada,0,0,0
+2020-09-28,Nevada,1,1,0
 2020-09-28,Orange,73,39,0
 2020-09-28,Placer,11,6,0
 2020-09-28,Plumas,0,0,0
@@ -157,14 +157,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,San Luis Obispo,1,1,0
 2020-09-28,San Mateo,21,14,1
 2020-09-28,Santa Barbara,3,1,0
-2020-09-28,Santa Clara,69,48,2
+2020-09-28,Santa Clara,70,49,2
 2020-09-28,Santa Cruz,2,1,0
 2020-09-28,Shasta,166,132,10
 2020-09-28,Sierra,0,0,0
 2020-09-28,Siskiyou,5,4,1
 2020-09-28,Solano,3,2,0
 2020-09-28,Sonoma,5,2,1
-2020-09-28,Stanislaus,9,2,0
+2020-09-28,Stanislaus,10,3,0
 2020-09-28,Sutter,1,0,0
 2020-09-28,Tehama,13,9,0
 2020-09-28,Trinity,1,1,0
@@ -191,7 +191,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Kings,0,0,0
 2020-09-27,Lake,0,0,0
 2020-09-27,Lassen,0,0,0
-2020-09-27,Los Angeles,285,141,0
+2020-09-27,Los Angeles,287,143,0
 2020-09-27,Madera,0,0,0
 2020-09-27,Marin,5,3,0
 2020-09-27,Mariposa,0,0,0
@@ -201,7 +201,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Mono,0,0,0
 2020-09-27,Monterey,0,0,0
 2020-09-27,Napa,0,0,0
-2020-09-27,Nevada,0,0,0
+2020-09-27,Nevada,1,1,0
 2020-09-27,Orange,73,39,0
 2020-09-27,Placer,11,6,0
 2020-09-27,Plumas,0,0,0
@@ -215,14 +215,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,San Luis Obispo,1,1,0
 2020-09-27,San Mateo,21,13,0
 2020-09-27,Santa Barbara,3,1,0
-2020-09-27,Santa Clara,69,46,0
+2020-09-27,Santa Clara,70,47,0
 2020-09-27,Santa Cruz,2,1,0
 2020-09-27,Shasta,166,122,0
 2020-09-27,Sierra,0,0,0
 2020-09-27,Siskiyou,5,3,0
 2020-09-27,Solano,3,2,0
 2020-09-27,Sonoma,4,2,0
-2020-09-27,Stanislaus,9,2,0
+2020-09-27,Stanislaus,10,3,0
 2020-09-27,Sutter,1,0,0
 2020-09-27,Tehama,13,9,0
 2020-09-27,Trinity,1,1,0
@@ -249,7 +249,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Kings,0,0,0
 2020-09-26,Lake,0,0,0
 2020-09-26,Lassen,0,0,0
-2020-09-26,Los Angeles,285,141,3
+2020-09-26,Los Angeles,287,143,3
 2020-09-26,Madera,0,0,0
 2020-09-26,Marin,5,3,0
 2020-09-26,Mariposa,0,0,0
@@ -259,7 +259,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Mono,0,0,0
 2020-09-26,Monterey,0,0,0
 2020-09-26,Napa,0,0,0
-2020-09-26,Nevada,0,0,0
+2020-09-26,Nevada,1,1,0
 2020-09-26,Orange,73,39,0
 2020-09-26,Placer,11,6,0
 2020-09-26,Plumas,0,0,0
@@ -273,14 +273,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,San Luis Obispo,1,1,0
 2020-09-26,San Mateo,21,13,0
 2020-09-26,Santa Barbara,3,1,1
-2020-09-26,Santa Clara,69,46,0
+2020-09-26,Santa Clara,70,47,0
 2020-09-26,Santa Cruz,2,1,0
 2020-09-26,Shasta,166,122,0
 2020-09-26,Sierra,0,0,0
 2020-09-26,Siskiyou,5,3,0
 2020-09-26,Solano,3,2,0
 2020-09-26,Sonoma,4,2,0
-2020-09-26,Stanislaus,9,2,0
+2020-09-26,Stanislaus,10,3,0
 2020-09-26,Sutter,1,0,0
 2020-09-26,Tehama,13,9,0
 2020-09-26,Trinity,1,1,0
@@ -307,7 +307,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Kings,0,0,0
 2020-09-25,Lake,0,0,0
 2020-09-25,Lassen,0,0,0
-2020-09-25,Los Angeles,285,138,19
+2020-09-25,Los Angeles,287,140,19
 2020-09-25,Madera,0,0,0
 2020-09-25,Marin,5,3,1
 2020-09-25,Mariposa,0,0,0
@@ -317,7 +317,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Mono,0,0,0
 2020-09-25,Monterey,0,0,0
 2020-09-25,Napa,0,0,0
-2020-09-25,Nevada,0,0,0
+2020-09-25,Nevada,1,1,1
 2020-09-25,Orange,73,39,7
 2020-09-25,Placer,11,6,1
 2020-09-25,Plumas,0,0,0
@@ -331,14 +331,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,San Luis Obispo,1,1,0
 2020-09-25,San Mateo,21,13,0
 2020-09-25,Santa Barbara,3,0,0
-2020-09-25,Santa Clara,69,46,0
+2020-09-25,Santa Clara,70,47,0
 2020-09-25,Santa Cruz,2,1,0
 2020-09-25,Shasta,166,122,6
 2020-09-25,Sierra,0,0,0
 2020-09-25,Siskiyou,5,3,0
 2020-09-25,Solano,3,2,0
 2020-09-25,Sonoma,4,2,0
-2020-09-25,Stanislaus,9,2,0
+2020-09-25,Stanislaus,10,3,0
 2020-09-25,Sutter,1,0,0
 2020-09-25,Tehama,13,9,3
 2020-09-25,Trinity,1,1,0
@@ -365,7 +365,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Kings,0,0,0
 2020-09-24,Lake,0,0,0
 2020-09-24,Lassen,0,0,0
-2020-09-24,Los Angeles,276,128,20
+2020-09-24,Los Angeles,278,130,20
 2020-09-24,Madera,0,0,0
 2020-09-24,Marin,5,2,0
 2020-09-24,Mariposa,0,0,0
@@ -375,7 +375,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Mono,0,0,0
 2020-09-24,Monterey,0,0,0
 2020-09-24,Napa,0,0,0
-2020-09-24,Nevada,0,0,0
+2020-09-24,Nevada,1,0,0
 2020-09-24,Orange,72,33,4
 2020-09-24,Placer,11,5,0
 2020-09-24,Plumas,0,0,0
@@ -389,14 +389,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,San Luis Obispo,1,1,0
 2020-09-24,San Mateo,21,13,0
 2020-09-24,Santa Barbara,3,0,0
-2020-09-24,Santa Clara,69,46,7
+2020-09-24,Santa Clara,70,47,7
 2020-09-24,Santa Cruz,2,1,0
 2020-09-24,Shasta,166,116,2
 2020-09-24,Sierra,0,0,0
 2020-09-24,Siskiyou,5,3,0
 2020-09-24,Solano,3,2,0
 2020-09-24,Sonoma,4,2,0
-2020-09-24,Stanislaus,9,2,0
+2020-09-24,Stanislaus,10,3,0
 2020-09-24,Sutter,1,0,0
 2020-09-24,Tehama,13,6,0
 2020-09-24,Trinity,1,1,0
@@ -423,7 +423,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Kings,0,0,0
 2020-09-23,Lake,0,0,0
 2020-09-23,Lassen,0,0,0
-2020-09-23,Los Angeles,269,115,28
+2020-09-23,Los Angeles,271,117,29
 2020-09-23,Madera,0,0,0
 2020-09-23,Marin,5,2,0
 2020-09-23,Mariposa,0,0,0
@@ -433,7 +433,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Mono,0,0,0
 2020-09-23,Monterey,0,0,0
 2020-09-23,Napa,0,0,0
-2020-09-23,Nevada,0,0,0
+2020-09-23,Nevada,1,0,0
 2020-09-23,Orange,71,30,6
 2020-09-23,Placer,11,5,2
 2020-09-23,Plumas,0,0,0
@@ -447,14 +447,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,San Luis Obispo,1,1,0
 2020-09-23,San Mateo,21,13,2
 2020-09-23,Santa Barbara,3,0,0
-2020-09-23,Santa Clara,68,40,3
+2020-09-23,Santa Clara,69,41,3
 2020-09-23,Santa Cruz,2,1,0
 2020-09-23,Shasta,166,114,10
 2020-09-23,Sierra,0,0,0
 2020-09-23,Siskiyou,5,3,0
 2020-09-23,Solano,3,2,0
 2020-09-23,Sonoma,4,2,1
-2020-09-23,Stanislaus,9,2,1
+2020-09-23,Stanislaus,10,3,1
 2020-09-23,Sutter,1,0,0
 2020-09-23,Tehama,13,6,1
 2020-09-23,Trinity,1,1,0
@@ -481,7 +481,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Kings,0,0,0
 2020-09-22,Lake,0,0,0
 2020-09-22,Lassen,0,0,0
-2020-09-22,Los Angeles,258,98,20
+2020-09-22,Los Angeles,260,99,20
 2020-09-22,Madera,0,0,0
 2020-09-22,Marin,5,2,0
 2020-09-22,Mariposa,0,0,0
@@ -491,7 +491,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Mono,0,0,0
 2020-09-22,Monterey,0,0,0
 2020-09-22,Napa,0,0,0
-2020-09-22,Nevada,0,0,0
+2020-09-22,Nevada,1,0,0
 2020-09-22,Orange,69,26,8
 2020-09-22,Placer,11,3,0
 2020-09-22,Plumas,0,0,0
@@ -505,14 +505,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,San Luis Obispo,1,1,0
 2020-09-22,San Mateo,21,11,0
 2020-09-22,Santa Barbara,3,0,0
-2020-09-22,Santa Clara,67,38,3
+2020-09-22,Santa Clara,68,39,3
 2020-09-22,Santa Cruz,2,1,0
 2020-09-22,Shasta,164,106,4
 2020-09-22,Sierra,0,0,0
 2020-09-22,Siskiyou,5,3,0
 2020-09-22,Solano,3,2,1
 2020-09-22,Sonoma,4,1,0
-2020-09-22,Stanislaus,8,2,0
+2020-09-22,Stanislaus,9,3,0
 2020-09-22,Sutter,1,0,0
 2020-09-22,Tehama,13,5,0
 2020-09-22,Trinity,1,1,0
@@ -539,7 +539,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Kings,0,0,0
 2020-09-21,Lake,0,0,0
 2020-09-21,Lassen,0,0,0
-2020-09-21,Los Angeles,248,88,19
+2020-09-21,Los Angeles,250,89,20
 2020-09-21,Madera,0,0,0
 2020-09-21,Marin,5,2,2
 2020-09-21,Mariposa,0,0,0
@@ -549,7 +549,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Mono,0,0,0
 2020-09-21,Monterey,0,0,0
 2020-09-21,Napa,0,0,0
-2020-09-21,Nevada,0,0,0
+2020-09-21,Nevada,1,0,0
 2020-09-21,Orange,65,22,2
 2020-09-21,Placer,11,3,1
 2020-09-21,Plumas,0,0,0
@@ -563,14 +563,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,San Luis Obispo,1,1,0
 2020-09-21,San Mateo,21,11,1
 2020-09-21,Santa Barbara,3,0,0
-2020-09-21,Santa Clara,67,35,5
+2020-09-21,Santa Clara,68,36,5
 2020-09-21,Santa Cruz,2,1,0
 2020-09-21,Shasta,164,102,5
 2020-09-21,Sierra,0,0,0
 2020-09-21,Siskiyou,5,3,0
 2020-09-21,Solano,3,1,0
 2020-09-21,Sonoma,4,1,0
-2020-09-21,Stanislaus,8,2,1
+2020-09-21,Stanislaus,9,3,1
 2020-09-21,Sutter,1,0,0
 2020-09-21,Tehama,13,5,1
 2020-09-21,Trinity,1,1,0
@@ -597,7 +597,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Kings,0,0,0
 2020-09-20,Lake,0,0,0
 2020-09-20,Lassen,0,0,0
-2020-09-20,Los Angeles,242,75,1
+2020-09-20,Los Angeles,244,75,1
 2020-09-20,Madera,0,0,0
 2020-09-20,Marin,4,1,0
 2020-09-20,Mariposa,0,0,0
@@ -607,7 +607,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Mono,0,0,0
 2020-09-20,Monterey,0,0,0
 2020-09-20,Napa,0,0,0
-2020-09-20,Nevada,0,0,0
+2020-09-20,Nevada,1,0,0
 2020-09-20,Orange,64,21,0
 2020-09-20,Placer,10,3,0
 2020-09-20,Plumas,0,0,0
@@ -621,14 +621,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,San Luis Obispo,1,1,0
 2020-09-20,San Mateo,20,11,0
 2020-09-20,Santa Barbara,3,0,0
-2020-09-20,Santa Clara,65,32,1
+2020-09-20,Santa Clara,66,33,1
 2020-09-20,Santa Cruz,2,1,0
 2020-09-20,Shasta,164,97,0
 2020-09-20,Sierra,0,0,0
 2020-09-20,Siskiyou,5,3,0
 2020-09-20,Solano,3,1,0
 2020-09-20,Sonoma,4,1,0
-2020-09-20,Stanislaus,7,2,0
+2020-09-20,Stanislaus,8,3,0
 2020-09-20,Sutter,1,0,0
 2020-09-20,Tehama,13,4,0
 2020-09-20,Trinity,1,1,0
@@ -655,7 +655,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Kings,0,0,0
 2020-09-19,Lake,0,0,0
 2020-09-19,Lassen,0,0,0
-2020-09-19,Los Angeles,242,74,9
+2020-09-19,Los Angeles,244,74,9
 2020-09-19,Madera,0,0,0
 2020-09-19,Marin,4,1,0
 2020-09-19,Mariposa,0,0,0
@@ -665,7 +665,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Mono,0,0,0
 2020-09-19,Monterey,0,0,0
 2020-09-19,Napa,0,0,0
-2020-09-19,Nevada,0,0,0
+2020-09-19,Nevada,1,0,0
 2020-09-19,Orange,64,21,2
 2020-09-19,Placer,10,3,0
 2020-09-19,Plumas,0,0,0
@@ -679,14 +679,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,San Luis Obispo,1,1,0
 2020-09-19,San Mateo,20,11,0
 2020-09-19,Santa Barbara,3,0,0
-2020-09-19,Santa Clara,64,32,0
+2020-09-19,Santa Clara,65,33,0
 2020-09-19,Santa Cruz,2,1,0
 2020-09-19,Shasta,164,97,0
 2020-09-19,Sierra,0,0,0
 2020-09-19,Siskiyou,5,3,0
 2020-09-19,Solano,3,1,0
 2020-09-19,Sonoma,4,1,0
-2020-09-19,Stanislaus,7,2,0
+2020-09-19,Stanislaus,8,3,0
 2020-09-19,Sutter,1,0,0
 2020-09-19,Tehama,13,4,0
 2020-09-19,Trinity,1,1,0
@@ -713,7 +713,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Kings,0,0,0
 2020-09-18,Lake,0,0,0
 2020-09-18,Lassen,0,0,0
-2020-09-18,Los Angeles,237,70,17
+2020-09-18,Los Angeles,239,70,17
 2020-09-18,Madera,0,0,0
 2020-09-18,Marin,4,1,0
 2020-09-18,Mariposa,0,0,0
@@ -723,7 +723,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Mono,0,0,0
 2020-09-18,Monterey,0,0,0
 2020-09-18,Napa,0,0,0
-2020-09-18,Nevada,0,0,0
+2020-09-18,Nevada,1,0,0
 2020-09-18,Orange,62,21,5
 2020-09-18,Placer,10,3,0
 2020-09-18,Plumas,0,0,0
@@ -737,14 +737,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,San Luis Obispo,1,1,0
 2020-09-18,San Mateo,20,11,2
 2020-09-18,Santa Barbara,3,0,0
-2020-09-18,Santa Clara,64,32,2
+2020-09-18,Santa Clara,65,33,2
 2020-09-18,Santa Cruz,2,1,0
 2020-09-18,Shasta,164,97,10
 2020-09-18,Sierra,0,0,0
 2020-09-18,Siskiyou,5,3,0
 2020-09-18,Solano,3,1,0
 2020-09-18,Sonoma,4,1,0
-2020-09-18,Stanislaus,7,2,0
+2020-09-18,Stanislaus,8,3,0
 2020-09-18,Sutter,1,0,0
 2020-09-18,Tehama,13,4,0
 2020-09-18,Trinity,1,1,0
@@ -771,7 +771,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Kings,0,0,0
 2020-09-17,Lake,0,0,0
 2020-09-17,Lassen,0,0,0
-2020-09-17,Los Angeles,230,60,14
+2020-09-17,Los Angeles,232,60,14
 2020-09-17,Madera,0,0,0
 2020-09-17,Marin,4,1,0
 2020-09-17,Mariposa,0,0,0
@@ -781,7 +781,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Mono,0,0,0
 2020-09-17,Monterey,0,0,0
 2020-09-17,Napa,0,0,0
-2020-09-17,Nevada,0,0,0
+2020-09-17,Nevada,1,0,0
 2020-09-17,Orange,59,19,6
 2020-09-17,Placer,10,3,1
 2020-09-17,Plumas,0,0,0
@@ -795,14 +795,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,San Luis Obispo,1,1,0
 2020-09-17,San Mateo,19,10,0
 2020-09-17,Santa Barbara,3,0,0
-2020-09-17,Santa Clara,63,31,3
+2020-09-17,Santa Clara,64,32,3
 2020-09-17,Santa Cruz,2,1,0
 2020-09-17,Shasta,163,88,15
 2020-09-17,Sierra,0,0,0
 2020-09-17,Siskiyou,5,3,0
 2020-09-17,Solano,3,1,0
 2020-09-17,Sonoma,4,1,0
-2020-09-17,Stanislaus,7,2,0
+2020-09-17,Stanislaus,8,3,0
 2020-09-17,Sutter,1,0,0
 2020-09-17,Tehama,13,4,0
 2020-09-17,Trinity,1,1,0
@@ -829,7 +829,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Kings,0,0,0
 2020-09-16,Lake,0,0,0
 2020-09-16,Lassen,0,0,0
-2020-09-16,Los Angeles,222,55,9
+2020-09-16,Los Angeles,224,55,9
 2020-09-16,Madera,0,0,0
 2020-09-16,Marin,4,1,0
 2020-09-16,Mariposa,0,0,0
@@ -839,7 +839,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Mono,0,0,0
 2020-09-16,Monterey,0,0,0
 2020-09-16,Napa,0,0,0
-2020-09-16,Nevada,0,0,0
+2020-09-16,Nevada,1,0,0
 2020-09-16,Orange,55,17,0
 2020-09-16,Placer,9,3,2
 2020-09-16,Plumas,0,0,0
@@ -853,14 +853,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,San Luis Obispo,1,1,0
 2020-09-16,San Mateo,19,10,1
 2020-09-16,Santa Barbara,3,0,0
-2020-09-16,Santa Clara,63,28,3
+2020-09-16,Santa Clara,64,29,3
 2020-09-16,Santa Cruz,2,1,0
 2020-09-16,Shasta,163,73,6
 2020-09-16,Sierra,0,0,0
 2020-09-16,Siskiyou,5,3,1
 2020-09-16,Solano,3,1,0
 2020-09-16,Sonoma,4,1,2
-2020-09-16,Stanislaus,7,2,2
+2020-09-16,Stanislaus,8,3,2
 2020-09-16,Sutter,1,0,1
 2020-09-16,Tehama,13,4,0
 2020-09-16,Trinity,1,1,0
@@ -887,7 +887,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Kings,0,0,0
 2020-09-15,Lake,0,0,0
 2020-09-15,Lassen,0,0,0
-2020-09-15,Los Angeles,218,50,14
+2020-09-15,Los Angeles,220,50,14
 2020-09-15,Madera,0,0,0
 2020-09-15,Marin,4,1,0
 2020-09-15,Mariposa,0,0,0
@@ -897,7 +897,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Mono,0,0,0
 2020-09-15,Monterey,0,0,0
 2020-09-15,Napa,0,0,0
-2020-09-15,Nevada,0,0,0
+2020-09-15,Nevada,1,0,0
 2020-09-15,Orange,55,17,0
 2020-09-15,Placer,9,1,1
 2020-09-15,Plumas,0,0,0
@@ -911,14 +911,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,San Luis Obispo,1,1,0
 2020-09-15,San Mateo,19,9,2
 2020-09-15,Santa Barbara,3,0,0
-2020-09-15,Santa Clara,62,26,0
+2020-09-15,Santa Clara,63,27,0
 2020-09-15,Santa Cruz,2,1,0
 2020-09-15,Shasta,163,67,10
 2020-09-15,Sierra,0,0,0
 2020-09-15,Siskiyou,5,2,1
 2020-09-15,Solano,3,1,1
 2020-09-15,Sonoma,3,0,0
-2020-09-15,Stanislaus,7,0,0
+2020-09-15,Stanislaus,8,1,0
 2020-09-15,Sutter,0,0,0
 2020-09-15,Tehama,13,4,0
 2020-09-15,Trinity,1,1,0
@@ -945,7 +945,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Kings,0,0,0
 2020-09-14,Lake,0,0,0
 2020-09-14,Lassen,0,0,0
-2020-09-14,Los Angeles,212,42,10
+2020-09-14,Los Angeles,214,42,10
 2020-09-14,Madera,0,0,1
 2020-09-14,Marin,4,1,0
 2020-09-14,Mariposa,0,0,0
@@ -955,7 +955,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Mono,0,0,0
 2020-09-14,Monterey,0,0,0
 2020-09-14,Napa,0,0,0
-2020-09-14,Nevada,0,0,0
+2020-09-14,Nevada,1,0,0
 2020-09-14,Orange,55,17,3
 2020-09-14,Placer,8,1,1
 2020-09-14,Plumas,0,0,0
@@ -969,14 +969,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,San Luis Obispo,1,1,0
 2020-09-14,San Mateo,19,7,2
 2020-09-14,Santa Barbara,3,0,0
-2020-09-14,Santa Clara,62,26,4
+2020-09-14,Santa Clara,63,27,4
 2020-09-14,Santa Cruz,2,1,0
 2020-09-14,Shasta,163,57,8
 2020-09-14,Sierra,0,0,0
 2020-09-14,Siskiyou,5,1,0
 2020-09-14,Solano,2,1,0
 2020-09-14,Sonoma,3,0,0
-2020-09-14,Stanislaus,7,0,0
+2020-09-14,Stanislaus,8,1,1
 2020-09-14,Sutter,0,0,0
 2020-09-14,Tehama,13,4,1
 2020-09-14,Trinity,1,1,0
@@ -1003,7 +1003,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Kings,0,0,0
 2020-09-13,Lake,0,0,0
 2020-09-13,Lassen,0,0,0
-2020-09-13,Los Angeles,208,36,0
+2020-09-13,Los Angeles,210,36,0
 2020-09-13,Madera,0,0,0
 2020-09-13,Marin,4,1,0
 2020-09-13,Mariposa,0,0,0
@@ -1013,7 +1013,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Mono,0,0,0
 2020-09-13,Monterey,0,0,0
 2020-09-13,Napa,0,0,0
-2020-09-13,Nevada,0,0,0
+2020-09-13,Nevada,1,0,0
 2020-09-13,Orange,54,15,1
 2020-09-13,Placer,8,0,0
 2020-09-13,Plumas,0,0,0
@@ -1027,14 +1027,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,San Luis Obispo,1,1,0
 2020-09-13,San Mateo,19,5,0
 2020-09-13,Santa Barbara,3,0,0
-2020-09-13,Santa Clara,62,22,0
+2020-09-13,Santa Clara,63,23,0
 2020-09-13,Santa Cruz,2,1,0
 2020-09-13,Shasta,163,49,0
 2020-09-13,Sierra,0,0,0
 2020-09-13,Siskiyou,5,1,0
 2020-09-13,Solano,2,1,0
 2020-09-13,Sonoma,3,0,0
-2020-09-13,Stanislaus,7,0,0
+2020-09-13,Stanislaus,8,0,0
 2020-09-13,Sutter,0,0,0
 2020-09-13,Tehama,13,3,0
 2020-09-13,Trinity,1,1,0
@@ -1061,7 +1061,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Kings,0,0,0
 2020-09-12,Lake,0,0,0
 2020-09-12,Lassen,0,0,0
-2020-09-12,Los Angeles,208,36,5
+2020-09-12,Los Angeles,210,36,5
 2020-09-12,Madera,0,0,0
 2020-09-12,Marin,4,1,0
 2020-09-12,Mariposa,0,0,0
@@ -1071,7 +1071,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Mono,0,0,0
 2020-09-12,Monterey,0,0,0
 2020-09-12,Napa,0,0,0
-2020-09-12,Nevada,0,0,0
+2020-09-12,Nevada,1,0,0
 2020-09-12,Orange,53,15,0
 2020-09-12,Placer,8,0,0
 2020-09-12,Plumas,0,0,0
@@ -1085,14 +1085,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,San Luis Obispo,1,1,0
 2020-09-12,San Mateo,19,5,0
 2020-09-12,Santa Barbara,3,0,0
-2020-09-12,Santa Clara,62,22,0
+2020-09-12,Santa Clara,63,23,0
 2020-09-12,Santa Cruz,2,1,0
 2020-09-12,Shasta,163,49,4
 2020-09-12,Sierra,0,0,0
 2020-09-12,Siskiyou,5,1,0
 2020-09-12,Solano,2,1,0
 2020-09-12,Sonoma,3,0,0
-2020-09-12,Stanislaus,7,0,0
+2020-09-12,Stanislaus,8,0,0
 2020-09-12,Sutter,0,0,0
 2020-09-12,Tehama,13,3,0
 2020-09-12,Trinity,1,1,0
@@ -1119,7 +1119,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Kings,0,0,0
 2020-09-11,Lake,0,0,0
 2020-09-11,Lassen,0,0,0
-2020-09-11,Los Angeles,207,32,15
+2020-09-11,Los Angeles,209,32,15
 2020-09-11,Madera,0,0,0
 2020-09-11,Marin,4,1,0
 2020-09-11,Mariposa,0,0,0
@@ -1129,7 +1129,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Mono,0,0,0
 2020-09-11,Monterey,0,0,0
 2020-09-11,Napa,0,0,0
-2020-09-11,Nevada,0,0,0
+2020-09-11,Nevada,1,0,0
 2020-09-11,Orange,53,15,3
 2020-09-11,Placer,8,0,1
 2020-09-11,Plumas,0,0,0
@@ -1143,14 +1143,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,San Luis Obispo,1,1,0
 2020-09-11,San Mateo,19,5,0
 2020-09-11,Santa Barbara,3,0,0
-2020-09-11,Santa Clara,62,22,7
+2020-09-11,Santa Clara,63,23,7
 2020-09-11,Santa Cruz,2,1,0
 2020-09-11,Shasta,159,49,5
 2020-09-11,Sierra,0,0,0
 2020-09-11,Siskiyou,5,1,1
 2020-09-11,Solano,2,1,0
 2020-09-11,Sonoma,3,0,0
-2020-09-11,Stanislaus,7,0,0
+2020-09-11,Stanislaus,8,0,0
 2020-09-11,Sutter,0,0,0
 2020-09-11,Tehama,13,3,0
 2020-09-11,Trinity,1,1,0
@@ -1177,7 +1177,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,Kings,0,0,0
 2020-09-10,Lake,0,0,0
 2020-09-10,Lassen,0,0,0
-2020-09-10,Los Angeles,198,26,21
+2020-09-10,Los Angeles,200,26,21
 2020-09-10,Madera,0,0,0
 2020-09-10,Marin,4,1,2
 2020-09-10,Mariposa,0,0,0
@@ -1187,7 +1187,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,Mono,0,0,0
 2020-09-10,Monterey,0,0,0
 2020-09-10,Napa,0,0,0
-2020-09-10,Nevada,0,0,0
+2020-09-10,Nevada,1,0,0
 2020-09-10,Orange,52,13,1
 2020-09-10,Placer,7,0,0
 2020-09-10,Plumas,0,0,0
@@ -1201,14 +1201,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,San Luis Obispo,1,1,0
 2020-09-10,San Mateo,19,5,0
 2020-09-10,Santa Barbara,3,0,0
-2020-09-10,Santa Clara,58,19,5
+2020-09-10,Santa Clara,59,20,5
 2020-09-10,Santa Cruz,2,1,0
 2020-09-10,Shasta,155,48,8
 2020-09-10,Sierra,0,0,0
 2020-09-10,Siskiyou,4,1,0
 2020-09-10,Solano,2,1,0
 2020-09-10,Sonoma,3,0,0
-2020-09-10,Stanislaus,7,0,0
+2020-09-10,Stanislaus,8,0,0
 2020-09-10,Sutter,0,0,0
 2020-09-10,Tehama,13,3,0
 2020-09-10,Trinity,1,1,0
@@ -1235,7 +1235,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,Kings,0,0,0
 2020-09-09,Lake,0,0,0
 2020-09-09,Lassen,0,0,0
-2020-09-09,Los Angeles,186,17,9
+2020-09-09,Los Angeles,188,17,9
 2020-09-09,Madera,0,0,0
 2020-09-09,Marin,3,0,0
 2020-09-09,Mariposa,0,0,0
@@ -1245,7 +1245,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,Mono,0,0,0
 2020-09-09,Monterey,0,0,0
 2020-09-09,Napa,0,0,0
-2020-09-09,Nevada,0,0,0
+2020-09-09,Nevada,1,0,0
 2020-09-09,Orange,52,12,0
 2020-09-09,Placer,7,0,0
 2020-09-09,Plumas,0,0,0
@@ -1259,14 +1259,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,San Luis Obispo,1,1,0
 2020-09-09,San Mateo,19,5,1
 2020-09-09,Santa Barbara,3,0,0
-2020-09-09,Santa Clara,55,17,7
+2020-09-09,Santa Clara,56,18,7
 2020-09-09,Santa Cruz,2,1,1
 2020-09-09,Shasta,149,46,19
 2020-09-09,Sierra,0,0,0
 2020-09-09,Siskiyou,4,1,0
 2020-09-09,Solano,2,1,0
 2020-09-09,Sonoma,3,0,0
-2020-09-09,Stanislaus,7,0,0
+2020-09-09,Stanislaus,8,0,0
 2020-09-09,Sutter,0,0,0
 2020-09-09,Tehama,13,3,1
 2020-09-09,Trinity,1,1,0
@@ -1293,7 +1293,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,Kings,0,0,0
 2020-09-08,Lake,0,0,0
 2020-09-08,Lassen,0,0,0
-2020-09-08,Los Angeles,181,13,13
+2020-09-08,Los Angeles,183,13,13
 2020-09-08,Madera,0,0,0
 2020-09-08,Marin,3,0,0
 2020-09-08,Mariposa,0,0,0
@@ -1303,7 +1303,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,Mono,0,0,0
 2020-09-08,Monterey,0,0,0
 2020-09-08,Napa,0,0,0
-2020-09-08,Nevada,0,0,0
+2020-09-08,Nevada,1,0,0
 2020-09-08,Orange,52,12,2
 2020-09-08,Placer,7,0,0
 2020-09-08,Plumas,0,0,0
@@ -1317,14 +1317,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,San Luis Obispo,1,1,1
 2020-09-08,San Mateo,19,4,1
 2020-09-08,Santa Barbara,3,0,0
-2020-09-08,Santa Clara,52,13,7
+2020-09-08,Santa Clara,53,14,7
 2020-09-08,Santa Cruz,2,0,0
 2020-09-08,Shasta,149,27,16
 2020-09-08,Sierra,0,0,0
 2020-09-08,Siskiyou,4,1,0
 2020-09-08,Solano,2,1,0
 2020-09-08,Sonoma,3,0,0
-2020-09-08,Stanislaus,7,0,0
+2020-09-08,Stanislaus,8,0,0
 2020-09-08,Sutter,0,0,0
 2020-09-08,Tehama,13,2,3
 2020-09-08,Trinity,1,1,1
@@ -1351,7 +1351,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,Kings,0,0,0
 2020-09-07,Lake,0,0,0
 2020-09-07,Lassen,0,0,0
-2020-09-07,Los Angeles,171,10,0
+2020-09-07,Los Angeles,173,10,0
 2020-09-07,Madera,0,0,0
 2020-09-07,Marin,3,0,0
 2020-09-07,Mariposa,0,0,0
@@ -1361,7 +1361,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,Mono,0,0,0
 2020-09-07,Monterey,0,0,0
 2020-09-07,Napa,0,0,0
-2020-09-07,Nevada,0,0,0
+2020-09-07,Nevada,1,0,0
 2020-09-07,Orange,51,11,0
 2020-09-07,Placer,7,0,0
 2020-09-07,Plumas,0,0,0
@@ -1375,14 +1375,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,San Luis Obispo,1,0,0
 2020-09-07,San Mateo,19,3,0
 2020-09-07,Santa Barbara,3,0,0
-2020-09-07,Santa Clara,48,10,0
+2020-09-07,Santa Clara,49,11,0
 2020-09-07,Santa Cruz,2,0,0
 2020-09-07,Shasta,147,13,0
 2020-09-07,Sierra,0,0,0
 2020-09-07,Siskiyou,4,1,0
 2020-09-07,Solano,2,1,0
 2020-09-07,Sonoma,3,0,0
-2020-09-07,Stanislaus,7,0,0
+2020-09-07,Stanislaus,8,0,0
 2020-09-07,Sutter,0,0,0
 2020-09-07,Tehama,11,1,0
 2020-09-07,Trinity,1,0,0
@@ -1409,7 +1409,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,Kings,0,0,0
 2020-09-06,Lake,0,0,0
 2020-09-06,Lassen,0,0,0
-2020-09-06,Los Angeles,171,10,0
+2020-09-06,Los Angeles,173,10,0
 2020-09-06,Madera,0,0,0
 2020-09-06,Marin,3,0,0
 2020-09-06,Mariposa,0,0,0
@@ -1419,7 +1419,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,Mono,0,0,0
 2020-09-06,Monterey,0,0,0
 2020-09-06,Napa,0,0,0
-2020-09-06,Nevada,0,0,0
+2020-09-06,Nevada,1,0,0
 2020-09-06,Orange,51,11,0
 2020-09-06,Placer,7,0,0
 2020-09-06,Plumas,0,0,0
@@ -1433,14 +1433,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,San Luis Obispo,1,0,0
 2020-09-06,San Mateo,19,3,0
 2020-09-06,Santa Barbara,3,0,0
-2020-09-06,Santa Clara,48,10,0
+2020-09-06,Santa Clara,49,11,0
 2020-09-06,Santa Cruz,2,0,0
 2020-09-06,Shasta,147,13,0
 2020-09-06,Sierra,0,0,0
 2020-09-06,Siskiyou,4,1,0
 2020-09-06,Solano,2,1,0
 2020-09-06,Sonoma,3,0,0
-2020-09-06,Stanislaus,7,0,0
+2020-09-06,Stanislaus,8,0,0
 2020-09-06,Sutter,0,0,0
 2020-09-06,Tehama,11,1,0
 2020-09-06,Trinity,1,0,0
@@ -1467,7 +1467,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,Kings,0,0,0
 2020-09-05,Lake,0,0,0
 2020-09-05,Lassen,0,0,0
-2020-09-05,Los Angeles,171,10,4
+2020-09-05,Los Angeles,173,10,4
 2020-09-05,Madera,0,0,0
 2020-09-05,Marin,3,0,0
 2020-09-05,Mariposa,0,0,0
@@ -1477,7 +1477,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,Mono,0,0,0
 2020-09-05,Monterey,0,0,0
 2020-09-05,Napa,0,0,0
-2020-09-05,Nevada,0,0,0
+2020-09-05,Nevada,1,0,0
 2020-09-05,Orange,51,11,0
 2020-09-05,Placer,7,0,0
 2020-09-05,Plumas,0,0,0
@@ -1491,14 +1491,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,San Luis Obispo,1,0,0
 2020-09-05,San Mateo,19,3,0
 2020-09-05,Santa Barbara,3,0,0
-2020-09-05,Santa Clara,48,10,0
+2020-09-05,Santa Clara,49,11,0
 2020-09-05,Santa Cruz,2,0,0
 2020-09-05,Shasta,147,13,2
 2020-09-05,Sierra,0,0,0
 2020-09-05,Siskiyou,4,1,0
 2020-09-05,Solano,2,1,0
 2020-09-05,Sonoma,3,0,0
-2020-09-05,Stanislaus,7,0,0
+2020-09-05,Stanislaus,8,0,0
 2020-09-05,Sutter,0,0,0
 2020-09-05,Tehama,11,1,0
 2020-09-05,Trinity,1,0,0
@@ -1525,7 +1525,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,Kings,0,0,0
 2020-09-04,Lake,0,0,0
 2020-09-04,Lassen,0,0,0
-2020-09-04,Los Angeles,167,10,14
+2020-09-04,Los Angeles,169,10,14
 2020-09-04,Madera,0,0,0
 2020-09-04,Marin,3,0,1
 2020-09-04,Mariposa,0,0,0
@@ -1535,7 +1535,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,Mono,0,0,0
 2020-09-04,Monterey,0,0,0
 2020-09-04,Napa,0,0,0
-2020-09-04,Nevada,0,0,0
+2020-09-04,Nevada,1,0,1
 2020-09-04,Orange,51,11,5
 2020-09-04,Placer,7,0,1
 2020-09-04,Plumas,0,0,0
@@ -1549,14 +1549,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,San Luis Obispo,1,0,0
 2020-09-04,San Mateo,19,3,1
 2020-09-04,Santa Barbara,3,0,1
-2020-09-04,Santa Clara,48,10,5
+2020-09-04,Santa Clara,49,11,5
 2020-09-04,Santa Cruz,2,0,0
 2020-09-04,Shasta,145,13,13
 2020-09-04,Sierra,0,0,0
 2020-09-04,Siskiyou,4,1,1
 2020-09-04,Solano,2,1,0
 2020-09-04,Sonoma,3,0,0
-2020-09-04,Stanislaus,7,0,0
+2020-09-04,Stanislaus,8,0,0
 2020-09-04,Sutter,0,0,0
 2020-09-04,Tehama,11,1,1
 2020-09-04,Trinity,1,0,0
@@ -1583,7 +1583,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,Kings,0,0,0
 2020-09-03,Lake,0,0,0
 2020-09-03,Lassen,0,0,0
-2020-09-03,Los Angeles,153,10,14
+2020-09-03,Los Angeles,155,10,14
 2020-09-03,Madera,0,0,0
 2020-09-03,Marin,2,0,0
 2020-09-03,Mariposa,0,0,0
@@ -1607,14 +1607,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,San Luis Obispo,1,0,0
 2020-09-03,San Mateo,18,3,0
 2020-09-03,Santa Barbara,2,0,0
-2020-09-03,Santa Clara,46,7,3
+2020-09-03,Santa Clara,47,8,3
 2020-09-03,Santa Cruz,2,0,0
 2020-09-03,Shasta,144,1,9
 2020-09-03,Sierra,0,0,0
 2020-09-03,Siskiyou,4,0,0
 2020-09-03,Solano,2,1,0
 2020-09-03,Sonoma,3,0,1
-2020-09-03,Stanislaus,7,0,0
+2020-09-03,Stanislaus,8,0,0
 2020-09-03,Sutter,0,0,0
 2020-09-03,Tehama,11,0,0
 2020-09-03,Trinity,1,0,0
@@ -1641,7 +1641,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,Kings,0,0,0
 2020-09-02,Lake,0,0,0
 2020-09-02,Lassen,0,0,0
-2020-09-02,Los Angeles,139,10,13
+2020-09-02,Los Angeles,141,10,13
 2020-09-02,Madera,0,0,0
 2020-09-02,Marin,2,0,0
 2020-09-02,Mariposa,0,0,0
@@ -1665,14 +1665,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,San Luis Obispo,1,0,0
 2020-09-02,San Mateo,18,3,2
 2020-09-02,Santa Barbara,2,0,0
-2020-09-02,Santa Clara,43,7,6
+2020-09-02,Santa Clara,44,8,6
 2020-09-02,Santa Cruz,2,0,0
 2020-09-02,Shasta,135,1,9
 2020-09-02,Sierra,0,0,0
 2020-09-02,Siskiyou,4,0,0
 2020-09-02,Solano,2,1,0
 2020-09-02,Sonoma,2,0,0
-2020-09-02,Stanislaus,7,0,0
+2020-09-02,Stanislaus,8,0,0
 2020-09-02,Sutter,0,0,0
 2020-09-02,Tehama,11,0,0
 2020-09-02,Trinity,1,0,0
@@ -1699,7 +1699,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,Kings,0,0,0
 2020-09-01,Lake,0,0,0
 2020-09-01,Lassen,0,0,0
-2020-09-01,Los Angeles,126,10,19
+2020-09-01,Los Angeles,128,10,20
 2020-09-01,Madera,0,0,0
 2020-09-01,Marin,2,0,0
 2020-09-01,Mariposa,0,0,0
@@ -1723,14 +1723,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,San Luis Obispo,1,0,0
 2020-09-01,San Mateo,16,3,3
 2020-09-01,Santa Barbara,2,0,0
-2020-09-01,Santa Clara,39,5,5
+2020-09-01,Santa Clara,40,6,6
 2020-09-01,Santa Cruz,2,0,0
 2020-09-01,Shasta,127,0,6
 2020-09-01,Sierra,0,0,0
 2020-09-01,Siskiyou,4,0,0
 2020-09-01,Solano,2,1,2
 2020-09-01,Sonoma,2,0,0
-2020-09-01,Stanislaus,7,0,1
+2020-09-01,Stanislaus,8,0,1
 2020-09-01,Sutter,0,0,0
 2020-09-01,Tehama,11,0,1
 2020-09-01,Trinity,1,0,0
@@ -1757,7 +1757,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,Kings,0,0,0
 2020-08-31,Lake,0,0,0
 2020-08-31,Lassen,0,0,0
-2020-08-31,Los Angeles,109,8,11
+2020-08-31,Los Angeles,110,8,12
 2020-08-31,Madera,0,0,0
 2020-08-31,Marin,2,0,1
 2020-08-31,Mariposa,0,0,0
@@ -1781,14 +1781,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,San Luis Obispo,1,0,0
 2020-08-31,San Mateo,15,1,1
 2020-08-31,Santa Barbara,2,0,0
-2020-08-31,Santa Clara,35,4,5
+2020-08-31,Santa Clara,36,4,5
 2020-08-31,Santa Cruz,2,0,0
 2020-08-31,Shasta,121,0,6
 2020-08-31,Sierra,0,0,0
 2020-08-31,Siskiyou,4,0,1
 2020-08-31,Solano,1,0,0
 2020-08-31,Sonoma,2,0,0
-2020-08-31,Stanislaus,6,0,0
+2020-08-31,Stanislaus,7,0,0
 2020-08-31,Sutter,0,0,0
 2020-08-31,Tehama,10,0,3
 2020-08-31,Trinity,1,0,0
@@ -1839,14 +1839,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-30,San Luis Obispo,1,0,0
 2020-08-30,San Mateo,15,0,0
 2020-08-30,Santa Barbara,2,0,0
-2020-08-30,Santa Clara,33,1,0
+2020-08-30,Santa Clara,34,1,0
 2020-08-30,Santa Cruz,2,0,0
 2020-08-30,Shasta,115,0,0
 2020-08-30,Sierra,0,0,0
 2020-08-30,Siskiyou,3,0,0
 2020-08-30,Solano,1,0,0
 2020-08-30,Sonoma,2,0,0
-2020-08-30,Stanislaus,6,0,1
+2020-08-30,Stanislaus,7,0,1
 2020-08-30,Sutter,0,0,0
 2020-08-30,Tehama,7,0,0
 2020-08-30,Trinity,1,0,0
@@ -1897,14 +1897,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-29,San Luis Obispo,1,0,0
 2020-08-29,San Mateo,15,0,0
 2020-08-29,Santa Barbara,2,0,0
-2020-08-29,Santa Clara,33,1,0
+2020-08-29,Santa Clara,34,1,0
 2020-08-29,Santa Cruz,2,0,0
 2020-08-29,Shasta,115,0,0
 2020-08-29,Sierra,0,0,0
 2020-08-29,Siskiyou,3,0,0
 2020-08-29,Solano,1,0,0
 2020-08-29,Sonoma,2,0,0
-2020-08-29,Stanislaus,5,0,0
+2020-08-29,Stanislaus,6,0,0
 2020-08-29,Sutter,0,0,0
 2020-08-29,Tehama,7,0,0
 2020-08-29,Trinity,1,0,0
@@ -1955,14 +1955,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-28,San Luis Obispo,1,0,0
 2020-08-28,San Mateo,15,0,2
 2020-08-28,Santa Barbara,2,0,0
-2020-08-28,Santa Clara,33,1,5
+2020-08-28,Santa Clara,34,1,5
 2020-08-28,Santa Cruz,2,0,0
 2020-08-28,Shasta,115,0,6
 2020-08-28,Sierra,0,0,0
 2020-08-28,Siskiyou,3,0,0
 2020-08-28,Solano,1,0,0
 2020-08-28,Sonoma,2,0,0
-2020-08-28,Stanislaus,5,0,0
+2020-08-28,Stanislaus,6,0,0
 2020-08-28,Sutter,0,0,0
 2020-08-28,Tehama,7,0,1
 2020-08-28,Trinity,1,0,0
@@ -2013,14 +2013,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-27,San Luis Obispo,1,0,0
 2020-08-27,San Mateo,13,0,2
 2020-08-27,Santa Barbara,2,0,0
-2020-08-27,Santa Clara,28,1,1
+2020-08-27,Santa Clara,29,1,1
 2020-08-27,Santa Cruz,2,0,0
 2020-08-27,Shasta,109,0,7
 2020-08-27,Sierra,0,0,0
 2020-08-27,Siskiyou,3,0,0
 2020-08-27,Solano,1,0,0
 2020-08-27,Sonoma,2,0,0
-2020-08-27,Stanislaus,5,0,0
+2020-08-27,Stanislaus,6,0,0
 2020-08-27,Sutter,0,0,0
 2020-08-27,Tehama,6,0,0
 2020-08-27,Trinity,1,0,0
@@ -2071,14 +2071,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-26,San Luis Obispo,1,0,0
 2020-08-26,San Mateo,11,0,2
 2020-08-26,Santa Barbara,2,0,0
-2020-08-26,Santa Clara,27,1,1
+2020-08-26,Santa Clara,28,1,1
 2020-08-26,Santa Cruz,2,0,0
 2020-08-26,Shasta,102,0,7
 2020-08-26,Sierra,0,0,0
 2020-08-26,Siskiyou,3,0,1
 2020-08-26,Solano,1,0,0
 2020-08-26,Sonoma,2,0,0
-2020-08-26,Stanislaus,5,0,0
+2020-08-26,Stanislaus,6,0,0
 2020-08-26,Sutter,0,0,0
 2020-08-26,Tehama,6,0,0
 2020-08-26,Trinity,1,0,0
@@ -2129,14 +2129,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-25,San Luis Obispo,1,0,0
 2020-08-25,San Mateo,9,0,2
 2020-08-25,Santa Barbara,2,0,0
-2020-08-25,Santa Clara,26,1,0
+2020-08-25,Santa Clara,27,1,0
 2020-08-25,Santa Cruz,2,0,0
 2020-08-25,Shasta,95,0,6
 2020-08-25,Sierra,0,0,0
 2020-08-25,Siskiyou,2,0,1
 2020-08-25,Solano,1,0,0
 2020-08-25,Sonoma,2,0,0
-2020-08-25,Stanislaus,5,0,2
+2020-08-25,Stanislaus,6,0,2
 2020-08-25,Sutter,0,0,0
 2020-08-25,Tehama,6,0,0
 2020-08-25,Trinity,1,0,0
@@ -2187,14 +2187,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-24,San Luis Obispo,1,0,0
 2020-08-24,San Mateo,7,0,0
 2020-08-24,Santa Barbara,2,0,0
-2020-08-24,Santa Clara,26,1,3
+2020-08-24,Santa Clara,27,1,3
 2020-08-24,Santa Cruz,2,0,0
 2020-08-24,Shasta,89,0,5
 2020-08-24,Sierra,0,0,0
 2020-08-24,Siskiyou,1,0,0
 2020-08-24,Solano,1,0,0
 2020-08-24,Sonoma,2,0,0
-2020-08-24,Stanislaus,3,0,0
+2020-08-24,Stanislaus,4,0,0
 2020-08-24,Sutter,0,0,0
 2020-08-24,Tehama,6,0,2
 2020-08-24,Trinity,1,0,0
@@ -2245,14 +2245,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-23,San Luis Obispo,1,0,0
 2020-08-23,San Mateo,7,0,0
 2020-08-23,Santa Barbara,2,0,0
-2020-08-23,Santa Clara,23,1,0
+2020-08-23,Santa Clara,24,1,0
 2020-08-23,Santa Cruz,2,0,0
 2020-08-23,Shasta,84,0,0
 2020-08-23,Sierra,0,0,0
 2020-08-23,Siskiyou,1,0,0
 2020-08-23,Solano,1,0,0
 2020-08-23,Sonoma,2,0,0
-2020-08-23,Stanislaus,3,0,0
+2020-08-23,Stanislaus,4,0,0
 2020-08-23,Sutter,0,0,0
 2020-08-23,Tehama,4,0,0
 2020-08-23,Trinity,1,0,0
@@ -2303,14 +2303,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-22,San Luis Obispo,1,0,0
 2020-08-22,San Mateo,7,0,0
 2020-08-22,Santa Barbara,2,0,0
-2020-08-22,Santa Clara,23,1,0
+2020-08-22,Santa Clara,24,1,0
 2020-08-22,Santa Cruz,2,0,0
 2020-08-22,Shasta,84,0,4
 2020-08-22,Sierra,0,0,0
 2020-08-22,Siskiyou,1,0,0
 2020-08-22,Solano,1,0,0
 2020-08-22,Sonoma,2,0,0
-2020-08-22,Stanislaus,3,0,0
+2020-08-22,Stanislaus,4,0,0
 2020-08-22,Sutter,0,0,0
 2020-08-22,Tehama,4,0,0
 2020-08-22,Trinity,1,0,0
@@ -2361,14 +2361,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-21,San Luis Obispo,1,0,0
 2020-08-21,San Mateo,7,0,0
 2020-08-21,Santa Barbara,2,0,0
-2020-08-21,Santa Clara,23,1,4
+2020-08-21,Santa Clara,24,1,4
 2020-08-21,Santa Cruz,2,0,0
 2020-08-21,Shasta,80,0,7
 2020-08-21,Sierra,0,0,0
 2020-08-21,Siskiyou,1,0,0
 2020-08-21,Solano,1,0,0
 2020-08-21,Sonoma,2,0,0
-2020-08-21,Stanislaus,3,0,0
+2020-08-21,Stanislaus,4,0,0
 2020-08-21,Sutter,0,0,0
 2020-08-21,Tehama,4,0,0
 2020-08-21,Trinity,1,0,0
@@ -2419,14 +2419,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-20,San Luis Obispo,1,0,0
 2020-08-20,San Mateo,7,0,0
 2020-08-20,Santa Barbara,2,0,0
-2020-08-20,Santa Clara,19,1,3
+2020-08-20,Santa Clara,20,1,3
 2020-08-20,Santa Cruz,2,0,1
 2020-08-20,Shasta,73,0,9
 2020-08-20,Sierra,0,0,0
 2020-08-20,Siskiyou,1,0,0
 2020-08-20,Solano,1,0,0
 2020-08-20,Sonoma,2,0,0
-2020-08-20,Stanislaus,3,0,0
+2020-08-20,Stanislaus,4,0,0
 2020-08-20,Sutter,0,0,0
 2020-08-20,Tehama,4,0,0
 2020-08-20,Trinity,1,0,0
@@ -2477,14 +2477,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-19,San Luis Obispo,1,0,0
 2020-08-19,San Mateo,7,0,0
 2020-08-19,Santa Barbara,2,0,0
-2020-08-19,Santa Clara,16,1,0
+2020-08-19,Santa Clara,17,1,0
 2020-08-19,Santa Cruz,1,0,0
 2020-08-19,Shasta,64,0,7
 2020-08-19,Sierra,0,0,0
 2020-08-19,Siskiyou,1,0,0
 2020-08-19,Solano,1,0,0
 2020-08-19,Sonoma,2,0,0
-2020-08-19,Stanislaus,3,0,0
+2020-08-19,Stanislaus,4,0,0
 2020-08-19,Sutter,0,0,0
 2020-08-19,Tehama,4,0,1
 2020-08-19,Trinity,1,0,0
@@ -2535,14 +2535,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-18,San Luis Obispo,1,0,0
 2020-08-18,San Mateo,7,0,1
 2020-08-18,Santa Barbara,2,0,0
-2020-08-18,Santa Clara,16,1,0
+2020-08-18,Santa Clara,17,1,0
 2020-08-18,Santa Cruz,1,0,0
 2020-08-18,Shasta,57,0,10
 2020-08-18,Sierra,0,0,0
 2020-08-18,Siskiyou,1,0,0
 2020-08-18,Solano,1,0,0
 2020-08-18,Sonoma,2,0,0
-2020-08-18,Stanislaus,3,0,0
+2020-08-18,Stanislaus,4,0,1
 2020-08-18,Sutter,0,0,0
 2020-08-18,Tehama,3,0,0
 2020-08-18,Trinity,1,0,0
@@ -2593,7 +2593,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-17,San Luis Obispo,1,0,0
 2020-08-17,San Mateo,6,0,0
 2020-08-17,Santa Barbara,2,0,0
-2020-08-17,Santa Clara,16,1,5
+2020-08-17,Santa Clara,17,1,5
 2020-08-17,Santa Cruz,1,0,0
 2020-08-17,Shasta,47,0,9
 2020-08-17,Sierra,0,0,0
@@ -2651,7 +2651,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-16,San Luis Obispo,1,0,0
 2020-08-16,San Mateo,6,0,1
 2020-08-16,Santa Barbara,2,0,0
-2020-08-16,Santa Clara,11,1,0
+2020-08-16,Santa Clara,12,1,0
 2020-08-16,Santa Cruz,1,0,0
 2020-08-16,Shasta,38,0,0
 2020-08-16,Sierra,0,0,0
@@ -2709,7 +2709,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-15,San Luis Obispo,1,0,0
 2020-08-15,San Mateo,5,0,0
 2020-08-15,Santa Barbara,2,0,0
-2020-08-15,Santa Clara,11,1,0
+2020-08-15,Santa Clara,12,1,0
 2020-08-15,Santa Cruz,1,0,0
 2020-08-15,Shasta,38,0,0
 2020-08-15,Sierra,0,0,0
@@ -2767,7 +2767,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-14,San Luis Obispo,1,0,0
 2020-08-14,San Mateo,5,0,0
 2020-08-14,Santa Barbara,2,0,0
-2020-08-14,Santa Clara,11,1,2
+2020-08-14,Santa Clara,12,1,2
 2020-08-14,Santa Cruz,1,0,0
 2020-08-14,Shasta,38,0,7
 2020-08-14,Sierra,0,0,0
@@ -2825,7 +2825,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-13,San Luis Obispo,1,0,0
 2020-08-13,San Mateo,5,0,0
 2020-08-13,Santa Barbara,2,0,0
-2020-08-13,Santa Clara,9,1,1
+2020-08-13,Santa Clara,10,1,1
 2020-08-13,Santa Cruz,1,0,0
 2020-08-13,Shasta,31,0,7
 2020-08-13,Sierra,0,0,0
@@ -2883,7 +2883,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-12,San Luis Obispo,1,0,1
 2020-08-12,San Mateo,5,0,1
 2020-08-12,Santa Barbara,2,0,0
-2020-08-12,Santa Clara,8,1,1
+2020-08-12,Santa Clara,9,1,1
 2020-08-12,Santa Cruz,1,0,0
 2020-08-12,Shasta,24,0,4
 2020-08-12,Sierra,0,0,0
@@ -2941,7 +2941,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-11,San Luis Obispo,0,0,0
 2020-08-11,San Mateo,4,0,2
 2020-08-11,Santa Barbara,2,0,0
-2020-08-11,Santa Clara,7,1,2
+2020-08-11,Santa Clara,8,1,2
 2020-08-11,Santa Cruz,1,0,0
 2020-08-11,Shasta,20,0,6
 2020-08-11,Sierra,0,0,0
@@ -2999,7 +2999,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-10,San Luis Obispo,0,0,0
 2020-08-10,San Mateo,2,0,0
 2020-08-10,Santa Barbara,2,0,0
-2020-08-10,Santa Clara,5,1,3
+2020-08-10,Santa Clara,6,1,3
 2020-08-10,Santa Cruz,1,0,0
 2020-08-10,Shasta,14,0,6
 2020-08-10,Sierra,0,0,0
@@ -3057,7 +3057,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-09,San Luis Obispo,0,0,0
 2020-08-09,San Mateo,2,0,0
 2020-08-09,Santa Barbara,2,0,0
-2020-08-09,Santa Clara,2,1,0
+2020-08-09,Santa Clara,3,1,0
 2020-08-09,Santa Cruz,1,0,0
 2020-08-09,Shasta,8,0,0
 2020-08-09,Sierra,0,0,0
@@ -3115,7 +3115,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-08,San Luis Obispo,0,0,0
 2020-08-08,San Mateo,2,0,0
 2020-08-08,Santa Barbara,2,0,0
-2020-08-08,Santa Clara,2,1,0
+2020-08-08,Santa Clara,3,1,0
 2020-08-08,Santa Cruz,1,0,0
 2020-08-08,Shasta,8,0,0
 2020-08-08,Sierra,0,0,0
@@ -3173,7 +3173,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-07,San Luis Obispo,0,0,0
 2020-08-07,San Mateo,2,0,0
 2020-08-07,Santa Barbara,2,0,0
-2020-08-07,Santa Clara,2,1,0
+2020-08-07,Santa Clara,3,1,0
 2020-08-07,Santa Cruz,1,0,0
 2020-08-07,Shasta,8,0,0
 2020-08-07,Sierra,0,0,0
@@ -3231,7 +3231,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-06,San Luis Obispo,0,0,0
 2020-08-06,San Mateo,2,0,0
 2020-08-06,Santa Barbara,2,0,0
-2020-08-06,Santa Clara,2,1,0
+2020-08-06,Santa Clara,3,1,0
 2020-08-06,Santa Cruz,1,0,0
 2020-08-06,Shasta,8,0,3
 2020-08-06,Sierra,0,0,0
@@ -3289,7 +3289,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-05,San Luis Obispo,0,0,0
 2020-08-05,San Mateo,2,0,0
 2020-08-05,Santa Barbara,2,0,0
-2020-08-05,Santa Clara,2,1,0
+2020-08-05,Santa Clara,3,1,0
 2020-08-05,Santa Cruz,1,0,0
 2020-08-05,Shasta,5,0,5
 2020-08-05,Sierra,0,0,0
@@ -3347,7 +3347,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-04,San Luis Obispo,0,0,0
 2020-08-04,San Mateo,2,0,1
 2020-08-04,Santa Barbara,2,0,1
-2020-08-04,Santa Clara,2,1,0
+2020-08-04,Santa Clara,3,1,0
 2020-08-04,Santa Cruz,1,0,0
 2020-08-04,Shasta,0,0,0
 2020-08-04,Sierra,0,0,0
@@ -3405,7 +3405,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-03,San Luis Obispo,0,0,0
 2020-08-03,San Mateo,1,0,0
 2020-08-03,Santa Barbara,1,0,0
-2020-08-03,Santa Clara,2,1,0
+2020-08-03,Santa Clara,3,1,1
 2020-08-03,Santa Cruz,1,0,0
 2020-08-03,Shasta,0,0,0
 2020-08-03,Sierra,0,0,0
