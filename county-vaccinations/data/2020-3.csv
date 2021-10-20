@@ -8,7 +8,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Contra Costa,57,50,1
 2020-09-30,Del Norte,0,0,0
 2020-09-30,El Dorado,5,5,1
-2020-09-30,Fresno,4,2,0
+2020-09-30,Fresno,5,2,0
 2020-09-30,Glenn,2,2,1
 2020-09-30,Humboldt,1,0,0
 2020-09-30,Imperial,2,0,0
@@ -35,12 +35,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Sacramento,102,63,9
 2020-09-30,San Benito,0,0,0
 2020-09-30,San Bernardino,12,5,0
-2020-09-30,San Diego,267,187,4
+2020-09-30,San Diego,266,187,4
 2020-09-30,San Francisco,22,12,3
 2020-09-30,San Joaquin,8,8,1
 2020-09-30,San Luis Obispo,1,1,0
 2020-09-30,San Mateo,21,14,0
-2020-09-30,Santa Barbara,3,1,0
+2020-09-30,Santa Barbara,4,1,0
 2020-09-30,Santa Clara,71,55,6
 2020-09-30,Santa Cruz,2,1,0
 2020-09-30,Shasta,166,136,4
@@ -66,7 +66,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Contra Costa,57,49,3
 2020-09-29,Del Norte,0,0,0
 2020-09-29,El Dorado,5,4,0
-2020-09-29,Fresno,4,2,0
+2020-09-29,Fresno,5,2,0
 2020-09-29,Glenn,2,1,0
 2020-09-29,Humboldt,1,0,0
 2020-09-29,Imperial,2,0,0
@@ -93,12 +93,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Sacramento,100,56,4
 2020-09-29,San Benito,0,0,0
 2020-09-29,San Bernardino,12,5,0
-2020-09-29,San Diego,266,185,18
+2020-09-29,San Diego,265,185,18
 2020-09-29,San Francisco,22,9,0
 2020-09-29,San Joaquin,8,7,1
 2020-09-29,San Luis Obispo,1,1,0
 2020-09-29,San Mateo,21,14,0
-2020-09-29,Santa Barbara,3,1,0
+2020-09-29,Santa Barbara,4,1,0
 2020-09-29,Santa Clara,70,50,1
 2020-09-29,Santa Cruz,2,1,0
 2020-09-29,Shasta,166,132,0
@@ -124,7 +124,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Contra Costa,57,46,0
 2020-09-28,Del Norte,0,0,0
 2020-09-28,El Dorado,5,4,1
-2020-09-28,Fresno,4,2,0
+2020-09-28,Fresno,5,2,0
 2020-09-28,Glenn,2,1,0
 2020-09-28,Humboldt,1,0,0
 2020-09-28,Imperial,2,0,0
@@ -151,12 +151,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Sacramento,100,52,2
 2020-09-28,San Benito,0,0,0
 2020-09-28,San Bernardino,12,5,0
-2020-09-28,San Diego,262,172,17
+2020-09-28,San Diego,261,172,17
 2020-09-28,San Francisco,22,9,0
 2020-09-28,San Joaquin,8,6,0
 2020-09-28,San Luis Obispo,1,1,0
 2020-09-28,San Mateo,21,14,1
-2020-09-28,Santa Barbara,3,1,0
+2020-09-28,Santa Barbara,4,1,0
 2020-09-28,Santa Clara,70,49,2
 2020-09-28,Santa Cruz,2,1,0
 2020-09-28,Shasta,166,132,10
@@ -182,7 +182,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Contra Costa,57,46,0
 2020-09-27,Del Norte,0,0,0
 2020-09-27,El Dorado,5,3,0
-2020-09-27,Fresno,4,2,0
+2020-09-27,Fresno,5,2,0
 2020-09-27,Glenn,2,1,0
 2020-09-27,Humboldt,1,0,0
 2020-09-27,Imperial,2,0,0
@@ -209,12 +209,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Sacramento,100,50,0
 2020-09-27,San Benito,0,0,0
 2020-09-27,San Bernardino,12,5,0
-2020-09-27,San Diego,260,157,0
+2020-09-27,San Diego,259,157,0
 2020-09-27,San Francisco,22,9,0
 2020-09-27,San Joaquin,8,6,0
 2020-09-27,San Luis Obispo,1,1,0
 2020-09-27,San Mateo,21,13,0
-2020-09-27,Santa Barbara,3,1,0
+2020-09-27,Santa Barbara,4,1,0
 2020-09-27,Santa Clara,70,47,0
 2020-09-27,Santa Cruz,2,1,0
 2020-09-27,Shasta,166,122,0
@@ -240,7 +240,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Contra Costa,57,46,0
 2020-09-26,Del Norte,0,0,0
 2020-09-26,El Dorado,5,3,0
-2020-09-26,Fresno,4,2,0
+2020-09-26,Fresno,5,2,0
 2020-09-26,Glenn,2,1,0
 2020-09-26,Humboldt,1,0,0
 2020-09-26,Imperial,2,0,0
@@ -267,12 +267,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Sacramento,100,50,0
 2020-09-26,San Benito,0,0,0
 2020-09-26,San Bernardino,12,5,0
-2020-09-26,San Diego,260,157,2
+2020-09-26,San Diego,259,157,2
 2020-09-26,San Francisco,22,9,1
 2020-09-26,San Joaquin,8,6,0
 2020-09-26,San Luis Obispo,1,1,0
 2020-09-26,San Mateo,21,13,0
-2020-09-26,Santa Barbara,3,1,1
+2020-09-26,Santa Barbara,4,1,1
 2020-09-26,Santa Clara,70,47,0
 2020-09-26,Santa Cruz,2,1,0
 2020-09-26,Shasta,166,122,0
@@ -298,7 +298,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Contra Costa,57,46,0
 2020-09-25,Del Norte,0,0,0
 2020-09-25,El Dorado,5,3,0
-2020-09-25,Fresno,4,2,1
+2020-09-25,Fresno,5,2,1
 2020-09-25,Glenn,2,1,0
 2020-09-25,Humboldt,1,0,0
 2020-09-25,Imperial,2,0,0
@@ -325,12 +325,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Sacramento,100,50,3
 2020-09-25,San Benito,0,0,0
 2020-09-25,San Bernardino,12,5,0
-2020-09-25,San Diego,260,155,10
+2020-09-25,San Diego,259,155,10
 2020-09-25,San Francisco,22,9,0
 2020-09-25,San Joaquin,8,6,0
 2020-09-25,San Luis Obispo,1,1,0
 2020-09-25,San Mateo,21,13,0
-2020-09-25,Santa Barbara,3,0,0
+2020-09-25,Santa Barbara,4,0,0
 2020-09-25,Santa Clara,70,47,0
 2020-09-25,Santa Cruz,2,1,0
 2020-09-25,Shasta,166,122,6
@@ -356,7 +356,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Contra Costa,57,46,2
 2020-09-24,Del Norte,0,0,0
 2020-09-24,El Dorado,5,3,0
-2020-09-24,Fresno,4,1,0
+2020-09-24,Fresno,5,1,0
 2020-09-24,Glenn,2,1,0
 2020-09-24,Humboldt,1,0,0
 2020-09-24,Imperial,2,0,0
@@ -383,12 +383,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Sacramento,100,47,3
 2020-09-24,San Benito,0,0,0
 2020-09-24,San Bernardino,12,5,1
-2020-09-24,San Diego,256,150,7
+2020-09-24,San Diego,255,150,6
 2020-09-24,San Francisco,22,9,1
 2020-09-24,San Joaquin,8,6,0
 2020-09-24,San Luis Obispo,1,1,0
 2020-09-24,San Mateo,21,13,0
-2020-09-24,Santa Barbara,3,0,0
+2020-09-24,Santa Barbara,4,0,1
 2020-09-24,Santa Clara,70,47,7
 2020-09-24,Santa Cruz,2,1,0
 2020-09-24,Shasta,166,116,2
@@ -414,7 +414,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Contra Costa,57,44,4
 2020-09-23,Del Norte,0,0,0
 2020-09-23,El Dorado,5,3,1
-2020-09-23,Fresno,4,1,0
+2020-09-23,Fresno,5,1,0
 2020-09-23,Glenn,2,1,1
 2020-09-23,Humboldt,1,0,0
 2020-09-23,Imperial,2,0,0
@@ -472,7 +472,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Contra Costa,57,40,2
 2020-09-22,Del Norte,0,0,0
 2020-09-22,El Dorado,5,2,0
-2020-09-22,Fresno,4,1,0
+2020-09-22,Fresno,5,1,0
 2020-09-22,Glenn,2,0,0
 2020-09-22,Humboldt,1,0,0
 2020-09-22,Imperial,2,0,0
@@ -530,7 +530,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Contra Costa,56,39,1
 2020-09-21,Del Norte,0,0,0
 2020-09-21,El Dorado,5,2,0
-2020-09-21,Fresno,4,1,1
+2020-09-21,Fresno,5,1,1
 2020-09-21,Glenn,2,0,0
 2020-09-21,Humboldt,1,0,0
 2020-09-21,Imperial,2,0,1
@@ -588,7 +588,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Contra Costa,56,38,0
 2020-09-20,Del Norte,0,0,0
 2020-09-20,El Dorado,5,2,0
-2020-09-20,Fresno,4,0,0
+2020-09-20,Fresno,5,0,0
 2020-09-20,Glenn,2,0,0
 2020-09-20,Humboldt,1,0,0
 2020-09-20,Imperial,1,0,0
@@ -646,7 +646,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Contra Costa,56,38,0
 2020-09-19,Del Norte,0,0,0
 2020-09-19,El Dorado,5,2,0
-2020-09-19,Fresno,4,0,0
+2020-09-19,Fresno,5,0,0
 2020-09-19,Glenn,2,0,0
 2020-09-19,Humboldt,1,0,0
 2020-09-19,Imperial,1,0,0
@@ -704,7 +704,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Contra Costa,56,38,5
 2020-09-18,Del Norte,0,0,0
 2020-09-18,El Dorado,5,2,0
-2020-09-18,Fresno,4,0,0
+2020-09-18,Fresno,5,0,0
 2020-09-18,Glenn,2,0,0
 2020-09-18,Humboldt,1,0,0
 2020-09-18,Imperial,1,0,0
@@ -762,7 +762,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Contra Costa,56,33,0
 2020-09-17,Del Norte,0,0,0
 2020-09-17,El Dorado,5,2,0
-2020-09-17,Fresno,4,0,0
+2020-09-17,Fresno,5,0,0
 2020-09-17,Glenn,2,0,0
 2020-09-17,Humboldt,1,0,0
 2020-09-17,Imperial,1,0,0
@@ -820,7 +820,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Contra Costa,56,33,3
 2020-09-16,Del Norte,0,0,0
 2020-09-16,El Dorado,5,2,0
-2020-09-16,Fresno,4,0,0
+2020-09-16,Fresno,5,0,0
 2020-09-16,Glenn,2,0,0
 2020-09-16,Humboldt,1,0,0
 2020-09-16,Imperial,1,0,0
@@ -878,7 +878,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Contra Costa,55,31,4
 2020-09-15,Del Norte,0,0,0
 2020-09-15,El Dorado,5,2,0
-2020-09-15,Fresno,4,0,0
+2020-09-15,Fresno,5,0,0
 2020-09-15,Glenn,2,0,0
 2020-09-15,Humboldt,1,0,0
 2020-09-15,Imperial,1,0,0
@@ -936,7 +936,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Contra Costa,54,28,4
 2020-09-14,Del Norte,0,0,0
 2020-09-14,El Dorado,5,2,0
-2020-09-14,Fresno,4,0,0
+2020-09-14,Fresno,5,0,0
 2020-09-14,Glenn,2,0,0
 2020-09-14,Humboldt,1,0,0
 2020-09-14,Imperial,1,0,0
@@ -994,7 +994,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Contra Costa,54,24,0
 2020-09-13,Del Norte,0,0,0
 2020-09-13,El Dorado,5,2,0
-2020-09-13,Fresno,4,0,0
+2020-09-13,Fresno,5,0,0
 2020-09-13,Glenn,2,0,0
 2020-09-13,Humboldt,1,0,0
 2020-09-13,Imperial,1,0,0
@@ -1052,7 +1052,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Contra Costa,54,24,0
 2020-09-12,Del Norte,0,0,0
 2020-09-12,El Dorado,5,2,0
-2020-09-12,Fresno,4,0,0
+2020-09-12,Fresno,5,0,0
 2020-09-12,Glenn,2,0,0
 2020-09-12,Humboldt,1,0,0
 2020-09-12,Imperial,1,0,0
@@ -1110,7 +1110,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Contra Costa,54,24,5
 2020-09-11,Del Norte,0,0,0
 2020-09-11,El Dorado,5,2,0
-2020-09-11,Fresno,4,0,0
+2020-09-11,Fresno,5,0,0
 2020-09-11,Glenn,2,0,0
 2020-09-11,Humboldt,1,0,0
 2020-09-11,Imperial,1,0,0
@@ -1168,7 +1168,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,Contra Costa,52,21,2
 2020-09-10,Del Norte,0,0,0
 2020-09-10,El Dorado,5,2,0
-2020-09-10,Fresno,4,0,0
+2020-09-10,Fresno,5,0,0
 2020-09-10,Glenn,2,0,0
 2020-09-10,Humboldt,1,0,0
 2020-09-10,Imperial,1,0,0
@@ -1226,7 +1226,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,Contra Costa,52,19,3
 2020-09-09,Del Norte,0,0,0
 2020-09-09,El Dorado,5,2,1
-2020-09-09,Fresno,4,0,0
+2020-09-09,Fresno,5,0,0
 2020-09-09,Glenn,2,0,0
 2020-09-09,Humboldt,1,0,0
 2020-09-09,Imperial,1,0,0
@@ -1284,7 +1284,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,Contra Costa,51,17,5
 2020-09-08,Del Norte,0,0,0
 2020-09-08,El Dorado,4,2,1
-2020-09-08,Fresno,4,0,0
+2020-09-08,Fresno,5,0,0
 2020-09-08,Glenn,2,0,0
 2020-09-08,Humboldt,1,0,0
 2020-09-08,Imperial,1,0,0
@@ -1342,7 +1342,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,Contra Costa,48,15,0
 2020-09-07,Del Norte,0,0,0
 2020-09-07,El Dorado,3,2,0
-2020-09-07,Fresno,4,0,0
+2020-09-07,Fresno,5,0,0
 2020-09-07,Glenn,2,0,0
 2020-09-07,Humboldt,1,0,0
 2020-09-07,Imperial,1,0,0
@@ -1400,7 +1400,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,Contra Costa,48,15,0
 2020-09-06,Del Norte,0,0,0
 2020-09-06,El Dorado,3,2,0
-2020-09-06,Fresno,4,0,0
+2020-09-06,Fresno,5,0,0
 2020-09-06,Glenn,2,0,0
 2020-09-06,Humboldt,1,0,0
 2020-09-06,Imperial,1,0,0
@@ -1458,7 +1458,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,Contra Costa,48,15,0
 2020-09-05,Del Norte,0,0,0
 2020-09-05,El Dorado,3,2,0
-2020-09-05,Fresno,4,0,0
+2020-09-05,Fresno,5,0,0
 2020-09-05,Glenn,2,0,0
 2020-09-05,Humboldt,1,0,0
 2020-09-05,Imperial,1,0,0
@@ -1516,7 +1516,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,Contra Costa,48,15,2
 2020-09-04,Del Norte,0,0,0
 2020-09-04,El Dorado,3,2,0
-2020-09-04,Fresno,4,0,0
+2020-09-04,Fresno,5,0,0
 2020-09-04,Glenn,2,0,0
 2020-09-04,Humboldt,1,0,0
 2020-09-04,Imperial,1,0,0
@@ -1574,7 +1574,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,Contra Costa,47,14,1
 2020-09-03,Del Norte,0,0,0
 2020-09-03,El Dorado,3,2,1
-2020-09-03,Fresno,4,0,0
+2020-09-03,Fresno,5,0,0
 2020-09-03,Glenn,2,0,0
 2020-09-03,Humboldt,1,0,0
 2020-09-03,Imperial,1,0,0
@@ -1632,7 +1632,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,Contra Costa,46,14,4
 2020-09-02,Del Norte,0,0,0
 2020-09-02,El Dorado,2,2,0
-2020-09-02,Fresno,4,0,1
+2020-09-02,Fresno,5,0,1
 2020-09-02,Glenn,2,0,0
 2020-09-02,Humboldt,1,0,0
 2020-09-02,Imperial,1,0,0
@@ -1690,7 +1690,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,Contra Costa,43,13,6
 2020-09-01,Del Norte,0,0,0
 2020-09-01,El Dorado,2,2,1
-2020-09-01,Fresno,3,0,0
+2020-09-01,Fresno,4,0,0
 2020-09-01,Glenn,2,0,1
 2020-09-01,Humboldt,1,0,0
 2020-09-01,Imperial,1,0,1
@@ -1748,7 +1748,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,Contra Costa,40,10,8
 2020-08-31,Del Norte,0,0,0
 2020-08-31,El Dorado,2,1,0
-2020-08-31,Fresno,3,0,1
+2020-08-31,Fresno,4,0,1
 2020-08-31,Glenn,1,0,0
 2020-08-31,Humboldt,1,0,0
 2020-08-31,Imperial,0,0,0
@@ -1806,7 +1806,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-30,Contra Costa,38,4,0
 2020-08-30,Del Norte,0,0,0
 2020-08-30,El Dorado,2,1,0
-2020-08-30,Fresno,2,0,0
+2020-08-30,Fresno,3,0,0
 2020-08-30,Glenn,1,0,0
 2020-08-30,Humboldt,1,0,0
 2020-08-30,Imperial,0,0,0
@@ -1864,7 +1864,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-29,Contra Costa,38,4,0
 2020-08-29,Del Norte,0,0,0
 2020-08-29,El Dorado,2,1,0
-2020-08-29,Fresno,2,0,0
+2020-08-29,Fresno,3,0,0
 2020-08-29,Glenn,1,0,0
 2020-08-29,Humboldt,1,0,0
 2020-08-29,Imperial,0,0,0
@@ -1922,7 +1922,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-28,Contra Costa,38,4,1
 2020-08-28,Del Norte,0,0,0
 2020-08-28,El Dorado,2,1,0
-2020-08-28,Fresno,2,0,1
+2020-08-28,Fresno,3,0,1
 2020-08-28,Glenn,1,0,0
 2020-08-28,Humboldt,1,0,0
 2020-08-28,Imperial,0,0,0
@@ -1980,7 +1980,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-27,Contra Costa,37,4,8
 2020-08-27,Del Norte,0,0,0
 2020-08-27,El Dorado,2,1,0
-2020-08-27,Fresno,1,0,0
+2020-08-27,Fresno,2,0,0
 2020-08-27,Glenn,1,0,0
 2020-08-27,Humboldt,1,0,0
 2020-08-27,Imperial,0,0,0
@@ -2038,7 +2038,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-26,Contra Costa,30,2,3
 2020-08-26,Del Norte,0,0,0
 2020-08-26,El Dorado,2,1,0
-2020-08-26,Fresno,1,0,0
+2020-08-26,Fresno,2,0,0
 2020-08-26,Glenn,1,0,0
 2020-08-26,Humboldt,1,0,0
 2020-08-26,Imperial,0,0,0
@@ -2096,7 +2096,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-25,Contra Costa,29,0,2
 2020-08-25,Del Norte,0,0,0
 2020-08-25,El Dorado,2,1,0
-2020-08-25,Fresno,1,0,0
+2020-08-25,Fresno,2,0,0
 2020-08-25,Glenn,1,0,0
 2020-08-25,Humboldt,1,0,0
 2020-08-25,Imperial,0,0,0
@@ -2154,7 +2154,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-24,Contra Costa,27,0,4
 2020-08-24,Del Norte,0,0,0
 2020-08-24,El Dorado,2,1,0
-2020-08-24,Fresno,1,0,0
+2020-08-24,Fresno,2,0,0
 2020-08-24,Glenn,1,0,1
 2020-08-24,Humboldt,1,0,0
 2020-08-24,Imperial,0,0,0
@@ -2212,7 +2212,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-23,Contra Costa,23,0,0
 2020-08-23,Del Norte,0,0,0
 2020-08-23,El Dorado,2,1,0
-2020-08-23,Fresno,1,0,0
+2020-08-23,Fresno,2,0,0
 2020-08-23,Glenn,0,0,0
 2020-08-23,Humboldt,1,0,0
 2020-08-23,Imperial,0,0,0
@@ -2270,7 +2270,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-22,Contra Costa,23,0,0
 2020-08-22,Del Norte,0,0,0
 2020-08-22,El Dorado,2,1,0
-2020-08-22,Fresno,1,0,0
+2020-08-22,Fresno,2,0,0
 2020-08-22,Glenn,0,0,0
 2020-08-22,Humboldt,1,0,0
 2020-08-22,Imperial,0,0,0
@@ -2328,7 +2328,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-21,Contra Costa,23,0,1
 2020-08-21,Del Norte,0,0,0
 2020-08-21,El Dorado,2,1,1
-2020-08-21,Fresno,1,0,0
+2020-08-21,Fresno,2,0,0
 2020-08-21,Glenn,0,0,0
 2020-08-21,Humboldt,1,0,0
 2020-08-21,Imperial,0,0,0
@@ -2386,7 +2386,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-20,Contra Costa,22,0,2
 2020-08-20,Del Norte,0,0,0
 2020-08-20,El Dorado,2,0,0
-2020-08-20,Fresno,1,0,0
+2020-08-20,Fresno,2,0,0
 2020-08-20,Glenn,0,0,0
 2020-08-20,Humboldt,1,0,0
 2020-08-20,Imperial,0,0,0
@@ -2444,7 +2444,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-19,Contra Costa,20,0,2
 2020-08-19,Del Norte,0,0,0
 2020-08-19,El Dorado,2,0,0
-2020-08-19,Fresno,1,0,0
+2020-08-19,Fresno,2,0,0
 2020-08-19,Glenn,0,0,0
 2020-08-19,Humboldt,1,0,0
 2020-08-19,Imperial,0,0,0
@@ -2502,7 +2502,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-18,Contra Costa,18,0,2
 2020-08-18,Del Norte,0,0,0
 2020-08-18,El Dorado,2,0,0
-2020-08-18,Fresno,1,0,0
+2020-08-18,Fresno,2,0,0
 2020-08-18,Glenn,0,0,0
 2020-08-18,Humboldt,1,0,0
 2020-08-18,Imperial,0,0,0
@@ -2560,7 +2560,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-17,Contra Costa,16,0,1
 2020-08-17,Del Norte,0,0,0
 2020-08-17,El Dorado,2,0,0
-2020-08-17,Fresno,1,0,0
+2020-08-17,Fresno,2,0,0
 2020-08-17,Glenn,0,0,0
 2020-08-17,Humboldt,1,0,0
 2020-08-17,Imperial,0,0,0
@@ -2618,7 +2618,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-16,Contra Costa,15,0,0
 2020-08-16,Del Norte,0,0,0
 2020-08-16,El Dorado,2,0,0
-2020-08-16,Fresno,1,0,0
+2020-08-16,Fresno,2,0,0
 2020-08-16,Glenn,0,0,0
 2020-08-16,Humboldt,1,0,0
 2020-08-16,Imperial,0,0,0
@@ -2676,7 +2676,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-15,Contra Costa,15,0,0
 2020-08-15,Del Norte,0,0,0
 2020-08-15,El Dorado,2,0,0
-2020-08-15,Fresno,1,0,0
+2020-08-15,Fresno,2,0,0
 2020-08-15,Glenn,0,0,0
 2020-08-15,Humboldt,1,0,0
 2020-08-15,Imperial,0,0,0
@@ -2734,7 +2734,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-14,Contra Costa,15,0,0
 2020-08-14,Del Norte,0,0,0
 2020-08-14,El Dorado,2,0,0
-2020-08-14,Fresno,1,0,0
+2020-08-14,Fresno,2,0,0
 2020-08-14,Glenn,0,0,0
 2020-08-14,Humboldt,1,0,0
 2020-08-14,Imperial,0,0,0
@@ -2792,7 +2792,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-13,Contra Costa,15,0,3
 2020-08-13,Del Norte,0,0,0
 2020-08-13,El Dorado,2,0,0
-2020-08-13,Fresno,1,0,0
+2020-08-13,Fresno,2,0,0
 2020-08-13,Glenn,0,0,0
 2020-08-13,Humboldt,1,0,0
 2020-08-13,Imperial,0,0,0
@@ -2850,7 +2850,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-12,Contra Costa,12,0,2
 2020-08-12,Del Norte,0,0,0
 2020-08-12,El Dorado,2,0,0
-2020-08-12,Fresno,1,0,0
+2020-08-12,Fresno,2,0,0
 2020-08-12,Glenn,0,0,0
 2020-08-12,Humboldt,1,0,0
 2020-08-12,Imperial,0,0,0
@@ -2908,7 +2908,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-11,Contra Costa,10,0,3
 2020-08-11,Del Norte,0,0,0
 2020-08-11,El Dorado,2,0,0
-2020-08-11,Fresno,1,0,0
+2020-08-11,Fresno,2,0,0
 2020-08-11,Glenn,0,0,0
 2020-08-11,Humboldt,1,0,0
 2020-08-11,Imperial,0,0,0
@@ -2966,7 +2966,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-10,Contra Costa,7,0,3
 2020-08-10,Del Norte,0,0,0
 2020-08-10,El Dorado,2,0,0
-2020-08-10,Fresno,1,0,0
+2020-08-10,Fresno,2,0,0
 2020-08-10,Glenn,0,0,0
 2020-08-10,Humboldt,1,0,0
 2020-08-10,Imperial,0,0,0
@@ -3024,7 +3024,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-09,Contra Costa,4,0,0
 2020-08-09,Del Norte,0,0,0
 2020-08-09,El Dorado,2,0,0
-2020-08-09,Fresno,1,0,0
+2020-08-09,Fresno,2,0,0
 2020-08-09,Glenn,0,0,0
 2020-08-09,Humboldt,1,0,0
 2020-08-09,Imperial,0,0,0
@@ -3082,7 +3082,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-08,Contra Costa,4,0,0
 2020-08-08,Del Norte,0,0,0
 2020-08-08,El Dorado,2,0,0
-2020-08-08,Fresno,1,0,0
+2020-08-08,Fresno,2,0,0
 2020-08-08,Glenn,0,0,0
 2020-08-08,Humboldt,1,0,0
 2020-08-08,Imperial,0,0,0
@@ -3140,7 +3140,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-07,Contra Costa,4,0,0
 2020-08-07,Del Norte,0,0,0
 2020-08-07,El Dorado,2,0,0
-2020-08-07,Fresno,1,0,0
+2020-08-07,Fresno,2,0,0
 2020-08-07,Glenn,0,0,0
 2020-08-07,Humboldt,1,0,0
 2020-08-07,Imperial,0,0,0
@@ -3198,7 +3198,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-06,Contra Costa,4,0,3
 2020-08-06,Del Norte,0,0,0
 2020-08-06,El Dorado,2,0,0
-2020-08-06,Fresno,1,0,0
+2020-08-06,Fresno,2,0,1
 2020-08-06,Glenn,0,0,0
 2020-08-06,Humboldt,1,0,0
 2020-08-06,Imperial,0,0,0
