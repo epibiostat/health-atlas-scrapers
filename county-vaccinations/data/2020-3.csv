@@ -5,7 +5,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Butte,13,4,0
 2020-09-30,Calaveras,1,0,0
 2020-09-30,Colusa,0,0,0
-2020-09-30,Contra Costa,57,50,1
+2020-09-30,Contra Costa,58,50,1
 2020-09-30,Del Norte,0,0,0
 2020-09-30,El Dorado,5,5,1
 2020-09-30,Fresno,5,2,0
@@ -17,7 +17,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Kings,0,0,0
 2020-09-30,Lake,0,0,0
 2020-09-30,Lassen,0,0,0
-2020-09-30,Los Angeles,291,163,6
+2020-09-30,Los Angeles,293,165,6
 2020-09-30,Madera,0,0,0
 2020-09-30,Marin,5,4,1
 2020-09-30,Mariposa,0,0,0
@@ -28,14 +28,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Monterey,0,0,0
 2020-09-30,Napa,0,0,0
 2020-09-30,Nevada,1,1,0
-2020-09-30,Orange,74,39,1
+2020-09-30,Orange,75,40,1
 2020-09-30,Placer,11,7,1
 2020-09-30,Plumas,0,0,0
 2020-09-30,Riverside,32,20,1
 2020-09-30,Sacramento,102,63,9
 2020-09-30,San Benito,0,0,0
 2020-09-30,San Bernardino,12,5,0
-2020-09-30,San Diego,266,187,4
+2020-09-30,San Diego,266,186,4
 2020-09-30,San Francisco,22,12,3
 2020-09-30,San Joaquin,8,8,1
 2020-09-30,San Luis Obispo,1,1,0
@@ -54,7 +54,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-30,Trinity,1,1,0
 2020-09-30,Tulare,0,0,0
 2020-09-30,Tuolumne,1,0,1
-2020-09-30,Ventura,11,8,1
+2020-09-30,Ventura,12,9,1
 2020-09-30,Yolo,29,20,0
 2020-09-30,Yuba,0,0,0
 2020-09-29,Alameda,40,31,0
@@ -63,7 +63,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Butte,13,4,0
 2020-09-29,Calaveras,1,0,0
 2020-09-29,Colusa,0,0,0
-2020-09-29,Contra Costa,57,49,3
+2020-09-29,Contra Costa,58,49,3
 2020-09-29,Del Norte,0,0,0
 2020-09-29,El Dorado,5,4,0
 2020-09-29,Fresno,5,2,0
@@ -75,7 +75,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Kings,0,0,0
 2020-09-29,Lake,0,0,0
 2020-09-29,Lassen,0,0,0
-2020-09-29,Los Angeles,289,158,9
+2020-09-29,Los Angeles,291,160,9
 2020-09-29,Madera,0,0,0
 2020-09-29,Marin,5,3,0
 2020-09-29,Mariposa,0,0,0
@@ -86,14 +86,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Monterey,0,0,0
 2020-09-29,Napa,0,0,0
 2020-09-29,Nevada,1,1,0
-2020-09-29,Orange,73,39,0
+2020-09-29,Orange,74,40,0
 2020-09-29,Placer,11,6,0
 2020-09-29,Plumas,0,0,0
 2020-09-29,Riverside,31,20,1
 2020-09-29,Sacramento,100,56,4
 2020-09-29,San Benito,0,0,0
 2020-09-29,San Bernardino,12,5,0
-2020-09-29,San Diego,265,185,18
+2020-09-29,San Diego,265,184,18
 2020-09-29,San Francisco,22,9,0
 2020-09-29,San Joaquin,8,7,1
 2020-09-29,San Luis Obispo,1,1,0
@@ -112,7 +112,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-29,Trinity,1,1,0
 2020-09-29,Tulare,0,0,0
 2020-09-29,Tuolumne,0,0,0
-2020-09-29,Ventura,11,7,2
+2020-09-29,Ventura,12,8,2
 2020-09-29,Yolo,29,20,1
 2020-09-29,Yuba,0,0,0
 2020-09-28,Alameda,40,31,1
@@ -121,7 +121,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Butte,13,4,1
 2020-09-28,Calaveras,1,0,0
 2020-09-28,Colusa,0,0,0
-2020-09-28,Contra Costa,57,46,0
+2020-09-28,Contra Costa,58,46,0
 2020-09-28,Del Norte,0,0,0
 2020-09-28,El Dorado,5,4,1
 2020-09-28,Fresno,5,2,0
@@ -133,7 +133,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Kings,0,0,0
 2020-09-28,Lake,0,0,0
 2020-09-28,Lassen,0,0,0
-2020-09-28,Los Angeles,288,149,7
+2020-09-28,Los Angeles,290,151,7
 2020-09-28,Madera,0,0,0
 2020-09-28,Marin,5,3,0
 2020-09-28,Mariposa,0,0,0
@@ -144,14 +144,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Monterey,0,0,0
 2020-09-28,Napa,0,0,0
 2020-09-28,Nevada,1,1,0
-2020-09-28,Orange,73,39,0
+2020-09-28,Orange,74,40,0
 2020-09-28,Placer,11,6,0
 2020-09-28,Plumas,0,0,0
 2020-09-28,Riverside,31,19,2
 2020-09-28,Sacramento,100,52,2
 2020-09-28,San Benito,0,0,0
 2020-09-28,San Bernardino,12,5,0
-2020-09-28,San Diego,261,172,17
+2020-09-28,San Diego,261,171,17
 2020-09-28,San Francisco,22,9,0
 2020-09-28,San Joaquin,8,6,0
 2020-09-28,San Luis Obispo,1,1,0
@@ -170,7 +170,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-28,Trinity,1,1,0
 2020-09-28,Tulare,0,0,0
 2020-09-28,Tuolumne,0,0,0
-2020-09-28,Ventura,11,5,0
+2020-09-28,Ventura,12,6,0
 2020-09-28,Yolo,29,19,0
 2020-09-28,Yuba,0,0,0
 2020-09-27,Alameda,40,30,0
@@ -179,7 +179,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Butte,13,3,1
 2020-09-27,Calaveras,1,0,0
 2020-09-27,Colusa,0,0,0
-2020-09-27,Contra Costa,57,46,0
+2020-09-27,Contra Costa,58,46,0
 2020-09-27,Del Norte,0,0,0
 2020-09-27,El Dorado,5,3,0
 2020-09-27,Fresno,5,2,0
@@ -191,7 +191,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Kings,0,0,0
 2020-09-27,Lake,0,0,0
 2020-09-27,Lassen,0,0,0
-2020-09-27,Los Angeles,287,143,0
+2020-09-27,Los Angeles,289,145,0
 2020-09-27,Madera,0,0,0
 2020-09-27,Marin,5,3,0
 2020-09-27,Mariposa,0,0,0
@@ -202,14 +202,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Monterey,0,0,0
 2020-09-27,Napa,0,0,0
 2020-09-27,Nevada,1,1,0
-2020-09-27,Orange,73,39,0
+2020-09-27,Orange,74,40,0
 2020-09-27,Placer,11,6,0
 2020-09-27,Plumas,0,0,0
 2020-09-27,Riverside,30,18,0
 2020-09-27,Sacramento,100,50,0
 2020-09-27,San Benito,0,0,0
 2020-09-27,San Bernardino,12,5,0
-2020-09-27,San Diego,259,157,0
+2020-09-27,San Diego,259,156,0
 2020-09-27,San Francisco,22,9,0
 2020-09-27,San Joaquin,8,6,0
 2020-09-27,San Luis Obispo,1,1,0
@@ -228,7 +228,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-27,Trinity,1,1,0
 2020-09-27,Tulare,0,0,0
 2020-09-27,Tuolumne,0,0,0
-2020-09-27,Ventura,11,5,0
+2020-09-27,Ventura,12,6,0
 2020-09-27,Yolo,29,19,0
 2020-09-27,Yuba,0,0,0
 2020-09-26,Alameda,40,30,0
@@ -237,7 +237,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Butte,12,3,0
 2020-09-26,Calaveras,1,0,0
 2020-09-26,Colusa,0,0,0
-2020-09-26,Contra Costa,57,46,0
+2020-09-26,Contra Costa,58,46,0
 2020-09-26,Del Norte,0,0,0
 2020-09-26,El Dorado,5,3,0
 2020-09-26,Fresno,5,2,0
@@ -249,7 +249,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Kings,0,0,0
 2020-09-26,Lake,0,0,0
 2020-09-26,Lassen,0,0,0
-2020-09-26,Los Angeles,287,143,3
+2020-09-26,Los Angeles,289,145,3
 2020-09-26,Madera,0,0,0
 2020-09-26,Marin,5,3,0
 2020-09-26,Mariposa,0,0,0
@@ -260,14 +260,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Monterey,0,0,0
 2020-09-26,Napa,0,0,0
 2020-09-26,Nevada,1,1,0
-2020-09-26,Orange,73,39,0
+2020-09-26,Orange,74,40,0
 2020-09-26,Placer,11,6,0
 2020-09-26,Plumas,0,0,0
 2020-09-26,Riverside,30,18,0
 2020-09-26,Sacramento,100,50,0
 2020-09-26,San Benito,0,0,0
 2020-09-26,San Bernardino,12,5,0
-2020-09-26,San Diego,259,157,2
+2020-09-26,San Diego,259,156,2
 2020-09-26,San Francisco,22,9,1
 2020-09-26,San Joaquin,8,6,0
 2020-09-26,San Luis Obispo,1,1,0
@@ -286,7 +286,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-26,Trinity,1,1,0
 2020-09-26,Tulare,0,0,0
 2020-09-26,Tuolumne,0,0,0
-2020-09-26,Ventura,11,5,0
+2020-09-26,Ventura,12,6,0
 2020-09-26,Yolo,29,19,0
 2020-09-26,Yuba,0,0,0
 2020-09-25,Alameda,40,30,1
@@ -295,7 +295,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Butte,12,3,1
 2020-09-25,Calaveras,1,0,0
 2020-09-25,Colusa,0,0,0
-2020-09-25,Contra Costa,57,46,0
+2020-09-25,Contra Costa,58,46,0
 2020-09-25,Del Norte,0,0,0
 2020-09-25,El Dorado,5,3,0
 2020-09-25,Fresno,5,2,1
@@ -307,7 +307,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Kings,0,0,0
 2020-09-25,Lake,0,0,0
 2020-09-25,Lassen,0,0,0
-2020-09-25,Los Angeles,287,140,19
+2020-09-25,Los Angeles,289,142,19
 2020-09-25,Madera,0,0,0
 2020-09-25,Marin,5,3,1
 2020-09-25,Mariposa,0,0,0
@@ -318,14 +318,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Monterey,0,0,0
 2020-09-25,Napa,0,0,0
 2020-09-25,Nevada,1,1,1
-2020-09-25,Orange,73,39,7
+2020-09-25,Orange,74,40,7
 2020-09-25,Placer,11,6,1
 2020-09-25,Plumas,0,0,0
 2020-09-25,Riverside,30,18,0
 2020-09-25,Sacramento,100,50,3
 2020-09-25,San Benito,0,0,0
 2020-09-25,San Bernardino,12,5,0
-2020-09-25,San Diego,259,155,10
+2020-09-25,San Diego,259,154,10
 2020-09-25,San Francisco,22,9,0
 2020-09-25,San Joaquin,8,6,0
 2020-09-25,San Luis Obispo,1,1,0
@@ -344,7 +344,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-25,Trinity,1,1,0
 2020-09-25,Tulare,0,0,0
 2020-09-25,Tuolumne,0,0,0
-2020-09-25,Ventura,11,5,1
+2020-09-25,Ventura,12,6,1
 2020-09-25,Yolo,29,19,2
 2020-09-25,Yuba,0,0,0
 2020-09-24,Alameda,40,29,1
@@ -353,7 +353,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Butte,12,2,0
 2020-09-24,Calaveras,1,0,0
 2020-09-24,Colusa,0,0,0
-2020-09-24,Contra Costa,57,46,2
+2020-09-24,Contra Costa,58,46,2
 2020-09-24,Del Norte,0,0,0
 2020-09-24,El Dorado,5,3,0
 2020-09-24,Fresno,5,1,0
@@ -365,7 +365,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Kings,0,0,0
 2020-09-24,Lake,0,0,0
 2020-09-24,Lassen,0,0,0
-2020-09-24,Los Angeles,278,130,20
+2020-09-24,Los Angeles,280,132,20
 2020-09-24,Madera,0,0,0
 2020-09-24,Marin,5,2,0
 2020-09-24,Mariposa,0,0,0
@@ -376,14 +376,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Monterey,0,0,0
 2020-09-24,Napa,0,0,0
 2020-09-24,Nevada,1,0,0
-2020-09-24,Orange,72,33,4
+2020-09-24,Orange,73,34,4
 2020-09-24,Placer,11,5,0
 2020-09-24,Plumas,0,0,0
 2020-09-24,Riverside,30,18,0
 2020-09-24,Sacramento,100,47,3
 2020-09-24,San Benito,0,0,0
 2020-09-24,San Bernardino,12,5,1
-2020-09-24,San Diego,255,150,6
+2020-09-24,San Diego,255,149,5
 2020-09-24,San Francisco,22,9,1
 2020-09-24,San Joaquin,8,6,0
 2020-09-24,San Luis Obispo,1,1,0
@@ -402,7 +402,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-24,Trinity,1,1,0
 2020-09-24,Tulare,0,0,0
 2020-09-24,Tuolumne,0,0,0
-2020-09-24,Ventura,11,4,0
+2020-09-24,Ventura,12,5,1
 2020-09-24,Yolo,29,17,2
 2020-09-24,Yuba,0,0,0
 2020-09-23,Alameda,40,28,2
@@ -411,7 +411,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Butte,12,2,0
 2020-09-23,Calaveras,1,0,0
 2020-09-23,Colusa,0,0,0
-2020-09-23,Contra Costa,57,44,4
+2020-09-23,Contra Costa,58,44,4
 2020-09-23,Del Norte,0,0,0
 2020-09-23,El Dorado,5,3,1
 2020-09-23,Fresno,5,1,0
@@ -423,7 +423,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Kings,0,0,0
 2020-09-23,Lake,0,0,0
 2020-09-23,Lassen,0,0,0
-2020-09-23,Los Angeles,271,117,29
+2020-09-23,Los Angeles,273,119,29
 2020-09-23,Madera,0,0,0
 2020-09-23,Marin,5,2,0
 2020-09-23,Mariposa,0,0,0
@@ -434,7 +434,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Monterey,0,0,0
 2020-09-23,Napa,0,0,0
 2020-09-23,Nevada,1,0,0
-2020-09-23,Orange,71,30,6
+2020-09-23,Orange,72,31,6
 2020-09-23,Placer,11,5,2
 2020-09-23,Plumas,0,0,0
 2020-09-23,Riverside,30,18,2
@@ -460,7 +460,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-23,Trinity,1,1,0
 2020-09-23,Tulare,0,0,0
 2020-09-23,Tuolumne,0,0,0
-2020-09-23,Ventura,11,4,0
+2020-09-23,Ventura,12,4,0
 2020-09-23,Yolo,29,15,1
 2020-09-23,Yuba,0,0,0
 2020-09-22,Alameda,40,26,0
@@ -469,7 +469,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Butte,12,2,1
 2020-09-22,Calaveras,1,0,0
 2020-09-22,Colusa,0,0,0
-2020-09-22,Contra Costa,57,40,2
+2020-09-22,Contra Costa,58,40,2
 2020-09-22,Del Norte,0,0,0
 2020-09-22,El Dorado,5,2,0
 2020-09-22,Fresno,5,1,0
@@ -481,7 +481,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Kings,0,0,0
 2020-09-22,Lake,0,0,0
 2020-09-22,Lassen,0,0,0
-2020-09-22,Los Angeles,260,99,20
+2020-09-22,Los Angeles,262,101,20
 2020-09-22,Madera,0,0,0
 2020-09-22,Marin,5,2,0
 2020-09-22,Mariposa,0,0,0
@@ -492,7 +492,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Monterey,0,0,0
 2020-09-22,Napa,0,0,0
 2020-09-22,Nevada,1,0,0
-2020-09-22,Orange,69,26,8
+2020-09-22,Orange,70,27,8
 2020-09-22,Placer,11,3,0
 2020-09-22,Plumas,0,0,0
 2020-09-22,Riverside,28,18,4
@@ -518,7 +518,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-22,Trinity,1,1,0
 2020-09-22,Tulare,0,0,0
 2020-09-22,Tuolumne,0,0,0
-2020-09-22,Ventura,11,4,1
+2020-09-22,Ventura,12,4,1
 2020-09-22,Yolo,28,15,2
 2020-09-22,Yuba,0,0,0
 2020-09-21,Alameda,40,26,2
@@ -527,7 +527,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Butte,12,1,0
 2020-09-21,Calaveras,1,0,0
 2020-09-21,Colusa,0,0,0
-2020-09-21,Contra Costa,56,39,1
+2020-09-21,Contra Costa,57,39,1
 2020-09-21,Del Norte,0,0,0
 2020-09-21,El Dorado,5,2,0
 2020-09-21,Fresno,5,1,1
@@ -539,7 +539,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Kings,0,0,0
 2020-09-21,Lake,0,0,0
 2020-09-21,Lassen,0,0,0
-2020-09-21,Los Angeles,250,89,20
+2020-09-21,Los Angeles,252,91,20
 2020-09-21,Madera,0,0,0
 2020-09-21,Marin,5,2,2
 2020-09-21,Mariposa,0,0,0
@@ -550,7 +550,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Monterey,0,0,0
 2020-09-21,Napa,0,0,0
 2020-09-21,Nevada,1,0,0
-2020-09-21,Orange,65,22,2
+2020-09-21,Orange,66,23,2
 2020-09-21,Placer,11,3,1
 2020-09-21,Plumas,0,0,0
 2020-09-21,Riverside,26,16,0
@@ -576,7 +576,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-21,Trinity,1,1,0
 2020-09-21,Tulare,0,0,0
 2020-09-21,Tuolumne,0,0,0
-2020-09-21,Ventura,11,3,1
+2020-09-21,Ventura,12,3,1
 2020-09-21,Yolo,28,13,3
 2020-09-21,Yuba,0,0,0
 2020-09-20,Alameda,40,24,0
@@ -585,7 +585,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Butte,12,1,0
 2020-09-20,Calaveras,1,0,0
 2020-09-20,Colusa,0,0,0
-2020-09-20,Contra Costa,56,38,0
+2020-09-20,Contra Costa,57,38,0
 2020-09-20,Del Norte,0,0,0
 2020-09-20,El Dorado,5,2,0
 2020-09-20,Fresno,5,0,0
@@ -597,7 +597,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Kings,0,0,0
 2020-09-20,Lake,0,0,0
 2020-09-20,Lassen,0,0,0
-2020-09-20,Los Angeles,244,75,1
+2020-09-20,Los Angeles,246,77,1
 2020-09-20,Madera,0,0,0
 2020-09-20,Marin,4,1,0
 2020-09-20,Mariposa,0,0,0
@@ -608,7 +608,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Monterey,0,0,0
 2020-09-20,Napa,0,0,0
 2020-09-20,Nevada,1,0,0
-2020-09-20,Orange,64,21,0
+2020-09-20,Orange,65,22,0
 2020-09-20,Placer,10,3,0
 2020-09-20,Plumas,0,0,0
 2020-09-20,Riverside,26,16,2
@@ -634,7 +634,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-20,Trinity,1,1,0
 2020-09-20,Tulare,0,0,0
 2020-09-20,Tuolumne,0,0,0
-2020-09-20,Ventura,11,2,0
+2020-09-20,Ventura,12,2,0
 2020-09-20,Yolo,27,11,0
 2020-09-20,Yuba,0,0,0
 2020-09-19,Alameda,40,24,0
@@ -643,7 +643,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Butte,12,1,0
 2020-09-19,Calaveras,1,0,0
 2020-09-19,Colusa,0,0,0
-2020-09-19,Contra Costa,56,38,0
+2020-09-19,Contra Costa,57,38,0
 2020-09-19,Del Norte,0,0,0
 2020-09-19,El Dorado,5,2,0
 2020-09-19,Fresno,5,0,0
@@ -655,7 +655,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Kings,0,0,0
 2020-09-19,Lake,0,0,0
 2020-09-19,Lassen,0,0,0
-2020-09-19,Los Angeles,244,74,9
+2020-09-19,Los Angeles,246,76,9
 2020-09-19,Madera,0,0,0
 2020-09-19,Marin,4,1,0
 2020-09-19,Mariposa,0,0,0
@@ -666,7 +666,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Monterey,0,0,0
 2020-09-19,Napa,0,0,0
 2020-09-19,Nevada,1,0,0
-2020-09-19,Orange,64,21,2
+2020-09-19,Orange,65,22,2
 2020-09-19,Placer,10,3,0
 2020-09-19,Plumas,0,0,0
 2020-09-19,Riverside,26,14,0
@@ -692,7 +692,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-19,Trinity,1,1,0
 2020-09-19,Tulare,0,0,0
 2020-09-19,Tuolumne,0,0,0
-2020-09-19,Ventura,11,2,0
+2020-09-19,Ventura,12,2,0
 2020-09-19,Yolo,27,11,0
 2020-09-19,Yuba,0,0,0
 2020-09-18,Alameda,40,24,1
@@ -701,7 +701,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Butte,12,1,0
 2020-09-18,Calaveras,1,0,0
 2020-09-18,Colusa,0,0,0
-2020-09-18,Contra Costa,56,38,5
+2020-09-18,Contra Costa,57,38,5
 2020-09-18,Del Norte,0,0,0
 2020-09-18,El Dorado,5,2,0
 2020-09-18,Fresno,5,0,0
@@ -713,7 +713,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Kings,0,0,0
 2020-09-18,Lake,0,0,0
 2020-09-18,Lassen,0,0,0
-2020-09-18,Los Angeles,239,70,17
+2020-09-18,Los Angeles,241,72,17
 2020-09-18,Madera,0,0,0
 2020-09-18,Marin,4,1,0
 2020-09-18,Mariposa,0,0,0
@@ -724,7 +724,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Monterey,0,0,0
 2020-09-18,Napa,0,0,0
 2020-09-18,Nevada,1,0,0
-2020-09-18,Orange,62,21,5
+2020-09-18,Orange,63,22,5
 2020-09-18,Placer,10,3,0
 2020-09-18,Plumas,0,0,0
 2020-09-18,Riverside,26,14,3
@@ -750,7 +750,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-18,Trinity,1,1,0
 2020-09-18,Tulare,0,0,0
 2020-09-18,Tuolumne,0,0,0
-2020-09-18,Ventura,11,2,1
+2020-09-18,Ventura,12,2,1
 2020-09-18,Yolo,27,11,1
 2020-09-18,Yuba,0,0,0
 2020-09-17,Alameda,40,23,1
@@ -759,7 +759,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Butte,12,1,0
 2020-09-17,Calaveras,1,0,0
 2020-09-17,Colusa,0,0,0
-2020-09-17,Contra Costa,56,33,0
+2020-09-17,Contra Costa,57,33,0
 2020-09-17,Del Norte,0,0,0
 2020-09-17,El Dorado,5,2,0
 2020-09-17,Fresno,5,0,0
@@ -771,7 +771,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Kings,0,0,0
 2020-09-17,Lake,0,0,0
 2020-09-17,Lassen,0,0,0
-2020-09-17,Los Angeles,232,60,14
+2020-09-17,Los Angeles,234,63,14
 2020-09-17,Madera,0,0,0
 2020-09-17,Marin,4,1,0
 2020-09-17,Mariposa,0,0,0
@@ -782,7 +782,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Monterey,0,0,0
 2020-09-17,Napa,0,0,0
 2020-09-17,Nevada,1,0,0
-2020-09-17,Orange,59,19,6
+2020-09-17,Orange,60,20,6
 2020-09-17,Placer,10,3,1
 2020-09-17,Plumas,0,0,0
 2020-09-17,Riverside,25,12,1
@@ -808,7 +808,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-17,Trinity,1,1,0
 2020-09-17,Tulare,0,0,0
 2020-09-17,Tuolumne,0,0,0
-2020-09-17,Ventura,11,1,0
+2020-09-17,Ventura,12,1,0
 2020-09-17,Yolo,26,11,0
 2020-09-17,Yuba,0,0,0
 2020-09-16,Alameda,40,22,4
@@ -817,7 +817,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Butte,12,1,0
 2020-09-16,Calaveras,1,0,0
 2020-09-16,Colusa,0,0,0
-2020-09-16,Contra Costa,56,33,3
+2020-09-16,Contra Costa,57,33,4
 2020-09-16,Del Norte,0,0,0
 2020-09-16,El Dorado,5,2,0
 2020-09-16,Fresno,5,0,0
@@ -829,7 +829,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Kings,0,0,0
 2020-09-16,Lake,0,0,0
 2020-09-16,Lassen,0,0,0
-2020-09-16,Los Angeles,224,55,9
+2020-09-16,Los Angeles,226,58,9
 2020-09-16,Madera,0,0,0
 2020-09-16,Marin,4,1,0
 2020-09-16,Mariposa,0,0,0
@@ -840,7 +840,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Monterey,0,0,0
 2020-09-16,Napa,0,0,0
 2020-09-16,Nevada,1,0,0
-2020-09-16,Orange,55,17,0
+2020-09-16,Orange,56,18,0
 2020-09-16,Placer,9,3,2
 2020-09-16,Plumas,0,0,0
 2020-09-16,Riverside,25,11,1
@@ -866,7 +866,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-16,Trinity,1,1,0
 2020-09-16,Tulare,0,0,0
 2020-09-16,Tuolumne,0,0,0
-2020-09-16,Ventura,11,1,0
+2020-09-16,Ventura,12,1,0
 2020-09-16,Yolo,26,11,2
 2020-09-16,Yuba,0,0,0
 2020-09-15,Alameda,38,20,3
@@ -887,7 +887,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Kings,0,0,0
 2020-09-15,Lake,0,0,0
 2020-09-15,Lassen,0,0,0
-2020-09-15,Los Angeles,220,50,14
+2020-09-15,Los Angeles,222,53,15
 2020-09-15,Madera,0,0,0
 2020-09-15,Marin,4,1,0
 2020-09-15,Mariposa,0,0,0
@@ -898,7 +898,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Monterey,0,0,0
 2020-09-15,Napa,0,0,0
 2020-09-15,Nevada,1,0,0
-2020-09-15,Orange,55,17,0
+2020-09-15,Orange,56,18,0
 2020-09-15,Placer,9,1,1
 2020-09-15,Plumas,0,0,0
 2020-09-15,Riverside,25,10,1
@@ -924,7 +924,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-15,Trinity,1,1,0
 2020-09-15,Tulare,0,0,0
 2020-09-15,Tuolumne,0,0,0
-2020-09-15,Ventura,11,1,1
+2020-09-15,Ventura,12,1,1
 2020-09-15,Yolo,24,11,2
 2020-09-15,Yuba,0,0,0
 2020-09-14,Alameda,37,18,0
@@ -945,7 +945,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Kings,0,0,0
 2020-09-14,Lake,0,0,0
 2020-09-14,Lassen,0,0,0
-2020-09-14,Los Angeles,214,42,10
+2020-09-14,Los Angeles,216,44,10
 2020-09-14,Madera,0,0,1
 2020-09-14,Marin,4,1,0
 2020-09-14,Mariposa,0,0,0
@@ -956,7 +956,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Monterey,0,0,0
 2020-09-14,Napa,0,0,0
 2020-09-14,Nevada,1,0,0
-2020-09-14,Orange,55,17,3
+2020-09-14,Orange,56,18,3
 2020-09-14,Placer,8,1,1
 2020-09-14,Plumas,0,0,0
 2020-09-14,Riverside,24,10,3
@@ -982,7 +982,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-14,Trinity,1,1,0
 2020-09-14,Tulare,0,0,0
 2020-09-14,Tuolumne,0,0,0
-2020-09-14,Ventura,10,1,1
+2020-09-14,Ventura,11,1,1
 2020-09-14,Yolo,23,10,2
 2020-09-14,Yuba,0,0,0
 2020-09-13,Alameda,37,18,0
@@ -1003,7 +1003,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Kings,0,0,0
 2020-09-13,Lake,0,0,0
 2020-09-13,Lassen,0,0,0
-2020-09-13,Los Angeles,210,36,0
+2020-09-13,Los Angeles,212,38,0
 2020-09-13,Madera,0,0,0
 2020-09-13,Marin,4,1,0
 2020-09-13,Mariposa,0,0,0
@@ -1014,7 +1014,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Monterey,0,0,0
 2020-09-13,Napa,0,0,0
 2020-09-13,Nevada,1,0,0
-2020-09-13,Orange,54,15,1
+2020-09-13,Orange,55,16,1
 2020-09-13,Placer,8,0,0
 2020-09-13,Plumas,0,0,0
 2020-09-13,Riverside,23,8,0
@@ -1040,7 +1040,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-13,Trinity,1,1,0
 2020-09-13,Tulare,0,0,0
 2020-09-13,Tuolumne,0,0,0
-2020-09-13,Ventura,9,1,0
+2020-09-13,Ventura,10,1,0
 2020-09-13,Yolo,23,8,0
 2020-09-13,Yuba,0,0,0
 2020-09-12,Alameda,37,18,0
@@ -1061,7 +1061,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Kings,0,0,0
 2020-09-12,Lake,0,0,0
 2020-09-12,Lassen,0,0,0
-2020-09-12,Los Angeles,210,36,5
+2020-09-12,Los Angeles,212,38,5
 2020-09-12,Madera,0,0,0
 2020-09-12,Marin,4,1,0
 2020-09-12,Mariposa,0,0,0
@@ -1072,14 +1072,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Monterey,0,0,0
 2020-09-12,Napa,0,0,0
 2020-09-12,Nevada,1,0,0
-2020-09-12,Orange,53,15,0
+2020-09-12,Orange,54,16,0
 2020-09-12,Placer,8,0,0
 2020-09-12,Plumas,0,0,0
 2020-09-12,Riverside,23,8,0
 2020-09-12,Sacramento,80,15,3
 2020-09-12,San Benito,0,0,0
 2020-09-12,San Bernardino,8,3,0
-2020-09-12,San Diego,230,70,5
+2020-09-12,San Diego,230,70,6
 2020-09-12,San Francisco,14,5,0
 2020-09-12,San Joaquin,8,4,0
 2020-09-12,San Luis Obispo,1,1,0
@@ -1098,7 +1098,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-12,Trinity,1,1,0
 2020-09-12,Tulare,0,0,0
 2020-09-12,Tuolumne,0,0,0
-2020-09-12,Ventura,9,1,0
+2020-09-12,Ventura,10,1,0
 2020-09-12,Yolo,23,8,3
 2020-09-12,Yuba,0,0,0
 2020-09-11,Alameda,37,18,3
@@ -1119,7 +1119,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Kings,0,0,0
 2020-09-11,Lake,0,0,0
 2020-09-11,Lassen,0,0,0
-2020-09-11,Los Angeles,209,32,15
+2020-09-11,Los Angeles,211,34,15
 2020-09-11,Madera,0,0,0
 2020-09-11,Marin,4,1,0
 2020-09-11,Mariposa,0,0,0
@@ -1130,14 +1130,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Monterey,0,0,0
 2020-09-11,Napa,0,0,0
 2020-09-11,Nevada,1,0,0
-2020-09-11,Orange,53,15,3
+2020-09-11,Orange,54,16,3
 2020-09-11,Placer,8,0,1
 2020-09-11,Plumas,0,0,0
 2020-09-11,Riverside,23,8,1
 2020-09-11,Sacramento,79,13,9
 2020-09-11,San Benito,0,0,0
 2020-09-11,San Bernardino,8,3,0
-2020-09-11,San Diego,225,70,14
+2020-09-11,San Diego,224,70,14
 2020-09-11,San Francisco,14,5,1
 2020-09-11,San Joaquin,8,4,1
 2020-09-11,San Luis Obispo,1,1,0
@@ -1156,7 +1156,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-11,Trinity,1,1,0
 2020-09-11,Tulare,0,0,0
 2020-09-11,Tuolumne,0,0,0
-2020-09-11,Ventura,9,1,1
+2020-09-11,Ventura,10,1,1
 2020-09-11,Yolo,23,5,2
 2020-09-11,Yuba,0,0,0
 2020-09-10,Alameda,34,18,3
@@ -1177,7 +1177,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,Kings,0,0,0
 2020-09-10,Lake,0,0,0
 2020-09-10,Lassen,0,0,0
-2020-09-10,Los Angeles,200,26,21
+2020-09-10,Los Angeles,202,28,21
 2020-09-10,Madera,0,0,0
 2020-09-10,Marin,4,1,2
 2020-09-10,Mariposa,0,0,0
@@ -1188,14 +1188,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,Monterey,0,0,0
 2020-09-10,Napa,0,0,0
 2020-09-10,Nevada,1,0,0
-2020-09-10,Orange,52,13,1
+2020-09-10,Orange,53,14,2
 2020-09-10,Placer,7,0,0
 2020-09-10,Plumas,0,0,0
 2020-09-10,Riverside,22,8,1
 2020-09-10,Sacramento,72,11,2
 2020-09-10,San Benito,0,0,0
 2020-09-10,San Bernardino,8,3,0
-2020-09-10,San Diego,223,58,13
+2020-09-10,San Diego,222,58,13
 2020-09-10,San Francisco,13,5,0
 2020-09-10,San Joaquin,7,3,2
 2020-09-10,San Luis Obispo,1,1,0
@@ -1214,7 +1214,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-10,Trinity,1,1,0
 2020-09-10,Tulare,0,0,0
 2020-09-10,Tuolumne,0,0,0
-2020-09-10,Ventura,8,1,0
+2020-09-10,Ventura,9,1,0
 2020-09-10,Yolo,21,5,0
 2020-09-10,Yuba,0,0,0
 2020-09-09,Alameda,32,17,8
@@ -1235,7 +1235,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,Kings,0,0,0
 2020-09-09,Lake,0,0,0
 2020-09-09,Lassen,0,0,0
-2020-09-09,Los Angeles,188,17,9
+2020-09-09,Los Angeles,190,19,9
 2020-09-09,Madera,0,0,0
 2020-09-09,Marin,3,0,0
 2020-09-09,Mariposa,0,0,0
@@ -1246,14 +1246,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,Monterey,0,0,0
 2020-09-09,Napa,0,0,0
 2020-09-09,Nevada,1,0,0
-2020-09-09,Orange,52,12,0
+2020-09-09,Orange,53,12,0
 2020-09-09,Placer,7,0,0
 2020-09-09,Plumas,0,0,0
 2020-09-09,Riverside,22,7,1
 2020-09-09,Sacramento,70,11,6
 2020-09-09,San Benito,0,0,0
 2020-09-09,San Bernardino,8,3,1
-2020-09-09,San Diego,218,50,22
+2020-09-09,San Diego,217,50,22
 2020-09-09,San Francisco,13,5,1
 2020-09-09,San Joaquin,6,2,0
 2020-09-09,San Luis Obispo,1,1,0
@@ -1272,7 +1272,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-09,Trinity,1,1,0
 2020-09-09,Tulare,0,0,0
 2020-09-09,Tuolumne,0,0,0
-2020-09-09,Ventura,8,1,2
+2020-09-09,Ventura,9,1,2
 2020-09-09,Yolo,21,5,1
 2020-09-09,Yuba,0,0,0
 2020-09-08,Alameda,31,10,1
@@ -1293,7 +1293,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,Kings,0,0,0
 2020-09-08,Lake,0,0,0
 2020-09-08,Lassen,0,0,0
-2020-09-08,Los Angeles,183,13,13
+2020-09-08,Los Angeles,185,15,13
 2020-09-08,Madera,0,0,0
 2020-09-08,Marin,3,0,0
 2020-09-08,Mariposa,0,0,0
@@ -1304,14 +1304,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,Monterey,0,0,0
 2020-09-08,Napa,0,0,0
 2020-09-08,Nevada,1,0,0
-2020-09-08,Orange,52,12,2
+2020-09-08,Orange,53,12,2
 2020-09-08,Placer,7,0,0
 2020-09-08,Plumas,0,0,0
 2020-09-08,Riverside,21,7,2
 2020-09-08,Sacramento,65,10,7
 2020-09-08,San Benito,0,0,0
 2020-09-08,San Bernardino,8,2,1
-2020-09-08,San Diego,203,43,17
+2020-09-08,San Diego,202,43,17
 2020-09-08,San Francisco,12,5,3
 2020-09-08,San Joaquin,6,2,0
 2020-09-08,San Luis Obispo,1,1,1
@@ -1330,7 +1330,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-08,Trinity,1,1,1
 2020-09-08,Tulare,0,0,0
 2020-09-08,Tuolumne,0,0,0
-2020-09-08,Ventura,6,1,0
+2020-09-08,Ventura,7,1,0
 2020-09-08,Yolo,20,5,0
 2020-09-08,Yuba,0,0,0
 2020-09-07,Alameda,31,9,0
@@ -1351,7 +1351,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,Kings,0,0,0
 2020-09-07,Lake,0,0,0
 2020-09-07,Lassen,0,0,0
-2020-09-07,Los Angeles,173,10,0
+2020-09-07,Los Angeles,175,12,0
 2020-09-07,Madera,0,0,0
 2020-09-07,Marin,3,0,0
 2020-09-07,Mariposa,0,0,0
@@ -1362,14 +1362,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,Monterey,0,0,0
 2020-09-07,Napa,0,0,0
 2020-09-07,Nevada,1,0,0
-2020-09-07,Orange,51,11,0
+2020-09-07,Orange,52,11,0
 2020-09-07,Placer,7,0,0
 2020-09-07,Plumas,0,0,0
 2020-09-07,Riverside,20,6,0
 2020-09-07,Sacramento,59,9,0
 2020-09-07,San Benito,0,0,0
 2020-09-07,San Bernardino,7,2,0
-2020-09-07,San Diego,193,37,1
+2020-09-07,San Diego,192,37,1
 2020-09-07,San Francisco,12,2,0
 2020-09-07,San Joaquin,6,2,0
 2020-09-07,San Luis Obispo,1,0,0
@@ -1388,7 +1388,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-07,Trinity,1,0,0
 2020-09-07,Tulare,0,0,0
 2020-09-07,Tuolumne,0,0,0
-2020-09-07,Ventura,6,1,0
+2020-09-07,Ventura,7,1,0
 2020-09-07,Yolo,20,5,0
 2020-09-07,Yuba,0,0,0
 2020-09-06,Alameda,31,9,0
@@ -1409,7 +1409,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,Kings,0,0,0
 2020-09-06,Lake,0,0,0
 2020-09-06,Lassen,0,0,0
-2020-09-06,Los Angeles,173,10,0
+2020-09-06,Los Angeles,175,12,0
 2020-09-06,Madera,0,0,0
 2020-09-06,Marin,3,0,0
 2020-09-06,Mariposa,0,0,0
@@ -1420,14 +1420,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,Monterey,0,0,0
 2020-09-06,Napa,0,0,0
 2020-09-06,Nevada,1,0,0
-2020-09-06,Orange,51,11,0
+2020-09-06,Orange,52,11,0
 2020-09-06,Placer,7,0,0
 2020-09-06,Plumas,0,0,0
 2020-09-06,Riverside,20,6,0
 2020-09-06,Sacramento,59,9,0
 2020-09-06,San Benito,0,0,0
 2020-09-06,San Bernardino,7,2,0
-2020-09-06,San Diego,193,36,0
+2020-09-06,San Diego,192,36,0
 2020-09-06,San Francisco,12,2,0
 2020-09-06,San Joaquin,6,2,0
 2020-09-06,San Luis Obispo,1,0,0
@@ -1446,7 +1446,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-06,Trinity,1,0,0
 2020-09-06,Tulare,0,0,0
 2020-09-06,Tuolumne,0,0,0
-2020-09-06,Ventura,6,1,0
+2020-09-06,Ventura,7,1,0
 2020-09-06,Yolo,20,5,0
 2020-09-06,Yuba,0,0,0
 2020-09-05,Alameda,31,9,0
@@ -1467,7 +1467,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,Kings,0,0,0
 2020-09-05,Lake,0,0,0
 2020-09-05,Lassen,0,0,0
-2020-09-05,Los Angeles,173,10,4
+2020-09-05,Los Angeles,175,12,4
 2020-09-05,Madera,0,0,0
 2020-09-05,Marin,3,0,0
 2020-09-05,Mariposa,0,0,0
@@ -1478,14 +1478,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,Monterey,0,0,0
 2020-09-05,Napa,0,0,0
 2020-09-05,Nevada,1,0,0
-2020-09-05,Orange,51,11,0
+2020-09-05,Orange,52,11,0
 2020-09-05,Placer,7,0,0
 2020-09-05,Plumas,0,0,0
 2020-09-05,Riverside,20,6,0
 2020-09-05,Sacramento,59,9,0
 2020-09-05,San Benito,0,0,0
 2020-09-05,San Bernardino,7,2,0
-2020-09-05,San Diego,193,36,7
+2020-09-05,San Diego,192,36,7
 2020-09-05,San Francisco,12,2,0
 2020-09-05,San Joaquin,6,2,0
 2020-09-05,San Luis Obispo,1,0,0
@@ -1504,7 +1504,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-05,Trinity,1,0,0
 2020-09-05,Tulare,0,0,0
 2020-09-05,Tuolumne,0,0,0
-2020-09-05,Ventura,6,1,0
+2020-09-05,Ventura,7,1,0
 2020-09-05,Yolo,20,5,0
 2020-09-05,Yuba,0,0,0
 2020-09-04,Alameda,31,9,3
@@ -1525,7 +1525,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,Kings,0,0,0
 2020-09-04,Lake,0,0,0
 2020-09-04,Lassen,0,0,0
-2020-09-04,Los Angeles,169,10,14
+2020-09-04,Los Angeles,171,12,14
 2020-09-04,Madera,0,0,0
 2020-09-04,Marin,3,0,1
 2020-09-04,Mariposa,0,0,0
@@ -1536,14 +1536,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,Monterey,0,0,0
 2020-09-04,Napa,0,0,0
 2020-09-04,Nevada,1,0,1
-2020-09-04,Orange,51,11,5
+2020-09-04,Orange,52,11,5
 2020-09-04,Placer,7,0,1
 2020-09-04,Plumas,0,0,0
 2020-09-04,Riverside,20,6,2
 2020-09-04,Sacramento,59,9,1
 2020-09-04,San Benito,0,0,0
 2020-09-04,San Bernardino,7,2,0
-2020-09-04,San Diego,186,36,9
+2020-09-04,San Diego,185,36,9
 2020-09-04,San Francisco,12,2,2
 2020-09-04,San Joaquin,6,2,0
 2020-09-04,San Luis Obispo,1,0,0
@@ -1562,7 +1562,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-04,Trinity,1,0,0
 2020-09-04,Tulare,0,0,0
 2020-09-04,Tuolumne,0,0,0
-2020-09-04,Ventura,6,1,1
+2020-09-04,Ventura,7,1,1
 2020-09-04,Yolo,20,5,2
 2020-09-04,Yuba,0,0,0
 2020-09-03,Alameda,29,8,2
@@ -1583,7 +1583,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,Kings,0,0,0
 2020-09-03,Lake,0,0,0
 2020-09-03,Lassen,0,0,0
-2020-09-03,Los Angeles,155,10,14
+2020-09-03,Los Angeles,157,12,14
 2020-09-03,Madera,0,0,0
 2020-09-03,Marin,2,0,0
 2020-09-03,Mariposa,0,0,0
@@ -1594,14 +1594,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,Monterey,0,0,0
 2020-09-03,Napa,0,0,0
 2020-09-03,Nevada,0,0,0
-2020-09-03,Orange,46,11,5
+2020-09-03,Orange,47,11,5
 2020-09-03,Placer,6,0,1
 2020-09-03,Plumas,0,0,0
 2020-09-03,Riverside,20,4,0
 2020-09-03,Sacramento,58,9,4
 2020-09-03,San Benito,0,0,0
 2020-09-03,San Bernardino,7,2,1
-2020-09-03,San Diego,178,35,18
+2020-09-03,San Diego,177,35,18
 2020-09-03,San Francisco,10,2,1
 2020-09-03,San Joaquin,6,2,0
 2020-09-03,San Luis Obispo,1,0,0
@@ -1620,7 +1620,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-03,Trinity,1,0,0
 2020-09-03,Tulare,0,0,0
 2020-09-03,Tuolumne,0,0,0
-2020-09-03,Ventura,5,1,0
+2020-09-03,Ventura,6,1,0
 2020-09-03,Yolo,18,5,1
 2020-09-03,Yuba,0,0,0
 2020-09-02,Alameda,27,8,3
@@ -1641,7 +1641,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,Kings,0,0,0
 2020-09-02,Lake,0,0,0
 2020-09-02,Lassen,0,0,0
-2020-09-02,Los Angeles,141,10,13
+2020-09-02,Los Angeles,143,12,13
 2020-09-02,Madera,0,0,0
 2020-09-02,Marin,2,0,0
 2020-09-02,Mariposa,0,0,0
@@ -1652,14 +1652,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,Monterey,0,0,0
 2020-09-02,Napa,0,0,0
 2020-09-02,Nevada,0,0,0
-2020-09-02,Orange,42,10,3
+2020-09-02,Orange,43,10,3
 2020-09-02,Placer,5,0,1
 2020-09-02,Plumas,0,0,0
 2020-09-02,Riverside,20,4,0
 2020-09-02,Sacramento,55,8,4
 2020-09-02,San Benito,0,0,0
 2020-09-02,San Bernardino,7,1,0
-2020-09-02,San Diego,167,28,10
+2020-09-02,San Diego,166,28,10
 2020-09-02,San Francisco,9,2,2
 2020-09-02,San Joaquin,6,2,0
 2020-09-02,San Luis Obispo,1,0,0
@@ -1678,7 +1678,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-02,Trinity,1,0,0
 2020-09-02,Tulare,0,0,0
 2020-09-02,Tuolumne,0,0,0
-2020-09-02,Ventura,5,1,0
+2020-09-02,Ventura,6,1,0
 2020-09-02,Yolo,17,5,0
 2020-09-02,Yuba,0,0,0
 2020-09-01,Alameda,27,5,3
@@ -1699,7 +1699,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,Kings,0,0,0
 2020-09-01,Lake,0,0,0
 2020-09-01,Lassen,0,0,0
-2020-09-01,Los Angeles,128,10,20
+2020-09-01,Los Angeles,130,12,20
 2020-09-01,Madera,0,0,0
 2020-09-01,Marin,2,0,0
 2020-09-01,Mariposa,0,0,0
@@ -1710,14 +1710,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,Monterey,0,0,0
 2020-09-01,Napa,0,0,0
 2020-09-01,Nevada,0,0,0
-2020-09-01,Orange,41,8,11
+2020-09-01,Orange,42,8,11
 2020-09-01,Placer,4,0,0
 2020-09-01,Plumas,0,0,0
 2020-09-01,Riverside,20,4,2
 2020-09-01,Sacramento,51,8,6
 2020-09-01,San Benito,0,0,0
 2020-09-01,San Bernardino,7,1,1
-2020-09-01,San Diego,167,19,17
+2020-09-01,San Diego,166,19,17
 2020-09-01,San Francisco,7,2,1
 2020-09-01,San Joaquin,6,2,1
 2020-09-01,San Luis Obispo,1,0,0
@@ -1736,7 +1736,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-09-01,Trinity,1,0,0
 2020-09-01,Tulare,0,0,0
 2020-09-01,Tuolumne,0,0,0
-2020-09-01,Ventura,5,1,2
+2020-09-01,Ventura,6,1,2
 2020-09-01,Yolo,17,5,2
 2020-09-01,Yuba,0,0,0
 2020-08-31,Alameda,27,2,3
@@ -1757,7 +1757,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,Kings,0,0,0
 2020-08-31,Lake,0,0,0
 2020-08-31,Lassen,0,0,0
-2020-08-31,Los Angeles,110,8,12
+2020-08-31,Los Angeles,112,10,12
 2020-08-31,Madera,0,0,0
 2020-08-31,Marin,2,0,1
 2020-08-31,Mariposa,0,0,0
@@ -1768,14 +1768,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,Monterey,0,0,0
 2020-08-31,Napa,0,0,0
 2020-08-31,Nevada,0,0,0
-2020-08-31,Orange,32,6,2
+2020-08-31,Orange,33,6,2
 2020-08-31,Placer,4,0,1
 2020-08-31,Plumas,0,0,0
 2020-08-31,Riverside,19,3,2
 2020-08-31,Sacramento,47,6,7
 2020-08-31,San Benito,0,0,0
 2020-08-31,San Bernardino,6,1,0
-2020-08-31,San Diego,159,10,17
+2020-08-31,San Diego,158,10,17
 2020-08-31,San Francisco,7,1,0
 2020-08-31,San Joaquin,5,2,1
 2020-08-31,San Luis Obispo,1,0,0
@@ -1794,7 +1794,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-31,Trinity,1,0,0
 2020-08-31,Tulare,0,0,0
 2020-08-31,Tuolumne,0,0,0
-2020-08-31,Ventura,3,1,1
+2020-08-31,Ventura,4,1,1
 2020-08-31,Yolo,16,4,1
 2020-08-31,Yuba,0,0,0
 2020-08-30,Alameda,26,0,0
@@ -1815,7 +1815,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-30,Kings,0,0,0
 2020-08-30,Lake,0,0,0
 2020-08-30,Lassen,0,0,0
-2020-08-30,Los Angeles,98,8,2
+2020-08-30,Los Angeles,100,10,2
 2020-08-30,Madera,0,0,0
 2020-08-30,Marin,1,0,0
 2020-08-30,Mariposa,0,0,0
@@ -1826,14 +1826,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-30,Monterey,0,0,0
 2020-08-30,Napa,0,0,0
 2020-08-30,Nevada,0,0,0
-2020-08-30,Orange,31,5,0
+2020-08-30,Orange,32,5,0
 2020-08-30,Placer,3,0,0
 2020-08-30,Plumas,0,0,0
 2020-08-30,Riverside,18,2,0
 2020-08-30,Sacramento,42,4,0
 2020-08-30,San Benito,0,0,0
 2020-08-30,San Bernardino,6,1,0
-2020-08-30,San Diego,145,7,0
+2020-08-30,San Diego,144,7,0
 2020-08-30,San Francisco,7,1,0
 2020-08-30,San Joaquin,4,2,0
 2020-08-30,San Luis Obispo,1,0,0
@@ -1852,7 +1852,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-30,Trinity,1,0,0
 2020-08-30,Tulare,0,0,0
 2020-08-30,Tuolumne,0,0,0
-2020-08-30,Ventura,2,1,0
+2020-08-30,Ventura,3,1,0
 2020-08-30,Yolo,15,4,0
 2020-08-30,Yuba,0,0,0
 2020-08-29,Alameda,26,0,0
@@ -1873,7 +1873,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-29,Kings,0,0,0
 2020-08-29,Lake,0,0,0
 2020-08-29,Lassen,0,0,0
-2020-08-29,Los Angeles,96,8,5
+2020-08-29,Los Angeles,98,10,5
 2020-08-29,Madera,0,0,0
 2020-08-29,Marin,1,0,0
 2020-08-29,Mariposa,0,0,0
@@ -1884,14 +1884,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-29,Monterey,0,0,0
 2020-08-29,Napa,0,0,0
 2020-08-29,Nevada,0,0,0
-2020-08-29,Orange,31,5,0
+2020-08-29,Orange,32,5,0
 2020-08-29,Placer,3,0,0
 2020-08-29,Plumas,0,0,0
 2020-08-29,Riverside,18,2,1
 2020-08-29,Sacramento,42,4,1
 2020-08-29,San Benito,0,0,0
 2020-08-29,San Bernardino,6,1,0
-2020-08-29,San Diego,145,7,4
+2020-08-29,San Diego,144,7,4
 2020-08-29,San Francisco,7,1,0
 2020-08-29,San Joaquin,4,2,0
 2020-08-29,San Luis Obispo,1,0,0
@@ -1910,7 +1910,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-29,Trinity,1,0,0
 2020-08-29,Tulare,0,0,0
 2020-08-29,Tuolumne,0,0,0
-2020-08-29,Ventura,2,1,0
+2020-08-29,Ventura,3,1,0
 2020-08-29,Yolo,15,4,0
 2020-08-29,Yuba,0,0,0
 2020-08-28,Alameda,26,0,1
@@ -1931,7 +1931,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-28,Kings,0,0,0
 2020-08-28,Lake,0,0,0
 2020-08-28,Lassen,0,0,0
-2020-08-28,Los Angeles,91,8,13
+2020-08-28,Los Angeles,93,10,13
 2020-08-28,Madera,0,0,0
 2020-08-28,Marin,1,0,0
 2020-08-28,Mariposa,0,0,0
@@ -1942,14 +1942,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-28,Monterey,0,0,0
 2020-08-28,Napa,0,0,0
 2020-08-28,Nevada,0,0,0
-2020-08-28,Orange,31,5,5
+2020-08-28,Orange,32,5,5
 2020-08-28,Placer,3,0,1
 2020-08-28,Plumas,0,0,0
 2020-08-28,Riverside,18,1,1
 2020-08-28,Sacramento,41,4,5
 2020-08-28,San Benito,0,0,0
 2020-08-28,San Bernardino,6,1,0
-2020-08-28,San Diego,141,7,7
+2020-08-28,San Diego,140,7,7
 2020-08-28,San Francisco,7,1,1
 2020-08-28,San Joaquin,4,2,2
 2020-08-28,San Luis Obispo,1,0,0
@@ -1968,7 +1968,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-28,Trinity,1,0,0
 2020-08-28,Tulare,0,0,0
 2020-08-28,Tuolumne,0,0,0
-2020-08-28,Ventura,2,1,1
+2020-08-28,Ventura,3,1,1
 2020-08-28,Yolo,15,4,2
 2020-08-28,Yuba,0,0,0
 2020-08-27,Alameda,25,0,2
@@ -1989,7 +1989,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-27,Kings,0,0,0
 2020-08-27,Lake,0,0,0
 2020-08-27,Lassen,0,0,0
-2020-08-27,Los Angeles,79,7,14
+2020-08-27,Los Angeles,82,8,15
 2020-08-27,Madera,0,0,0
 2020-08-27,Marin,1,0,0
 2020-08-27,Mariposa,0,0,0
@@ -2000,14 +2000,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-27,Monterey,0,0,0
 2020-08-27,Napa,0,0,0
 2020-08-27,Nevada,0,0,0
-2020-08-27,Orange,27,4,4
+2020-08-27,Orange,28,4,4
 2020-08-27,Placer,2,0,0
 2020-08-27,Plumas,0,0,0
 2020-08-27,Riverside,17,1,0
 2020-08-27,Sacramento,38,2,5
 2020-08-27,San Benito,0,0,0
 2020-08-27,San Bernardino,6,1,0
-2020-08-27,San Diego,135,6,8
+2020-08-27,San Diego,134,6,7
 2020-08-27,San Francisco,6,1,0
 2020-08-27,San Joaquin,3,1,0
 2020-08-27,San Luis Obispo,1,0,0
@@ -2026,7 +2026,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-27,Trinity,1,0,0
 2020-08-27,Tulare,0,0,0
 2020-08-27,Tuolumne,0,0,0
-2020-08-27,Ventura,2,0,0
+2020-08-27,Ventura,3,0,1
 2020-08-27,Yolo,14,3,0
 2020-08-27,Yuba,0,0,0
 2020-08-26,Alameda,23,0,1
@@ -2047,7 +2047,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-26,Kings,0,0,0
 2020-08-26,Lake,0,0,0
 2020-08-26,Lassen,0,0,0
-2020-08-26,Los Angeles,68,3,5
+2020-08-26,Los Angeles,71,3,5
 2020-08-26,Madera,0,0,0
 2020-08-26,Marin,1,0,0
 2020-08-26,Mariposa,0,0,0
@@ -2058,7 +2058,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-26,Monterey,0,0,0
 2020-08-26,Napa,0,0,0
 2020-08-26,Nevada,0,0,0
-2020-08-26,Orange,25,2,5
+2020-08-26,Orange,26,2,5
 2020-08-26,Placer,2,0,1
 2020-08-26,Plumas,0,0,0
 2020-08-26,Riverside,17,1,0
@@ -2105,7 +2105,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-25,Kings,0,0,0
 2020-08-25,Lake,0,0,0
 2020-08-25,Lassen,0,0,0
-2020-08-25,Los Angeles,63,3,8
+2020-08-25,Los Angeles,66,3,8
 2020-08-25,Madera,0,0,0
 2020-08-25,Marin,1,0,0
 2020-08-25,Mariposa,0,0,0
@@ -2116,7 +2116,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-25,Monterey,0,0,0
 2020-08-25,Napa,0,0,0
 2020-08-25,Nevada,0,0,0
-2020-08-25,Orange,21,1,1
+2020-08-25,Orange,22,1,1
 2020-08-25,Placer,1,0,0
 2020-08-25,Plumas,0,0,0
 2020-08-25,Riverside,17,1,2
@@ -2163,7 +2163,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-24,Kings,0,0,0
 2020-08-24,Lake,0,0,0
 2020-08-24,Lassen,0,0,0
-2020-08-24,Los Angeles,55,3,5
+2020-08-24,Los Angeles,58,3,5
 2020-08-24,Madera,0,0,0
 2020-08-24,Marin,1,0,0
 2020-08-24,Mariposa,0,0,0
@@ -2174,7 +2174,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-24,Monterey,0,0,0
 2020-08-24,Napa,0,0,0
 2020-08-24,Nevada,0,0,0
-2020-08-24,Orange,20,1,1
+2020-08-24,Orange,21,1,1
 2020-08-24,Placer,1,0,1
 2020-08-24,Plumas,0,0,0
 2020-08-24,Riverside,15,1,0
@@ -2221,7 +2221,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-23,Kings,0,0,0
 2020-08-23,Lake,0,0,0
 2020-08-23,Lassen,0,0,0
-2020-08-23,Los Angeles,51,2,0
+2020-08-23,Los Angeles,54,2,0
 2020-08-23,Madera,0,0,0
 2020-08-23,Marin,1,0,0
 2020-08-23,Mariposa,0,0,0
@@ -2232,7 +2232,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-23,Monterey,0,0,0
 2020-08-23,Napa,0,0,0
 2020-08-23,Nevada,0,0,0
-2020-08-23,Orange,19,1,1
+2020-08-23,Orange,20,1,1
 2020-08-23,Placer,0,0,0
 2020-08-23,Plumas,0,0,0
 2020-08-23,Riverside,15,1,0
@@ -2279,7 +2279,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-22,Kings,0,0,0
 2020-08-22,Lake,0,0,0
 2020-08-22,Lassen,0,0,0
-2020-08-22,Los Angeles,51,2,6
+2020-08-22,Los Angeles,54,2,6
 2020-08-22,Madera,0,0,0
 2020-08-22,Marin,1,0,0
 2020-08-22,Mariposa,0,0,0
@@ -2290,7 +2290,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-22,Monterey,0,0,0
 2020-08-22,Napa,0,0,0
 2020-08-22,Nevada,0,0,0
-2020-08-22,Orange,19,0,1
+2020-08-22,Orange,20,0,1
 2020-08-22,Placer,0,0,0
 2020-08-22,Plumas,0,0,0
 2020-08-22,Riverside,15,1,0
@@ -2337,7 +2337,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-21,Kings,0,0,0
 2020-08-21,Lake,0,0,0
 2020-08-21,Lassen,0,0,0
-2020-08-21,Los Angeles,45,2,9
+2020-08-21,Los Angeles,48,2,10
 2020-08-21,Madera,0,0,0
 2020-08-21,Marin,1,0,0
 2020-08-21,Mariposa,0,0,0
@@ -2348,7 +2348,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-21,Monterey,0,0,0
 2020-08-21,Napa,0,0,0
 2020-08-21,Nevada,0,0,0
-2020-08-21,Orange,18,0,0
+2020-08-21,Orange,19,0,0
 2020-08-21,Placer,0,0,0
 2020-08-21,Plumas,0,0,0
 2020-08-21,Riverside,15,1,1
@@ -2395,7 +2395,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-20,Kings,0,0,0
 2020-08-20,Lake,0,0,0
 2020-08-20,Lassen,0,0,0
-2020-08-20,Los Angeles,36,2,7
+2020-08-20,Los Angeles,38,2,7
 2020-08-20,Madera,0,0,0
 2020-08-20,Marin,1,0,1
 2020-08-20,Mariposa,0,0,0
@@ -2406,7 +2406,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-20,Monterey,0,0,0
 2020-08-20,Napa,0,0,0
 2020-08-20,Nevada,0,0,0
-2020-08-20,Orange,18,0,2
+2020-08-20,Orange,19,0,3
 2020-08-20,Placer,0,0,0
 2020-08-20,Plumas,0,0,0
 2020-08-20,Riverside,14,1,1
@@ -2453,7 +2453,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-19,Kings,0,0,0
 2020-08-19,Lake,0,0,0
 2020-08-19,Lassen,0,0,0
-2020-08-19,Los Angeles,29,2,5
+2020-08-19,Los Angeles,31,2,5
 2020-08-19,Madera,0,0,0
 2020-08-19,Marin,0,0,0
 2020-08-19,Mariposa,0,0,0
@@ -2511,7 +2511,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-18,Kings,0,0,0
 2020-08-18,Lake,0,0,0
 2020-08-18,Lassen,0,0,0
-2020-08-18,Los Angeles,24,2,1
+2020-08-18,Los Angeles,26,2,1
 2020-08-18,Madera,0,0,0
 2020-08-18,Marin,0,0,0
 2020-08-18,Mariposa,0,0,0
@@ -2569,7 +2569,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-17,Kings,0,0,0
 2020-08-17,Lake,0,0,0
 2020-08-17,Lassen,0,0,0
-2020-08-17,Los Angeles,23,2,2
+2020-08-17,Los Angeles,25,2,2
 2020-08-17,Madera,0,0,0
 2020-08-17,Marin,0,0,0
 2020-08-17,Mariposa,0,0,0
@@ -2627,7 +2627,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-16,Kings,0,0,0
 2020-08-16,Lake,0,0,0
 2020-08-16,Lassen,0,0,0
-2020-08-16,Los Angeles,21,2,0
+2020-08-16,Los Angeles,23,2,0
 2020-08-16,Madera,0,0,0
 2020-08-16,Marin,0,0,0
 2020-08-16,Mariposa,0,0,0
@@ -2685,7 +2685,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-15,Kings,0,0,0
 2020-08-15,Lake,0,0,0
 2020-08-15,Lassen,0,0,0
-2020-08-15,Los Angeles,21,2,1
+2020-08-15,Los Angeles,23,2,1
 2020-08-15,Madera,0,0,0
 2020-08-15,Marin,0,0,0
 2020-08-15,Mariposa,0,0,0
@@ -2743,7 +2743,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-14,Kings,0,0,0
 2020-08-14,Lake,0,0,0
 2020-08-14,Lassen,0,0,0
-2020-08-14,Los Angeles,20,2,1
+2020-08-14,Los Angeles,22,2,1
 2020-08-14,Madera,0,0,0
 2020-08-14,Marin,0,0,0
 2020-08-14,Mariposa,0,0,0
@@ -2801,7 +2801,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-13,Kings,0,0,0
 2020-08-13,Lake,0,0,0
 2020-08-13,Lassen,0,0,0
-2020-08-13,Los Angeles,19,2,1
+2020-08-13,Los Angeles,21,2,1
 2020-08-13,Madera,0,0,0
 2020-08-13,Marin,0,0,0
 2020-08-13,Mariposa,0,0,0
@@ -2859,7 +2859,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-12,Kings,0,0,0
 2020-08-12,Lake,0,0,0
 2020-08-12,Lassen,0,0,0
-2020-08-12,Los Angeles,18,2,2
+2020-08-12,Los Angeles,20,2,2
 2020-08-12,Madera,0,0,0
 2020-08-12,Marin,0,0,0
 2020-08-12,Mariposa,0,0,0
@@ -2917,7 +2917,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-11,Kings,0,0,0
 2020-08-11,Lake,0,0,0
 2020-08-11,Lassen,0,0,0
-2020-08-11,Los Angeles,16,2,1
+2020-08-11,Los Angeles,18,2,1
 2020-08-11,Madera,0,0,0
 2020-08-11,Marin,0,0,0
 2020-08-11,Mariposa,0,0,0
@@ -2975,7 +2975,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-10,Kings,0,0,0
 2020-08-10,Lake,0,0,0
 2020-08-10,Lassen,0,0,0
-2020-08-10,Los Angeles,15,2,3
+2020-08-10,Los Angeles,17,2,3
 2020-08-10,Madera,0,0,0
 2020-08-10,Marin,0,0,0
 2020-08-10,Mariposa,0,0,0
@@ -3033,7 +3033,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-09,Kings,0,0,0
 2020-08-09,Lake,0,0,0
 2020-08-09,Lassen,0,0,0
-2020-08-09,Los Angeles,12,2,1
+2020-08-09,Los Angeles,14,2,1
 2020-08-09,Madera,0,0,0
 2020-08-09,Marin,0,0,0
 2020-08-09,Mariposa,0,0,0
@@ -3091,7 +3091,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-08,Kings,0,0,0
 2020-08-08,Lake,0,0,0
 2020-08-08,Lassen,0,0,0
-2020-08-08,Los Angeles,11,2,1
+2020-08-08,Los Angeles,13,2,1
 2020-08-08,Madera,0,0,0
 2020-08-08,Marin,0,0,0
 2020-08-08,Mariposa,0,0,0
@@ -3149,7 +3149,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-07,Kings,0,0,0
 2020-08-07,Lake,0,0,0
 2020-08-07,Lassen,0,0,0
-2020-08-07,Los Angeles,10,2,1
+2020-08-07,Los Angeles,12,2,2
 2020-08-07,Madera,0,0,0
 2020-08-07,Marin,0,0,0
 2020-08-07,Mariposa,0,0,0
@@ -3207,7 +3207,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-06,Kings,0,0,0
 2020-08-06,Lake,0,0,0
 2020-08-06,Lassen,0,0,0
-2020-08-06,Los Angeles,9,2,2
+2020-08-06,Los Angeles,10,2,2
 2020-08-06,Madera,0,0,0
 2020-08-06,Marin,0,0,0
 2020-08-06,Mariposa,0,0,0
@@ -3265,7 +3265,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-05,Kings,0,0,0
 2020-08-05,Lake,0,0,0
 2020-08-05,Lassen,0,0,0
-2020-08-05,Los Angeles,7,2,0
+2020-08-05,Los Angeles,8,2,0
 2020-08-05,Madera,0,0,0
 2020-08-05,Marin,0,0,0
 2020-08-05,Mariposa,0,0,0
@@ -3323,7 +3323,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-04,Kings,0,0,0
 2020-08-04,Lake,0,0,0
 2020-08-04,Lassen,0,0,0
-2020-08-04,Los Angeles,7,2,2
+2020-08-04,Los Angeles,8,2,2
 2020-08-04,Madera,0,0,0
 2020-08-04,Marin,0,0,0
 2020-08-04,Mariposa,0,0,0
@@ -3381,7 +3381,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-03,Kings,0,0,0
 2020-08-03,Lake,0,0,0
 2020-08-03,Lassen,0,0,0
-2020-08-03,Los Angeles,5,2,0
+2020-08-03,Los Angeles,6,2,0
 2020-08-03,Madera,0,0,0
 2020-08-03,Marin,0,0,0
 2020-08-03,Mariposa,0,0,0
@@ -3439,7 +3439,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-02,Kings,0,0,0
 2020-08-02,Lake,0,0,0
 2020-08-02,Lassen,0,0,0
-2020-08-02,Los Angeles,5,2,0
+2020-08-02,Los Angeles,6,2,0
 2020-08-02,Madera,0,0,0
 2020-08-02,Marin,0,0,0
 2020-08-02,Mariposa,0,0,0
@@ -3497,7 +3497,7 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered
 2020-08-01,Kings,0,0,0
 2020-08-01,Lake,0,0,0
 2020-08-01,Lassen,0,0,0
-2020-08-01,Los Angeles,5,2,1
+2020-08-01,Los Angeles,6,2,2
 2020-08-01,Madera,0,0,0
 2020-08-01,Marin,0,0,0
 2020-08-01,Mariposa,0,0,0
