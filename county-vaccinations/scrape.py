@@ -20,6 +20,18 @@ def write_quarterly_csv(df, quarter):
     )
 
 
+def process_county(group):
+    # TODO find weekly sum of new vax
+    g = group.sort_values('date').set_index('date')
+    g_sum = g.resample('D').sum()
+
+    g_diff = g_sum.diff(periods=7)
+
+    g_sum['new_cases'] = g_diff['cases']
+    g_sum['new_deaths'] = g_diff['deaths']
+    return g_sum
+
+
 def main():
     """
     Download the data and split
