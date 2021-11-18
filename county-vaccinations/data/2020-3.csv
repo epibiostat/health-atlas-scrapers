@@ -1210,49 +1210,49 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-16,Los Angeles,26,2,0,10
 2020-08-17,Los Angeles,28,2,2,9
 2020-08-18,Los Angeles,29,2,1,9
-2020-08-19,Los Angeles,34,2,5,12
-2020-08-20,Los Angeles,41,2,7,18
-2020-08-21,Los Angeles,51,2,10,26
-2020-08-22,Los Angeles,56,2,5,30
-2020-08-23,Los Angeles,56,2,0,30
-2020-08-24,Los Angeles,63,3,8,36
-2020-08-25,Los Angeles,71,3,8,43
-2020-08-26,Los Angeles,78,3,7,45
-2020-08-27,Los Angeles,91,8,17,55
-2020-08-28,Los Angeles,105,11,17,62
-2020-08-29,Los Angeles,109,11,4,61
-2020-08-30,Los Angeles,111,11,2,63
-2020-08-31,Los Angeles,123,11,12,67
-2020-09-01,Los Angeles,140,14,20,79
-2020-09-02,Los Angeles,155,14,15,87
-2020-09-03,Los Angeles,171,14,16,86
-2020-09-04,Los Angeles,187,14,16,85
-2020-09-05,Los Angeles,191,14,4,85
-2020-09-06,Los Angeles,191,14,0,83
-2020-09-07,Los Angeles,191,14,0,71
-2020-09-08,Los Angeles,203,18,16,67
-2020-09-09,Los Angeles,209,20,8,60
-2020-09-10,Los Angeles,222,30,23,67
-2020-09-11,Los Angeles,232,36,16,67
-2020-09-12,Los Angeles,234,40,6,69
-2020-09-13,Los Angeles,234,40,0,69
-2020-09-14,Los Angeles,239,48,13,82
-2020-09-15,Los Angeles,245,58,16,82
-2020-09-16,Los Angeles,249,64,10,84
-2020-09-17,Los Angeles,258,72,18,79
-2020-09-18,Los Angeles,265,84,20,83
-2020-09-19,Los Angeles,270,88,9,86
-2020-09-20,Los Angeles,271,89,2,88
-2020-09-21,Los Angeles,277,102,19,94
-2020-09-22,Los Angeles,291,113,25,103
-2020-09-23,Los Angeles,303,136,35,128
-2020-09-24,Los Angeles,310,149,20,130
-2020-09-25,Los Angeles,320,161,22,132
-2020-09-26,Los Angeles,320,165,4,127
-2020-09-27,Los Angeles,320,165,0,125
-2020-09-28,Los Angeles,321,171,7,113
-2020-09-29,Los Angeles,323,182,11,99
-2020-09-30,Los Angeles,325,187,6,70
+2020-08-19,Los Angeles,35,2,6,13
+2020-08-20,Los Angeles,42,2,7,19
+2020-08-21,Los Angeles,52,2,10,27
+2020-08-22,Los Angeles,57,2,5,31
+2020-08-23,Los Angeles,57,2,0,31
+2020-08-24,Los Angeles,64,3,8,37
+2020-08-25,Los Angeles,72,3,8,44
+2020-08-26,Los Angeles,79,3,7,45
+2020-08-27,Los Angeles,92,8,17,55
+2020-08-28,Los Angeles,106,11,17,62
+2020-08-29,Los Angeles,110,11,4,61
+2020-08-30,Los Angeles,112,11,2,63
+2020-08-31,Los Angeles,124,11,12,67
+2020-09-01,Los Angeles,141,14,20,79
+2020-09-02,Los Angeles,156,14,15,87
+2020-09-03,Los Angeles,172,14,16,86
+2020-09-04,Los Angeles,188,14,16,85
+2020-09-05,Los Angeles,192,14,4,85
+2020-09-06,Los Angeles,192,14,0,83
+2020-09-07,Los Angeles,192,14,0,71
+2020-09-08,Los Angeles,204,19,17,68
+2020-09-09,Los Angeles,210,21,8,61
+2020-09-10,Los Angeles,223,31,23,68
+2020-09-11,Los Angeles,233,37,16,68
+2020-09-12,Los Angeles,235,41,6,70
+2020-09-13,Los Angeles,235,41,0,70
+2020-09-14,Los Angeles,240,49,13,83
+2020-09-15,Los Angeles,246,59,16,82
+2020-09-16,Los Angeles,250,65,10,84
+2020-09-17,Los Angeles,259,73,18,79
+2020-09-18,Los Angeles,266,85,20,83
+2020-09-19,Los Angeles,271,89,9,86
+2020-09-20,Los Angeles,272,90,2,88
+2020-09-21,Los Angeles,278,103,19,94
+2020-09-22,Los Angeles,292,114,25,103
+2020-09-23,Los Angeles,304,137,35,128
+2020-09-24,Los Angeles,311,150,20,130
+2020-09-25,Los Angeles,321,162,22,132
+2020-09-26,Los Angeles,321,166,4,127
+2020-09-27,Los Angeles,321,166,0,125
+2020-09-28,Los Angeles,322,172,7,113
+2020-09-29,Los Angeles,324,183,11,99
+2020-09-30,Los Angeles,326,188,6,70
 2020-07-27,Madera,0,0,0,N
 2020-07-28,Madera,0,0,0,N
 2020-07-29,Madera,0,0,0,N
@@ -3272,33 +3272,33 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-01,Stanislaus,8,0,1,2
 2020-09-02,Stanislaus,8,0,0,2
 2020-09-03,Stanislaus,8,0,0,2
-2020-09-04,Stanislaus,8,0,0,2
-2020-09-05,Stanislaus,8,0,0,2
-2020-09-06,Stanislaus,8,0,0,1
-2020-09-07,Stanislaus,8,0,0,1
-2020-09-08,Stanislaus,8,0,0,0
-2020-09-09,Stanislaus,8,0,0,0
-2020-09-10,Stanislaus,8,0,0,0
-2020-09-11,Stanislaus,8,0,0,0
-2020-09-12,Stanislaus,8,0,0,0
-2020-09-13,Stanislaus,8,0,0,0
-2020-09-14,Stanislaus,8,1,1,1
-2020-09-15,Stanislaus,8,1,0,1
-2020-09-16,Stanislaus,8,3,2,3
-2020-09-17,Stanislaus,8,3,0,3
-2020-09-18,Stanislaus,8,3,0,3
-2020-09-19,Stanislaus,8,3,0,3
-2020-09-20,Stanislaus,8,3,0,3
-2020-09-21,Stanislaus,9,3,1,3
-2020-09-22,Stanislaus,9,3,0,3
-2020-09-23,Stanislaus,10,3,1,2
-2020-09-24,Stanislaus,10,3,0,2
-2020-09-25,Stanislaus,10,3,0,2
-2020-09-26,Stanislaus,10,3,0,2
-2020-09-27,Stanislaus,10,3,0,2
-2020-09-28,Stanislaus,10,3,0,1
-2020-09-29,Stanislaus,10,3,0,1
-2020-09-30,Stanislaus,10,3,0,0
+2020-09-04,Stanislaus,9,0,1,3
+2020-09-05,Stanislaus,9,0,0,3
+2020-09-06,Stanislaus,9,0,0,2
+2020-09-07,Stanislaus,9,0,0,2
+2020-09-08,Stanislaus,9,0,0,1
+2020-09-09,Stanislaus,9,0,0,1
+2020-09-10,Stanislaus,9,0,0,1
+2020-09-11,Stanislaus,9,0,0,0
+2020-09-12,Stanislaus,9,0,0,0
+2020-09-13,Stanislaus,9,0,0,0
+2020-09-14,Stanislaus,9,1,1,1
+2020-09-15,Stanislaus,9,1,0,1
+2020-09-16,Stanislaus,9,3,2,3
+2020-09-17,Stanislaus,9,3,0,3
+2020-09-18,Stanislaus,9,3,0,3
+2020-09-19,Stanislaus,9,3,0,3
+2020-09-20,Stanislaus,9,3,0,3
+2020-09-21,Stanislaus,10,3,1,3
+2020-09-22,Stanislaus,10,3,0,3
+2020-09-23,Stanislaus,11,3,1,2
+2020-09-24,Stanislaus,11,3,0,2
+2020-09-25,Stanislaus,11,4,1,3
+2020-09-26,Stanislaus,11,4,0,3
+2020-09-27,Stanislaus,11,4,0,3
+2020-09-28,Stanislaus,11,4,0,2
+2020-09-29,Stanislaus,11,4,0,2
+2020-09-30,Stanislaus,11,4,0,1
 2020-07-27,Sutter,0,0,0,N
 2020-07-28,Sutter,0,0,0,N
 2020-07-29,Sutter,0,0,0,N
@@ -3641,26 +3641,26 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-05,Ventura,0,0,0,0
 2020-08-06,Ventura,0,0,0,0
 2020-08-07,Ventura,0,0,0,0
-2020-08-08,Ventura,1,1,1,1
-2020-08-09,Ventura,1,1,0,1
-2020-08-10,Ventura,1,1,0,1
-2020-08-11,Ventura,1,1,0,1
-2020-08-12,Ventura,1,1,0,1
-2020-08-13,Ventura,1,1,0,1
-2020-08-14,Ventura,1,1,0,1
-2020-08-15,Ventura,1,1,0,0
-2020-08-16,Ventura,1,1,0,0
-2020-08-17,Ventura,1,1,0,0
-2020-08-18,Ventura,1,1,0,0
-2020-08-19,Ventura,1,1,0,0
-2020-08-20,Ventura,1,1,0,0
-2020-08-21,Ventura,1,1,0,0
-2020-08-22,Ventura,1,1,0,0
-2020-08-23,Ventura,1,1,0,0
-2020-08-24,Ventura,1,1,0,0
-2020-08-25,Ventura,1,1,0,0
-2020-08-26,Ventura,2,1,1,1
-2020-08-27,Ventura,3,1,1,2
+2020-08-08,Ventura,1,0,1,1
+2020-08-09,Ventura,1,0,0,1
+2020-08-10,Ventura,1,0,0,1
+2020-08-11,Ventura,1,0,0,1
+2020-08-12,Ventura,1,0,0,1
+2020-08-13,Ventura,1,0,0,1
+2020-08-14,Ventura,1,0,0,1
+2020-08-15,Ventura,1,0,0,0
+2020-08-16,Ventura,1,0,0,0
+2020-08-17,Ventura,1,0,0,0
+2020-08-18,Ventura,1,0,0,0
+2020-08-19,Ventura,1,0,0,0
+2020-08-20,Ventura,1,0,0,0
+2020-08-21,Ventura,1,0,0,0
+2020-08-22,Ventura,1,0,0,0
+2020-08-23,Ventura,1,0,0,0
+2020-08-24,Ventura,1,0,0,0
+2020-08-25,Ventura,1,0,0,0
+2020-08-26,Ventura,2,0,1,1
+2020-08-27,Ventura,3,0,1,2
 2020-08-28,Ventura,3,1,1,3
 2020-08-29,Ventura,3,1,0,3
 2020-08-30,Ventura,3,1,0,3
