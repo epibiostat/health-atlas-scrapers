@@ -898,17 +898,17 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-06-17,Fresno,5588,56,1199,11
 2020-06-18,Fresno,5812,57,1247,12
 2020-06-19,Fresno,6079,61,1359,14
-2020-06-20,Fresno,6241,67,1385,19
-2020-06-21,Fresno,6366,67,1412,19
-2020-06-22,Fresno,6936,67,1797,19
-2020-06-23,Fresno,7468,67,2117,17
-2020-06-24,Fresno,8118,71,2530,15
-2020-06-25,Fresno,8449,71,2637,14
-2020-06-26,Fresno,8761,74,2682,13
-2020-06-27,Fresno,8987,74,2746,7
-2020-06-28,Fresno,9233,74,2867,7
-2020-06-29,Fresno,9594,74,2658,7
-2020-06-30,Fresno,9942,75,2474,8
+2020-06-20,Fresno,6242,67,1386,19
+2020-06-21,Fresno,6367,67,1413,19
+2020-06-22,Fresno,6937,67,1798,19
+2020-06-23,Fresno,7469,67,2118,17
+2020-06-24,Fresno,8119,71,2531,15
+2020-06-25,Fresno,8450,71,2638,14
+2020-06-26,Fresno,8762,74,2683,13
+2020-06-27,Fresno,8988,74,2746,7
+2020-06-28,Fresno,9234,74,2867,7
+2020-06-29,Fresno,9595,74,2658,7
+2020-06-30,Fresno,9943,75,2474,8
 2020-04-01,Glenn,3,0,1,0
 2020-04-02,Glenn,3,0,1,0
 2020-04-03,Glenn,4,0,2,0
@@ -2365,97 +2365,97 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-06-28,Mono,47,1,5,0
 2020-06-29,Mono,47,1,5,0
 2020-06-30,Mono,49,1,7,0
-2020-04-01,Monterey,80,2,22,1
-2020-04-02,Monterey,81,2,20,1
-2020-04-03,Monterey,83,2,19,1
-2020-04-04,Monterey,86,2,19,0
-2020-04-05,Monterey,89,2,21,1
-2020-04-06,Monterey,96,2,23,1
-2020-04-07,Monterey,101,2,23,0
-2020-04-08,Monterey,109,3,29,1
-2020-04-09,Monterey,118,3,37,1
-2020-04-10,Monterey,136,3,53,1
-2020-04-11,Monterey,147,3,61,1
-2020-04-12,Monterey,153,3,64,1
-2020-04-13,Monterey,167,3,71,1
-2020-04-14,Monterey,173,3,72,1
-2020-04-15,Monterey,178,3,69,0
-2020-04-16,Monterey,186,3,68,0
-2020-04-17,Monterey,189,3,53,0
-2020-04-18,Monterey,194,3,47,0
-2020-04-19,Monterey,198,4,45,1
-2020-04-20,Monterey,206,4,39,1
-2020-04-21,Monterey,215,4,42,1
-2020-04-22,Monterey,218,4,40,1
-2020-04-23,Monterey,225,4,39,1
-2020-04-24,Monterey,229,4,40,1
-2020-04-25,Monterey,236,4,42,1
-2020-04-26,Monterey,238,4,40,0
-2020-04-27,Monterey,245,4,39,0
-2020-04-28,Monterey,252,5,37,1
-2020-04-29,Monterey,258,5,40,1
-2020-04-30,Monterey,266,5,41,1
-2020-05-01,Monterey,276,5,47,1
-2020-05-02,Monterey,280,5,44,1
-2020-05-03,Monterey,286,6,48,2
-2020-05-04,Monterey,295,6,50,2
-2020-05-05,Monterey,306,6,54,1
-2020-05-06,Monterey,320,6,62,1
-2020-05-07,Monterey,328,6,62,1
-2020-05-08,Monterey,336,6,60,1
-2020-05-09,Monterey,344,6,64,1
-2020-05-10,Monterey,351,6,65,0
-2020-05-11,Monterey,365,6,70,0
-2020-05-12,Monterey,368,6,62,0
-2020-05-13,Monterey,375,6,55,0
-2020-05-14,Monterey,385,7,57,1
-2020-05-15,Monterey,395,8,59,2
-2020-05-16,Monterey,401,8,57,2
-2020-05-17,Monterey,416,8,65,2
-2020-05-18,Monterey,436,8,71,2
-2020-05-19,Monterey,447,8,79,2
-2020-05-20,Monterey,459,8,84,2
-2020-05-21,Monterey,473,8,88,1
-2020-05-22,Monterey,484,8,89,0
-2020-05-23,Monterey,495,8,94,0
-2020-05-24,Monterey,509,8,93,0
-2020-05-25,Monterey,537,8,101,0
-2020-05-26,Monterey,567,8,120,0
-2020-05-27,Monterey,595,8,136,0
-2020-05-28,Monterey,635,10,162,2
-2020-05-29,Monterey,667,10,183,2
-2020-05-30,Monterey,697,10,202,2
-2020-05-31,Monterey,713,10,204,2
-2020-06-01,Monterey,786,10,249,2
-2020-06-02,Monterey,811,10,244,2
-2020-06-03,Monterey,841,10,246,2
-2020-06-04,Monterey,869,10,234,0
-2020-06-05,Monterey,904,10,237,0
-2020-06-06,Monterey,936,10,239,0
-2020-06-07,Monterey,960,10,247,0
-2020-06-08,Monterey,1007,10,221,0
-2020-06-09,Monterey,1058,11,247,1
-2020-06-10,Monterey,1099,11,258,1
-2020-06-11,Monterey,1153,11,284,1
-2020-06-12,Monterey,1200,11,296,1
-2020-06-13,Monterey,1241,11,305,1
-2020-06-14,Monterey,1279,12,319,2
-2020-06-15,Monterey,1340,12,333,2
-2020-06-16,Monterey,1406,12,348,1
-2020-06-17,Monterey,1454,12,355,1
-2020-06-18,Monterey,1506,12,353,1
-2020-06-19,Monterey,1573,12,373,1
-2020-06-20,Monterey,1602,12,361,1
-2020-06-21,Monterey,1638,12,359,0
-2020-06-22,Monterey,1711,12,371,0
-2020-06-23,Monterey,1772,12,366,0
-2020-06-24,Monterey,1842,12,388,0
-2020-06-25,Monterey,1919,12,413,0
-2020-06-26,Monterey,2007,12,434,0
-2020-06-27,Monterey,2059,12,457,0
-2020-06-28,Monterey,2123,13,485,1
-2020-06-29,Monterey,2205,14,494,2
-2020-06-30,Monterey,2277,15,505,3
+2020-04-01,Monterey,79,2,22,1
+2020-04-02,Monterey,80,2,20,1
+2020-04-03,Monterey,82,2,19,1
+2020-04-04,Monterey,85,2,19,0
+2020-04-05,Monterey,88,2,21,1
+2020-04-06,Monterey,95,2,23,1
+2020-04-07,Monterey,100,2,23,0
+2020-04-08,Monterey,108,3,29,1
+2020-04-09,Monterey,117,3,37,1
+2020-04-10,Monterey,135,3,53,1
+2020-04-11,Monterey,146,3,61,1
+2020-04-12,Monterey,152,3,64,1
+2020-04-13,Monterey,166,3,71,1
+2020-04-14,Monterey,172,3,72,1
+2020-04-15,Monterey,177,3,69,0
+2020-04-16,Monterey,185,3,68,0
+2020-04-17,Monterey,188,3,53,0
+2020-04-18,Monterey,193,3,47,0
+2020-04-19,Monterey,197,4,45,1
+2020-04-20,Monterey,205,4,39,1
+2020-04-21,Monterey,214,4,42,1
+2020-04-22,Monterey,217,4,40,1
+2020-04-23,Monterey,224,4,39,1
+2020-04-24,Monterey,228,4,40,1
+2020-04-25,Monterey,235,4,42,1
+2020-04-26,Monterey,237,4,40,0
+2020-04-27,Monterey,244,4,39,0
+2020-04-28,Monterey,251,5,37,1
+2020-04-29,Monterey,257,5,40,1
+2020-04-30,Monterey,265,5,41,1
+2020-05-01,Monterey,275,5,47,1
+2020-05-02,Monterey,279,5,44,1
+2020-05-03,Monterey,285,6,48,2
+2020-05-04,Monterey,294,6,50,2
+2020-05-05,Monterey,305,6,54,1
+2020-05-06,Monterey,319,6,62,1
+2020-05-07,Monterey,327,6,62,1
+2020-05-08,Monterey,335,6,60,1
+2020-05-09,Monterey,343,6,64,1
+2020-05-10,Monterey,350,6,65,0
+2020-05-11,Monterey,364,6,70,0
+2020-05-12,Monterey,367,6,62,0
+2020-05-13,Monterey,374,6,55,0
+2020-05-14,Monterey,384,7,57,1
+2020-05-15,Monterey,394,8,59,2
+2020-05-16,Monterey,400,8,57,2
+2020-05-17,Monterey,415,8,65,2
+2020-05-18,Monterey,435,8,71,2
+2020-05-19,Monterey,446,8,79,2
+2020-05-20,Monterey,458,8,84,2
+2020-05-21,Monterey,472,8,88,1
+2020-05-22,Monterey,483,8,89,0
+2020-05-23,Monterey,494,8,94,0
+2020-05-24,Monterey,508,8,93,0
+2020-05-25,Monterey,536,8,101,0
+2020-05-26,Monterey,566,8,120,0
+2020-05-27,Monterey,594,8,136,0
+2020-05-28,Monterey,634,10,162,2
+2020-05-29,Monterey,666,10,183,2
+2020-05-30,Monterey,696,10,202,2
+2020-05-31,Monterey,712,10,204,2
+2020-06-01,Monterey,785,10,249,2
+2020-06-02,Monterey,810,10,244,2
+2020-06-03,Monterey,840,10,246,2
+2020-06-04,Monterey,868,10,234,0
+2020-06-05,Monterey,903,10,237,0
+2020-06-06,Monterey,935,10,239,0
+2020-06-07,Monterey,959,10,247,0
+2020-06-08,Monterey,1006,10,221,0
+2020-06-09,Monterey,1057,11,247,1
+2020-06-10,Monterey,1098,11,258,1
+2020-06-11,Monterey,1152,11,284,1
+2020-06-12,Monterey,1199,11,296,1
+2020-06-13,Monterey,1240,11,305,1
+2020-06-14,Monterey,1278,12,319,2
+2020-06-15,Monterey,1339,12,333,2
+2020-06-16,Monterey,1405,12,348,1
+2020-06-17,Monterey,1453,12,355,1
+2020-06-18,Monterey,1505,12,353,1
+2020-06-19,Monterey,1572,12,373,1
+2020-06-20,Monterey,1601,12,361,1
+2020-06-21,Monterey,1637,12,359,0
+2020-06-22,Monterey,1710,12,371,0
+2020-06-23,Monterey,1771,12,366,0
+2020-06-24,Monterey,1841,12,388,0
+2020-06-25,Monterey,1918,12,413,0
+2020-06-26,Monterey,2006,12,434,0
+2020-06-27,Monterey,2058,12,457,0
+2020-06-28,Monterey,2122,13,485,1
+2020-06-29,Monterey,2204,14,494,2
+2020-06-30,Monterey,2276,15,505,3
 2020-04-01,Napa,36,0,10,0
 2020-04-02,Napa,38,0,12,0
 2020-04-03,Napa,38,1,11,1
@@ -3548,97 +3548,97 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-06-28,San Joaquin,4930,52,1614,4
 2020-06-29,San Joaquin,5265,52,1713,4
 2020-06-30,San Joaquin,5623,52,1824,4
-2020-04-01,San Luis Obispo,120,0,24,0
-2020-04-02,San Luis Obispo,126,0,25,0
-2020-04-03,San Luis Obispo,131,0,25,0
-2020-04-04,San Luis Obispo,131,0,23,0
-2020-04-05,San Luis Obispo,131,1,21,1
-2020-04-06,San Luis Obispo,133,1,18,1
-2020-04-07,San Luis Obispo,135,1,18,1
-2020-04-08,San Luis Obispo,140,1,20,1
-2020-04-09,San Luis Obispo,142,1,16,1
-2020-04-10,San Luis Obispo,150,1,19,1
-2020-04-11,San Luis Obispo,150,1,19,1
-2020-04-12,San Luis Obispo,150,1,19,0
-2020-04-13,San Luis Obispo,152,1,19,0
-2020-04-14,San Luis Obispo,157,1,22,0
-2020-04-15,San Luis Obispo,159,1,19,0
-2020-04-16,San Luis Obispo,166,1,24,0
-2020-04-17,San Luis Obispo,170,1,20,0
-2020-04-18,San Luis Obispo,177,1,27,0
-2020-04-19,San Luis Obispo,181,1,31,0
-2020-04-20,San Luis Obispo,186,1,34,0
-2020-04-21,San Luis Obispo,200,1,43,0
-2020-04-22,San Luis Obispo,205,1,46,0
-2020-04-23,San Luis Obispo,214,1,48,0
-2020-04-24,San Luis Obispo,218,1,48,0
-2020-04-25,San Luis Obispo,221,1,44,0
-2020-04-26,San Luis Obispo,222,1,41,0
-2020-04-27,San Luis Obispo,225,1,39,0
-2020-04-28,San Luis Obispo,233,1,33,0
-2020-04-29,San Luis Obispo,239,1,34,0
-2020-04-30,San Luis Obispo,241,1,27,0
-2020-05-01,San Luis Obispo,244,1,26,0
-2020-05-02,San Luis Obispo,247,1,26,0
-2020-05-03,San Luis Obispo,253,1,31,0
-2020-05-04,San Luis Obispo,256,1,31,0
-2020-05-05,San Luis Obispo,259,1,26,0
-2020-05-06,San Luis Obispo,260,1,21,0
-2020-05-07,San Luis Obispo,263,1,22,0
-2020-05-08,San Luis Obispo,274,1,30,0
-2020-05-09,San Luis Obispo,277,1,30,0
-2020-05-10,San Luis Obispo,281,1,28,0
-2020-05-11,San Luis Obispo,284,1,28,0
-2020-05-12,San Luis Obispo,286,1,27,0
-2020-05-13,San Luis Obispo,289,1,29,0
-2020-05-14,San Luis Obispo,291,1,28,0
-2020-05-15,San Luis Obispo,294,1,20,0
-2020-05-16,San Luis Obispo,295,1,18,0
-2020-05-17,San Luis Obispo,296,1,15,0
-2020-05-18,San Luis Obispo,298,1,14,0
-2020-05-19,San Luis Obispo,302,1,16,0
-2020-05-20,San Luis Obispo,302,1,13,0
-2020-05-21,San Luis Obispo,308,1,17,0
-2020-05-22,San Luis Obispo,308,1,14,0
-2020-05-23,San Luis Obispo,308,1,13,0
-2020-05-24,San Luis Obispo,311,1,15,0
-2020-05-25,San Luis Obispo,313,1,15,0
-2020-05-26,San Luis Obispo,315,1,13,0
-2020-05-27,San Luis Obispo,317,1,15,0
-2020-05-28,San Luis Obispo,322,1,14,0
-2020-05-29,San Luis Obispo,325,1,17,0
-2020-05-30,San Luis Obispo,329,1,21,0
-2020-05-31,San Luis Obispo,334,1,23,0
-2020-06-01,San Luis Obispo,344,1,31,0
-2020-06-02,San Luis Obispo,348,1,33,0
-2020-06-03,San Luis Obispo,353,1,36,0
-2020-06-04,San Luis Obispo,358,1,36,0
-2020-06-05,San Luis Obispo,366,1,41,0
-2020-06-06,San Luis Obispo,373,1,44,0
-2020-06-07,San Luis Obispo,379,1,45,0
-2020-06-08,San Luis Obispo,389,1,45,0
-2020-06-09,San Luis Obispo,395,1,47,0
-2020-06-10,San Luis Obispo,408,1,55,0
-2020-06-11,San Luis Obispo,427,1,69,0
-2020-06-12,San Luis Obispo,441,1,75,0
-2020-06-13,San Luis Obispo,457,1,84,0
-2020-06-14,San Luis Obispo,468,1,89,0
-2020-06-15,San Luis Obispo,483,1,94,0
-2020-06-16,San Luis Obispo,497,1,102,0
-2020-06-17,San Luis Obispo,520,1,112,0
-2020-06-18,San Luis Obispo,537,1,110,0
-2020-06-19,San Luis Obispo,556,1,115,0
-2020-06-20,San Luis Obispo,571,1,114,0
-2020-06-21,San Luis Obispo,584,1,116,0
-2020-06-22,San Luis Obispo,609,1,126,0
-2020-06-23,San Luis Obispo,641,1,144,0
-2020-06-24,San Luis Obispo,672,1,152,0
-2020-06-25,San Luis Obispo,704,1,167,0
-2020-06-26,San Luis Obispo,736,1,180,0
-2020-06-27,San Luis Obispo,751,1,180,0
-2020-06-28,San Luis Obispo,775,1,191,0
-2020-06-29,San Luis Obispo,814,1,205,0
-2020-06-30,San Luis Obispo,848,1,207,0
+2020-04-01,San Luis Obispo,121,0,24,0
+2020-04-02,San Luis Obispo,127,0,25,0
+2020-04-03,San Luis Obispo,132,0,25,0
+2020-04-04,San Luis Obispo,132,0,23,0
+2020-04-05,San Luis Obispo,132,1,21,1
+2020-04-06,San Luis Obispo,134,1,18,1
+2020-04-07,San Luis Obispo,136,1,18,1
+2020-04-08,San Luis Obispo,141,1,20,1
+2020-04-09,San Luis Obispo,143,1,16,1
+2020-04-10,San Luis Obispo,151,1,19,1
+2020-04-11,San Luis Obispo,151,1,19,1
+2020-04-12,San Luis Obispo,151,1,19,0
+2020-04-13,San Luis Obispo,153,1,19,0
+2020-04-14,San Luis Obispo,158,1,22,0
+2020-04-15,San Luis Obispo,160,1,19,0
+2020-04-16,San Luis Obispo,167,1,24,0
+2020-04-17,San Luis Obispo,171,1,20,0
+2020-04-18,San Luis Obispo,178,1,27,0
+2020-04-19,San Luis Obispo,182,1,31,0
+2020-04-20,San Luis Obispo,187,1,34,0
+2020-04-21,San Luis Obispo,201,1,43,0
+2020-04-22,San Luis Obispo,206,1,46,0
+2020-04-23,San Luis Obispo,215,1,48,0
+2020-04-24,San Luis Obispo,219,1,48,0
+2020-04-25,San Luis Obispo,222,1,44,0
+2020-04-26,San Luis Obispo,223,1,41,0
+2020-04-27,San Luis Obispo,226,1,39,0
+2020-04-28,San Luis Obispo,234,1,33,0
+2020-04-29,San Luis Obispo,240,1,34,0
+2020-04-30,San Luis Obispo,242,1,27,0
+2020-05-01,San Luis Obispo,245,1,26,0
+2020-05-02,San Luis Obispo,248,1,26,0
+2020-05-03,San Luis Obispo,254,1,31,0
+2020-05-04,San Luis Obispo,257,1,31,0
+2020-05-05,San Luis Obispo,260,1,26,0
+2020-05-06,San Luis Obispo,261,1,21,0
+2020-05-07,San Luis Obispo,264,1,22,0
+2020-05-08,San Luis Obispo,275,1,30,0
+2020-05-09,San Luis Obispo,278,1,30,0
+2020-05-10,San Luis Obispo,282,1,28,0
+2020-05-11,San Luis Obispo,285,1,28,0
+2020-05-12,San Luis Obispo,287,1,27,0
+2020-05-13,San Luis Obispo,290,1,29,0
+2020-05-14,San Luis Obispo,292,1,28,0
+2020-05-15,San Luis Obispo,295,1,20,0
+2020-05-16,San Luis Obispo,296,1,18,0
+2020-05-17,San Luis Obispo,297,1,15,0
+2020-05-18,San Luis Obispo,299,1,14,0
+2020-05-19,San Luis Obispo,303,1,16,0
+2020-05-20,San Luis Obispo,303,1,13,0
+2020-05-21,San Luis Obispo,309,1,17,0
+2020-05-22,San Luis Obispo,309,1,14,0
+2020-05-23,San Luis Obispo,309,1,13,0
+2020-05-24,San Luis Obispo,312,1,15,0
+2020-05-25,San Luis Obispo,314,1,15,0
+2020-05-26,San Luis Obispo,316,1,13,0
+2020-05-27,San Luis Obispo,318,1,15,0
+2020-05-28,San Luis Obispo,323,1,14,0
+2020-05-29,San Luis Obispo,326,1,17,0
+2020-05-30,San Luis Obispo,330,1,21,0
+2020-05-31,San Luis Obispo,335,1,23,0
+2020-06-01,San Luis Obispo,345,1,31,0
+2020-06-02,San Luis Obispo,349,1,33,0
+2020-06-03,San Luis Obispo,354,1,36,0
+2020-06-04,San Luis Obispo,359,1,36,0
+2020-06-05,San Luis Obispo,367,1,41,0
+2020-06-06,San Luis Obispo,374,1,44,0
+2020-06-07,San Luis Obispo,380,1,45,0
+2020-06-08,San Luis Obispo,390,1,45,0
+2020-06-09,San Luis Obispo,396,1,47,0
+2020-06-10,San Luis Obispo,409,1,55,0
+2020-06-11,San Luis Obispo,428,1,69,0
+2020-06-12,San Luis Obispo,442,1,75,0
+2020-06-13,San Luis Obispo,458,1,84,0
+2020-06-14,San Luis Obispo,469,1,89,0
+2020-06-15,San Luis Obispo,484,1,94,0
+2020-06-16,San Luis Obispo,498,1,102,0
+2020-06-17,San Luis Obispo,521,1,112,0
+2020-06-18,San Luis Obispo,538,1,110,0
+2020-06-19,San Luis Obispo,557,1,115,0
+2020-06-20,San Luis Obispo,572,1,114,0
+2020-06-21,San Luis Obispo,585,1,116,0
+2020-06-22,San Luis Obispo,610,1,126,0
+2020-06-23,San Luis Obispo,642,1,144,0
+2020-06-24,San Luis Obispo,673,1,152,0
+2020-06-25,San Luis Obispo,705,1,167,0
+2020-06-26,San Luis Obispo,737,1,180,0
+2020-06-27,San Luis Obispo,752,1,180,0
+2020-06-28,San Luis Obispo,776,1,191,0
+2020-06-29,San Luis Obispo,815,1,205,0
+2020-06-30,San Luis Obispo,849,1,207,0
 2020-04-01,San Mateo,760,13,183,8
 2020-04-02,San Mateo,778,13,166,8
 2020-04-03,San Mateo,799,13,153,6

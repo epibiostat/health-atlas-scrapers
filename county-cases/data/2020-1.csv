@@ -1606,19 +1606,19 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-16,Monterey,25,0,24,0
 2020-03-17,Monterey,26,0,23,0
 2020-03-18,Monterey,28,0,23,0
-2020-03-19,Monterey,35,0,29,0
-2020-03-20,Monterey,43,0,35,0
-2020-03-21,Monterey,45,1,32,1
-2020-03-22,Monterey,47,1,28,1
-2020-03-23,Monterey,49,1,24,1
-2020-03-24,Monterey,54,1,28,1
-2020-03-25,Monterey,58,1,30,1
-2020-03-26,Monterey,61,1,26,1
-2020-03-27,Monterey,64,1,21,1
-2020-03-28,Monterey,67,2,22,1
-2020-03-29,Monterey,68,1,21,0
-2020-03-30,Monterey,73,1,24,0
-2020-03-31,Monterey,78,2,24,1
+2020-03-19,Monterey,34,0,28,0
+2020-03-20,Monterey,42,0,34,0
+2020-03-21,Monterey,44,1,31,1
+2020-03-22,Monterey,46,1,27,1
+2020-03-23,Monterey,48,1,23,1
+2020-03-24,Monterey,53,1,27,1
+2020-03-25,Monterey,57,1,29,1
+2020-03-26,Monterey,60,1,26,1
+2020-03-27,Monterey,63,1,21,1
+2020-03-28,Monterey,66,2,22,1
+2020-03-29,Monterey,67,1,21,0
+2020-03-30,Monterey,72,1,24,0
+2020-03-31,Monterey,77,2,24,1
 2020-02-01,Napa,0,0,N,N
 2020-02-02,Napa,0,0,N,N
 2020-02-03,Napa,0,0,N,N
@@ -2386,19 +2386,19 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-16,San Luis Obispo,54,0,39,0
 2020-03-17,San Luis Obispo,61,0,46,0
 2020-03-18,San Luis Obispo,68,0,46,0
-2020-03-19,San Luis Obispo,74,0,49,0
-2020-03-20,San Luis Obispo,76,0,44,0
-2020-03-21,San Luis Obispo,79,0,39,0
-2020-03-22,San Luis Obispo,83,0,38,0
-2020-03-23,San Luis Obispo,88,0,34,0
-2020-03-24,San Luis Obispo,94,0,33,0
-2020-03-25,San Luis Obispo,96,0,28,0
-2020-03-26,San Luis Obispo,101,0,27,0
-2020-03-27,San Luis Obispo,106,0,30,0
-2020-03-28,San Luis Obispo,108,0,29,0
-2020-03-29,San Luis Obispo,110,0,27,0
-2020-03-30,San Luis Obispo,115,0,27,0
-2020-03-31,San Luis Obispo,117,0,23,0
+2020-03-19,San Luis Obispo,75,0,50,0
+2020-03-20,San Luis Obispo,77,0,45,0
+2020-03-21,San Luis Obispo,80,0,40,0
+2020-03-22,San Luis Obispo,84,0,39,0
+2020-03-23,San Luis Obispo,89,0,35,0
+2020-03-24,San Luis Obispo,95,0,34,0
+2020-03-25,San Luis Obispo,97,0,29,0
+2020-03-26,San Luis Obispo,102,0,27,0
+2020-03-27,San Luis Obispo,107,0,30,0
+2020-03-28,San Luis Obispo,109,0,29,0
+2020-03-29,San Luis Obispo,111,0,27,0
+2020-03-30,San Luis Obispo,116,0,27,0
+2020-03-31,San Luis Obispo,118,0,23,0
 2020-02-01,San Mateo,0,0,N,N
 2020-02-02,San Mateo,0,0,N,N
 2020-02-03,San Mateo,0,0,N,N
