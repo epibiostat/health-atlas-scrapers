@@ -580,25 +580,25 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-10,Fresno,6,0,5,0
 2020-03-11,Fresno,8,0,6,0
 2020-03-12,Fresno,11,0,9,0
-2020-03-13,Fresno,20,0,18,0
-2020-03-14,Fresno,25,0,22,0
-2020-03-15,Fresno,33,0,29,0
-2020-03-16,Fresno,53,0,47,0
-2020-03-17,Fresno,68,0,62,0
-2020-03-18,Fresno,78,0,70,0
-2020-03-19,Fresno,87,0,76,0
-2020-03-20,Fresno,96,0,76,0
-2020-03-21,Fresno,99,0,74,0
-2020-03-22,Fresno,103,0,70,0
-2020-03-23,Fresno,123,0,70,0
-2020-03-24,Fresno,133,0,65,0
-2020-03-25,Fresno,152,0,74,0
-2020-03-26,Fresno,168,0,81,0
-2020-03-27,Fresno,177,0,81,0
-2020-03-28,Fresno,189,0,90,0
-2020-03-29,Fresno,199,0,96,0
-2020-03-30,Fresno,223,0,100,0
-2020-03-31,Fresno,247,0,114,0
+2020-03-13,Fresno,19,0,17,0
+2020-03-14,Fresno,24,0,21,0
+2020-03-15,Fresno,32,0,28,0
+2020-03-16,Fresno,52,0,46,0
+2020-03-17,Fresno,67,0,61,0
+2020-03-18,Fresno,77,0,69,0
+2020-03-19,Fresno,86,0,75,0
+2020-03-20,Fresno,95,0,76,0
+2020-03-21,Fresno,98,0,74,0
+2020-03-22,Fresno,102,0,70,0
+2020-03-23,Fresno,122,0,70,0
+2020-03-24,Fresno,132,0,65,0
+2020-03-25,Fresno,151,0,74,0
+2020-03-26,Fresno,167,0,81,0
+2020-03-27,Fresno,176,0,81,0
+2020-03-28,Fresno,188,0,90,0
+2020-03-29,Fresno,198,0,96,0
+2020-03-30,Fresno,222,0,100,0
+2020-03-31,Fresno,246,0,114,0
 2020-02-01,Glenn,0,0,N,N
 2020-02-02,Glenn,0,0,N,N
 2020-02-03,Glenn,0,0,N,N
@@ -1134,11 +1134,11 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-24,Los Angeles,3674,7,1852,7
 2020-03-25,Los Angeles,4126,10,2103,10
 2020-03-26,Los Angeles,4521,19,2259,19
-2020-03-27,Los Angeles,4921,26,2372,25
-2020-03-28,Los Angeles,5333,64,2559,62
-2020-03-29,Los Angeles,5719,37,2672,34
-2020-03-30,Los Angeles,6365,44,2995,40
-2020-03-31,Los Angeles,7020,53,3346,46
+2020-03-27,Los Angeles,4922,26,2373,25
+2020-03-28,Los Angeles,5334,64,2560,62
+2020-03-29,Los Angeles,5720,37,2673,34
+2020-03-30,Los Angeles,6366,44,2996,40
+2020-03-31,Los Angeles,7021,53,3347,46
 2020-02-01,Madera,0,0,N,N
 2020-02-02,Madera,0,0,N,N
 2020-02-03,Madera,0,0,N,N
@@ -1966,19 +1966,19 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-16,Riverside,212,0,165,0
 2020-03-17,Riverside,246,0,190,0
 2020-03-18,Riverside,304,2,229,2
-2020-03-19,Riverside,356,3,258,3
-2020-03-20,Riverside,449,3,328,3
-2020-03-21,Riverside,502,3,355,3
-2020-03-22,Riverside,546,5,379,5
-2020-03-23,Riverside,624,5,412,5
-2020-03-24,Riverside,665,5,419,5
-2020-03-25,Riverside,732,5,428,3
-2020-03-26,Riverside,803,7,447,4
-2020-03-27,Riverside,873,7,424,4
-2020-03-28,Riverside,929,14,427,11
-2020-03-29,Riverside,997,7,451,2
-2020-03-30,Riverside,1121,7,497,2
-2020-03-31,Riverside,1201,8,536,3
+2020-03-19,Riverside,357,3,259,3
+2020-03-20,Riverside,450,3,329,3
+2020-03-21,Riverside,503,3,356,3
+2020-03-22,Riverside,547,5,380,5
+2020-03-23,Riverside,625,5,413,5
+2020-03-24,Riverside,666,5,420,5
+2020-03-25,Riverside,733,5,429,3
+2020-03-26,Riverside,804,7,447,4
+2020-03-27,Riverside,874,7,424,4
+2020-03-28,Riverside,930,14,427,11
+2020-03-29,Riverside,998,7,451,2
+2020-03-30,Riverside,1122,7,497,2
+2020-03-31,Riverside,1202,8,536,3
 2020-02-01,Sacramento,0,0,N,N
 2020-02-02,Sacramento,0,0,N,N
 2020-02-03,Sacramento,0,0,N,N
@@ -2119,46 +2119,46 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-02-18,San Bernardino,12,0,4,0
 2020-02-19,San Bernardino,12,0,4,0
 2020-02-20,San Bernardino,13,0,5,0
-2020-02-21,San Bernardino,14,0,6,0
-2020-02-22,San Bernardino,15,0,7,0
-2020-02-23,San Bernardino,17,0,8,0
-2020-02-24,San Bernardino,18,0,8,0
-2020-02-25,San Bernardino,18,0,6,0
-2020-02-26,San Bernardino,20,0,8,0
-2020-02-27,San Bernardino,22,0,9,0
-2020-02-28,San Bernardino,22,0,8,0
-2020-02-29,San Bernardino,22,0,7,0
-2020-03-01,San Bernardino,24,0,7,0
-2020-03-02,San Bernardino,26,0,8,0
-2020-03-03,San Bernardino,26,0,8,0
-2020-03-04,San Bernardino,29,0,9,0
-2020-03-05,San Bernardino,32,0,10,0
-2020-03-06,San Bernardino,37,0,15,0
-2020-03-07,San Bernardino,39,0,17,0
-2020-03-08,San Bernardino,41,0,17,0
-2020-03-09,San Bernardino,52,0,26,0
-2020-03-10,San Bernardino,63,0,37,0
-2020-03-11,San Bernardino,71,0,42,0
-2020-03-12,San Bernardino,78,0,46,0
-2020-03-13,San Bernardino,94,0,57,0
-2020-03-14,San Bernardino,101,0,62,0
-2020-03-15,San Bernardino,119,0,78,0
-2020-03-16,San Bernardino,141,0,89,0
-2020-03-17,San Bernardino,161,0,98,0
-2020-03-18,San Bernardino,189,0,118,0
-2020-03-19,San Bernardino,211,0,133,0
-2020-03-20,San Bernardino,241,0,147,0
-2020-03-21,San Bernardino,268,0,167,0
-2020-03-22,San Bernardino,288,0,169,0
-2020-03-23,San Bernardino,331,0,190,0
-2020-03-24,San Bernardino,361,0,200,0
-2020-03-25,San Bernardino,405,1,216,1
-2020-03-26,San Bernardino,444,1,233,1
-2020-03-27,San Bernardino,510,2,269,2
-2020-03-28,San Bernardino,600,4,332,4
-2020-03-29,San Bernardino,648,2,360,2
-2020-03-30,San Bernardino,700,4,369,4
-2020-03-31,San Bernardino,744,5,383,5
+2020-02-21,San Bernardino,15,0,7,0
+2020-02-22,San Bernardino,16,0,8,0
+2020-02-23,San Bernardino,18,0,9,0
+2020-02-24,San Bernardino,19,0,9,0
+2020-02-25,San Bernardino,19,0,7,0
+2020-02-26,San Bernardino,21,0,9,0
+2020-02-27,San Bernardino,23,0,10,0
+2020-02-28,San Bernardino,23,0,8,0
+2020-02-29,San Bernardino,23,0,7,0
+2020-03-01,San Bernardino,25,0,7,0
+2020-03-02,San Bernardino,27,0,8,0
+2020-03-03,San Bernardino,27,0,8,0
+2020-03-04,San Bernardino,30,0,9,0
+2020-03-05,San Bernardino,33,0,10,0
+2020-03-06,San Bernardino,38,0,15,0
+2020-03-07,San Bernardino,40,0,17,0
+2020-03-08,San Bernardino,42,0,17,0
+2020-03-09,San Bernardino,53,0,26,0
+2020-03-10,San Bernardino,64,0,37,0
+2020-03-11,San Bernardino,72,0,42,0
+2020-03-12,San Bernardino,79,0,46,0
+2020-03-13,San Bernardino,95,0,57,0
+2020-03-14,San Bernardino,102,0,62,0
+2020-03-15,San Bernardino,120,0,78,0
+2020-03-16,San Bernardino,142,0,89,0
+2020-03-17,San Bernardino,162,0,98,0
+2020-03-18,San Bernardino,190,0,118,0
+2020-03-19,San Bernardino,212,0,133,0
+2020-03-20,San Bernardino,242,0,147,0
+2020-03-21,San Bernardino,269,0,167,0
+2020-03-22,San Bernardino,289,0,169,0
+2020-03-23,San Bernardino,332,0,190,0
+2020-03-24,San Bernardino,362,0,200,0
+2020-03-25,San Bernardino,406,1,216,1
+2020-03-26,San Bernardino,445,1,233,1
+2020-03-27,San Bernardino,511,2,269,2
+2020-03-28,San Bernardino,601,4,332,4
+2020-03-29,San Bernardino,649,2,360,2
+2020-03-30,San Bernardino,701,4,369,4
+2020-03-31,San Bernardino,745,5,383,5
 2020-02-01,San Diego,0,0,N,N
 2020-02-02,San Diego,0,0,N,N
 2020-02-03,San Diego,0,0,N,N
@@ -2507,18 +2507,18 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-17,Santa Barbara,75,0,64,0
 2020-03-18,Santa Barbara,88,0,73,0
 2020-03-19,Santa Barbara,101,0,76,0
-2020-03-20,Santa Barbara,116,0,79,0
-2020-03-21,Santa Barbara,132,0,91,0
-2020-03-22,Santa Barbara,147,0,94,0
-2020-03-23,Santa Barbara,165,0,102,0
-2020-03-24,Santa Barbara,186,0,111,0
-2020-03-25,Santa Barbara,192,0,104,0
-2020-03-26,Santa Barbara,203,0,102,0
-2020-03-27,Santa Barbara,219,0,103,0
-2020-03-28,Santa Barbara,235,0,103,0
-2020-03-29,Santa Barbara,246,0,99,0
-2020-03-30,Santa Barbara,257,0,92,0
-2020-03-31,Santa Barbara,267,0,81,0
+2020-03-20,Santa Barbara,117,0,80,0
+2020-03-21,Santa Barbara,133,0,92,0
+2020-03-22,Santa Barbara,148,0,95,0
+2020-03-23,Santa Barbara,166,0,103,0
+2020-03-24,Santa Barbara,187,0,112,0
+2020-03-25,Santa Barbara,193,0,105,0
+2020-03-26,Santa Barbara,204,0,103,0
+2020-03-27,Santa Barbara,220,0,103,0
+2020-03-28,Santa Barbara,236,0,103,0
+2020-03-29,Santa Barbara,247,0,99,0
+2020-03-30,Santa Barbara,258,0,92,0
+2020-03-31,Santa Barbara,268,0,81,0
 2020-02-01,Santa Clara,2,0,N,N
 2020-02-02,Santa Clara,2,0,N,N
 2020-02-03,Santa Clara,2,0,N,N
