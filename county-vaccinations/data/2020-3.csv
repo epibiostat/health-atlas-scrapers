@@ -1237,22 +1237,22 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-12,Los Angeles,257,46,6,78
 2020-09-13,Los Angeles,257,46,0,78
 2020-09-14,Los Angeles,262,55,14,92
-2020-09-15,Los Angeles,268,65,16,89
-2020-09-16,Los Angeles,273,72,12,89
-2020-09-17,Los Angeles,283,80,19,83
-2020-09-18,Los Angeles,290,91,19,86
-2020-09-19,Los Angeles,295,95,9,89
-2020-09-20,Los Angeles,296,97,3,92
-2020-09-21,Los Angeles,303,115,25,103
-2020-09-22,Los Angeles,318,126,26,113
-2020-09-23,Los Angeles,331,150,37,138
-2020-09-24,Los Angeles,338,166,23,142
-2020-09-25,Los Angeles,348,178,22,145
-2020-09-26,Los Angeles,348,182,4,140
-2020-09-27,Los Angeles,348,182,0,137
-2020-09-28,Los Angeles,349,189,8,120
-2020-09-29,Los Angeles,351,201,12,106
-2020-09-30,Los Angeles,353,208,8,77
+2020-09-15,Los Angeles,269,65,17,90
+2020-09-16,Los Angeles,275,72,13,91
+2020-09-17,Los Angeles,285,80,19,85
+2020-09-18,Los Angeles,292,91,19,88
+2020-09-19,Los Angeles,297,95,9,91
+2020-09-20,Los Angeles,298,97,3,94
+2020-09-21,Los Angeles,305,115,25,105
+2020-09-22,Los Angeles,320,126,26,114
+2020-09-23,Los Angeles,333,150,37,138
+2020-09-24,Los Angeles,340,166,23,142
+2020-09-25,Los Angeles,350,178,22,145
+2020-09-26,Los Angeles,350,182,4,140
+2020-09-27,Los Angeles,350,182,0,137
+2020-09-28,Los Angeles,351,189,8,120
+2020-09-29,Los Angeles,353,201,12,106
+2020-09-30,Los Angeles,355,208,8,77
 2020-07-27,Madera,0,0,0,N
 2020-07-28,Madera,0,0,0,N
 2020-07-29,Madera,0,0,0,N
