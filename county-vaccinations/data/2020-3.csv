@@ -579,20 +579,20 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-14,El Dorado,5,2,0,2
 2020-09-15,El Dorado,5,2,0,1
 2020-09-16,El Dorado,5,2,0,0
-2020-09-17,El Dorado,5,2,0,0
-2020-09-18,El Dorado,5,2,0,0
-2020-09-19,El Dorado,5,2,0,0
-2020-09-20,El Dorado,5,2,0,0
-2020-09-21,El Dorado,5,2,0,0
-2020-09-22,El Dorado,5,2,0,0
-2020-09-23,El Dorado,5,3,1,1
-2020-09-24,El Dorado,5,3,0,1
-2020-09-25,El Dorado,5,3,0,1
-2020-09-26,El Dorado,5,3,0,1
-2020-09-27,El Dorado,5,3,0,1
-2020-09-28,El Dorado,5,4,1,2
-2020-09-29,El Dorado,5,4,0,2
-2020-09-30,El Dorado,5,5,1,2
+2020-09-17,El Dorado,6,2,1,1
+2020-09-18,El Dorado,6,2,0,1
+2020-09-19,El Dorado,6,2,0,1
+2020-09-20,El Dorado,6,2,0,1
+2020-09-21,El Dorado,6,2,0,1
+2020-09-22,El Dorado,6,2,0,1
+2020-09-23,El Dorado,6,3,1,2
+2020-09-24,El Dorado,6,3,0,1
+2020-09-25,El Dorado,6,3,0,1
+2020-09-26,El Dorado,6,3,0,1
+2020-09-27,El Dorado,6,3,0,1
+2020-09-28,El Dorado,6,4,1,2
+2020-09-29,El Dorado,6,4,0,2
+2020-09-30,El Dorado,6,5,1,2
 2020-07-27,Fresno,0,0,0,N
 2020-07-28,Fresno,1,0,1,N
 2020-07-29,Fresno,1,0,0,N
