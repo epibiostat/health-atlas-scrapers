@@ -1130,15 +1130,15 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-20,Los Angeles,2550,1,1532,1
 2020-03-21,Los Angeles,2775,2,1604,2
 2020-03-22,Los Angeles,3048,3,1699,3
-2020-03-23,Los Angeles,3370,4,1782,4
-2020-03-24,Los Angeles,3674,7,1851,7
-2020-03-25,Los Angeles,4126,10,2102,10
-2020-03-26,Los Angeles,4521,19,2258,19
+2020-03-23,Los Angeles,3369,4,1781,4
+2020-03-24,Los Angeles,3673,7,1850,7
+2020-03-25,Los Angeles,4125,10,2101,10
+2020-03-26,Los Angeles,4520,19,2257,19
 2020-03-27,Los Angeles,4922,26,2372,25
 2020-03-28,Los Angeles,5334,64,2559,62
 2020-03-29,Los Angeles,5720,37,2672,34
-2020-03-30,Los Angeles,6366,44,2996,40
-2020-03-31,Los Angeles,7021,53,3347,46
+2020-03-30,Los Angeles,6366,44,2997,40
+2020-03-31,Los Angeles,7021,53,3348,46
 2020-02-01,Madera,0,0,N,N
 2020-02-02,Madera,0,0,N,N
 2020-02-03,Madera,0,0,N,N
@@ -1798,7 +1798,7 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-28,Orange,1176,4,407,4
 2020-03-29,Orange,1212,2,394,2
 2020-03-30,Orange,1286,5,399,5
-2020-03-31,Orange,1351,7,410,7
+2020-03-31,Orange,1352,7,411,7
 2020-02-01,Placer,0,0,N,N
 2020-02-02,Placer,0,0,N,N
 2020-02-03,Placer,0,0,N,N
@@ -2556,29 +2556,29 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-06,Santa Clara,183,0,114,0
 2020-03-07,Santa Clara,201,0,128,0
 2020-03-08,Santa Clara,230,0,135,0
-2020-03-09,Santa Clara,271,1,163,1
-2020-03-10,Santa Clara,315,1,185,1
-2020-03-11,Santa Clara,362,1,217,1
-2020-03-12,Santa Clara,402,1,240,1
-2020-03-13,Santa Clara,460,1,277,1
-2020-03-14,Santa Clara,522,2,321,2
-2020-03-15,Santa Clara,578,2,348,2
-2020-03-16,Santa Clara,649,2,378,1
-2020-03-17,Santa Clara,724,4,409,3
-2020-03-18,Santa Clara,781,6,419,5
-2020-03-19,Santa Clara,830,8,428,7
-2020-03-20,Santa Clara,896,8,436,7
-2020-03-21,Santa Clara,932,10,410,8
-2020-03-22,Santa Clara,993,13,415,11
-2020-03-23,Santa Clara,1055,13,406,11
-2020-03-24,Santa Clara,1102,17,378,13
-2020-03-25,Santa Clara,1171,20,390,14
-2020-03-26,Santa Clara,1215,20,385,12
-2020-03-27,Santa Clara,1258,25,362,17
-2020-03-28,Santa Clara,1295,54,363,44
-2020-03-29,Santa Clara,1314,30,321,17
-2020-03-30,Santa Clara,1370,31,315,18
-2020-03-31,Santa Clara,1401,30,299,13
+2020-03-09,Santa Clara,272,1,164,1
+2020-03-10,Santa Clara,316,1,186,1
+2020-03-11,Santa Clara,363,1,218,1
+2020-03-12,Santa Clara,403,1,241,1
+2020-03-13,Santa Clara,461,1,278,1
+2020-03-14,Santa Clara,523,2,322,2
+2020-03-15,Santa Clara,579,2,349,2
+2020-03-16,Santa Clara,650,2,378,1
+2020-03-17,Santa Clara,725,4,409,3
+2020-03-18,Santa Clara,782,6,419,5
+2020-03-19,Santa Clara,831,8,428,7
+2020-03-20,Santa Clara,897,8,436,7
+2020-03-21,Santa Clara,933,10,410,8
+2020-03-22,Santa Clara,994,13,415,11
+2020-03-23,Santa Clara,1056,13,406,11
+2020-03-24,Santa Clara,1103,17,378,13
+2020-03-25,Santa Clara,1172,20,390,14
+2020-03-26,Santa Clara,1216,20,385,12
+2020-03-27,Santa Clara,1259,25,362,17
+2020-03-28,Santa Clara,1296,54,363,44
+2020-03-29,Santa Clara,1315,30,321,17
+2020-03-30,Santa Clara,1371,31,315,18
+2020-03-31,Santa Clara,1402,30,299,13
 2020-02-01,Santa Cruz,0,0,N,N
 2020-02-02,Santa Cruz,0,0,N,N
 2020-02-03,Santa Cruz,0,0,N,N
