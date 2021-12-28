@@ -1794,11 +1794,11 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-24,Orange,941,0,435,0
 2020-03-25,Orange,1003,1,420,1
 2020-03-26,Orange,1061,1,423,1
-2020-03-27,Orange,1123,2,401,0
-2020-03-28,Orange,1176,4,407,4
-2020-03-29,Orange,1212,2,394,2
-2020-03-30,Orange,1286,5,399,5
-2020-03-31,Orange,1352,7,411,7
+2020-03-27,Orange,1124,2,402,0
+2020-03-28,Orange,1177,4,408,4
+2020-03-29,Orange,1213,2,395,2
+2020-03-30,Orange,1287,5,400,5
+2020-03-31,Orange,1353,7,412,7
 2020-02-01,Placer,0,0,N,N
 2020-02-02,Placer,0,0,N,N
 2020-02-03,Placer,0,0,N,N
@@ -1966,19 +1966,19 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-16,Riverside,213,0,166,0
 2020-03-17,Riverside,247,0,191,0
 2020-03-18,Riverside,306,2,231,2
-2020-03-19,Riverside,359,3,261,3
-2020-03-20,Riverside,453,3,332,3
-2020-03-21,Riverside,506,3,359,3
-2020-03-22,Riverside,550,5,383,5
-2020-03-23,Riverside,629,5,416,5
-2020-03-24,Riverside,670,5,423,5
-2020-03-25,Riverside,737,5,431,3
-2020-03-26,Riverside,808,7,449,4
-2020-03-27,Riverside,878,7,425,4
-2020-03-28,Riverside,934,14,428,11
-2020-03-29,Riverside,1002,7,452,2
-2020-03-30,Riverside,1126,7,497,2
-2020-03-31,Riverside,1206,8,536,3
+2020-03-19,Riverside,360,3,262,3
+2020-03-20,Riverside,454,3,333,3
+2020-03-21,Riverside,507,3,360,3
+2020-03-22,Riverside,551,5,384,5
+2020-03-23,Riverside,633,5,420,5
+2020-03-24,Riverside,674,5,427,5
+2020-03-25,Riverside,741,5,435,3
+2020-03-26,Riverside,812,7,452,4
+2020-03-27,Riverside,882,7,428,4
+2020-03-28,Riverside,938,14,431,11
+2020-03-29,Riverside,1006,7,455,2
+2020-03-30,Riverside,1130,7,497,2
+2020-03-31,Riverside,1210,8,536,3
 2020-02-01,Sacramento,0,0,N,N
 2020-02-02,Sacramento,0,0,N,N
 2020-02-03,Sacramento,0,0,N,N
@@ -2395,8 +2395,8 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-25,San Luis Obispo,97,0,29,0
 2020-03-26,San Luis Obispo,102,0,27,0
 2020-03-27,San Luis Obispo,107,0,30,0
-2020-03-28,San Luis Obispo,110,0,30,0
-2020-03-29,San Luis Obispo,112,0,28,0
+2020-03-28,San Luis Obispo,109,0,29,0
+2020-03-29,San Luis Obispo,111,0,27,0
 2020-03-30,San Luis Obispo,117,0,28,0
 2020-03-31,San Luis Obispo,119,0,24,0
 2020-02-01,San Mateo,0,0,N,N
