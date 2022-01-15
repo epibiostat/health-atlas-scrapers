@@ -1224,35 +1224,35 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-30,Los Angeles,123,11,2,69
 2020-08-31,Los Angeles,141,12,19,79
 2020-09-01,Los Angeles,163,15,25,94
-2020-09-02,Los Angeles,180,15,17,101
-2020-09-03,Los Angeles,198,15,18,102
-2020-09-04,Los Angeles,213,15,15,100
-2020-09-05,Los Angeles,217,15,4,100
-2020-09-06,Los Angeles,218,15,1,99
-2020-09-07,Los Angeles,218,15,0,80
-2020-09-08,Los Angeles,232,22,21,76
-2020-09-09,Los Angeles,242,24,12,71
-2020-09-10,Los Angeles,257,35,26,79
-2020-09-11,Los Angeles,267,41,16,80
-2020-09-12,Los Angeles,270,45,7,83
-2020-09-13,Los Angeles,270,45,0,82
-2020-09-14,Los Angeles,275,54,14,96
-2020-09-15,Los Angeles,282,66,19,94
-2020-09-16,Los Angeles,288,75,15,97
-2020-09-17,Los Angeles,298,83,19,90
-2020-09-18,Los Angeles,305,95,20,94
-2020-09-19,Los Angeles,311,99,10,97
-2020-09-20,Los Angeles,312,101,3,100
-2020-09-21,Los Angeles,320,122,29,115
-2020-09-22,Los Angeles,335,133,26,122
-2020-09-23,Los Angeles,349,158,39,146
-2020-09-24,Los Angeles,357,174,24,151
-2020-09-25,Los Angeles,368,185,22,153
-2020-09-26,Los Angeles,369,189,5,148
-2020-09-27,Los Angeles,369,189,0,145
-2020-09-28,Los Angeles,370,196,8,124
-2020-09-29,Los Angeles,372,210,14,112
-2020-09-30,Los Angeles,373,217,7,80
+2020-09-02,Los Angeles,181,15,18,102
+2020-09-03,Los Angeles,199,15,18,103
+2020-09-04,Los Angeles,214,15,15,101
+2020-09-05,Los Angeles,218,15,4,101
+2020-09-06,Los Angeles,219,15,1,100
+2020-09-07,Los Angeles,219,15,0,81
+2020-09-08,Los Angeles,233,22,21,77
+2020-09-09,Los Angeles,243,24,12,71
+2020-09-10,Los Angeles,258,35,26,79
+2020-09-11,Los Angeles,268,41,16,80
+2020-09-12,Los Angeles,271,45,7,83
+2020-09-13,Los Angeles,271,45,0,82
+2020-09-14,Los Angeles,276,54,14,96
+2020-09-15,Los Angeles,283,66,19,94
+2020-09-16,Los Angeles,289,75,15,97
+2020-09-17,Los Angeles,299,83,19,90
+2020-09-18,Los Angeles,306,95,20,94
+2020-09-19,Los Angeles,312,99,10,97
+2020-09-20,Los Angeles,313,101,3,100
+2020-09-21,Los Angeles,321,122,29,115
+2020-09-22,Los Angeles,336,133,26,122
+2020-09-23,Los Angeles,350,158,39,146
+2020-09-24,Los Angeles,358,174,24,151
+2020-09-25,Los Angeles,369,186,23,154
+2020-09-26,Los Angeles,370,190,5,149
+2020-09-27,Los Angeles,370,190,0,146
+2020-09-28,Los Angeles,371,197,8,125
+2020-09-29,Los Angeles,373,211,14,113
+2020-09-30,Los Angeles,374,218,7,81
 2020-07-27,Madera,0,0,0,N
 2020-07-28,Madera,0,0,0,N
 2020-07-29,Madera,0,0,0,N
@@ -2147,36 +2147,36 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-29,Riverside,22,2,1,4
 2020-08-30,Riverside,22,2,0,4
 2020-08-31,Riverside,24,3,3,7
-2020-09-01,Riverside,25,4,2,7
-2020-09-02,Riverside,25,4,0,7
-2020-09-03,Riverside,25,4,0,7
-2020-09-04,Riverside,26,6,3,9
-2020-09-05,Riverside,26,6,0,8
-2020-09-06,Riverside,26,6,0,8
-2020-09-07,Riverside,26,6,0,5
-2020-09-08,Riverside,27,7,2,5
-2020-09-09,Riverside,28,8,2,7
-2020-09-10,Riverside,28,9,1,8
-2020-09-11,Riverside,29,9,1,6
-2020-09-12,Riverside,29,9,0,6
-2020-09-13,Riverside,29,9,0,6
-2020-09-14,Riverside,30,11,3,9
-2020-09-15,Riverside,31,11,1,8
-2020-09-16,Riverside,31,12,1,7
-2020-09-17,Riverside,31,13,1,7
-2020-09-18,Riverside,32,15,3,9
-2020-09-19,Riverside,32,15,0,9
-2020-09-20,Riverside,32,17,2,11
-2020-09-21,Riverside,32,18,1,9
-2020-09-22,Riverside,34,20,4,12
-2020-09-23,Riverside,36,20,2,13
-2020-09-24,Riverside,36,20,0,12
-2020-09-25,Riverside,36,22,2,11
-2020-09-26,Riverside,36,22,0,11
-2020-09-27,Riverside,36,22,0,9
-2020-09-28,Riverside,37,23,2,10
-2020-09-29,Riverside,37,24,1,7
-2020-09-30,Riverside,39,24,2,7
+2020-09-01,Riverside,26,4,3,8
+2020-09-02,Riverside,26,4,0,8
+2020-09-03,Riverside,26,4,0,8
+2020-09-04,Riverside,27,6,3,10
+2020-09-05,Riverside,27,6,0,9
+2020-09-06,Riverside,27,6,0,9
+2020-09-07,Riverside,27,6,0,6
+2020-09-08,Riverside,28,7,2,5
+2020-09-09,Riverside,29,8,2,7
+2020-09-10,Riverside,29,9,1,8
+2020-09-11,Riverside,30,9,1,6
+2020-09-12,Riverside,30,9,0,6
+2020-09-13,Riverside,30,9,0,6
+2020-09-14,Riverside,31,11,3,9
+2020-09-15,Riverside,32,11,1,8
+2020-09-16,Riverside,32,12,1,7
+2020-09-17,Riverside,32,13,1,7
+2020-09-18,Riverside,33,15,3,9
+2020-09-19,Riverside,33,15,0,9
+2020-09-20,Riverside,33,17,2,11
+2020-09-21,Riverside,33,18,1,9
+2020-09-22,Riverside,35,20,4,12
+2020-09-23,Riverside,37,20,2,13
+2020-09-24,Riverside,37,20,0,12
+2020-09-25,Riverside,37,22,2,11
+2020-09-26,Riverside,37,22,0,11
+2020-09-27,Riverside,37,22,0,9
+2020-09-28,Riverside,38,23,2,10
+2020-09-29,Riverside,38,24,1,7
+2020-09-30,Riverside,40,24,2,7
 2020-07-27,Sacramento,0,0,0,N
 2020-07-28,Sacramento,0,0,0,N
 2020-07-29,Sacramento,0,0,0,N
