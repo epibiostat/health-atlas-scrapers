@@ -1251,8 +1251,8 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-26,Los Angeles,373,190,5,151
 2020-09-27,Los Angeles,373,190,0,148
 2020-09-28,Los Angeles,374,197,8,126
-2020-09-29,Los Angeles,376,211,14,114
-2020-09-30,Los Angeles,377,218,7,82
+2020-09-29,Los Angeles,375,210,13,113
+2020-09-30,Los Angeles,376,217,7,81
 2020-07-27,Madera,0,0,0,N
 2020-07-28,Madera,0,0,0,N
 2020-07-29,Madera,0,0,0,N
@@ -1977,8 +1977,8 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-26,Orange,90,45,0,35
 2020-09-27,Orange,90,45,0,34
 2020-09-28,Orange,90,47,2,31
-2020-09-29,Orange,90,47,0,21
-2020-09-30,Orange,90,47,0,13
+2020-09-29,Orange,91,48,1,22
+2020-09-30,Orange,91,48,0,14
 2020-07-27,Placer,0,0,0,N
 2020-07-28,Placer,0,0,0,N
 2020-07-29,Placer,0,0,0,N
@@ -2213,36 +2213,36 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-29,Sacramento,43,5,1,21
 2020-08-30,Sacramento,43,5,0,20
 2020-08-31,Sacramento,48,7,7,27
-2020-09-01,Sacramento,52,9,6,31
-2020-09-02,Sacramento,56,9,4,27
-2020-09-03,Sacramento,59,10,4,27
-2020-09-04,Sacramento,60,10,1,23
-2020-09-05,Sacramento,60,10,0,22
-2020-09-06,Sacramento,60,10,0,22
-2020-09-07,Sacramento,60,10,0,15
-2020-09-08,Sacramento,66,11,7,16
-2020-09-09,Sacramento,70,12,5,17
-2020-09-10,Sacramento,72,12,2,15
-2020-09-11,Sacramento,79,14,9,23
-2020-09-12,Sacramento,81,16,4,27
-2020-09-13,Sacramento,81,18,2,29
-2020-09-14,Sacramento,83,22,6,35
-2020-09-15,Sacramento,85,26,6,34
-2020-09-16,Sacramento,88,31,8,37
-2020-09-17,Sacramento,91,33,5,40
-2020-09-18,Sacramento,98,35,9,40
-2020-09-19,Sacramento,98,35,0,36
-2020-09-20,Sacramento,98,35,0,34
-2020-09-21,Sacramento,100,39,6,34
-2020-09-22,Sacramento,101,42,4,32
-2020-09-23,Sacramento,102,45,4,28
-2020-09-24,Sacramento,102,48,3,26
-2020-09-25,Sacramento,102,51,3,20
-2020-09-26,Sacramento,102,51,0,20
-2020-09-27,Sacramento,102,51,0,20
-2020-09-28,Sacramento,102,53,2,16
-2020-09-29,Sacramento,102,57,4,16
-2020-09-30,Sacramento,104,64,9,21
+2020-09-01,Sacramento,53,9,7,32
+2020-09-02,Sacramento,57,9,4,28
+2020-09-03,Sacramento,60,10,4,28
+2020-09-04,Sacramento,61,10,1,24
+2020-09-05,Sacramento,61,10,0,23
+2020-09-06,Sacramento,61,10,0,23
+2020-09-07,Sacramento,61,10,0,16
+2020-09-08,Sacramento,67,11,7,16
+2020-09-09,Sacramento,71,12,5,17
+2020-09-10,Sacramento,73,12,2,15
+2020-09-11,Sacramento,80,14,9,23
+2020-09-12,Sacramento,82,16,4,27
+2020-09-13,Sacramento,82,18,2,29
+2020-09-14,Sacramento,84,22,6,35
+2020-09-15,Sacramento,86,26,6,34
+2020-09-16,Sacramento,89,31,8,37
+2020-09-17,Sacramento,92,33,5,40
+2020-09-18,Sacramento,99,35,9,40
+2020-09-19,Sacramento,99,35,0,36
+2020-09-20,Sacramento,99,35,0,34
+2020-09-21,Sacramento,101,39,6,34
+2020-09-22,Sacramento,102,42,4,32
+2020-09-23,Sacramento,103,45,4,28
+2020-09-24,Sacramento,103,48,3,26
+2020-09-25,Sacramento,103,51,3,20
+2020-09-26,Sacramento,103,51,0,20
+2020-09-27,Sacramento,103,51,0,20
+2020-09-28,Sacramento,103,53,2,16
+2020-09-29,Sacramento,103,58,5,17
+2020-09-30,Sacramento,105,65,9,22
 2020-07-27,San Benito,0,0,0,N
 2020-07-28,San Benito,0,0,0,N
 2020-07-29,San Benito,0,0,0,N
