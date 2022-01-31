@@ -1783,22 +1783,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,Orange,277,0,179,0
 2020-03-14,Orange,317,0,193,0
 2020-03-15,Orange,358,0,226,0
-2020-03-16,Orange,432,0,274,0
-2020-03-17,Orange,517,0,331,-1
-2020-03-18,Orange,599,0,391,0
-2020-03-19,Orange,663,0,424,0
-2020-03-20,Orange,746,2,469,2
-2020-03-21,Orange,794,0,477,0
-2020-03-22,Orange,843,0,485,0
-2020-03-23,Orange,927,0,495,0
-2020-03-24,Orange,984,0,467,0
-2020-03-25,Orange,1049,1,450,1
-2020-03-26,Orange,1111,1,448,1
-2020-03-27,Orange,1175,2,429,0
-2020-03-28,Orange,1228,4,434,4
-2020-03-29,Orange,1264,2,421,2
-2020-03-30,Orange,1340,5,413,5
-2020-03-31,Orange,1407,7,423,7
+2020-03-16,Orange,433,0,275,0
+2020-03-17,Orange,518,0,332,-1
+2020-03-18,Orange,600,0,392,0
+2020-03-19,Orange,664,0,425,0
+2020-03-20,Orange,747,2,470,2
+2020-03-21,Orange,795,0,478,0
+2020-03-22,Orange,844,0,486,0
+2020-03-23,Orange,928,0,495,0
+2020-03-24,Orange,985,0,467,0
+2020-03-25,Orange,1050,1,450,1
+2020-03-26,Orange,1112,1,448,1
+2020-03-27,Orange,1176,2,429,0
+2020-03-28,Orange,1229,4,434,4
+2020-03-29,Orange,1265,2,421,2
+2020-03-30,Orange,1341,5,413,5
+2020-03-31,Orange,1408,7,423,7
 2020-02-01,Placer,0,0,N,N
 2020-02-02,Placer,0,0,N,N
 2020-02-03,Placer,0,0,N,N
@@ -1954,31 +1954,31 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-04,Riverside,23,0,13,0
 2020-03-05,Riverside,27,0,15,0
 2020-03-06,Riverside,30,0,17,0
-2020-03-07,Riverside,30,0,15,0
-2020-03-08,Riverside,40,0,22,0
-2020-03-09,Riverside,48,0,29,0
-2020-03-10,Riverside,58,0,38,0
-2020-03-11,Riverside,80,0,57,0
-2020-03-12,Riverside,105,0,78,0
-2020-03-13,Riverside,131,0,101,0
-2020-03-14,Riverside,160,0,130,0
-2020-03-15,Riverside,180,0,140,0
-2020-03-16,Riverside,230,0,182,0
-2020-03-17,Riverside,265,0,207,0
-2020-03-18,Riverside,327,2,247,2
-2020-03-19,Riverside,388,3,283,3
-2020-03-20,Riverside,496,3,365,3
-2020-03-21,Riverside,553,3,393,3
-2020-03-22,Riverside,599,5,419,5
-2020-03-23,Riverside,687,5,457,5
-2020-03-24,Riverside,730,5,465,5
-2020-03-25,Riverside,797,5,470,3
-2020-03-26,Riverside,868,7,480,4
-2020-03-27,Riverside,939,7,443,4
-2020-03-28,Riverside,995,14,442,11
-2020-03-29,Riverside,1063,7,464,2
-2020-03-30,Riverside,1187,7,500,2
-2020-03-31,Riverside,1267,8,537,3
+2020-03-07,Riverside,31,0,16,0
+2020-03-08,Riverside,41,0,23,0
+2020-03-09,Riverside,49,0,30,0
+2020-03-10,Riverside,59,0,39,0
+2020-03-11,Riverside,81,0,58,0
+2020-03-12,Riverside,106,0,79,0
+2020-03-13,Riverside,132,0,102,0
+2020-03-14,Riverside,161,0,130,0
+2020-03-15,Riverside,181,0,140,0
+2020-03-16,Riverside,232,0,183,0
+2020-03-17,Riverside,268,0,209,0
+2020-03-18,Riverside,330,2,249,2
+2020-03-19,Riverside,392,3,286,3
+2020-03-20,Riverside,502,3,370,3
+2020-03-21,Riverside,559,3,398,3
+2020-03-22,Riverside,605,5,424,5
+2020-03-23,Riverside,693,5,461,5
+2020-03-24,Riverside,736,5,468,5
+2020-03-25,Riverside,803,5,473,3
+2020-03-26,Riverside,874,7,482,4
+2020-03-27,Riverside,945,7,443,4
+2020-03-28,Riverside,1001,14,442,11
+2020-03-29,Riverside,1069,7,464,2
+2020-03-30,Riverside,1193,7,500,2
+2020-03-31,Riverside,1273,8,537,3
 2020-02-01,Sacramento,0,0,N,N
 2020-02-02,Sacramento,0,0,N,N
 2020-02-03,Sacramento,0,0,N,N
@@ -2389,16 +2389,16 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-19,San Luis Obispo,78,0,52,0
 2020-03-20,San Luis Obispo,81,0,48,0
 2020-03-21,San Luis Obispo,85,0,44,0
-2020-03-22,San Luis Obispo,89,0,43,0
-2020-03-23,San Luis Obispo,95,0,39,0
-2020-03-24,San Luis Obispo,101,0,38,0
-2020-03-25,San Luis Obispo,104,0,33,0
-2020-03-26,San Luis Obispo,109,0,31,0
-2020-03-27,San Luis Obispo,114,0,33,0
-2020-03-28,San Luis Obispo,116,0,31,0
-2020-03-29,San Luis Obispo,118,0,29,0
-2020-03-30,San Luis Obispo,124,0,29,0
-2020-03-31,San Luis Obispo,127,0,26,0
+2020-03-22,San Luis Obispo,90,0,44,0
+2020-03-23,San Luis Obispo,96,0,40,0
+2020-03-24,San Luis Obispo,102,0,39,0
+2020-03-25,San Luis Obispo,105,0,34,0
+2020-03-26,San Luis Obispo,110,0,32,0
+2020-03-27,San Luis Obispo,115,0,34,0
+2020-03-28,San Luis Obispo,117,0,32,0
+2020-03-29,San Luis Obispo,119,0,29,0
+2020-03-30,San Luis Obispo,126,0,30,0
+2020-03-31,San Luis Obispo,129,0,27,0
 2020-02-01,San Mateo,0,0,N,N
 2020-02-02,San Mateo,0,0,N,N
 2020-02-03,San Mateo,0,0,N,N
@@ -2505,20 +2505,20 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-15,Santa Barbara,54,0,48,0
 2020-03-16,Santa Barbara,64,0,55,0
 2020-03-17,Santa Barbara,76,0,65,0
-2020-03-18,Santa Barbara,89,0,73,0
-2020-03-19,Santa Barbara,103,0,77,0
-2020-03-20,Santa Barbara,120,0,82,0
-2020-03-21,Santa Barbara,137,0,95,0
-2020-03-22,Santa Barbara,152,0,98,0
-2020-03-23,Santa Barbara,170,0,106,0
-2020-03-24,Santa Barbara,191,0,115,0
-2020-03-25,Santa Barbara,197,0,108,0
-2020-03-26,Santa Barbara,208,0,105,0
-2020-03-27,Santa Barbara,224,0,104,0
-2020-03-28,Santa Barbara,240,0,103,0
-2020-03-29,Santa Barbara,252,0,100,0
-2020-03-30,Santa Barbara,263,0,93,0
-2020-03-31,Santa Barbara,273,0,82,0
+2020-03-18,Santa Barbara,90,0,74,0
+2020-03-19,Santa Barbara,105,0,79,0
+2020-03-20,Santa Barbara,122,0,84,0
+2020-03-21,Santa Barbara,139,0,97,0
+2020-03-22,Santa Barbara,154,0,100,0
+2020-03-23,Santa Barbara,172,0,108,0
+2020-03-24,Santa Barbara,193,0,117,0
+2020-03-25,Santa Barbara,199,0,109,0
+2020-03-26,Santa Barbara,210,0,105,0
+2020-03-27,Santa Barbara,226,0,104,0
+2020-03-28,Santa Barbara,242,0,103,0
+2020-03-29,Santa Barbara,254,0,100,0
+2020-03-30,Santa Barbara,265,0,93,0
+2020-03-31,Santa Barbara,275,0,82,0
 2020-02-01,Santa Clara,2,0,N,N
 2020-02-02,Santa Clara,2,0,N,N
 2020-02-03,Santa Clara,2,0,N,N
@@ -2567,18 +2567,18 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-17,Santa Clara,731,4,412,3
 2020-03-18,Santa Clara,789,6,422,5
 2020-03-19,Santa Clara,839,8,432,7
-2020-03-20,Santa Clara,905,8,440,7
-2020-03-21,Santa Clara,942,10,415,8
-2020-03-22,Santa Clara,1003,13,420,11
-2020-03-23,Santa Clara,1067,13,412,11
-2020-03-24,Santa Clara,1115,17,384,13
-2020-03-25,Santa Clara,1184,20,395,14
-2020-03-26,Santa Clara,1228,20,389,12
-2020-03-27,Santa Clara,1272,25,367,17
-2020-03-28,Santa Clara,1310,54,368,44
-2020-03-29,Santa Clara,1329,30,326,17
-2020-03-30,Santa Clara,1386,31,319,18
-2020-03-31,Santa Clara,1417,30,302,13
+2020-03-20,Santa Clara,906,8,441,7
+2020-03-21,Santa Clara,943,10,416,8
+2020-03-22,Santa Clara,1004,13,421,11
+2020-03-23,Santa Clara,1068,13,413,11
+2020-03-24,Santa Clara,1116,17,385,13
+2020-03-25,Santa Clara,1185,20,396,14
+2020-03-26,Santa Clara,1229,20,390,12
+2020-03-27,Santa Clara,1273,25,367,17
+2020-03-28,Santa Clara,1311,54,368,44
+2020-03-29,Santa Clara,1330,30,326,17
+2020-03-30,Santa Clara,1387,31,319,18
+2020-03-31,Santa Clara,1418,30,302,13
 2020-02-01,Santa Cruz,0,0,N,N
 2020-02-02,Santa Cruz,0,0,N,N
 2020-02-03,Santa Cruz,0,0,N,N
