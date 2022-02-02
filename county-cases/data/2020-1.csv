@@ -1961,24 +1961,24 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-11,Riverside,81,0,58,0
 2020-03-12,Riverside,106,0,79,0
 2020-03-13,Riverside,132,0,102,0
-2020-03-14,Riverside,161,0,130,0
-2020-03-15,Riverside,181,0,140,0
-2020-03-16,Riverside,232,0,183,0
-2020-03-17,Riverside,268,0,209,0
-2020-03-18,Riverside,330,2,249,2
-2020-03-19,Riverside,392,3,286,3
-2020-03-20,Riverside,502,3,370,3
-2020-03-21,Riverside,559,3,398,3
-2020-03-22,Riverside,605,5,424,5
-2020-03-23,Riverside,693,5,461,5
-2020-03-24,Riverside,736,5,468,5
-2020-03-25,Riverside,803,5,473,3
-2020-03-26,Riverside,874,7,482,4
-2020-03-27,Riverside,945,7,443,4
-2020-03-28,Riverside,1001,14,442,11
-2020-03-29,Riverside,1069,7,464,2
-2020-03-30,Riverside,1193,7,500,2
-2020-03-31,Riverside,1273,8,537,3
+2020-03-14,Riverside,162,0,131,0
+2020-03-15,Riverside,182,0,141,0
+2020-03-16,Riverside,233,0,184,0
+2020-03-17,Riverside,269,0,210,0
+2020-03-18,Riverside,331,2,250,2
+2020-03-19,Riverside,393,3,287,3
+2020-03-20,Riverside,503,3,371,3
+2020-03-21,Riverside,560,3,398,3
+2020-03-22,Riverside,606,5,424,5
+2020-03-23,Riverside,694,5,461,5
+2020-03-24,Riverside,737,5,468,5
+2020-03-25,Riverside,804,5,473,3
+2020-03-26,Riverside,875,7,482,4
+2020-03-27,Riverside,946,7,443,4
+2020-03-28,Riverside,1002,14,442,11
+2020-03-29,Riverside,1070,7,464,2
+2020-03-30,Riverside,1194,7,500,2
+2020-03-31,Riverside,1274,8,537,3
 2020-02-01,Sacramento,0,0,N,N
 2020-02-02,Sacramento,0,0,N,N
 2020-02-03,Sacramento,0,0,N,N
@@ -2545,40 +2545,40 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-02-24,Santa Clara,38,0,26,0
 2020-02-25,Santa Clara,40,0,26,0
 2020-02-26,Santa Clara,49,0,34,0
-2020-02-27,Santa Clara,57,0,40,0
-2020-02-28,Santa Clara,68,0,47,0
-2020-02-29,Santa Clara,73,0,50,0
-2020-03-01,Santa Clara,95,0,69,0
-2020-03-02,Santa Clara,108,0,70,0
-2020-03-03,Santa Clara,130,0,90,0
-2020-03-04,Santa Clara,145,0,96,0
-2020-03-05,Santa Clara,162,0,105,0
-2020-03-06,Santa Clara,185,0,117,0
-2020-03-07,Santa Clara,203,0,130,0
-2020-03-08,Santa Clara,233,0,138,0
-2020-03-09,Santa Clara,275,1,167,1
-2020-03-10,Santa Clara,319,1,189,1
-2020-03-11,Santa Clara,367,1,222,1
-2020-03-12,Santa Clara,407,1,245,1
-2020-03-13,Santa Clara,465,1,280,1
-2020-03-14,Santa Clara,527,2,324,2
-2020-03-15,Santa Clara,583,2,350,2
-2020-03-16,Santa Clara,655,2,380,1
-2020-03-17,Santa Clara,731,4,412,3
-2020-03-18,Santa Clara,789,6,422,5
-2020-03-19,Santa Clara,839,8,432,7
-2020-03-20,Santa Clara,906,8,441,7
-2020-03-21,Santa Clara,943,10,416,8
-2020-03-22,Santa Clara,1004,13,421,11
-2020-03-23,Santa Clara,1068,13,413,11
-2020-03-24,Santa Clara,1116,17,385,13
-2020-03-25,Santa Clara,1185,20,396,14
-2020-03-26,Santa Clara,1229,20,390,12
-2020-03-27,Santa Clara,1273,25,367,17
-2020-03-28,Santa Clara,1311,54,368,44
-2020-03-29,Santa Clara,1330,30,326,17
-2020-03-30,Santa Clara,1387,31,319,18
-2020-03-31,Santa Clara,1418,30,302,13
+2020-02-27,Santa Clara,58,0,41,0
+2020-02-28,Santa Clara,69,0,48,0
+2020-02-29,Santa Clara,74,0,51,0
+2020-03-01,Santa Clara,96,0,70,0
+2020-03-02,Santa Clara,109,0,71,0
+2020-03-03,Santa Clara,131,0,91,0
+2020-03-04,Santa Clara,146,0,97,0
+2020-03-05,Santa Clara,164,0,106,0
+2020-03-06,Santa Clara,187,0,118,0
+2020-03-07,Santa Clara,205,0,131,0
+2020-03-08,Santa Clara,235,0,139,0
+2020-03-09,Santa Clara,277,1,168,1
+2020-03-10,Santa Clara,321,1,190,1
+2020-03-11,Santa Clara,369,1,223,1
+2020-03-12,Santa Clara,409,1,245,1
+2020-03-13,Santa Clara,467,1,280,1
+2020-03-14,Santa Clara,529,2,324,2
+2020-03-15,Santa Clara,585,2,350,2
+2020-03-16,Santa Clara,657,2,380,1
+2020-03-17,Santa Clara,733,4,412,3
+2020-03-18,Santa Clara,791,6,422,5
+2020-03-19,Santa Clara,841,8,432,7
+2020-03-20,Santa Clara,908,8,441,7
+2020-03-21,Santa Clara,945,10,416,8
+2020-03-22,Santa Clara,1006,13,421,11
+2020-03-23,Santa Clara,1070,13,413,11
+2020-03-24,Santa Clara,1118,17,385,13
+2020-03-25,Santa Clara,1187,20,396,14
+2020-03-26,Santa Clara,1231,20,390,12
+2020-03-27,Santa Clara,1275,25,367,17
+2020-03-28,Santa Clara,1313,54,368,44
+2020-03-29,Santa Clara,1332,30,326,17
+2020-03-30,Santa Clara,1389,31,319,18
+2020-03-31,Santa Clara,1420,30,302,13
 2020-02-01,Santa Cruz,0,0,N,N
 2020-02-02,Santa Cruz,0,0,N,N
 2020-02-03,Santa Cruz,0,0,N,N
@@ -3238,7 +3238,7 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-28,Tulare,99,0,51,0
 2020-03-29,Tulare,105,1,51,1
 2020-03-30,Tulare,128,1,69,1
-2020-03-31,Tulare,140,1,75,1
+2020-03-31,Tulare,139,1,74,1
 2020-02-01,Tuolumne,0,0,N,N
 2020-02-02,Tuolumne,0,0,N,N
 2020-02-03,Tuolumne,0,0,N,N
