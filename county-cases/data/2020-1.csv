@@ -950,15 +950,15 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-20,Kings,19,0,10,0
 2020-03-21,Kings,20,0,10,0
 2020-03-22,Kings,20,0,10,0
-2020-03-23,Kings,22,0,12,0
-2020-03-24,Kings,22,0,11,0
-2020-03-25,Kings,23,0,10,0
-2020-03-26,Kings,25,0,10,0
-2020-03-27,Kings,25,0,6,0
-2020-03-28,Kings,26,0,6,0
-2020-03-29,Kings,27,0,7,0
-2020-03-30,Kings,30,0,8,0
-2020-03-31,Kings,30,0,8,0
+2020-03-23,Kings,23,0,13,0
+2020-03-24,Kings,23,0,12,0
+2020-03-25,Kings,24,0,11,0
+2020-03-26,Kings,26,0,11,0
+2020-03-27,Kings,26,0,7,0
+2020-03-28,Kings,27,0,7,0
+2020-03-29,Kings,28,0,8,0
+2020-03-30,Kings,31,0,8,0
+2020-03-31,Kings,31,0,8,0
 2020-02-01,Lake,0,0,N,N
 2020-02-02,Lake,0,0,N,N
 2020-02-03,Lake,0,0,N,N
@@ -1783,22 +1783,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,Orange,277,0,179,0
 2020-03-14,Orange,317,0,193,0
 2020-03-15,Orange,358,0,226,0
-2020-03-16,Orange,433,0,275,0
-2020-03-17,Orange,518,0,332,-1
-2020-03-18,Orange,600,0,392,0
-2020-03-19,Orange,664,0,425,0
-2020-03-20,Orange,747,2,470,2
-2020-03-21,Orange,795,0,478,0
-2020-03-22,Orange,844,0,486,0
-2020-03-23,Orange,928,0,495,0
-2020-03-24,Orange,985,0,467,0
-2020-03-25,Orange,1050,1,450,1
-2020-03-26,Orange,1112,1,448,1
-2020-03-27,Orange,1176,2,429,0
-2020-03-28,Orange,1229,4,434,4
-2020-03-29,Orange,1265,2,421,2
-2020-03-30,Orange,1341,5,413,5
-2020-03-31,Orange,1408,7,423,7
+2020-03-16,Orange,432,0,274,0
+2020-03-17,Orange,517,0,331,-1
+2020-03-18,Orange,599,0,391,0
+2020-03-19,Orange,663,0,424,0
+2020-03-20,Orange,746,2,469,2
+2020-03-21,Orange,794,0,477,0
+2020-03-22,Orange,843,0,485,0
+2020-03-23,Orange,927,0,495,0
+2020-03-24,Orange,984,0,467,0
+2020-03-25,Orange,1049,1,450,1
+2020-03-26,Orange,1111,1,448,1
+2020-03-27,Orange,1175,2,429,0
+2020-03-28,Orange,1228,4,434,4
+2020-03-29,Orange,1264,2,421,2
+2020-03-30,Orange,1340,5,413,5
+2020-03-31,Orange,1407,7,423,7
 2020-02-01,Placer,0,0,N,N
 2020-02-02,Placer,0,0,N,N
 2020-02-03,Placer,0,0,N,N
@@ -2037,8 +2037,8 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-27,Sacramento,501,6,191,2
 2020-03-28,Sacramento,524,14,193,11
 2020-03-29,Sacramento,542,7,184,3
-2020-03-30,Sacramento,582,8,192,4
-2020-03-31,Sacramento,606,8,183,4
+2020-03-30,Sacramento,581,8,191,4
+2020-03-31,Sacramento,605,8,182,4
 2020-02-01,San Benito,0,0,N,N
 2020-02-02,San Benito,0,0,N,N
 2020-02-03,San Benito,0,0,N,N
@@ -2158,7 +2158,7 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-28,San Bernardino,602,4,332,4
 2020-03-29,San Bernardino,650,2,360,2
 2020-03-30,San Bernardino,702,4,369,4
-2020-03-31,San Bernardino,746,5,383,5
+2020-03-31,San Bernardino,745,5,382,5
 2020-02-01,San Diego,0,0,N,N
 2020-02-02,San Diego,0,0,N,N
 2020-02-03,San Diego,0,0,N,N
@@ -2498,27 +2498,27 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-08,Santa Barbara,6,0,5,0
 2020-03-09,Santa Barbara,9,0,8,0
 2020-03-10,Santa Barbara,11,0,10,0
-2020-03-11,Santa Barbara,16,0,14,0
-2020-03-12,Santa Barbara,26,0,24,0
-2020-03-13,Santa Barbara,38,0,35,0
-2020-03-14,Santa Barbara,42,0,37,0
-2020-03-15,Santa Barbara,54,0,48,0
-2020-03-16,Santa Barbara,64,0,55,0
-2020-03-17,Santa Barbara,76,0,65,0
-2020-03-18,Santa Barbara,90,0,74,0
-2020-03-19,Santa Barbara,105,0,79,0
-2020-03-20,Santa Barbara,122,0,84,0
-2020-03-21,Santa Barbara,139,0,97,0
-2020-03-22,Santa Barbara,154,0,100,0
-2020-03-23,Santa Barbara,172,0,108,0
-2020-03-24,Santa Barbara,193,0,117,0
-2020-03-25,Santa Barbara,199,0,109,0
-2020-03-26,Santa Barbara,210,0,105,0
-2020-03-27,Santa Barbara,226,0,104,0
-2020-03-28,Santa Barbara,242,0,103,0
-2020-03-29,Santa Barbara,254,0,100,0
-2020-03-30,Santa Barbara,265,0,93,0
-2020-03-31,Santa Barbara,275,0,82,0
+2020-03-11,Santa Barbara,17,0,15,0
+2020-03-12,Santa Barbara,27,0,25,0
+2020-03-13,Santa Barbara,39,0,36,0
+2020-03-14,Santa Barbara,43,0,38,0
+2020-03-15,Santa Barbara,55,0,49,0
+2020-03-16,Santa Barbara,65,0,56,0
+2020-03-17,Santa Barbara,77,0,66,0
+2020-03-18,Santa Barbara,91,0,74,0
+2020-03-19,Santa Barbara,106,0,79,0
+2020-03-20,Santa Barbara,123,0,84,0
+2020-03-21,Santa Barbara,140,0,97,0
+2020-03-22,Santa Barbara,155,0,100,0
+2020-03-23,Santa Barbara,173,0,108,0
+2020-03-24,Santa Barbara,194,0,117,0
+2020-03-25,Santa Barbara,200,0,109,0
+2020-03-26,Santa Barbara,211,0,105,0
+2020-03-27,Santa Barbara,227,0,104,0
+2020-03-28,Santa Barbara,243,0,103,0
+2020-03-29,Santa Barbara,255,0,100,0
+2020-03-30,Santa Barbara,266,0,93,0
+2020-03-31,Santa Barbara,276,0,82,0
 2020-02-01,Santa Clara,2,0,N,N
 2020-02-02,Santa Clara,2,0,N,N
 2020-02-03,Santa Clara,2,0,N,N
@@ -2552,14 +2552,14 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-02,Santa Clara,109,0,71,0
 2020-03-03,Santa Clara,131,0,91,0
 2020-03-04,Santa Clara,146,0,97,0
-2020-03-05,Santa Clara,164,0,106,0
+2020-03-05,Santa Clara,163,0,105,0
 2020-03-06,Santa Clara,187,0,118,0
 2020-03-07,Santa Clara,205,0,131,0
 2020-03-08,Santa Clara,235,0,139,0
 2020-03-09,Santa Clara,277,1,168,1
 2020-03-10,Santa Clara,321,1,190,1
 2020-03-11,Santa Clara,369,1,223,1
-2020-03-12,Santa Clara,409,1,245,1
+2020-03-12,Santa Clara,409,1,246,1
 2020-03-13,Santa Clara,467,1,280,1
 2020-03-14,Santa Clara,529,2,324,2
 2020-03-15,Santa Clara,585,2,350,2
@@ -2573,12 +2573,12 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-23,Santa Clara,1070,13,413,11
 2020-03-24,Santa Clara,1118,17,385,13
 2020-03-25,Santa Clara,1187,20,396,14
-2020-03-26,Santa Clara,1231,20,390,12
-2020-03-27,Santa Clara,1275,25,367,17
-2020-03-28,Santa Clara,1313,54,368,44
-2020-03-29,Santa Clara,1332,30,326,17
-2020-03-30,Santa Clara,1389,31,319,18
-2020-03-31,Santa Clara,1420,30,302,13
+2020-03-26,Santa Clara,1230,20,389,12
+2020-03-27,Santa Clara,1273,25,365,17
+2020-03-28,Santa Clara,1311,54,366,44
+2020-03-29,Santa Clara,1330,30,324,17
+2020-03-30,Santa Clara,1387,31,317,18
+2020-03-31,Santa Clara,1418,30,300,13
 2020-02-01,Santa Cruz,0,0,N,N
 2020-02-02,Santa Cruz,0,0,N,N
 2020-02-03,Santa Cruz,0,0,N,N
@@ -3226,19 +3226,19 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-16,Tulare,22,0,13,0
 2020-03-17,Tulare,26,0,17,0
 2020-03-18,Tulare,30,0,20,0
-2020-03-19,Tulare,39,0,27,0
-2020-03-20,Tulare,44,0,32,0
-2020-03-21,Tulare,48,0,33,0
-2020-03-22,Tulare,54,0,37,0
-2020-03-23,Tulare,59,0,37,0
-2020-03-24,Tulare,65,0,39,0
-2020-03-25,Tulare,73,0,43,0
-2020-03-26,Tulare,83,0,44,0
-2020-03-27,Tulare,91,0,47,0
-2020-03-28,Tulare,99,0,51,0
-2020-03-29,Tulare,105,1,51,1
-2020-03-30,Tulare,128,1,69,1
-2020-03-31,Tulare,139,1,74,1
+2020-03-19,Tulare,40,0,28,0
+2020-03-20,Tulare,46,0,34,0
+2020-03-21,Tulare,50,0,35,0
+2020-03-22,Tulare,56,0,39,0
+2020-03-23,Tulare,62,0,40,0
+2020-03-24,Tulare,70,0,44,0
+2020-03-25,Tulare,79,0,49,0
+2020-03-26,Tulare,89,0,49,0
+2020-03-27,Tulare,98,0,52,0
+2020-03-28,Tulare,106,0,56,0
+2020-03-29,Tulare,113,1,57,1
+2020-03-30,Tulare,138,1,76,1
+2020-03-31,Tulare,150,1,80,1
 2020-02-01,Tuolumne,0,0,N,N
 2020-02-02,Tuolumne,0,0,N,N
 2020-02-03,Tuolumne,0,0,N,N
