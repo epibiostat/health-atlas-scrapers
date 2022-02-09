@@ -1603,22 +1603,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,Monterey,9,0,7,0
 2020-03-14,Monterey,14,0,12,0
 2020-03-15,Monterey,20,0,18,0
-2020-03-16,Monterey,26,0,24,0
-2020-03-17,Monterey,27,0,23,0
-2020-03-18,Monterey,29,0,23,0
-2020-03-19,Monterey,37,0,30,0
-2020-03-20,Monterey,45,0,36,0
-2020-03-21,Monterey,46,1,32,1
-2020-03-22,Monterey,49,1,29,1
-2020-03-23,Monterey,52,1,26,1
-2020-03-24,Monterey,57,1,30,1
-2020-03-25,Monterey,61,1,32,1
-2020-03-26,Monterey,64,1,27,1
-2020-03-27,Monterey,67,1,22,1
-2020-03-28,Monterey,70,2,24,1
-2020-03-29,Monterey,71,1,22,0
-2020-03-30,Monterey,76,1,24,0
-2020-03-31,Monterey,81,2,24,1
+2020-03-16,Monterey,27,0,25,0
+2020-03-17,Monterey,28,0,24,0
+2020-03-18,Monterey,30,0,24,0
+2020-03-19,Monterey,38,0,31,0
+2020-03-20,Monterey,46,0,37,0
+2020-03-21,Monterey,47,1,33,1
+2020-03-22,Monterey,50,1,30,1
+2020-03-23,Monterey,53,1,26,1
+2020-03-24,Monterey,58,1,30,1
+2020-03-25,Monterey,62,1,32,1
+2020-03-26,Monterey,65,1,27,1
+2020-03-27,Monterey,68,1,22,1
+2020-03-28,Monterey,71,2,24,1
+2020-03-29,Monterey,72,1,22,0
+2020-03-30,Monterey,77,1,24,0
+2020-03-31,Monterey,82,2,24,1
 2020-02-01,Napa,0,0,N,N
 2020-02-02,Napa,0,0,N,N
 2020-02-03,Napa,0,0,N,N
@@ -1790,15 +1790,15 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-20,Orange,721,2,451,2
 2020-03-21,Orange,768,0,459,0
 2020-03-22,Orange,817,0,469,0
-2020-03-23,Orange,891,0,471,0
-2020-03-24,Orange,946,0,443,0
-2020-03-25,Orange,1009,1,428,1
-2020-03-26,Orange,1068,1,430,1
-2020-03-27,Orange,1130,2,409,0
-2020-03-28,Orange,1181,4,413,4
-2020-03-29,Orange,1217,2,400,2
-2020-03-30,Orange,1290,5,399,5
-2020-03-31,Orange,1356,7,410,7
+2020-03-23,Orange,890,0,470,0
+2020-03-24,Orange,945,0,442,0
+2020-03-25,Orange,1008,1,427,1
+2020-03-26,Orange,1067,1,429,1
+2020-03-27,Orange,1129,2,408,0
+2020-03-28,Orange,1180,4,412,4
+2020-03-29,Orange,1216,2,399,2
+2020-03-30,Orange,1289,5,399,5
+2020-03-31,Orange,1355,7,410,7
 2020-02-01,Placer,0,0,N,N
 2020-02-02,Placer,0,0,N,N
 2020-02-03,Placer,0,0,N,N
@@ -1959,26 +1959,26 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-09,Riverside,49,0,30,0
 2020-03-10,Riverside,59,0,39,0
 2020-03-11,Riverside,81,0,58,0
-2020-03-12,Riverside,106,0,79,0
-2020-03-13,Riverside,132,0,102,0
-2020-03-14,Riverside,162,0,131,0
-2020-03-15,Riverside,182,0,141,0
-2020-03-16,Riverside,234,0,185,0
-2020-03-17,Riverside,270,0,211,0
-2020-03-18,Riverside,332,2,251,2
-2020-03-19,Riverside,394,3,288,3
-2020-03-20,Riverside,505,3,373,3
-2020-03-21,Riverside,564,3,402,3
-2020-03-22,Riverside,610,5,428,5
-2020-03-23,Riverside,699,5,465,5
-2020-03-24,Riverside,742,5,472,5
-2020-03-25,Riverside,809,5,477,3
-2020-03-26,Riverside,880,7,486,4
-2020-03-27,Riverside,951,7,446,4
-2020-03-28,Riverside,1007,14,443,11
-2020-03-29,Riverside,1075,7,465,2
-2020-03-30,Riverside,1199,7,500,2
-2020-03-31,Riverside,1279,8,537,3
+2020-03-12,Riverside,107,0,80,0
+2020-03-13,Riverside,133,0,103,0
+2020-03-14,Riverside,163,0,132,0
+2020-03-15,Riverside,183,0,142,0
+2020-03-16,Riverside,235,0,186,0
+2020-03-17,Riverside,271,0,212,0
+2020-03-18,Riverside,333,2,252,2
+2020-03-19,Riverside,395,3,288,3
+2020-03-20,Riverside,506,3,373,3
+2020-03-21,Riverside,565,3,402,3
+2020-03-22,Riverside,611,5,428,5
+2020-03-23,Riverside,700,5,465,5
+2020-03-24,Riverside,743,5,472,5
+2020-03-25,Riverside,810,5,477,3
+2020-03-26,Riverside,881,7,486,4
+2020-03-27,Riverside,952,7,446,4
+2020-03-28,Riverside,1008,14,443,11
+2020-03-29,Riverside,1076,7,465,2
+2020-03-30,Riverside,1200,7,500,2
+2020-03-31,Riverside,1280,8,537,3
 2020-02-01,Sacramento,0,0,N,N
 2020-02-02,Sacramento,0,0,N,N
 2020-02-03,Sacramento,0,0,N,N
@@ -2500,25 +2500,25 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-10,Santa Barbara,11,0,10,0
 2020-03-11,Santa Barbara,17,0,15,0
 2020-03-12,Santa Barbara,27,0,25,0
-2020-03-13,Santa Barbara,39,0,36,0
-2020-03-14,Santa Barbara,43,0,38,0
-2020-03-15,Santa Barbara,55,0,49,0
-2020-03-16,Santa Barbara,65,0,56,0
-2020-03-17,Santa Barbara,77,0,66,0
-2020-03-18,Santa Barbara,91,0,74,0
-2020-03-19,Santa Barbara,106,0,79,0
-2020-03-20,Santa Barbara,123,0,84,0
-2020-03-21,Santa Barbara,141,0,98,0
-2020-03-22,Santa Barbara,156,0,101,0
-2020-03-23,Santa Barbara,174,0,109,0
-2020-03-24,Santa Barbara,195,0,118,0
-2020-03-25,Santa Barbara,201,0,110,0
-2020-03-26,Santa Barbara,212,0,106,0
-2020-03-27,Santa Barbara,228,0,105,0
-2020-03-28,Santa Barbara,244,0,103,0
-2020-03-29,Santa Barbara,256,0,100,0
-2020-03-30,Santa Barbara,267,0,93,0
-2020-03-31,Santa Barbara,277,0,82,0
+2020-03-13,Santa Barbara,40,0,37,0
+2020-03-14,Santa Barbara,44,0,39,0
+2020-03-15,Santa Barbara,56,0,50,0
+2020-03-16,Santa Barbara,66,0,57,0
+2020-03-17,Santa Barbara,78,0,67,0
+2020-03-18,Santa Barbara,92,0,75,0
+2020-03-19,Santa Barbara,107,0,80,0
+2020-03-20,Santa Barbara,124,0,84,0
+2020-03-21,Santa Barbara,142,0,98,0
+2020-03-22,Santa Barbara,157,0,101,0
+2020-03-23,Santa Barbara,175,0,109,0
+2020-03-24,Santa Barbara,196,0,118,0
+2020-03-25,Santa Barbara,202,0,110,0
+2020-03-26,Santa Barbara,213,0,106,0
+2020-03-27,Santa Barbara,229,0,105,0
+2020-03-28,Santa Barbara,245,0,103,0
+2020-03-29,Santa Barbara,257,0,100,0
+2020-03-30,Santa Barbara,268,0,93,0
+2020-03-31,Santa Barbara,278,0,82,0
 2020-02-01,Santa Clara,2,0,N,N
 2020-02-02,Santa Clara,2,0,N,N
 2020-02-03,Santa Clara,2,0,N,N
