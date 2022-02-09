@@ -635,13 +635,13 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-20,Contra Costa,57,39,0,17
 2020-09-21,Contra Costa,57,40,1,14
 2020-09-22,Contra Costa,58,41,2,12
-2020-09-23,Contra Costa,58,45,4,12
-2020-09-24,Contra Costa,58,47,2,14
-2020-09-25,Contra Costa,58,47,0,9
-2020-09-26,Contra Costa,58,47,0,9
-2020-09-27,Contra Costa,58,47,0,9
-2020-09-28,Contra Costa,58,47,0,8
-2020-09-29,Contra Costa,58,49,2,8
+2020-09-23,Contra Costa,58,45,5,13
+2020-09-24,Contra Costa,58,47,2,15
+2020-09-25,Contra Costa,58,47,0,10
+2020-09-26,Contra Costa,58,47,0,10
+2020-09-27,Contra Costa,58,47,0,10
+2020-09-28,Contra Costa,58,47,0,9
+2020-09-29,Contra Costa,58,49,2,9
 2020-09-30,Contra Costa,58,50,1,5
 2020-07-01,Del Norte,0,0,0,0
 2020-07-02,Del Norte,0,0,0,0
@@ -2567,14 +2567,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-20,Napa,0,0,0,0
 2020-09-21,Napa,0,0,0,0
 2020-09-22,Napa,0,0,0,0
-2020-09-23,Napa,0,0,0,0
-2020-09-24,Napa,0,0,0,0
-2020-09-25,Napa,0,0,0,0
-2020-09-26,Napa,0,0,0,0
-2020-09-27,Napa,0,0,0,0
-2020-09-28,Napa,0,0,0,0
-2020-09-29,Napa,0,0,0,0
-2020-09-30,Napa,0,0,0,0
+2020-09-23,Napa,1,0,0,0
+2020-09-24,Napa,1,0,0,0
+2020-09-25,Napa,1,0,0,0
+2020-09-26,Napa,1,0,0,0
+2020-09-27,Napa,1,0,0,0
+2020-09-28,Napa,1,0,0,0
+2020-09-29,Napa,1,0,0,0
+2020-09-30,Napa,1,0,0,0
 2020-07-01,Nevada,0,0,0,0
 2020-07-02,Nevada,0,0,0,0
 2020-07-03,Nevada,0,0,0,0
@@ -3756,21 +3756,21 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-13,San Mateo,20,5,0,2
 2020-09-14,San Mateo,20,7,2,4
 2020-09-15,San Mateo,20,9,2,5
-2020-09-16,San Mateo,20,10,1,5
-2020-09-17,San Mateo,20,10,0,5
-2020-09-18,San Mateo,21,11,2,7
-2020-09-19,San Mateo,21,11,0,7
-2020-09-20,San Mateo,21,11,1,8
-2020-09-21,San Mateo,22,12,2,8
-2020-09-22,San Mateo,22,12,0,6
-2020-09-23,San Mateo,22,15,3,8
-2020-09-24,San Mateo,22,15,0,8
-2020-09-25,San Mateo,23,15,1,7
-2020-09-26,San Mateo,23,15,0,7
-2020-09-27,San Mateo,23,15,0,6
-2020-09-28,San Mateo,23,16,1,5
-2020-09-29,San Mateo,23,16,0,5
-2020-09-30,San Mateo,23,16,0,2
+2020-09-16,San Mateo,21,10,2,6
+2020-09-17,San Mateo,21,10,0,6
+2020-09-18,San Mateo,22,11,2,8
+2020-09-19,San Mateo,22,11,0,8
+2020-09-20,San Mateo,22,11,1,9
+2020-09-21,San Mateo,23,12,2,9
+2020-09-22,San Mateo,23,12,0,7
+2020-09-23,San Mateo,23,15,3,8
+2020-09-24,San Mateo,23,15,0,8
+2020-09-25,San Mateo,24,15,1,7
+2020-09-26,San Mateo,24,15,0,7
+2020-09-27,San Mateo,24,15,0,6
+2020-09-28,San Mateo,24,16,1,5
+2020-09-29,San Mateo,24,16,0,5
+2020-09-30,San Mateo,24,16,0,2
 2020-07-01,Santa Barbara,0,0,0,0
 2020-07-02,Santa Barbara,0,0,0,0
 2020-07-03,Santa Barbara,0,0,0,0
