@@ -1969,16 +1969,16 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-19,Riverside,395,3,288,3
 2020-03-20,Riverside,506,3,373,3
 2020-03-21,Riverside,565,3,402,3
-2020-03-22,Riverside,611,5,428,5
-2020-03-23,Riverside,700,5,465,5
-2020-03-24,Riverside,743,5,472,5
-2020-03-25,Riverside,810,5,477,3
-2020-03-26,Riverside,881,7,486,4
-2020-03-27,Riverside,952,7,446,4
-2020-03-28,Riverside,1008,14,443,11
-2020-03-29,Riverside,1076,7,465,2
-2020-03-30,Riverside,1200,7,500,2
-2020-03-31,Riverside,1280,8,537,3
+2020-03-22,Riverside,612,5,429,5
+2020-03-23,Riverside,701,5,466,5
+2020-03-24,Riverside,744,5,473,5
+2020-03-25,Riverside,811,5,478,3
+2020-03-26,Riverside,882,7,487,4
+2020-03-27,Riverside,953,7,447,4
+2020-03-28,Riverside,1009,14,444,11
+2020-03-29,Riverside,1077,7,465,2
+2020-03-30,Riverside,1201,7,500,2
+2020-03-31,Riverside,1281,8,537,3
 2020-02-01,Sacramento,0,0,N,N
 2020-02-02,Sacramento,0,0,N,N
 2020-02-03,Sacramento,0,0,N,N
@@ -2575,10 +2575,10 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-25,Santa Clara,1188,20,397,14
 2020-03-26,Santa Clara,1232,20,391,12
 2020-03-27,Santa Clara,1276,25,368,17
-2020-03-28,Santa Clara,1314,54,368,44
-2020-03-29,Santa Clara,1333,30,326,17
-2020-03-30,Santa Clara,1390,31,319,18
-2020-03-31,Santa Clara,1421,30,302,13
+2020-03-28,Santa Clara,1315,54,369,44
+2020-03-29,Santa Clara,1334,30,327,17
+2020-03-30,Santa Clara,1391,31,320,18
+2020-03-31,Santa Clara,1422,30,303,13
 2020-02-01,Santa Cruz,0,0,N,N
 2020-02-02,Santa Cruz,0,0,N,N
 2020-02-03,Santa Cruz,0,0,N,N
