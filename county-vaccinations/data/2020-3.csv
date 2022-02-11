@@ -3768,9 +3768,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-25,San Mateo,24,15,1,7
 2020-09-26,San Mateo,24,15,0,7
 2020-09-27,San Mateo,24,15,0,6
-2020-09-28,San Mateo,24,16,1,5
-2020-09-29,San Mateo,24,16,0,5
-2020-09-30,San Mateo,24,16,0,2
+2020-09-28,San Mateo,25,16,2,6
+2020-09-29,San Mateo,25,16,0,6
+2020-09-30,San Mateo,25,16,0,3
 2020-07-01,Santa Barbara,0,0,0,0
 2020-07-02,Santa Barbara,0,0,0,0
 2020-07-03,Santa Barbara,0,0,0,0
