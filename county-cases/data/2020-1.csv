@@ -2498,27 +2498,27 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-08,Santa Barbara,6,0,5,0
 2020-03-09,Santa Barbara,9,0,8,0
 2020-03-10,Santa Barbara,11,0,10,0
-2020-03-11,Santa Barbara,17,0,15,0
-2020-03-12,Santa Barbara,27,0,25,0
-2020-03-13,Santa Barbara,40,0,37,0
-2020-03-14,Santa Barbara,44,0,39,0
-2020-03-15,Santa Barbara,56,0,50,0
-2020-03-16,Santa Barbara,66,0,57,0
-2020-03-17,Santa Barbara,78,0,67,0
-2020-03-18,Santa Barbara,92,0,75,0
-2020-03-19,Santa Barbara,107,0,80,0
-2020-03-20,Santa Barbara,124,0,84,0
-2020-03-21,Santa Barbara,142,0,98,0
-2020-03-22,Santa Barbara,157,0,101,0
-2020-03-23,Santa Barbara,175,0,109,0
-2020-03-24,Santa Barbara,196,0,118,0
-2020-03-25,Santa Barbara,202,0,110,0
-2020-03-26,Santa Barbara,213,0,106,0
-2020-03-27,Santa Barbara,229,0,105,0
-2020-03-28,Santa Barbara,245,0,103,0
-2020-03-29,Santa Barbara,257,0,100,0
-2020-03-30,Santa Barbara,268,0,93,0
-2020-03-31,Santa Barbara,278,0,82,0
+2020-03-11,Santa Barbara,15,0,13,0
+2020-03-12,Santa Barbara,25,0,23,0
+2020-03-13,Santa Barbara,38,0,35,0
+2020-03-14,Santa Barbara,42,0,37,0
+2020-03-15,Santa Barbara,54,0,48,0
+2020-03-16,Santa Barbara,64,0,55,0
+2020-03-17,Santa Barbara,76,0,65,0
+2020-03-18,Santa Barbara,90,0,75,0
+2020-03-19,Santa Barbara,104,0,79,0
+2020-03-20,Santa Barbara,120,0,82,0
+2020-03-21,Santa Barbara,137,0,95,0
+2020-03-22,Santa Barbara,152,0,98,0
+2020-03-23,Santa Barbara,170,0,106,0
+2020-03-24,Santa Barbara,191,0,115,0
+2020-03-25,Santa Barbara,197,0,107,0
+2020-03-26,Santa Barbara,208,0,104,0
+2020-03-27,Santa Barbara,224,0,104,0
+2020-03-28,Santa Barbara,240,0,103,0
+2020-03-29,Santa Barbara,252,0,100,0
+2020-03-30,Santa Barbara,263,0,93,0
+2020-03-31,Santa Barbara,273,0,82,0
 2020-02-01,Santa Clara,2,0,N,N
 2020-02-02,Santa Clara,2,0,N,N
 2020-02-03,Santa Clara,2,0,N,N
@@ -3220,25 +3220,25 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-10,Tulare,9,0,3,0
 2020-03-11,Tulare,10,0,4,0
 2020-03-12,Tulare,12,0,6,0
-2020-03-13,Tulare,13,0,7,0
-2020-03-14,Tulare,16,0,10,0
-2020-03-15,Tulare,18,0,9,0
-2020-03-16,Tulare,24,0,15,0
-2020-03-17,Tulare,28,0,19,0
-2020-03-18,Tulare,33,0,23,0
-2020-03-19,Tulare,43,0,31,0
-2020-03-20,Tulare,49,0,36,0
-2020-03-21,Tulare,53,0,37,0
-2020-03-22,Tulare,61,0,43,0
-2020-03-23,Tulare,67,0,43,0
-2020-03-24,Tulare,76,0,48,0
-2020-03-25,Tulare,86,0,53,0
-2020-03-26,Tulare,96,0,53,0
-2020-03-27,Tulare,105,0,56,0
-2020-03-28,Tulare,113,0,60,0
-2020-03-29,Tulare,120,1,59,1
-2020-03-30,Tulare,145,1,78,1
-2020-03-31,Tulare,157,1,81,1
+2020-03-13,Tulare,14,0,8,0
+2020-03-14,Tulare,17,0,11,0
+2020-03-15,Tulare,19,0,10,0
+2020-03-16,Tulare,25,0,16,0
+2020-03-17,Tulare,29,0,20,0
+2020-03-18,Tulare,34,0,24,0
+2020-03-19,Tulare,44,0,32,0
+2020-03-20,Tulare,50,0,36,0
+2020-03-21,Tulare,54,0,37,0
+2020-03-22,Tulare,62,0,43,0
+2020-03-23,Tulare,68,0,43,0
+2020-03-24,Tulare,77,0,48,0
+2020-03-25,Tulare,87,0,53,0
+2020-03-26,Tulare,97,0,53,0
+2020-03-27,Tulare,106,0,56,0
+2020-03-28,Tulare,114,0,60,0
+2020-03-29,Tulare,121,1,59,1
+2020-03-30,Tulare,146,1,78,1
+2020-03-31,Tulare,158,1,81,1
 2020-02-01,Tuolumne,0,0,N,N
 2020-02-02,Tuolumne,0,0,N,N
 2020-02-03,Tuolumne,0,0,N,N
