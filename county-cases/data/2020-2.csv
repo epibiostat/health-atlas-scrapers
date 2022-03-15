@@ -2541,11 +2541,11 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-06-22,Napa,338,3,87,0
 2020-06-23,Napa,362,3,103,0
 2020-06-24,Napa,377,3,103,0
-2020-06-25,Napa,395,3,106,0
-2020-06-26,Napa,413,3,109,0
-2020-06-27,Napa,423,3,109,0
-2020-06-28,Napa,433,4,110,1
-2020-06-29,Napa,467,4,129,1
+2020-06-25,Napa,394,3,105,0
+2020-06-26,Napa,412,3,108,0
+2020-06-27,Napa,422,3,108,0
+2020-06-28,Napa,432,4,109,1
+2020-06-29,Napa,466,4,128,1
 2020-06-30,Napa,488,4,126,1
 2020-04-01,Nevada,35,0,4,0
 2020-04-02,Nevada,35,0,3,0
@@ -3765,62 +3765,62 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-05-03,Santa Barbara,707,7,89,0
 2020-05-04,Santa Barbara,1075,7,446,0
 2020-05-05,Santa Barbara,1334,7,691,0
-2020-05-06,Santa Barbara,1563,8,913,1
-2020-05-07,Santa Barbara,1607,8,941,1
-2020-05-08,Santa Barbara,1635,8,951,1
-2020-05-09,Santa Barbara,1644,10,949,3
-2020-05-10,Santa Barbara,1654,10,947,3
-2020-05-11,Santa Barbara,1667,10,592,3
-2020-05-12,Santa Barbara,1688,10,354,3
-2020-05-13,Santa Barbara,1722,10,159,2
-2020-05-14,Santa Barbara,1735,11,128,3
-2020-05-15,Santa Barbara,1749,10,114,2
-2020-05-16,Santa Barbara,1758,10,114,0
-2020-05-17,Santa Barbara,1771,10,117,0
-2020-05-18,Santa Barbara,1794,10,127,0
-2020-05-19,Santa Barbara,1806,10,118,0
-2020-05-20,Santa Barbara,1822,10,100,0
-2020-05-21,Santa Barbara,1844,10,109,-1
-2020-05-22,Santa Barbara,1862,9,113,-1
-2020-05-23,Santa Barbara,1872,9,114,-1
-2020-05-24,Santa Barbara,1881,9,110,-1
-2020-05-25,Santa Barbara,1894,9,100,-1
-2020-05-26,Santa Barbara,1904,9,98,-1
-2020-05-27,Santa Barbara,1924,9,102,-1
-2020-05-28,Santa Barbara,1942,9,98,-1
-2020-05-29,Santa Barbara,1978,9,116,0
-2020-05-30,Santa Barbara,2007,9,135,0
-2020-05-31,Santa Barbara,2027,9,146,0
-2020-06-01,Santa Barbara,2081,10,187,1
-2020-06-02,Santa Barbara,2119,12,215,3
-2020-06-03,Santa Barbara,2162,12,238,3
-2020-06-04,Santa Barbara,2201,13,259,4
-2020-06-05,Santa Barbara,2233,13,255,4
-2020-06-06,Santa Barbara,2267,13,260,4
-2020-06-07,Santa Barbara,2307,13,280,4
-2020-06-08,Santa Barbara,2367,13,286,3
-2020-06-09,Santa Barbara,2424,13,305,1
-2020-06-10,Santa Barbara,2486,13,324,1
-2020-06-11,Santa Barbara,2542,14,341,1
-2020-06-12,Santa Barbara,2607,14,374,1
-2020-06-13,Santa Barbara,2662,15,395,2
-2020-06-14,Santa Barbara,2720,17,413,4
-2020-06-15,Santa Barbara,2797,16,430,3
-2020-06-16,Santa Barbara,2866,16,442,3
-2020-06-17,Santa Barbara,2933,19,447,6
-2020-06-18,Santa Barbara,3006,19,464,5
-2020-06-19,Santa Barbara,3080,21,473,7
-2020-06-20,Santa Barbara,3153,21,491,6
-2020-06-21,Santa Barbara,3209,21,489,4
-2020-06-22,Santa Barbara,3316,21,519,5
-2020-06-23,Santa Barbara,3408,22,542,6
-2020-06-24,Santa Barbara,3505,22,572,3
-2020-06-25,Santa Barbara,3625,25,619,6
-2020-06-26,Santa Barbara,3731,25,651,4
-2020-06-27,Santa Barbara,3821,25,668,4
-2020-06-28,Santa Barbara,3893,25,684,4
-2020-06-29,Santa Barbara,4038,25,722,4
-2020-06-30,Santa Barbara,4148,25,740,3
+2020-05-06,Santa Barbara,1562,8,912,1
+2020-05-07,Santa Barbara,1606,8,940,1
+2020-05-08,Santa Barbara,1634,8,950,1
+2020-05-09,Santa Barbara,1643,10,948,3
+2020-05-10,Santa Barbara,1653,10,946,3
+2020-05-11,Santa Barbara,1666,10,591,3
+2020-05-12,Santa Barbara,1687,10,353,3
+2020-05-13,Santa Barbara,1721,10,159,2
+2020-05-14,Santa Barbara,1734,11,128,3
+2020-05-15,Santa Barbara,1748,10,114,2
+2020-05-16,Santa Barbara,1757,10,114,0
+2020-05-17,Santa Barbara,1770,10,117,0
+2020-05-18,Santa Barbara,1793,10,127,0
+2020-05-19,Santa Barbara,1805,10,118,0
+2020-05-20,Santa Barbara,1821,10,100,0
+2020-05-21,Santa Barbara,1843,10,109,-1
+2020-05-22,Santa Barbara,1861,9,113,-1
+2020-05-23,Santa Barbara,1871,9,114,-1
+2020-05-24,Santa Barbara,1880,9,110,-1
+2020-05-25,Santa Barbara,1893,9,100,-1
+2020-05-26,Santa Barbara,1903,9,98,-1
+2020-05-27,Santa Barbara,1923,9,102,-1
+2020-05-28,Santa Barbara,1941,9,98,-1
+2020-05-29,Santa Barbara,1977,9,116,0
+2020-05-30,Santa Barbara,2006,9,135,0
+2020-05-31,Santa Barbara,2026,9,146,0
+2020-06-01,Santa Barbara,2080,10,187,1
+2020-06-02,Santa Barbara,2118,12,215,3
+2020-06-03,Santa Barbara,2161,12,238,3
+2020-06-04,Santa Barbara,2200,13,259,4
+2020-06-05,Santa Barbara,2232,13,255,4
+2020-06-06,Santa Barbara,2266,13,260,4
+2020-06-07,Santa Barbara,2306,13,280,4
+2020-06-08,Santa Barbara,2366,13,286,3
+2020-06-09,Santa Barbara,2423,13,305,1
+2020-06-10,Santa Barbara,2485,13,324,1
+2020-06-11,Santa Barbara,2541,14,341,1
+2020-06-12,Santa Barbara,2606,14,374,1
+2020-06-13,Santa Barbara,2661,15,395,2
+2020-06-14,Santa Barbara,2719,17,413,4
+2020-06-15,Santa Barbara,2796,16,430,3
+2020-06-16,Santa Barbara,2865,16,442,3
+2020-06-17,Santa Barbara,2932,19,447,6
+2020-06-18,Santa Barbara,3005,19,464,5
+2020-06-19,Santa Barbara,3079,21,473,7
+2020-06-20,Santa Barbara,3152,21,491,6
+2020-06-21,Santa Barbara,3208,21,489,4
+2020-06-22,Santa Barbara,3315,21,519,5
+2020-06-23,Santa Barbara,3407,22,542,6
+2020-06-24,Santa Barbara,3504,22,572,3
+2020-06-25,Santa Barbara,3624,25,619,6
+2020-06-26,Santa Barbara,3730,25,651,4
+2020-06-27,Santa Barbara,3820,25,668,4
+2020-06-28,Santa Barbara,3892,25,684,4
+2020-06-29,Santa Barbara,4037,25,722,4
+2020-06-30,Santa Barbara,4147,25,740,3
 2020-04-01,Santa Clara,1472,33,284,13
 2020-04-02,Santa Clara,1514,38,282,18
 2020-04-03,Santa Clara,1565,39,288,14
