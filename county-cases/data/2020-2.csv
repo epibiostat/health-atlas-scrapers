@@ -856,59 +856,59 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-05-06,Fresno,1521,8,410,1
 2020-05-07,Fresno,1584,8,421,1
 2020-05-08,Fresno,1669,8,441,1
-2020-05-09,Fresno,1713,8,454,0
-2020-05-10,Fresno,1751,8,466,0
-2020-05-11,Fresno,1837,8,459,0
-2020-05-12,Fresno,1928,9,480,1
-2020-05-13,Fresno,2012,10,491,2
-2020-05-14,Fresno,2107,12,523,4
-2020-05-15,Fresno,2167,14,498,6
-2020-05-16,Fresno,2234,14,521,6
-2020-05-17,Fresno,2291,14,540,6
-2020-05-18,Fresno,2397,14,560,6
-2020-05-19,Fresno,2475,15,547,6
-2020-05-20,Fresno,2588,17,576,7
-2020-05-21,Fresno,2661,20,554,8
-2020-05-22,Fresno,2753,20,586,6
-2020-05-23,Fresno,2812,21,578,7
-2020-05-24,Fresno,2832,22,541,8
-2020-05-25,Fresno,2899,22,502,8
-2020-05-26,Fresno,3003,22,528,7
-2020-05-27,Fresno,3090,27,502,10
-2020-05-28,Fresno,3178,31,517,11
-2020-05-29,Fresno,3259,31,506,11
-2020-05-30,Fresno,3309,31,497,10
-2020-05-31,Fresno,3370,31,538,9
-2020-06-01,Fresno,3535,33,636,11
-2020-06-02,Fresno,3630,34,627,12
-2020-06-03,Fresno,3743,35,653,8
-2020-06-04,Fresno,3842,35,664,4
-2020-06-05,Fresno,3948,38,689,7
-2020-06-06,Fresno,4012,41,703,10
-2020-06-07,Fresno,4067,41,697,10
-2020-06-08,Fresno,4197,42,662,9
-2020-06-09,Fresno,4321,43,691,9
-2020-06-10,Fresno,4473,45,730,10
-2020-06-11,Fresno,4650,45,808,10
-2020-06-12,Fresno,4805,47,857,9
-2020-06-13,Fresno,4943,48,931,7
-2020-06-14,Fresno,5041,48,974,7
-2020-06-15,Fresno,5226,48,1029,6
-2020-06-16,Fresno,5438,50,1117,7
-2020-06-17,Fresno,5676,56,1203,11
-2020-06-18,Fresno,5902,57,1252,12
-2020-06-19,Fresno,6169,61,1364,14
-2020-06-20,Fresno,6331,67,1388,19
-2020-06-21,Fresno,6457,67,1416,19
-2020-06-22,Fresno,7028,67,1802,19
-2020-06-23,Fresno,7560,67,2122,17
-2020-06-24,Fresno,8211,71,2535,15
-2020-06-25,Fresno,8542,71,2640,14
-2020-06-26,Fresno,8855,74,2686,13
-2020-06-27,Fresno,9081,74,2750,7
-2020-06-28,Fresno,9327,74,2870,7
-2020-06-29,Fresno,9688,74,2660,7
-2020-06-30,Fresno,10036,75,2476,8
+2020-05-09,Fresno,1711,8,452,0
+2020-05-10,Fresno,1749,8,464,0
+2020-05-11,Fresno,1835,8,457,0
+2020-05-12,Fresno,1926,9,478,1
+2020-05-13,Fresno,2010,10,489,2
+2020-05-14,Fresno,2105,12,521,4
+2020-05-15,Fresno,2165,14,496,6
+2020-05-16,Fresno,2232,14,521,6
+2020-05-17,Fresno,2289,14,540,6
+2020-05-18,Fresno,2395,14,560,6
+2020-05-19,Fresno,2473,15,547,6
+2020-05-20,Fresno,2586,17,576,7
+2020-05-21,Fresno,2659,20,554,8
+2020-05-22,Fresno,2751,20,586,6
+2020-05-23,Fresno,2810,21,578,7
+2020-05-24,Fresno,2830,22,541,8
+2020-05-25,Fresno,2897,22,502,8
+2020-05-26,Fresno,3001,22,528,7
+2020-05-27,Fresno,3088,27,502,10
+2020-05-28,Fresno,3176,31,517,11
+2020-05-29,Fresno,3257,31,506,11
+2020-05-30,Fresno,3307,31,497,10
+2020-05-31,Fresno,3368,31,538,9
+2020-06-01,Fresno,3533,33,636,11
+2020-06-02,Fresno,3628,34,627,12
+2020-06-03,Fresno,3741,35,653,8
+2020-06-04,Fresno,3840,35,664,4
+2020-06-05,Fresno,3946,38,689,7
+2020-06-06,Fresno,4010,41,703,10
+2020-06-07,Fresno,4065,41,697,10
+2020-06-08,Fresno,4195,42,662,9
+2020-06-09,Fresno,4319,43,691,9
+2020-06-10,Fresno,4471,45,730,10
+2020-06-11,Fresno,4648,45,808,10
+2020-06-12,Fresno,4803,47,857,9
+2020-06-13,Fresno,4941,48,931,7
+2020-06-14,Fresno,5039,48,974,7
+2020-06-15,Fresno,5224,48,1029,6
+2020-06-16,Fresno,5436,50,1117,7
+2020-06-17,Fresno,5674,56,1203,11
+2020-06-18,Fresno,5900,57,1252,12
+2020-06-19,Fresno,6167,61,1364,14
+2020-06-20,Fresno,6329,67,1388,19
+2020-06-21,Fresno,6455,67,1416,19
+2020-06-22,Fresno,7026,67,1802,19
+2020-06-23,Fresno,7558,67,2122,17
+2020-06-24,Fresno,8209,71,2535,15
+2020-06-25,Fresno,8540,71,2640,14
+2020-06-26,Fresno,8853,74,2686,13
+2020-06-27,Fresno,9079,74,2750,7
+2020-06-28,Fresno,9325,74,2870,7
+2020-06-29,Fresno,9686,74,2660,7
+2020-06-30,Fresno,10034,75,2476,8
 2020-04-01,Glenn,3,0,1,0
 2020-04-02,Glenn,3,0,1,0
 2020-04-03,Glenn,4,0,2,0
@@ -3548,97 +3548,97 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-06-28,San Joaquin,4932,52,1617,4
 2020-06-29,San Joaquin,5269,52,1718,4
 2020-06-30,San Joaquin,5627,52,1828,4
-2020-04-01,San Luis Obispo,133,0,28,0
-2020-04-02,San Luis Obispo,139,0,29,0
-2020-04-03,San Luis Obispo,144,0,29,0
-2020-04-04,San Luis Obispo,144,0,27,0
-2020-04-05,San Luis Obispo,144,1,25,1
-2020-04-06,San Luis Obispo,146,1,20,1
-2020-04-07,San Luis Obispo,148,1,19,1
-2020-04-08,San Luis Obispo,155,1,22,1
-2020-04-09,San Luis Obispo,157,1,18,1
-2020-04-10,San Luis Obispo,165,1,21,1
-2020-04-11,San Luis Obispo,165,1,21,1
-2020-04-12,San Luis Obispo,165,1,21,0
-2020-04-13,San Luis Obispo,168,1,22,0
-2020-04-14,San Luis Obispo,173,1,25,0
-2020-04-15,San Luis Obispo,176,1,21,0
-2020-04-16,San Luis Obispo,184,1,27,0
-2020-04-17,San Luis Obispo,188,1,23,0
-2020-04-18,San Luis Obispo,195,1,30,0
-2020-04-19,San Luis Obispo,199,1,34,0
-2020-04-20,San Luis Obispo,204,1,36,0
-2020-04-21,San Luis Obispo,218,1,45,0
-2020-04-22,San Luis Obispo,226,1,50,0
-2020-04-23,San Luis Obispo,235,1,51,0
-2020-04-24,San Luis Obispo,239,1,51,0
-2020-04-25,San Luis Obispo,242,1,47,0
-2020-04-26,San Luis Obispo,243,1,44,0
-2020-04-27,San Luis Obispo,246,1,42,0
-2020-04-28,San Luis Obispo,254,1,36,0
-2020-04-29,San Luis Obispo,261,1,35,0
-2020-04-30,San Luis Obispo,263,1,28,0
-2020-05-01,San Luis Obispo,266,1,27,0
-2020-05-02,San Luis Obispo,269,1,27,0
-2020-05-03,San Luis Obispo,275,1,32,0
-2020-05-04,San Luis Obispo,278,1,32,0
-2020-05-05,San Luis Obispo,281,1,27,0
-2020-05-06,San Luis Obispo,282,1,21,0
-2020-05-07,San Luis Obispo,285,1,22,0
-2020-05-08,San Luis Obispo,296,1,30,0
-2020-05-09,San Luis Obispo,299,1,30,0
-2020-05-10,San Luis Obispo,303,1,28,0
-2020-05-11,San Luis Obispo,306,1,28,0
-2020-05-12,San Luis Obispo,308,1,27,0
-2020-05-13,San Luis Obispo,311,1,29,0
-2020-05-14,San Luis Obispo,313,1,28,0
-2020-05-15,San Luis Obispo,316,1,20,0
-2020-05-16,San Luis Obispo,318,1,19,0
-2020-05-17,San Luis Obispo,319,1,16,0
-2020-05-18,San Luis Obispo,321,1,15,0
-2020-05-19,San Luis Obispo,325,1,17,0
-2020-05-20,San Luis Obispo,326,1,15,0
-2020-05-21,San Luis Obispo,332,1,19,0
-2020-05-22,San Luis Obispo,332,1,16,0
-2020-05-23,San Luis Obispo,332,1,14,0
-2020-05-24,San Luis Obispo,335,1,16,0
-2020-05-25,San Luis Obispo,337,1,16,0
-2020-05-26,San Luis Obispo,339,1,14,0
-2020-05-27,San Luis Obispo,341,1,15,0
-2020-05-28,San Luis Obispo,346,1,14,0
-2020-05-29,San Luis Obispo,349,1,17,0
-2020-05-30,San Luis Obispo,353,1,21,0
-2020-05-31,San Luis Obispo,358,1,23,0
-2020-06-01,San Luis Obispo,368,1,31,0
-2020-06-02,San Luis Obispo,372,1,33,0
-2020-06-03,San Luis Obispo,377,1,36,0
-2020-06-04,San Luis Obispo,382,1,36,0
-2020-06-05,San Luis Obispo,392,1,43,0
-2020-06-06,San Luis Obispo,399,1,46,0
-2020-06-07,San Luis Obispo,405,1,47,0
-2020-06-08,San Luis Obispo,415,1,47,0
-2020-06-09,San Luis Obispo,421,1,49,0
-2020-06-10,San Luis Obispo,434,1,57,0
-2020-06-11,San Luis Obispo,454,1,72,0
-2020-06-12,San Luis Obispo,468,1,76,0
-2020-06-13,San Luis Obispo,484,1,85,0
-2020-06-14,San Luis Obispo,495,1,90,0
-2020-06-15,San Luis Obispo,510,1,95,0
-2020-06-16,San Luis Obispo,525,1,104,0
-2020-06-17,San Luis Obispo,549,1,115,0
-2020-06-18,San Luis Obispo,568,1,114,0
-2020-06-19,San Luis Obispo,588,1,120,0
-2020-06-20,San Luis Obispo,604,1,120,0
-2020-06-21,San Luis Obispo,617,1,122,0
-2020-06-22,San Luis Obispo,643,1,133,0
-2020-06-23,San Luis Obispo,676,1,151,0
-2020-06-24,San Luis Obispo,707,1,158,0
-2020-06-25,San Luis Obispo,739,1,171,0
-2020-06-26,San Luis Obispo,771,1,183,0
-2020-06-27,San Luis Obispo,786,1,182,0
-2020-06-28,San Luis Obispo,810,1,193,0
-2020-06-29,San Luis Obispo,850,1,207,0
-2020-06-30,San Luis Obispo,884,1,208,0
+2020-04-01,San Luis Obispo,134,0,28,0
+2020-04-02,San Luis Obispo,140,0,29,0
+2020-04-03,San Luis Obispo,145,0,29,0
+2020-04-04,San Luis Obispo,146,0,28,0
+2020-04-05,San Luis Obispo,146,1,26,1
+2020-04-06,San Luis Obispo,148,1,21,1
+2020-04-07,San Luis Obispo,150,1,20,1
+2020-04-08,San Luis Obispo,157,1,23,1
+2020-04-09,San Luis Obispo,159,1,19,1
+2020-04-10,San Luis Obispo,167,1,22,1
+2020-04-11,San Luis Obispo,167,1,21,1
+2020-04-12,San Luis Obispo,167,1,21,0
+2020-04-13,San Luis Obispo,170,1,22,0
+2020-04-14,San Luis Obispo,175,1,25,0
+2020-04-15,San Luis Obispo,179,1,22,0
+2020-04-16,San Luis Obispo,187,1,28,0
+2020-04-17,San Luis Obispo,191,1,24,0
+2020-04-18,San Luis Obispo,198,1,31,0
+2020-04-19,San Luis Obispo,202,1,35,0
+2020-04-20,San Luis Obispo,207,1,37,0
+2020-04-21,San Luis Obispo,221,1,46,0
+2020-04-22,San Luis Obispo,229,1,50,0
+2020-04-23,San Luis Obispo,238,1,51,0
+2020-04-24,San Luis Obispo,242,1,51,0
+2020-04-25,San Luis Obispo,245,1,47,0
+2020-04-26,San Luis Obispo,246,1,44,0
+2020-04-27,San Luis Obispo,249,1,42,0
+2020-04-28,San Luis Obispo,257,1,36,0
+2020-04-29,San Luis Obispo,264,1,35,0
+2020-04-30,San Luis Obispo,266,1,28,0
+2020-05-01,San Luis Obispo,269,1,27,0
+2020-05-02,San Luis Obispo,272,1,27,0
+2020-05-03,San Luis Obispo,278,1,32,0
+2020-05-04,San Luis Obispo,281,1,32,0
+2020-05-05,San Luis Obispo,284,1,27,0
+2020-05-06,San Luis Obispo,286,1,22,0
+2020-05-07,San Luis Obispo,289,1,23,0
+2020-05-08,San Luis Obispo,300,1,31,0
+2020-05-09,San Luis Obispo,303,1,31,0
+2020-05-10,San Luis Obispo,307,1,29,0
+2020-05-11,San Luis Obispo,310,1,29,0
+2020-05-12,San Luis Obispo,312,1,28,0
+2020-05-13,San Luis Obispo,315,1,29,0
+2020-05-14,San Luis Obispo,317,1,28,0
+2020-05-15,San Luis Obispo,320,1,20,0
+2020-05-16,San Luis Obispo,322,1,19,0
+2020-05-17,San Luis Obispo,323,1,16,0
+2020-05-18,San Luis Obispo,325,1,15,0
+2020-05-19,San Luis Obispo,329,1,17,0
+2020-05-20,San Luis Obispo,330,1,15,0
+2020-05-21,San Luis Obispo,336,1,19,0
+2020-05-22,San Luis Obispo,336,1,16,0
+2020-05-23,San Luis Obispo,336,1,14,0
+2020-05-24,San Luis Obispo,340,1,17,0
+2020-05-25,San Luis Obispo,342,1,17,0
+2020-05-26,San Luis Obispo,345,1,16,0
+2020-05-27,San Luis Obispo,347,1,17,0
+2020-05-28,San Luis Obispo,352,1,16,0
+2020-05-29,San Luis Obispo,355,1,19,0
+2020-05-30,San Luis Obispo,359,1,23,0
+2020-05-31,San Luis Obispo,364,1,24,0
+2020-06-01,San Luis Obispo,374,1,32,0
+2020-06-02,San Luis Obispo,378,1,33,0
+2020-06-03,San Luis Obispo,384,1,37,0
+2020-06-04,San Luis Obispo,389,1,37,0
+2020-06-05,San Luis Obispo,400,1,45,0
+2020-06-06,San Luis Obispo,407,1,48,0
+2020-06-07,San Luis Obispo,413,1,49,0
+2020-06-08,San Luis Obispo,423,1,49,0
+2020-06-09,San Luis Obispo,429,1,51,0
+2020-06-10,San Luis Obispo,442,1,58,0
+2020-06-11,San Luis Obispo,462,1,73,0
+2020-06-12,San Luis Obispo,476,1,76,0
+2020-06-13,San Luis Obispo,492,1,85,0
+2020-06-14,San Luis Obispo,503,1,90,0
+2020-06-15,San Luis Obispo,518,1,95,0
+2020-06-16,San Luis Obispo,533,1,104,0
+2020-06-17,San Luis Obispo,557,1,115,0
+2020-06-18,San Luis Obispo,577,1,115,0
+2020-06-19,San Luis Obispo,597,1,121,0
+2020-06-20,San Luis Obispo,613,1,121,0
+2020-06-21,San Luis Obispo,626,1,123,0
+2020-06-22,San Luis Obispo,652,1,134,0
+2020-06-23,San Luis Obispo,685,1,152,0
+2020-06-24,San Luis Obispo,716,1,159,0
+2020-06-25,San Luis Obispo,748,1,171,0
+2020-06-26,San Luis Obispo,780,1,183,0
+2020-06-27,San Luis Obispo,795,1,182,0
+2020-06-28,San Luis Obispo,819,1,193,0
+2020-06-29,San Luis Obispo,859,1,207,0
+2020-06-30,San Luis Obispo,893,1,208,0
 2020-04-01,San Mateo,756,13,183,8
 2020-04-02,San Mateo,774,13,166,8
 2020-04-03,San Mateo,795,13,153,6
@@ -3756,71 +3756,71 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-04-24,Santa Barbara,513,6,47,3
 2020-04-25,Santa Barbara,519,7,48,4
 2020-04-26,Santa Barbara,526,7,49,4
-2020-04-27,Santa Barbara,534,7,49,3
-2020-04-28,Santa Barbara,545,7,53,2
-2020-04-29,Santa Barbara,552,7,50,1
-2020-04-30,Santa Barbara,568,7,61,1
-2020-05-01,Santa Barbara,586,7,73,1
-2020-05-02,Santa Barbara,597,7,78,0
-2020-05-03,Santa Barbara,609,7,83,0
-2020-05-04,Santa Barbara,977,7,443,0
-2020-05-05,Santa Barbara,1236,7,691,0
-2020-05-06,Santa Barbara,1464,8,912,1
-2020-05-07,Santa Barbara,1508,8,940,1
-2020-05-08,Santa Barbara,1536,8,950,1
-2020-05-09,Santa Barbara,1545,10,948,3
-2020-05-10,Santa Barbara,1555,10,946,3
-2020-05-11,Santa Barbara,1568,10,591,3
-2020-05-12,Santa Barbara,1589,10,353,3
-2020-05-13,Santa Barbara,1623,10,159,2
-2020-05-14,Santa Barbara,1636,11,128,3
-2020-05-15,Santa Barbara,1650,10,114,2
-2020-05-16,Santa Barbara,1659,10,114,0
-2020-05-17,Santa Barbara,1672,10,117,0
-2020-05-18,Santa Barbara,1695,10,127,0
-2020-05-19,Santa Barbara,1707,10,118,0
-2020-05-20,Santa Barbara,1723,10,100,0
-2020-05-21,Santa Barbara,1745,10,109,-1
-2020-05-22,Santa Barbara,1763,9,113,-1
-2020-05-23,Santa Barbara,1773,9,114,-1
-2020-05-24,Santa Barbara,1782,9,110,-1
-2020-05-25,Santa Barbara,1795,9,100,-1
-2020-05-26,Santa Barbara,1805,9,98,-1
-2020-05-27,Santa Barbara,1825,9,102,-1
-2020-05-28,Santa Barbara,1843,9,98,-1
-2020-05-29,Santa Barbara,1879,9,116,0
-2020-05-30,Santa Barbara,1908,9,135,0
-2020-05-31,Santa Barbara,1928,9,146,0
-2020-06-01,Santa Barbara,1982,10,187,1
-2020-06-02,Santa Barbara,2020,12,215,3
-2020-06-03,Santa Barbara,2063,12,238,3
-2020-06-04,Santa Barbara,2102,13,259,4
-2020-06-05,Santa Barbara,2134,13,255,4
-2020-06-06,Santa Barbara,2167,13,259,4
-2020-06-07,Santa Barbara,2207,13,279,4
-2020-06-08,Santa Barbara,2265,13,283,3
-2020-06-09,Santa Barbara,2321,13,301,1
-2020-06-10,Santa Barbara,2379,13,316,1
-2020-06-11,Santa Barbara,2435,14,333,1
-2020-06-12,Santa Barbara,2496,14,362,1
-2020-06-13,Santa Barbara,2550,15,383,2
-2020-06-14,Santa Barbara,2608,17,401,4
-2020-06-15,Santa Barbara,2685,16,420,3
-2020-06-16,Santa Barbara,2754,16,433,3
-2020-06-17,Santa Barbara,2821,19,442,6
-2020-06-18,Santa Barbara,2894,19,459,5
-2020-06-19,Santa Barbara,2968,21,472,7
-2020-06-20,Santa Barbara,3041,21,491,6
-2020-06-21,Santa Barbara,3097,21,489,4
-2020-06-22,Santa Barbara,3204,21,519,5
-2020-06-23,Santa Barbara,3296,22,542,6
-2020-06-24,Santa Barbara,3393,22,572,3
-2020-06-25,Santa Barbara,3513,25,619,6
-2020-06-26,Santa Barbara,3619,25,651,4
-2020-06-27,Santa Barbara,3709,25,668,4
-2020-06-28,Santa Barbara,3781,25,684,4
-2020-06-29,Santa Barbara,3926,25,722,4
-2020-06-30,Santa Barbara,4035,25,739,3
+2020-04-27,Santa Barbara,533,7,48,3
+2020-04-28,Santa Barbara,542,7,50,2
+2020-04-29,Santa Barbara,547,7,45,1
+2020-04-30,Santa Barbara,562,7,55,1
+2020-05-01,Santa Barbara,574,7,61,1
+2020-05-02,Santa Barbara,583,7,64,0
+2020-05-03,Santa Barbara,591,7,65,0
+2020-05-04,Santa Barbara,951,7,418,0
+2020-05-05,Santa Barbara,1200,7,658,0
+2020-05-06,Santa Barbara,1424,8,877,1
+2020-05-07,Santa Barbara,1465,8,903,1
+2020-05-08,Santa Barbara,1493,8,919,1
+2020-05-09,Santa Barbara,1502,10,919,3
+2020-05-10,Santa Barbara,1512,10,921,3
+2020-05-11,Santa Barbara,1525,10,574,3
+2020-05-12,Santa Barbara,1546,10,346,3
+2020-05-13,Santa Barbara,1580,10,156,2
+2020-05-14,Santa Barbara,1593,11,128,3
+2020-05-15,Santa Barbara,1607,10,114,2
+2020-05-16,Santa Barbara,1616,10,114,0
+2020-05-17,Santa Barbara,1629,10,117,0
+2020-05-18,Santa Barbara,1652,10,127,0
+2020-05-19,Santa Barbara,1664,10,118,0
+2020-05-20,Santa Barbara,1680,10,100,0
+2020-05-21,Santa Barbara,1702,10,109,-1
+2020-05-22,Santa Barbara,1720,9,113,-1
+2020-05-23,Santa Barbara,1730,9,114,-1
+2020-05-24,Santa Barbara,1739,9,110,-1
+2020-05-25,Santa Barbara,1752,9,100,-1
+2020-05-26,Santa Barbara,1762,9,98,-1
+2020-05-27,Santa Barbara,1782,9,102,-1
+2020-05-28,Santa Barbara,1800,9,98,-1
+2020-05-29,Santa Barbara,1836,9,116,0
+2020-05-30,Santa Barbara,1865,9,135,0
+2020-05-31,Santa Barbara,1885,9,146,0
+2020-06-01,Santa Barbara,1939,10,187,1
+2020-06-02,Santa Barbara,1977,12,215,3
+2020-06-03,Santa Barbara,2020,12,238,3
+2020-06-04,Santa Barbara,2059,13,259,4
+2020-06-05,Santa Barbara,2091,13,255,4
+2020-06-06,Santa Barbara,2124,13,259,4
+2020-06-07,Santa Barbara,2164,13,279,4
+2020-06-08,Santa Barbara,2221,13,282,3
+2020-06-09,Santa Barbara,2277,13,300,1
+2020-06-10,Santa Barbara,2335,13,315,1
+2020-06-11,Santa Barbara,2391,14,332,1
+2020-06-12,Santa Barbara,2452,14,361,1
+2020-06-13,Santa Barbara,2506,15,382,2
+2020-06-14,Santa Barbara,2564,17,400,4
+2020-06-15,Santa Barbara,2641,16,420,3
+2020-06-16,Santa Barbara,2710,16,433,3
+2020-06-17,Santa Barbara,2777,19,442,6
+2020-06-18,Santa Barbara,2850,19,459,5
+2020-06-19,Santa Barbara,2924,21,472,7
+2020-06-20,Santa Barbara,2997,21,491,6
+2020-06-21,Santa Barbara,3053,21,489,4
+2020-06-22,Santa Barbara,3160,21,519,5
+2020-06-23,Santa Barbara,3252,22,542,6
+2020-06-24,Santa Barbara,3349,22,572,3
+2020-06-25,Santa Barbara,3469,25,619,6
+2020-06-26,Santa Barbara,3575,25,651,4
+2020-06-27,Santa Barbara,3665,25,668,4
+2020-06-28,Santa Barbara,3737,25,684,4
+2020-06-29,Santa Barbara,3882,25,722,4
+2020-06-30,Santa Barbara,3991,25,739,3
 2020-04-01,Santa Clara,1473,33,284,13
 2020-04-02,Santa Clara,1515,38,282,18
 2020-04-03,Santa Clara,1566,39,288,14
