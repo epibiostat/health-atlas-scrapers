@@ -406,19 +406,19 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-16,Contra Costa,184,0,112,0
 2020-03-17,Contra Costa,206,0,121,0
 2020-03-18,Contra Costa,228,0,134,0
-2020-03-19,Contra Costa,249,0,140,0
-2020-03-20,Contra Costa,265,1,139,1
-2020-03-21,Contra Costa,295,1,156,1
-2020-03-22,Contra Costa,306,1,145,1
-2020-03-23,Contra Costa,333,2,149,2
-2020-03-24,Contra Costa,353,1,147,1
-2020-03-25,Contra Costa,367,1,139,1
-2020-03-26,Contra Costa,381,2,132,2
-2020-03-27,Contra Costa,391,2,126,1
-2020-03-28,Contra Costa,412,4,117,3
-2020-03-29,Contra Costa,435,3,129,2
-2020-03-30,Contra Costa,465,3,132,1
-2020-03-31,Contra Costa,491,3,138,2
+2020-03-19,Contra Costa,250,0,141,0
+2020-03-20,Contra Costa,266,1,140,1
+2020-03-21,Contra Costa,296,1,157,1
+2020-03-22,Contra Costa,307,1,146,1
+2020-03-23,Contra Costa,334,2,150,2
+2020-03-24,Contra Costa,354,1,148,1
+2020-03-25,Contra Costa,368,1,140,1
+2020-03-26,Contra Costa,382,2,132,2
+2020-03-27,Contra Costa,392,2,126,1
+2020-03-28,Contra Costa,413,4,117,3
+2020-03-29,Contra Costa,436,3,129,2
+2020-03-30,Contra Costa,466,3,132,1
+2020-03-31,Contra Costa,492,3,138,2
 2020-02-01,Del Norte,0,0,N,N
 2020-02-02,Del Norte,0,0,N,N
 2020-02-03,Del Norte,0,0,N,N
@@ -1092,27 +1092,27 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-02-11,Los Angeles,30,0,9,0
 2020-02-12,Los Angeles,30,0,9,0
 2020-02-13,Los Angeles,31,0,10,0
-2020-02-14,Los Angeles,35,0,13,0
-2020-02-15,Los Angeles,40,0,17,0
-2020-02-16,Los Angeles,43,0,16,0
-2020-02-17,Los Angeles,49,0,21,0
-2020-02-18,Los Angeles,52,0,22,0
-2020-02-19,Los Angeles,55,0,25,0
-2020-02-20,Los Angeles,58,0,27,0
-2020-02-21,Los Angeles,59,0,24,0
-2020-02-22,Los Angeles,63,0,23,0
-2020-02-23,Los Angeles,65,0,22,0
-2020-02-24,Los Angeles,73,0,24,0
-2020-02-25,Los Angeles,78,0,26,0
-2020-02-26,Los Angeles,90,0,35,0
-2020-02-27,Los Angeles,96,0,38,0
-2020-02-28,Los Angeles,103,0,44,0
-2020-02-29,Los Angeles,111,0,48,0
-2020-03-01,Los Angeles,139,0,74,0
-2020-03-02,Los Angeles,158,0,85,0
-2020-03-03,Los Angeles,173,0,95,0
-2020-03-04,Los Angeles,192,0,102,0
-2020-03-05,Los Angeles,227,0,131,0
+2020-02-14,Los Angeles,34,0,12,0
+2020-02-15,Los Angeles,39,0,16,0
+2020-02-16,Los Angeles,42,0,15,0
+2020-02-17,Los Angeles,48,0,20,0
+2020-02-18,Los Angeles,51,0,21,0
+2020-02-19,Los Angeles,54,0,24,0
+2020-02-20,Los Angeles,57,0,26,0
+2020-02-21,Los Angeles,58,0,24,0
+2020-02-22,Los Angeles,62,0,23,0
+2020-02-23,Los Angeles,64,0,22,0
+2020-02-24,Los Angeles,72,0,24,0
+2020-02-25,Los Angeles,77,0,26,0
+2020-02-26,Los Angeles,89,0,35,0
+2020-02-27,Los Angeles,95,0,38,0
+2020-02-28,Los Angeles,103,0,45,0
+2020-02-29,Los Angeles,111,0,49,0
+2020-03-01,Los Angeles,139,0,75,0
+2020-03-02,Los Angeles,158,0,86,0
+2020-03-03,Los Angeles,173,0,96,0
+2020-03-04,Los Angeles,192,0,103,0
+2020-03-05,Los Angeles,227,0,132,0
 2020-03-06,Los Angeles,274,0,171,0
 2020-03-07,Los Angeles,318,0,207,0
 2020-03-08,Los Angeles,368,0,229,0
@@ -1185,20 +1185,20 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-15,Madera,21,0,13,0
 2020-03-16,Madera,22,0,14,0
 2020-03-17,Madera,23,0,15,0
-2020-03-18,Madera,30,0,17,0
-2020-03-19,Madera,31,0,15,0
-2020-03-20,Madera,32,0,13,0
-2020-03-21,Madera,33,0,13,0
-2020-03-22,Madera,33,0,12,0
-2020-03-23,Madera,36,0,14,0
-2020-03-24,Madera,36,0,13,0
-2020-03-25,Madera,37,0,7,0
-2020-03-26,Madera,39,0,8,0
-2020-03-27,Madera,41,1,9,1
-2020-03-28,Madera,43,2,10,2
-2020-03-29,Madera,43,1,10,1
-2020-03-30,Madera,48,1,12,1
-2020-03-31,Madera,49,1,13,1
+2020-03-18,Madera,31,0,18,0
+2020-03-19,Madera,32,0,16,0
+2020-03-20,Madera,33,0,14,0
+2020-03-21,Madera,34,0,14,0
+2020-03-22,Madera,34,0,13,0
+2020-03-23,Madera,37,0,15,0
+2020-03-24,Madera,37,0,14,0
+2020-03-25,Madera,38,0,7,0
+2020-03-26,Madera,40,0,8,0
+2020-03-27,Madera,42,1,9,1
+2020-03-28,Madera,44,2,10,2
+2020-03-29,Madera,44,1,10,1
+2020-03-30,Madera,49,1,12,1
+2020-03-31,Madera,50,1,13,1
 2020-02-01,Marin,0,0,N,N
 2020-02-02,Marin,0,0,N,N
 2020-02-03,Marin,0,0,N,N
@@ -2391,14 +2391,14 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-21,San Luis Obispo,85,0,44,0
 2020-03-22,San Luis Obispo,90,0,44,0
 2020-03-23,San Luis Obispo,97,0,41,0
-2020-03-24,San Luis Obispo,104,0,41,0
-2020-03-25,San Luis Obispo,107,0,36,0
-2020-03-26,San Luis Obispo,112,0,34,0
-2020-03-27,San Luis Obispo,117,0,36,0
-2020-03-28,San Luis Obispo,119,0,34,0
-2020-03-29,San Luis Obispo,121,0,31,0
-2020-03-30,San Luis Obispo,128,0,31,0
-2020-03-31,San Luis Obispo,131,0,27,0
+2020-03-24,San Luis Obispo,103,0,40,0
+2020-03-25,San Luis Obispo,106,0,35,0
+2020-03-26,San Luis Obispo,111,0,33,0
+2020-03-27,San Luis Obispo,116,0,35,0
+2020-03-28,San Luis Obispo,118,0,33,0
+2020-03-29,San Luis Obispo,120,0,30,0
+2020-03-30,San Luis Obispo,127,0,30,0
+2020-03-31,San Luis Obispo,130,0,27,0
 2020-02-01,San Mateo,0,0,N,N
 2020-02-02,San Mateo,0,0,N,N
 2020-02-03,San Mateo,0,0,N,N
@@ -2508,17 +2508,17 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-18,Santa Barbara,77,0,64,0
 2020-03-19,Santa Barbara,85,0,63,0
 2020-03-20,Santa Barbara,97,0,64,0
-2020-03-21,Santa Barbara,110,0,73,0
-2020-03-22,Santa Barbara,121,0,75,0
-2020-03-23,Santa Barbara,135,0,80,0
-2020-03-24,Santa Barbara,153,0,88,0
-2020-03-25,Santa Barbara,159,0,82,0
-2020-03-26,Santa Barbara,169,0,84,0
-2020-03-27,Santa Barbara,182,0,85,0
-2020-03-28,Santa Barbara,196,0,86,0
-2020-03-29,Santa Barbara,206,0,85,0
-2020-03-30,Santa Barbara,214,0,79,0
-2020-03-31,Santa Barbara,223,0,70,0
+2020-03-21,Santa Barbara,109,0,72,0
+2020-03-22,Santa Barbara,120,0,74,0
+2020-03-23,Santa Barbara,134,0,79,0
+2020-03-24,Santa Barbara,152,0,87,0
+2020-03-25,Santa Barbara,158,0,81,0
+2020-03-26,Santa Barbara,168,0,83,0
+2020-03-27,Santa Barbara,181,0,84,0
+2020-03-28,Santa Barbara,195,0,86,0
+2020-03-29,Santa Barbara,205,0,85,0
+2020-03-30,Santa Barbara,213,0,79,0
+2020-03-31,Santa Barbara,222,0,70,0
 2020-02-01,Santa Clara,2,0,N,N
 2020-02-02,Santa Clara,2,0,N,N
 2020-02-03,Santa Clara,2,0,N,N
