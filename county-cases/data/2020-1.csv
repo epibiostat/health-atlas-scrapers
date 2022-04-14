@@ -1781,24 +1781,24 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-11,Orange,202,0,125,0
 2020-03-12,Orange,231,0,151,0
 2020-03-13,Orange,268,0,173,0
-2020-03-14,Orange,307,0,186,0
-2020-03-15,Orange,346,0,217,0
-2020-03-16,Orange,414,0,260,0
-2020-03-17,Orange,497,0,315,-1
-2020-03-18,Orange,575,0,373,0
-2020-03-19,Orange,632,0,401,0
-2020-03-20,Orange,714,2,446,2
-2020-03-21,Orange,761,0,454,0
-2020-03-22,Orange,810,0,464,0
-2020-03-23,Orange,882,0,468,0
-2020-03-24,Orange,937,0,440,0
-2020-03-25,Orange,999,1,424,1
-2020-03-26,Orange,1057,1,425,1
-2020-03-27,Orange,1119,2,405,0
-2020-03-28,Orange,1169,4,408,4
-2020-03-29,Orange,1205,2,395,2
-2020-03-30,Orange,1278,5,396,5
-2020-03-31,Orange,1344,7,407,7
+2020-03-14,Orange,308,0,187,0
+2020-03-15,Orange,347,0,218,0
+2020-03-16,Orange,415,0,261,0
+2020-03-17,Orange,498,0,316,-1
+2020-03-18,Orange,576,0,374,0
+2020-03-19,Orange,633,0,402,0
+2020-03-20,Orange,715,2,447,2
+2020-03-21,Orange,762,0,454,0
+2020-03-22,Orange,811,0,464,0
+2020-03-23,Orange,883,0,468,0
+2020-03-24,Orange,938,0,440,0
+2020-03-25,Orange,1000,1,424,1
+2020-03-26,Orange,1058,1,425,1
+2020-03-27,Orange,1120,2,405,0
+2020-03-28,Orange,1170,4,408,4
+2020-03-29,Orange,1206,2,395,2
+2020-03-30,Orange,1279,5,396,5
+2020-03-31,Orange,1345,7,407,7
 2020-02-01,Placer,0,0,N,N
 2020-02-02,Placer,0,0,N,N
 2020-02-03,Placer,0,0,N,N
@@ -2381,24 +2381,24 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-11,San Luis Obispo,23,0,19,0
 2020-03-12,San Luis Obispo,26,0,22,0
 2020-03-13,San Luis Obispo,33,0,29,0
-2020-03-14,San Luis Obispo,41,0,35,0
-2020-03-15,San Luis Obispo,46,0,37,0
-2020-03-16,San Luis Obispo,56,0,41,0
-2020-03-17,San Luis Obispo,63,0,48,0
-2020-03-18,San Luis Obispo,71,0,48,0
-2020-03-19,San Luis Obispo,78,0,52,0
-2020-03-20,San Luis Obispo,81,0,48,0
-2020-03-21,San Luis Obispo,85,0,44,0
-2020-03-22,San Luis Obispo,90,0,44,0
-2020-03-23,San Luis Obispo,97,0,41,0
-2020-03-24,San Luis Obispo,103,0,40,0
-2020-03-25,San Luis Obispo,106,0,35,0
-2020-03-26,San Luis Obispo,111,0,33,0
-2020-03-27,San Luis Obispo,116,0,35,0
-2020-03-28,San Luis Obispo,118,0,33,0
-2020-03-29,San Luis Obispo,120,0,30,0
-2020-03-30,San Luis Obispo,127,0,30,0
-2020-03-31,San Luis Obispo,130,0,27,0
+2020-03-14,San Luis Obispo,40,0,34,0
+2020-03-15,San Luis Obispo,45,0,36,0
+2020-03-16,San Luis Obispo,55,0,40,0
+2020-03-17,San Luis Obispo,62,0,47,0
+2020-03-18,San Luis Obispo,70,0,47,0
+2020-03-19,San Luis Obispo,77,0,51,0
+2020-03-20,San Luis Obispo,80,0,47,0
+2020-03-21,San Luis Obispo,84,0,44,0
+2020-03-22,San Luis Obispo,89,0,44,0
+2020-03-23,San Luis Obispo,96,0,41,0
+2020-03-24,San Luis Obispo,102,0,40,0
+2020-03-25,San Luis Obispo,105,0,35,0
+2020-03-26,San Luis Obispo,110,0,33,0
+2020-03-27,San Luis Obispo,115,0,35,0
+2020-03-28,San Luis Obispo,117,0,33,0
+2020-03-29,San Luis Obispo,119,0,30,0
+2020-03-30,San Luis Obispo,126,0,30,0
+2020-03-31,San Luis Obispo,129,0,27,0
 2020-02-01,San Mateo,0,0,N,N
 2020-02-02,San Mateo,0,0,N,N
 2020-02-03,San Mateo,0,0,N,N
