@@ -31,34 +31,34 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-01,Alameda,20,0,9,0
 2020-03-02,Alameda,21,0,8,0
 2020-03-03,Alameda,24,0,11,0
-2020-03-04,Alameda,29,0,16,0
-2020-03-05,Alameda,33,0,20,0
-2020-03-06,Alameda,38,0,24,0
-2020-03-07,Alameda,40,0,24,0
-2020-03-08,Alameda,45,0,25,0
-2020-03-09,Alameda,70,0,49,0
-2020-03-10,Alameda,98,0,74,0
-2020-03-11,Alameda,120,0,91,0
-2020-03-12,Alameda,151,0,118,0
-2020-03-13,Alameda,176,0,138,0
-2020-03-14,Alameda,195,0,155,0
-2020-03-15,Alameda,214,0,169,0
-2020-03-16,Alameda,260,0,190,0
-2020-03-17,Alameda,288,0,190,0
-2020-03-18,Alameda,320,0,200,0
-2020-03-19,Alameda,348,0,197,0
-2020-03-20,Alameda,384,0,208,0
-2020-03-21,Alameda,405,0,210,0
-2020-03-22,Alameda,429,1,215,1
-2020-03-23,Alameda,468,1,208,1
-2020-03-24,Alameda,499,2,211,2
-2020-03-25,Alameda,532,3,212,3
-2020-03-26,Alameda,553,4,205,4
-2020-03-27,Alameda,593,4,209,4
-2020-03-28,Alameda,611,12,206,12
-2020-03-29,Alameda,638,6,209,5
-2020-03-30,Alameda,672,7,204,6
-2020-03-31,Alameda,712,7,213,5
+2020-03-04,Alameda,30,0,17,0
+2020-03-05,Alameda,34,0,21,0
+2020-03-06,Alameda,39,0,25,0
+2020-03-07,Alameda,41,0,25,0
+2020-03-08,Alameda,46,0,26,0
+2020-03-09,Alameda,71,0,50,0
+2020-03-10,Alameda,99,0,75,0
+2020-03-11,Alameda,121,0,91,0
+2020-03-12,Alameda,153,0,119,0
+2020-03-13,Alameda,179,0,140,0
+2020-03-14,Alameda,198,0,157,0
+2020-03-15,Alameda,217,0,171,0
+2020-03-16,Alameda,264,0,193,0
+2020-03-17,Alameda,293,0,194,0
+2020-03-18,Alameda,325,0,204,0
+2020-03-19,Alameda,353,0,200,0
+2020-03-20,Alameda,389,0,210,0
+2020-03-21,Alameda,410,0,212,0
+2020-03-22,Alameda,434,1,217,1
+2020-03-23,Alameda,473,1,209,1
+2020-03-24,Alameda,504,2,211,2
+2020-03-25,Alameda,537,3,212,3
+2020-03-26,Alameda,558,4,205,4
+2020-03-27,Alameda,598,4,209,4
+2020-03-28,Alameda,617,12,207,12
+2020-03-29,Alameda,644,6,210,5
+2020-03-30,Alameda,678,7,205,6
+2020-03-31,Alameda,718,7,214,5
 2020-02-01,Alpine,0,0,N,N
 2020-02-02,Alpine,0,0,N,N
 2020-02-03,Alpine,0,0,N,N
@@ -157,28 +157,28 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-07,Amador,0,0,0,0
 2020-03-08,Amador,0,0,0,0
 2020-03-09,Amador,0,0,0,0
-2020-03-10,Amador,0,0,0,0
-2020-03-11,Amador,0,0,0,0
-2020-03-12,Amador,0,0,0,0
-2020-03-13,Amador,0,0,0,0
-2020-03-14,Amador,0,0,0,0
-2020-03-15,Amador,0,0,0,0
-2020-03-16,Amador,0,0,0,0
-2020-03-17,Amador,0,0,0,0
-2020-03-18,Amador,0,0,0,0
-2020-03-19,Amador,0,0,0,0
-2020-03-20,Amador,0,0,0,0
-2020-03-21,Amador,1,0,1,0
-2020-03-22,Amador,1,0,1,0
-2020-03-23,Amador,1,0,1,0
-2020-03-24,Amador,1,0,1,0
-2020-03-25,Amador,3,0,3,0
-2020-03-26,Amador,3,0,3,0
-2020-03-27,Amador,3,0,3,0
-2020-03-28,Amador,4,0,3,0
-2020-03-29,Amador,4,0,3,0
-2020-03-30,Amador,4,0,3,0
-2020-03-31,Amador,4,0,3,0
+2020-03-10,Amador,1,0,1,0
+2020-03-11,Amador,1,0,1,0
+2020-03-12,Amador,1,0,1,0
+2020-03-13,Amador,1,0,1,0
+2020-03-14,Amador,1,0,1,0
+2020-03-15,Amador,1,0,1,0
+2020-03-16,Amador,1,0,1,0
+2020-03-17,Amador,1,0,0,0
+2020-03-18,Amador,1,0,0,0
+2020-03-19,Amador,1,0,0,0
+2020-03-20,Amador,1,0,0,0
+2020-03-21,Amador,2,0,1,0
+2020-03-22,Amador,2,0,1,0
+2020-03-23,Amador,2,0,1,0
+2020-03-24,Amador,2,0,1,0
+2020-03-25,Amador,4,0,3,0
+2020-03-26,Amador,4,0,3,0
+2020-03-27,Amador,4,0,3,0
+2020-03-28,Amador,5,0,3,0
+2020-03-29,Amador,5,0,3,0
+2020-03-30,Amador,5,0,3,0
+2020-03-31,Amador,5,0,3,0
 2020-02-01,Butte,0,0,N,N
 2020-02-02,Butte,0,0,N,N
 2020-02-03,Butte,0,0,N,N
@@ -283,22 +283,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,Calaveras,2,0,0,0
 2020-03-14,Calaveras,2,0,0,0
 2020-03-15,Calaveras,2,0,0,0
-2020-03-16,Calaveras,2,0,0,0
-2020-03-17,Calaveras,2,0,0,0
-2020-03-18,Calaveras,2,0,0,0
-2020-03-19,Calaveras,2,0,0,0
-2020-03-20,Calaveras,2,0,0,0
-2020-03-21,Calaveras,2,0,0,0
-2020-03-22,Calaveras,2,0,0,0
-2020-03-23,Calaveras,2,0,0,0
-2020-03-24,Calaveras,2,0,0,0
-2020-03-25,Calaveras,3,0,1,0
-2020-03-26,Calaveras,3,0,1,0
-2020-03-27,Calaveras,3,0,1,0
-2020-03-28,Calaveras,3,0,1,0
-2020-03-29,Calaveras,3,0,1,0
-2020-03-30,Calaveras,3,0,1,0
-2020-03-31,Calaveras,3,0,1,0
+2020-03-16,Calaveras,4,0,2,0
+2020-03-17,Calaveras,4,0,2,0
+2020-03-18,Calaveras,4,0,2,0
+2020-03-19,Calaveras,4,0,2,0
+2020-03-20,Calaveras,4,0,2,0
+2020-03-21,Calaveras,4,0,2,0
+2020-03-22,Calaveras,4,0,2,0
+2020-03-23,Calaveras,5,0,1,0
+2020-03-24,Calaveras,5,0,1,0
+2020-03-25,Calaveras,6,0,2,0
+2020-03-26,Calaveras,6,0,2,0
+2020-03-27,Calaveras,6,0,2,0
+2020-03-28,Calaveras,6,0,2,0
+2020-03-29,Calaveras,6,0,2,0
+2020-03-30,Calaveras,6,0,1,0
+2020-03-31,Calaveras,6,0,1,0
 2020-02-01,Colusa,0,0,N,N
 2020-02-02,Colusa,0,0,N,N
 2020-02-03,Colusa,0,0,N,N
@@ -401,24 +401,24 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-11,Contra Costa,94,0,60,0
 2020-03-12,Contra Costa,109,0,70,0
 2020-03-13,Contra Costa,126,0,80,0
-2020-03-14,Contra Costa,139,0,84,0
-2020-03-15,Contra Costa,161,0,103,0
-2020-03-16,Contra Costa,184,0,112,0
-2020-03-17,Contra Costa,206,0,121,0
-2020-03-18,Contra Costa,228,0,134,0
-2020-03-19,Contra Costa,250,0,141,0
-2020-03-20,Contra Costa,266,1,140,1
-2020-03-21,Contra Costa,296,1,157,1
-2020-03-22,Contra Costa,307,1,146,1
-2020-03-23,Contra Costa,334,2,150,2
-2020-03-24,Contra Costa,354,1,148,1
-2020-03-25,Contra Costa,368,1,140,1
-2020-03-26,Contra Costa,382,2,132,2
-2020-03-27,Contra Costa,392,2,126,1
-2020-03-28,Contra Costa,413,4,117,3
-2020-03-29,Contra Costa,436,3,129,2
-2020-03-30,Contra Costa,466,3,132,1
-2020-03-31,Contra Costa,492,3,138,2
+2020-03-14,Contra Costa,140,0,85,0
+2020-03-15,Contra Costa,162,0,104,0
+2020-03-16,Contra Costa,187,0,115,0
+2020-03-17,Contra Costa,211,0,126,0
+2020-03-18,Contra Costa,233,0,139,0
+2020-03-19,Contra Costa,255,0,146,0
+2020-03-20,Contra Costa,271,1,145,1
+2020-03-21,Contra Costa,301,1,161,1
+2020-03-22,Contra Costa,312,1,150,1
+2020-03-23,Contra Costa,339,2,152,2
+2020-03-24,Contra Costa,359,1,148,1
+2020-03-25,Contra Costa,373,1,140,1
+2020-03-26,Contra Costa,387,2,132,2
+2020-03-27,Contra Costa,397,2,126,1
+2020-03-28,Contra Costa,418,4,117,3
+2020-03-29,Contra Costa,441,3,129,2
+2020-03-30,Contra Costa,471,3,132,1
+2020-03-31,Contra Costa,497,3,138,2
 2020-02-01,Del Norte,0,0,N,N
 2020-02-02,Del Norte,0,0,N,N
 2020-02-03,Del Norte,0,0,N,N
@@ -514,31 +514,31 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-04,El Dorado,1,0,1,0
 2020-03-05,El Dorado,1,0,1,0
 2020-03-06,El Dorado,3,0,3,0
-2020-03-07,El Dorado,3,0,2,0
-2020-03-08,El Dorado,4,0,3,0
-2020-03-09,El Dorado,4,0,3,0
-2020-03-10,El Dorado,6,0,5,0
-2020-03-11,El Dorado,7,0,6,0
-2020-03-12,El Dorado,8,0,7,0
-2020-03-13,El Dorado,10,0,7,0
-2020-03-14,El Dorado,11,0,8,0
-2020-03-15,El Dorado,13,0,9,0
-2020-03-16,El Dorado,14,0,10,0
-2020-03-17,El Dorado,15,0,9,0
-2020-03-18,El Dorado,16,0,9,0
-2020-03-19,El Dorado,17,0,9,0
-2020-03-20,El Dorado,19,0,9,0
-2020-03-21,El Dorado,20,0,9,0
-2020-03-22,El Dorado,23,0,10,0
-2020-03-23,El Dorado,25,0,11,0
-2020-03-24,El Dorado,26,0,11,0
-2020-03-25,El Dorado,26,0,10,0
-2020-03-26,El Dorado,26,0,9,0
-2020-03-27,El Dorado,28,0,9,0
-2020-03-28,El Dorado,30,0,10,0
-2020-03-29,El Dorado,31,0,8,0
-2020-03-30,El Dorado,32,0,7,0
-2020-03-31,El Dorado,32,0,6,0
+2020-03-07,El Dorado,4,0,3,0
+2020-03-08,El Dorado,5,0,4,0
+2020-03-09,El Dorado,5,0,4,0
+2020-03-10,El Dorado,7,0,6,0
+2020-03-11,El Dorado,8,0,7,0
+2020-03-12,El Dorado,9,0,8,0
+2020-03-13,El Dorado,11,0,8,0
+2020-03-14,El Dorado,12,0,8,0
+2020-03-15,El Dorado,14,0,9,0
+2020-03-16,El Dorado,15,0,10,0
+2020-03-17,El Dorado,16,0,9,0
+2020-03-18,El Dorado,17,0,9,0
+2020-03-19,El Dorado,18,0,9,0
+2020-03-20,El Dorado,20,0,9,0
+2020-03-21,El Dorado,21,0,9,0
+2020-03-22,El Dorado,24,0,10,0
+2020-03-23,El Dorado,26,0,11,0
+2020-03-24,El Dorado,27,0,11,0
+2020-03-25,El Dorado,27,0,10,0
+2020-03-26,El Dorado,27,0,9,0
+2020-03-27,El Dorado,29,0,9,0
+2020-03-28,El Dorado,31,0,10,0
+2020-03-29,El Dorado,32,0,8,0
+2020-03-30,El Dorado,33,0,7,0
+2020-03-31,El Dorado,33,0,6,0
 2020-02-01,Fresno,0,0,N,N
 2020-02-02,Fresno,0,0,N,N
 2020-02-03,Fresno,0,0,N,N
@@ -709,16 +709,16 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-19,Humboldt,23,0,17,0
 2020-03-20,Humboldt,25,0,18,0
 2020-03-21,Humboldt,25,0,18,0
-2020-03-22,Humboldt,27,0,16,0
-2020-03-23,Humboldt,30,0,17,0
-2020-03-24,Humboldt,32,0,15,0
-2020-03-25,Humboldt,34,0,15,0
-2020-03-26,Humboldt,37,0,14,0
-2020-03-27,Humboldt,41,0,16,0
-2020-03-28,Humboldt,45,0,20,0
-2020-03-29,Humboldt,45,0,18,0
-2020-03-30,Humboldt,48,0,18,0
-2020-03-31,Humboldt,50,0,18,0
+2020-03-22,Humboldt,28,0,17,0
+2020-03-23,Humboldt,31,0,18,0
+2020-03-24,Humboldt,33,0,16,0
+2020-03-25,Humboldt,35,0,16,0
+2020-03-26,Humboldt,38,0,15,0
+2020-03-27,Humboldt,42,0,17,0
+2020-03-28,Humboldt,46,0,21,0
+2020-03-29,Humboldt,46,0,18,0
+2020-03-30,Humboldt,49,0,18,0
+2020-03-31,Humboldt,51,0,18,0
 2020-02-01,Imperial,0,0,N,N
 2020-02-02,Imperial,1,0,N,N
 2020-02-03,Imperial,1,0,N,N
@@ -1241,24 +1241,24 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-11,Marin,17,0,7,0
 2020-03-12,Marin,24,0,14,0
 2020-03-13,Marin,34,0,24,0
-2020-03-14,Marin,36,0,25,0
-2020-03-15,Marin,37,0,24,0
-2020-03-16,Marin,43,0,28,0
-2020-03-17,Marin,46,0,30,0
-2020-03-18,Marin,53,0,36,0
-2020-03-19,Marin,58,0,34,0
-2020-03-20,Marin,61,0,27,0
-2020-03-21,Marin,64,0,28,0
-2020-03-22,Marin,69,0,32,0
-2020-03-23,Marin,79,0,36,0
-2020-03-24,Marin,84,0,38,0
-2020-03-25,Marin,95,0,42,0
-2020-03-26,Marin,101,0,43,0
-2020-03-27,Marin,110,0,49,0
-2020-03-28,Marin,115,0,51,0
-2020-03-29,Marin,120,0,51,0
-2020-03-30,Marin,125,0,46,0
-2020-03-31,Marin,132,1,48,1
+2020-03-14,Marin,37,0,26,0
+2020-03-15,Marin,41,0,28,0
+2020-03-16,Marin,48,0,33,0
+2020-03-17,Marin,51,0,35,0
+2020-03-18,Marin,58,0,41,0
+2020-03-19,Marin,63,0,39,0
+2020-03-20,Marin,66,0,32,0
+2020-03-21,Marin,69,0,32,0
+2020-03-22,Marin,74,0,33,0
+2020-03-23,Marin,84,0,36,0
+2020-03-24,Marin,89,0,38,0
+2020-03-25,Marin,100,0,42,0
+2020-03-26,Marin,106,0,43,0
+2020-03-27,Marin,115,0,49,0
+2020-03-28,Marin,120,0,51,0
+2020-03-29,Marin,125,0,51,0
+2020-03-30,Marin,130,0,46,0
+2020-03-31,Marin,137,1,48,1
 2020-02-01,Mariposa,0,0,N,N
 2020-02-02,Mariposa,0,0,N,N
 2020-02-03,Mariposa,0,0,N,N
@@ -1841,24 +1841,24 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-11,Placer,18,1,9,0
 2020-03-12,Placer,23,1,13,0
 2020-03-13,Placer,27,1,17,0
-2020-03-14,Placer,28,1,17,0
-2020-03-15,Placer,31,1,20,0
-2020-03-16,Placer,36,1,24,0
-2020-03-17,Placer,44,1,30,0
-2020-03-18,Placer,54,1,36,0
-2020-03-19,Placer,61,1,38,0
-2020-03-20,Placer,69,1,42,0
-2020-03-21,Placer,75,1,47,0
-2020-03-22,Placer,84,1,53,0
-2020-03-23,Placer,87,1,51,0
-2020-03-24,Placer,90,1,46,0
-2020-03-25,Placer,97,1,43,0
-2020-03-26,Placer,103,1,42,0
-2020-03-27,Placer,106,1,37,0
-2020-03-28,Placer,109,2,34,1
-2020-03-29,Placer,114,2,30,1
-2020-03-30,Placer,115,2,28,1
-2020-03-31,Placer,118,2,28,1
+2020-03-14,Placer,29,1,18,0
+2020-03-15,Placer,33,1,22,0
+2020-03-16,Placer,39,1,27,0
+2020-03-17,Placer,47,1,33,0
+2020-03-18,Placer,57,1,39,0
+2020-03-19,Placer,64,1,41,0
+2020-03-20,Placer,72,1,45,0
+2020-03-21,Placer,78,1,49,0
+2020-03-22,Placer,87,1,54,0
+2020-03-23,Placer,90,1,51,0
+2020-03-24,Placer,93,1,46,0
+2020-03-25,Placer,100,1,43,0
+2020-03-26,Placer,106,1,42,0
+2020-03-27,Placer,109,1,37,0
+2020-03-28,Placer,112,2,34,1
+2020-03-29,Placer,117,2,30,1
+2020-03-30,Placer,118,2,28,1
+2020-03-31,Placer,121,2,28,1
 2020-02-01,Plumas,0,0,N,N
 2020-02-02,Plumas,0,0,N,N
 2020-02-03,Plumas,0,0,N,N
@@ -2010,35 +2010,35 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-02-29,Sacramento,16,0,10,0
 2020-03-01,Sacramento,21,0,15,0
 2020-03-02,Sacramento,25,0,18,0
-2020-03-03,Sacramento,30,0,22,0
-2020-03-04,Sacramento,31,0,21,0
-2020-03-05,Sacramento,36,0,26,0
-2020-03-06,Sacramento,42,0,32,0
-2020-03-07,Sacramento,51,0,35,0
-2020-03-08,Sacramento,64,0,43,0
-2020-03-09,Sacramento,74,0,49,0
-2020-03-10,Sacramento,78,0,48,0
-2020-03-11,Sacramento,87,1,56,1
-2020-03-12,Sacramento,105,1,69,1
-2020-03-13,Sacramento,129,1,87,1
-2020-03-14,Sacramento,151,1,100,1
-2020-03-15,Sacramento,172,1,108,1
-2020-03-16,Sacramento,208,1,134,1
-2020-03-17,Sacramento,235,1,157,1
-2020-03-18,Sacramento,255,3,168,2
-2020-03-19,Sacramento,278,3,173,2
-2020-03-20,Sacramento,311,4,182,3
-2020-03-21,Sacramento,332,3,181,2
-2020-03-22,Sacramento,359,4,187,3
-2020-03-23,Sacramento,391,4,183,3
-2020-03-24,Sacramento,424,4,189,3
-2020-03-25,Sacramento,443,5,188,2
-2020-03-26,Sacramento,469,5,191,2
-2020-03-27,Sacramento,502,6,191,2
-2020-03-28,Sacramento,525,14,193,11
-2020-03-29,Sacramento,543,7,184,3
-2020-03-30,Sacramento,583,8,192,4
-2020-03-31,Sacramento,607,8,183,4
+2020-03-03,Sacramento,31,0,23,0
+2020-03-04,Sacramento,32,0,22,0
+2020-03-05,Sacramento,37,0,27,0
+2020-03-06,Sacramento,43,0,33,0
+2020-03-07,Sacramento,52,0,36,0
+2020-03-08,Sacramento,65,0,44,0
+2020-03-09,Sacramento,75,0,50,0
+2020-03-10,Sacramento,79,0,48,0
+2020-03-11,Sacramento,88,1,56,1
+2020-03-12,Sacramento,106,1,69,1
+2020-03-13,Sacramento,130,1,87,1
+2020-03-14,Sacramento,152,1,100,1
+2020-03-15,Sacramento,174,1,109,1
+2020-03-16,Sacramento,210,1,135,1
+2020-03-17,Sacramento,237,1,158,1
+2020-03-18,Sacramento,257,3,169,2
+2020-03-19,Sacramento,280,3,174,2
+2020-03-20,Sacramento,313,4,183,3
+2020-03-21,Sacramento,334,3,182,2
+2020-03-22,Sacramento,361,4,187,3
+2020-03-23,Sacramento,393,4,183,3
+2020-03-24,Sacramento,426,4,189,3
+2020-03-25,Sacramento,445,5,188,2
+2020-03-26,Sacramento,471,5,191,2
+2020-03-27,Sacramento,504,6,191,2
+2020-03-28,Sacramento,527,14,193,11
+2020-03-29,Sacramento,545,7,184,3
+2020-03-30,Sacramento,585,8,192,4
+2020-03-31,Sacramento,609,8,183,4
 2020-02-01,San Benito,0,0,N,N
 2020-02-02,San Benito,0,0,N,N
 2020-02-03,San Benito,0,0,N,N
@@ -2117,48 +2117,48 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-02-16,San Bernardino,10,0,3,0
 2020-02-17,San Bernardino,11,0,4,0
 2020-02-18,San Bernardino,13,0,5,0
-2020-02-19,San Bernardino,13,0,5,0
-2020-02-20,San Bernardino,14,0,6,0
-2020-02-21,San Bernardino,15,0,6,0
-2020-02-22,San Bernardino,16,0,7,0
-2020-02-23,San Bernardino,18,0,8,0
-2020-02-24,San Bernardino,19,0,8,0
-2020-02-25,San Bernardino,19,0,6,0
-2020-02-26,San Bernardino,21,0,8,0
-2020-02-27,San Bernardino,23,0,9,0
-2020-02-28,San Bernardino,23,0,8,0
-2020-02-29,San Bernardino,23,0,7,0
-2020-03-01,San Bernardino,25,0,7,0
-2020-03-02,San Bernardino,27,0,8,0
-2020-03-03,San Bernardino,27,0,8,0
-2020-03-04,San Bernardino,30,0,9,0
-2020-03-05,San Bernardino,33,0,10,0
-2020-03-06,San Bernardino,38,0,15,0
-2020-03-07,San Bernardino,40,0,17,0
-2020-03-08,San Bernardino,42,0,17,0
-2020-03-09,San Bernardino,53,0,26,0
-2020-03-10,San Bernardino,64,0,37,0
-2020-03-11,San Bernardino,72,0,42,0
-2020-03-12,San Bernardino,79,0,46,0
-2020-03-13,San Bernardino,95,0,57,0
-2020-03-14,San Bernardino,102,0,62,0
-2020-03-15,San Bernardino,121,0,79,0
-2020-03-16,San Bernardino,143,0,90,0
-2020-03-17,San Bernardino,163,0,99,0
-2020-03-18,San Bernardino,191,0,119,0
-2020-03-19,San Bernardino,213,0,134,0
-2020-03-20,San Bernardino,243,0,148,0
-2020-03-21,San Bernardino,270,0,168,0
-2020-03-22,San Bernardino,290,0,169,0
-2020-03-23,San Bernardino,333,0,190,0
-2020-03-24,San Bernardino,363,0,200,0
-2020-03-25,San Bernardino,407,1,216,1
-2020-03-26,San Bernardino,446,1,233,1
-2020-03-27,San Bernardino,512,2,269,2
-2020-03-28,San Bernardino,602,4,332,4
-2020-03-29,San Bernardino,650,2,360,2
-2020-03-30,San Bernardino,702,4,369,4
-2020-03-31,San Bernardino,746,5,383,5
+2020-02-19,San Bernardino,14,0,6,0
+2020-02-20,San Bernardino,15,0,7,0
+2020-02-21,San Bernardino,17,0,8,0
+2020-02-22,San Bernardino,18,0,9,0
+2020-02-23,San Bernardino,20,0,10,0
+2020-02-24,San Bernardino,21,0,10,0
+2020-02-25,San Bernardino,21,0,8,0
+2020-02-26,San Bernardino,23,0,9,0
+2020-02-27,San Bernardino,25,0,10,0
+2020-02-28,San Bernardino,25,0,8,0
+2020-02-29,San Bernardino,25,0,7,0
+2020-03-01,San Bernardino,27,0,7,0
+2020-03-02,San Bernardino,29,0,8,0
+2020-03-03,San Bernardino,29,0,8,0
+2020-03-04,San Bernardino,32,0,9,0
+2020-03-05,San Bernardino,35,0,10,0
+2020-03-06,San Bernardino,40,0,15,0
+2020-03-07,San Bernardino,42,0,17,0
+2020-03-08,San Bernardino,44,0,17,0
+2020-03-09,San Bernardino,55,0,26,0
+2020-03-10,San Bernardino,66,0,37,0
+2020-03-11,San Bernardino,74,0,42,0
+2020-03-12,San Bernardino,81,0,46,0
+2020-03-13,San Bernardino,97,0,57,0
+2020-03-14,San Bernardino,104,0,62,0
+2020-03-15,San Bernardino,123,0,79,0
+2020-03-16,San Bernardino,145,0,90,0
+2020-03-17,San Bernardino,165,0,99,0
+2020-03-18,San Bernardino,193,0,119,0
+2020-03-19,San Bernardino,215,0,134,0
+2020-03-20,San Bernardino,245,0,148,0
+2020-03-21,San Bernardino,272,0,168,0
+2020-03-22,San Bernardino,292,0,169,0
+2020-03-23,San Bernardino,335,0,190,0
+2020-03-24,San Bernardino,365,0,200,0
+2020-03-25,San Bernardino,409,1,216,1
+2020-03-26,San Bernardino,448,1,233,1
+2020-03-27,San Bernardino,514,2,269,2
+2020-03-28,San Bernardino,604,4,332,4
+2020-03-29,San Bernardino,652,2,360,2
+2020-03-30,San Bernardino,704,4,369,4
+2020-03-31,San Bernardino,748,5,383,5
 2020-02-01,San Diego,0,0,N,N
 2020-02-02,San Diego,0,0,N,N
 2020-02-03,San Diego,0,0,N,N
@@ -2259,26 +2259,26 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-09,San Francisco,72,0,55,0
 2020-03-10,San Francisco,92,0,68,0
 2020-03-11,San Francisco,124,0,98,0
-2020-03-12,San Francisco,147,0,116,0
-2020-03-13,San Francisco,171,0,130,0
-2020-03-14,San Francisco,185,0,138,0
-2020-03-15,San Francisco,206,0,153,0
-2020-03-16,San Francisco,262,0,190,0
-2020-03-17,San Francisco,300,0,208,0
-2020-03-18,San Francisco,327,0,203,0
-2020-03-19,San Francisco,346,0,199,0
-2020-03-20,San Francisco,382,0,211,0
-2020-03-21,San Francisco,414,0,229,0
-2020-03-22,San Francisco,450,0,244,0
-2020-03-23,San Francisco,487,0,225,0
-2020-03-24,San Francisco,516,1,216,1
-2020-03-25,San Francisco,548,1,221,1
-2020-03-26,San Francisco,589,1,243,1
-2020-03-27,San Francisco,616,2,234,2
-2020-03-28,San Francisco,641,6,227,6
-2020-03-29,San Francisco,665,5,215,5
-2020-03-30,San Francisco,709,5,222,5
-2020-03-31,San Francisco,749,5,233,4
+2020-03-12,San Francisco,149,0,118,0
+2020-03-13,San Francisco,174,0,133,0
+2020-03-14,San Francisco,188,0,141,0
+2020-03-15,San Francisco,209,0,156,0
+2020-03-16,San Francisco,267,0,195,0
+2020-03-17,San Francisco,305,0,213,0
+2020-03-18,San Francisco,332,0,208,0
+2020-03-19,San Francisco,351,0,202,0
+2020-03-20,San Francisco,387,0,213,0
+2020-03-21,San Francisco,419,0,231,0
+2020-03-22,San Francisco,455,0,246,0
+2020-03-23,San Francisco,492,0,225,0
+2020-03-24,San Francisco,521,1,216,1
+2020-03-25,San Francisco,553,1,221,1
+2020-03-26,San Francisco,594,1,243,1
+2020-03-27,San Francisco,621,2,234,2
+2020-03-28,San Francisco,646,6,227,6
+2020-03-29,San Francisco,670,5,215,5
+2020-03-30,San Francisco,714,5,222,5
+2020-03-31,San Francisco,754,5,233,4
 2020-02-01,San Joaquin,0,0,N,N
 2020-02-02,San Joaquin,0,0,N,N
 2020-02-03,San Joaquin,0,0,N,N
@@ -2327,18 +2327,18 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-17,San Joaquin,84,0,54,0
 2020-03-18,San Joaquin,90,2,57,2
 2020-03-19,San Joaquin,102,2,58,1
-2020-03-20,San Joaquin,115,2,65,2
-2020-03-21,San Joaquin,130,2,76,2
-2020-03-22,San Joaquin,139,2,76,2
-2020-03-23,San Joaquin,153,2,79,2
-2020-03-24,San Joaquin,164,2,80,2
-2020-03-25,San Joaquin,175,2,85,0
-2020-03-26,San Joaquin,188,3,86,1
-2020-03-27,San Joaquin,199,3,84,1
-2020-03-28,San Joaquin,210,8,80,6
-2020-03-29,San Joaquin,218,4,79,2
-2020-03-30,San Joaquin,227,5,74,3
-2020-03-31,San Joaquin,234,7,70,5
+2020-03-20,San Joaquin,116,2,66,2
+2020-03-21,San Joaquin,131,2,77,2
+2020-03-22,San Joaquin,140,2,77,2
+2020-03-23,San Joaquin,154,2,80,2
+2020-03-24,San Joaquin,166,2,82,2
+2020-03-25,San Joaquin,177,2,87,0
+2020-03-26,San Joaquin,190,3,88,1
+2020-03-27,San Joaquin,201,3,85,1
+2020-03-28,San Joaquin,212,8,81,6
+2020-03-29,San Joaquin,220,4,80,2
+2020-03-30,San Joaquin,229,5,75,3
+2020-03-31,San Joaquin,236,7,70,5
 2020-02-01,San Luis Obispo,0,0,N,N
 2020-02-02,San Luis Obispo,0,0,N,N
 2020-02-03,San Luis Obispo,0,0,N,N
@@ -2443,22 +2443,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,San Mateo,192,0,113,0
 2020-03-14,San Mateo,213,0,126,0
 2020-03-15,San Mateo,236,1,139,1
-2020-03-16,San Mateo,269,1,159,1
-2020-03-17,San Mateo,305,1,181,1
-2020-03-18,San Mateo,337,1,197,1
-2020-03-19,San Mateo,358,1,200,1
-2020-03-20,San Mateo,393,1,201,1
-2020-03-21,San Mateo,423,1,210,1
-2020-03-22,San Mateo,461,1,225,0
-2020-03-23,San Mateo,494,1,225,0
-2020-03-24,San Mateo,532,2,227,1
-2020-03-25,San Mateo,573,5,236,4
-2020-03-26,San Mateo,608,5,250,4
-2020-03-27,San Mateo,642,7,249,6
-2020-03-28,San Mateo,668,17,245,16
-2020-03-29,San Mateo,688,12,227,11
-2020-03-30,San Mateo,713,11,219,10
-2020-03-31,San Mateo,737,12,205,10
+2020-03-16,San Mateo,270,1,160,1
+2020-03-17,San Mateo,308,1,184,1
+2020-03-18,San Mateo,340,1,200,1
+2020-03-19,San Mateo,361,1,203,1
+2020-03-20,San Mateo,396,1,204,1
+2020-03-21,San Mateo,426,1,213,1
+2020-03-22,San Mateo,464,1,228,0
+2020-03-23,San Mateo,497,1,227,0
+2020-03-24,San Mateo,535,2,227,1
+2020-03-25,San Mateo,576,5,236,4
+2020-03-26,San Mateo,611,5,250,4
+2020-03-27,San Mateo,645,7,249,6
+2020-03-28,San Mateo,671,17,245,16
+2020-03-29,San Mateo,691,12,227,11
+2020-03-30,San Mateo,716,11,219,10
+2020-03-31,San Mateo,740,12,205,10
 2020-02-01,Santa Barbara,0,0,N,N
 2020-02-02,Santa Barbara,0,0,N,N
 2020-02-03,Santa Barbara,0,0,N,N
@@ -2544,41 +2544,41 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-02-23,Santa Clara,26,0,16,0
 2020-02-24,Santa Clara,38,0,26,0
 2020-02-25,Santa Clara,40,0,26,0
-2020-02-26,Santa Clara,49,0,34,0
-2020-02-27,Santa Clara,58,0,41,0
-2020-02-28,Santa Clara,69,0,48,0
-2020-02-29,Santa Clara,74,0,51,0
-2020-03-01,Santa Clara,96,0,70,0
-2020-03-02,Santa Clara,109,0,71,0
-2020-03-03,Santa Clara,131,0,91,0
-2020-03-04,Santa Clara,146,0,97,0
-2020-03-05,Santa Clara,163,0,105,0
-2020-03-06,Santa Clara,187,0,118,0
-2020-03-07,Santa Clara,205,0,131,0
-2020-03-08,Santa Clara,235,0,139,0
-2020-03-09,Santa Clara,277,1,168,1
-2020-03-10,Santa Clara,321,1,190,1
-2020-03-11,Santa Clara,369,1,223,1
-2020-03-12,Santa Clara,409,1,246,1
-2020-03-13,Santa Clara,467,1,280,1
-2020-03-14,Santa Clara,529,2,324,2
-2020-03-15,Santa Clara,585,2,350,2
-2020-03-16,Santa Clara,657,2,380,1
-2020-03-17,Santa Clara,733,4,412,3
-2020-03-18,Santa Clara,791,6,422,5
-2020-03-19,Santa Clara,842,8,433,7
-2020-03-20,Santa Clara,909,8,442,7
-2020-03-21,Santa Clara,946,10,417,8
-2020-03-22,Santa Clara,1007,13,422,11
-2020-03-23,Santa Clara,1071,13,414,11
-2020-03-24,Santa Clara,1120,17,387,13
-2020-03-25,Santa Clara,1189,20,398,14
-2020-03-26,Santa Clara,1233,20,391,12
-2020-03-27,Santa Clara,1278,25,369,17
-2020-03-28,Santa Clara,1316,54,370,44
-2020-03-29,Santa Clara,1335,30,328,17
-2020-03-30,Santa Clara,1392,31,321,18
-2020-03-31,Santa Clara,1423,30,303,13
+2020-02-26,Santa Clara,50,0,35,0
+2020-02-27,Santa Clara,59,0,42,0
+2020-02-28,Santa Clara,70,0,49,0
+2020-02-29,Santa Clara,75,0,52,0
+2020-03-01,Santa Clara,97,0,71,0
+2020-03-02,Santa Clara,110,0,72,0
+2020-03-03,Santa Clara,132,0,92,0
+2020-03-04,Santa Clara,147,0,97,0
+2020-03-05,Santa Clara,164,0,105,0
+2020-03-06,Santa Clara,188,0,118,0
+2020-03-07,Santa Clara,206,0,131,0
+2020-03-08,Santa Clara,236,0,139,0
+2020-03-09,Santa Clara,278,1,168,1
+2020-03-10,Santa Clara,322,1,190,1
+2020-03-11,Santa Clara,370,1,223,1
+2020-03-12,Santa Clara,410,1,246,1
+2020-03-13,Santa Clara,468,1,280,1
+2020-03-14,Santa Clara,530,2,324,2
+2020-03-15,Santa Clara,586,2,350,2
+2020-03-16,Santa Clara,658,2,380,1
+2020-03-17,Santa Clara,738,4,416,3
+2020-03-18,Santa Clara,796,6,426,5
+2020-03-19,Santa Clara,847,8,437,7
+2020-03-20,Santa Clara,914,8,446,7
+2020-03-21,Santa Clara,951,10,421,8
+2020-03-22,Santa Clara,1013,13,427,11
+2020-03-23,Santa Clara,1077,13,419,11
+2020-03-24,Santa Clara,1126,17,388,13
+2020-03-25,Santa Clara,1195,20,399,14
+2020-03-26,Santa Clara,1239,20,392,12
+2020-03-27,Santa Clara,1284,25,370,17
+2020-03-28,Santa Clara,1322,54,371,44
+2020-03-29,Santa Clara,1341,30,328,17
+2020-03-30,Santa Clara,1398,31,321,18
+2020-03-31,Santa Clara,1429,30,303,13
 2020-02-01,Santa Cruz,0,0,N,N
 2020-02-02,Santa Cruz,0,0,N,N
 2020-02-03,Santa Cruz,0,0,N,N
@@ -2623,22 +2623,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,Santa Cruz,32,0,17,0
 2020-03-14,Santa Cruz,33,0,16,0
 2020-03-15,Santa Cruz,38,0,21,0
-2020-03-16,Santa Cruz,44,0,25,0
-2020-03-17,Santa Cruz,48,0,26,0
-2020-03-18,Santa Cruz,51,0,25,0
-2020-03-19,Santa Cruz,53,0,24,0
-2020-03-20,Santa Cruz,56,0,24,0
-2020-03-21,Santa Cruz,58,0,25,0
-2020-03-22,Santa Cruz,60,0,22,0
-2020-03-23,Santa Cruz,61,0,17,0
-2020-03-24,Santa Cruz,63,0,15,0
-2020-03-25,Santa Cruz,68,0,17,0
-2020-03-26,Santa Cruz,71,0,18,0
-2020-03-27,Santa Cruz,75,0,19,0
-2020-03-28,Santa Cruz,76,0,18,0
-2020-03-29,Santa Cruz,77,1,17,1
-2020-03-30,Santa Cruz,77,1,16,1
-2020-03-31,Santa Cruz,80,1,17,1
+2020-03-16,Santa Cruz,45,0,26,0
+2020-03-17,Santa Cruz,52,0,30,0
+2020-03-18,Santa Cruz,55,0,29,0
+2020-03-19,Santa Cruz,57,0,28,0
+2020-03-20,Santa Cruz,60,0,28,0
+2020-03-21,Santa Cruz,62,0,29,0
+2020-03-22,Santa Cruz,64,0,26,0
+2020-03-23,Santa Cruz,65,0,20,0
+2020-03-24,Santa Cruz,67,0,15,0
+2020-03-25,Santa Cruz,72,0,17,0
+2020-03-26,Santa Cruz,75,0,18,0
+2020-03-27,Santa Cruz,79,0,19,0
+2020-03-28,Santa Cruz,80,0,18,0
+2020-03-29,Santa Cruz,81,1,17,1
+2020-03-30,Santa Cruz,81,1,16,1
+2020-03-31,Santa Cruz,84,1,17,1
 2020-02-01,Shasta,0,0,N,N
 2020-02-02,Shasta,0,0,N,N
 2020-02-03,Shasta,0,0,N,N
@@ -2864,21 +2864,21 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-14,Solano,40,0,17,0
 2020-03-15,Solano,42,0,18,0
 2020-03-16,Solano,43,0,18,0
-2020-03-17,Solano,47,0,20,0
-2020-03-18,Solano,50,0,21,0
-2020-03-19,Solano,54,0,20,0
-2020-03-20,Solano,58,0,19,0
-2020-03-21,Solano,62,0,22,0
-2020-03-22,Solano,64,0,22,0
-2020-03-23,Solano,73,0,30,0
-2020-03-24,Solano,77,0,30,0
-2020-03-25,Solano,79,0,29,0
-2020-03-26,Solano,84,0,30,0
-2020-03-27,Solano,92,0,34,0
-2020-03-28,Solano,98,0,36,0
-2020-03-29,Solano,102,0,38,0
-2020-03-30,Solano,110,0,37,0
-2020-03-31,Solano,116,0,39,0
+2020-03-17,Solano,48,0,21,0
+2020-03-18,Solano,51,0,22,0
+2020-03-19,Solano,55,0,21,0
+2020-03-20,Solano,59,0,20,0
+2020-03-21,Solano,63,0,23,0
+2020-03-22,Solano,65,0,23,0
+2020-03-23,Solano,74,0,31,0
+2020-03-24,Solano,78,0,30,0
+2020-03-25,Solano,80,0,29,0
+2020-03-26,Solano,85,0,30,0
+2020-03-27,Solano,93,0,34,0
+2020-03-28,Solano,99,0,36,0
+2020-03-29,Solano,103,0,38,0
+2020-03-30,Solano,111,0,37,0
+2020-03-31,Solano,117,0,39,0
 2020-02-01,Sonoma,0,0,N,N
 2020-02-02,Sonoma,0,0,N,N
 2020-02-03,Sonoma,0,0,N,N
@@ -2924,21 +2924,21 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-14,Sonoma,41,0,28,0
 2020-03-15,Sonoma,54,0,37,0
 2020-03-16,Sonoma,63,0,41,0
-2020-03-17,Sonoma,70,0,43,0
-2020-03-18,Sonoma,78,0,48,0
-2020-03-19,Sonoma,87,0,53,0
-2020-03-20,Sonoma,90,0,50,0
-2020-03-21,Sonoma,98,1,57,1
-2020-03-22,Sonoma,99,1,45,1
-2020-03-23,Sonoma,104,1,41,1
-2020-03-24,Sonoma,116,1,46,1
-2020-03-25,Sonoma,123,1,45,1
-2020-03-26,Sonoma,128,1,41,1
-2020-03-27,Sonoma,133,1,43,1
-2020-03-28,Sonoma,141,2,43,1
-2020-03-29,Sonoma,143,1,44,0
-2020-03-30,Sonoma,145,1,41,0
-2020-03-31,Sonoma,148,1,32,0
+2020-03-17,Sonoma,71,0,44,0
+2020-03-18,Sonoma,79,0,49,0
+2020-03-19,Sonoma,88,0,54,0
+2020-03-20,Sonoma,91,0,51,0
+2020-03-21,Sonoma,99,1,58,1
+2020-03-22,Sonoma,100,1,46,1
+2020-03-23,Sonoma,105,1,42,1
+2020-03-24,Sonoma,117,1,46,1
+2020-03-25,Sonoma,124,1,45,1
+2020-03-26,Sonoma,129,1,41,1
+2020-03-27,Sonoma,134,1,43,1
+2020-03-28,Sonoma,142,2,43,1
+2020-03-29,Sonoma,144,1,44,0
+2020-03-30,Sonoma,146,1,41,0
+2020-03-31,Sonoma,149,1,32,0
 2020-02-01,Stanislaus,0,0,N,N
 2020-02-02,Stanislaus,0,0,N,N
 2020-02-03,Stanislaus,0,0,N,N
@@ -2983,22 +2983,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,Stanislaus,17,0,12,0
 2020-03-14,Stanislaus,22,0,13,0
 2020-03-15,Stanislaus,26,0,16,0
-2020-03-16,Stanislaus,26,0,15,0
-2020-03-17,Stanislaus,29,0,18,0
-2020-03-18,Stanislaus,32,0,17,0
-2020-03-19,Stanislaus,36,0,21,0
-2020-03-20,Stanislaus,37,0,20,0
-2020-03-21,Stanislaus,43,0,21,0
-2020-03-22,Stanislaus,49,0,23,0
-2020-03-23,Stanislaus,55,0,29,0
-2020-03-24,Stanislaus,63,0,34,0
-2020-03-25,Stanislaus,72,0,40,0
-2020-03-26,Stanislaus,79,0,43,0
-2020-03-27,Stanislaus,81,0,44,0
-2020-03-28,Stanislaus,83,0,40,0
-2020-03-29,Stanislaus,88,0,39,0
-2020-03-30,Stanislaus,93,0,38,0
-2020-03-31,Stanislaus,100,0,37,0
+2020-03-16,Stanislaus,27,0,16,0
+2020-03-17,Stanislaus,31,0,20,0
+2020-03-18,Stanislaus,34,0,19,0
+2020-03-19,Stanislaus,38,0,23,0
+2020-03-20,Stanislaus,39,0,22,0
+2020-03-21,Stanislaus,45,0,23,0
+2020-03-22,Stanislaus,51,0,25,0
+2020-03-23,Stanislaus,57,0,30,0
+2020-03-24,Stanislaus,65,0,34,0
+2020-03-25,Stanislaus,74,0,40,0
+2020-03-26,Stanislaus,81,0,43,0
+2020-03-27,Stanislaus,83,0,44,0
+2020-03-28,Stanislaus,85,0,40,0
+2020-03-29,Stanislaus,90,0,39,0
+2020-03-30,Stanislaus,95,0,38,0
+2020-03-31,Stanislaus,102,0,37,0
 2020-02-01,Sutter,0,0,N,N
 2020-02-02,Sutter,0,0,N,N
 2020-02-03,Sutter,0,0,N,N
@@ -3283,22 +3283,22 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-13,Tuolumne,1,0,0,0
 2020-03-14,Tuolumne,1,0,0,0
 2020-03-15,Tuolumne,1,0,0,0
-2020-03-16,Tuolumne,1,0,0,0
-2020-03-17,Tuolumne,1,0,0,0
-2020-03-18,Tuolumne,1,0,0,0
-2020-03-19,Tuolumne,1,0,0,0
-2020-03-20,Tuolumne,1,0,0,0
-2020-03-21,Tuolumne,1,0,0,0
-2020-03-22,Tuolumne,1,0,0,0
-2020-03-23,Tuolumne,1,0,0,0
-2020-03-24,Tuolumne,1,0,0,0
-2020-03-25,Tuolumne,1,0,0,0
-2020-03-26,Tuolumne,1,0,0,0
-2020-03-27,Tuolumne,1,0,0,0
-2020-03-28,Tuolumne,1,0,0,0
-2020-03-29,Tuolumne,1,0,0,0
-2020-03-30,Tuolumne,2,0,1,0
-2020-03-31,Tuolumne,2,0,1,0
+2020-03-16,Tuolumne,2,0,1,0
+2020-03-17,Tuolumne,2,0,1,0
+2020-03-18,Tuolumne,2,0,1,0
+2020-03-19,Tuolumne,2,0,1,0
+2020-03-20,Tuolumne,2,0,1,0
+2020-03-21,Tuolumne,2,0,1,0
+2020-03-22,Tuolumne,2,0,1,0
+2020-03-23,Tuolumne,2,0,0,0
+2020-03-24,Tuolumne,2,0,0,0
+2020-03-25,Tuolumne,2,0,0,0
+2020-03-26,Tuolumne,2,0,0,0
+2020-03-27,Tuolumne,2,0,0,0
+2020-03-28,Tuolumne,2,0,0,0
+2020-03-29,Tuolumne,2,0,0,0
+2020-03-30,Tuolumne,3,0,1,0
+2020-03-31,Tuolumne,3,0,1,0
 2020-02-01,Ventura,0,0,N,N
 2020-02-02,Ventura,0,0,N,N
 2020-02-03,Ventura,0,0,N,N
