@@ -29,6 +29,7 @@ playwright = "*"
 openpyxl = "*"
 slugify = "*"
 ipython = "*"
+geojson = "*"
 
 [requires]
 python_version = "3.9"
