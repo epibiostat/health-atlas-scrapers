@@ -12,6 +12,7 @@ import urllib.request
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
 DATA_DIR = THIS_DIR / "data"
 
+# View online: https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data-by-zip-code/resource/b4d9a6b8-cb1a-47f0-b4d6-345905f296c4
 RESOURCE_ID = 'b4d9a6b8-cb1a-47f0-b4d6-345905f296c4'
 
 def write_csv(df):
