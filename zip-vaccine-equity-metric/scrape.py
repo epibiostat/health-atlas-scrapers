@@ -12,7 +12,7 @@ import urllib.request
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
 DATA_DIR = THIS_DIR / "data"
 
-RESOURCE_ID = '15702a90-aa5d-49bc-8621-a8129630725a'
+RESOURCE_ID = 'b4d9a6b8-cb1a-47f0-b4d6-345905f296c4'
 
 def write_csv(df):
     fields = ['zcta', 'vaccine_equity_metric_quartile']
