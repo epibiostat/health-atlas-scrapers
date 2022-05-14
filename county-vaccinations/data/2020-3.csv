@@ -635,14 +635,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-20,Contra Costa,54,36,0,16
 2020-09-21,Contra Costa,54,37,1,13
 2020-09-22,Contra Costa,55,38,2,11
-2020-09-23,Contra Costa,56,43,6,14
-2020-09-24,Contra Costa,56,44,2,16
-2020-09-25,Contra Costa,56,44,0,11
-2020-09-26,Contra Costa,56,44,0,11
-2020-09-27,Contra Costa,56,44,0,11
-2020-09-28,Contra Costa,56,44,0,10
-2020-09-29,Contra Costa,56,45,1,9
-2020-09-30,Contra Costa,56,47,2,5
+2020-09-23,Contra Costa,57,43,6,14
+2020-09-24,Contra Costa,57,44,2,16
+2020-09-25,Contra Costa,57,44,0,11
+2020-09-26,Contra Costa,57,44,0,11
+2020-09-27,Contra Costa,57,44,0,11
+2020-09-28,Contra Costa,57,44,0,10
+2020-09-29,Contra Costa,57,45,1,9
+2020-09-30,Contra Costa,57,47,2,5
 2020-07-01,Del Norte,0,0,0,0
 2020-07-02,Del Norte,0,0,0,0
 2020-07-03,Del Norte,0,0,0,0
@@ -2567,14 +2567,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-20,Napa,0,0,0,0
 2020-09-21,Napa,0,0,0,0
 2020-09-22,Napa,0,0,0,0
-2020-09-23,Napa,1,0,0,0
-2020-09-24,Napa,1,0,0,0
-2020-09-25,Napa,1,0,0,0
-2020-09-26,Napa,1,0,0,0
-2020-09-27,Napa,1,0,0,0
-2020-09-28,Napa,1,0,0,0
-2020-09-29,Napa,1,0,0,0
-2020-09-30,Napa,1,0,0,0
+2020-09-23,Napa,0,0,0,0
+2020-09-24,Napa,0,0,0,0
+2020-09-25,Napa,0,0,0,0
+2020-09-26,Napa,0,0,0,0
+2020-09-27,Napa,0,0,0,0
+2020-09-28,Napa,0,0,0,0
+2020-09-29,Napa,0,0,0,0
+2020-09-30,Napa,0,0,0,0
 2020-07-01,Nevada,0,0,0,0
 2020-07-02,Nevada,0,0,0,0
 2020-07-03,Nevada,0,0,0,0
@@ -3302,15 +3302,15 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-19,San Bernardino,16,7,1,5
 2020-09-20,San Bernardino,16,7,0,5
 2020-09-21,San Bernardino,17,7,1,5
-2020-09-22,San Bernardino,17,8,1,5
-2020-09-23,San Bernardino,17,8,0,5
-2020-09-24,San Bernardino,18,8,1,4
-2020-09-25,San Bernardino,18,8,0,4
-2020-09-26,San Bernardino,18,8,0,3
-2020-09-27,San Bernardino,18,8,0,3
-2020-09-28,San Bernardino,18,8,0,2
-2020-09-29,San Bernardino,18,9,1,2
-2020-09-30,San Bernardino,18,9,0,2
+2020-09-22,San Bernardino,18,8,2,6
+2020-09-23,San Bernardino,18,8,0,6
+2020-09-24,San Bernardino,19,8,1,5
+2020-09-25,San Bernardino,19,8,0,5
+2020-09-26,San Bernardino,19,8,0,4
+2020-09-27,San Bernardino,19,8,0,4
+2020-09-28,San Bernardino,19,8,0,3
+2020-09-29,San Bernardino,19,9,1,2
+2020-09-30,San Bernardino,19,9,0,2
 2020-07-01,San Diego,0,0,0,0
 2020-07-02,San Diego,0,0,0,0
 2020-07-03,San Diego,0,0,0,0
