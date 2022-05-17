@@ -1742,11 +1742,11 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-23,Los Angeles,403,170,41,163
 2020-09-24,Los Angeles,411,188,26,168
 2020-09-25,Los Angeles,424,202,27,171
-2020-09-26,Los Angeles,425,206,5,162
-2020-09-27,Los Angeles,426,206,1,159
-2020-09-28,Los Angeles,427,213,8,135
-2020-09-29,Los Angeles,428,226,13,121
-2020-09-30,Los Angeles,429,234,8,88
+2020-09-26,Los Angeles,426,206,6,163
+2020-09-27,Los Angeles,427,206,1,160
+2020-09-28,Los Angeles,428,213,8,136
+2020-09-29,Los Angeles,429,226,13,122
+2020-09-30,Los Angeles,430,234,8,89
 2020-07-01,Madera,0,0,0,0
 2020-07-02,Madera,0,0,0,0
 2020-07-03,Madera,0,0,0,0
@@ -3581,12 +3581,12 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-22,San Joaquin,9,6,0,3
 2020-09-23,San Joaquin,9,6,0,3
 2020-09-24,San Joaquin,9,6,0,3
-2020-09-25,San Joaquin,9,6,0,2
-2020-09-26,San Joaquin,9,6,0,2
-2020-09-27,San Joaquin,9,6,0,2
-2020-09-28,San Joaquin,9,6,0,0
-2020-09-29,San Joaquin,9,7,1,1
-2020-09-30,San Joaquin,9,8,1,2
+2020-09-25,San Joaquin,10,6,1,3
+2020-09-26,San Joaquin,10,6,0,3
+2020-09-27,San Joaquin,10,6,0,3
+2020-09-28,San Joaquin,10,6,0,1
+2020-09-29,San Joaquin,10,7,1,2
+2020-09-30,San Joaquin,10,8,1,3
 2020-07-01,San Luis Obispo,0,0,0,0
 2020-07-02,San Luis Obispo,0,0,0,0
 2020-07-03,San Luis Obispo,0,0,0,0
