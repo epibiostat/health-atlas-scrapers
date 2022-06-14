@@ -2336,9 +2336,9 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-26,San Joaquin,190,3,88,1
 2020-03-27,San Joaquin,201,3,85,1
 2020-03-28,San Joaquin,212,8,81,6
-2020-03-29,San Joaquin,220,4,80,2
-2020-03-30,San Joaquin,229,5,75,3
-2020-03-31,San Joaquin,236,7,70,5
+2020-03-29,San Joaquin,219,4,79,2
+2020-03-30,San Joaquin,228,5,74,3
+2020-03-31,San Joaquin,235,7,69,5
 2020-02-01,San Luis Obispo,0,0,N,N
 2020-02-02,San Luis Obispo,0,0,N,N
 2020-02-03,San Luis Obispo,0,0,N,N
@@ -3236,9 +3236,9 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-26,Tulare,97,0,53,0
 2020-03-27,Tulare,106,0,56,0
 2020-03-28,Tulare,114,0,60,0
-2020-03-29,Tulare,121,1,59,1
-2020-03-30,Tulare,146,1,78,1
-2020-03-31,Tulare,158,1,81,1
+2020-03-29,Tulare,122,1,60,1
+2020-03-30,Tulare,147,1,79,1
+2020-03-31,Tulare,159,1,82,1
 2020-02-01,Tuolumne,0,0,N,N
 2020-02-02,Tuolumne,0,0,N,N
 2020-02-03,Tuolumne,0,0,N,N
