@@ -3032,9 +3032,9 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-25,Riverside,40,23,2,11
 2020-09-26,Riverside,40,23,0,11
 2020-09-27,Riverside,40,23,0,11
-2020-09-28,Riverside,41,24,2,12
-2020-09-29,Riverside,41,25,1,7
-2020-09-30,Riverside,43,25,2,7
+2020-09-28,Riverside,40,24,1,11
+2020-09-29,Riverside,40,25,1,6
+2020-09-30,Riverside,42,25,2,6
 2020-07-01,Sacramento,0,0,0,0
 2020-07-02,Sacramento,0,0,0,0
 2020-07-03,Sacramento,0,0,0,0
