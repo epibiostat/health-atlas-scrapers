@@ -3401,8 +3401,8 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-26,San Diego,329,197,2,69
 2020-09-27,San Diego,329,197,0,68
 2020-09-28,San Diego,331,218,23,73
-2020-09-29,San Diego,335,233,19,74
-2020-09-30,San Diego,336,237,5,67
+2020-09-29,San Diego,334,233,18,73
+2020-09-30,San Diego,335,237,5,66
 2020-07-01,San Francisco,0,0,0,0
 2020-07-02,San Francisco,0,0,0,0
 2020-07-03,San Francisco,0,0,0,0
