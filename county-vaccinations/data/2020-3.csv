@@ -917,8 +917,8 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-26,Fresno,5,2,0,2
 2020-09-27,Fresno,5,2,0,2
 2020-09-28,Fresno,5,2,0,1
-2020-09-29,Fresno,6,2,1,2
-2020-09-30,Fresno,6,2,0,2
+2020-09-29,Fresno,5,2,0,1
+2020-09-30,Fresno,5,2,0,1
 2020-07-01,Glenn,0,0,0,0
 2020-07-02,Glenn,0,0,0,0
 2020-07-03,Glenn,0,0,0,0
@@ -1704,49 +1704,49 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-16,Los Angeles,36,0,0,13
 2020-08-17,Los Angeles,38,0,2,10
 2020-08-18,Los Angeles,40,0,2,10
-2020-08-19,Los Angeles,49,0,9,18
-2020-08-20,Los Angeles,58,0,9,26
-2020-08-21,Los Angeles,68,0,10,33
-2020-08-22,Los Angeles,73,0,5,37
-2020-08-23,Los Angeles,74,0,1,38
-2020-08-24,Los Angeles,81,1,8,44
-2020-08-25,Los Angeles,91,1,10,52
-2020-08-26,Los Angeles,105,1,14,57
-2020-08-27,Los Angeles,119,6,19,67
-2020-08-28,Los Angeles,137,9,21,78
-2020-08-29,Los Angeles,146,9,9,82
-2020-08-30,Los Angeles,149,10,4,85
-2020-08-31,Los Angeles,171,11,23,100
-2020-09-01,Los Angeles,199,15,32,122
-2020-09-02,Los Angeles,218,15,19,127
-2020-09-03,Los Angeles,239,15,21,129
-2020-09-04,Los Angeles,256,15,18,126
-2020-09-05,Los Angeles,260,15,4,121
-2020-09-06,Los Angeles,261,15,1,118
-2020-09-07,Los Angeles,263,15,2,97
-2020-09-08,Los Angeles,279,22,23,88
-2020-09-09,Los Angeles,292,24,15,84
-2020-09-10,Los Angeles,309,35,28,91
-2020-09-11,Los Angeles,323,41,20,93
-2020-09-12,Los Angeles,329,45,10,99
-2020-09-13,Los Angeles,329,45,0,98
-2020-09-14,Los Angeles,337,53,16,112
-2020-09-15,Los Angeles,344,66,20,109
-2020-09-16,Los Angeles,350,76,16,110
-2020-09-17,Los Angeles,361,85,21,103
-2020-09-18,Los Angeles,369,100,24,107
-2020-09-19,Los Angeles,375,108,14,111
-2020-09-20,Los Angeles,378,110,5,116
-2020-09-21,Los Angeles,387,133,32,132
-2020-09-22,Los Angeles,402,145,27,139
-2020-09-23,Los Angeles,417,171,41,164
-2020-09-24,Los Angeles,425,189,26,169
-2020-09-25,Los Angeles,438,205,29,174
-2020-09-26,Los Angeles,440,209,6,166
-2020-09-27,Los Angeles,441,209,1,162
-2020-09-28,Los Angeles,442,216,8,138
-2020-09-29,Los Angeles,444,230,14,125
-2020-09-30,Los Angeles,445,238,8,92
+2020-08-19,Los Angeles,50,0,10,19
+2020-08-20,Los Angeles,59,0,9,27
+2020-08-21,Los Angeles,69,0,10,34
+2020-08-22,Los Angeles,74,0,5,38
+2020-08-23,Los Angeles,75,0,1,39
+2020-08-24,Los Angeles,82,1,8,45
+2020-08-25,Los Angeles,92,1,10,53
+2020-08-26,Los Angeles,106,1,14,57
+2020-08-27,Los Angeles,120,6,19,67
+2020-08-28,Los Angeles,138,9,21,78
+2020-08-29,Los Angeles,147,9,9,82
+2020-08-30,Los Angeles,150,10,4,85
+2020-08-31,Los Angeles,172,11,23,100
+2020-09-01,Los Angeles,199,15,31,121
+2020-09-02,Los Angeles,218,15,19,126
+2020-09-03,Los Angeles,239,15,21,128
+2020-09-04,Los Angeles,257,15,18,125
+2020-09-05,Los Angeles,261,15,4,120
+2020-09-06,Los Angeles,262,15,1,117
+2020-09-07,Los Angeles,264,15,2,96
+2020-09-08,Los Angeles,280,22,23,88
+2020-09-09,Los Angeles,293,25,16,85
+2020-09-10,Los Angeles,310,36,28,92
+2020-09-11,Los Angeles,324,42,20,94
+2020-09-12,Los Angeles,330,46,10,100
+2020-09-13,Los Angeles,330,46,0,99
+2020-09-14,Los Angeles,338,54,16,113
+2020-09-15,Los Angeles,345,67,20,110
+2020-09-16,Los Angeles,351,77,16,110
+2020-09-17,Los Angeles,362,86,21,103
+2020-09-18,Los Angeles,370,101,24,107
+2020-09-19,Los Angeles,376,109,14,111
+2020-09-20,Los Angeles,379,111,5,116
+2020-09-21,Los Angeles,388,134,32,132
+2020-09-22,Los Angeles,403,146,27,139
+2020-09-23,Los Angeles,418,172,41,164
+2020-09-24,Los Angeles,426,190,26,169
+2020-09-25,Los Angeles,439,206,29,174
+2020-09-26,Los Angeles,441,210,6,166
+2020-09-27,Los Angeles,442,210,1,162
+2020-09-28,Los Angeles,443,217,8,138
+2020-09-29,Los Angeles,445,231,14,125
+2020-09-30,Los Angeles,446,239,8,92
 2020-07-01,Madera,0,0,0,0
 2020-07-02,Madera,0,0,0,0
 2020-07-03,Madera,0,0,0,0
