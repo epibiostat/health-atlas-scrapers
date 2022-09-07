@@ -3373,14 +3373,14 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-29,San Diego,194,14,4,79
 2020-08-30,San Diego,194,14,0,76
 2020-08-31,San Diego,209,20,22,85
-2020-09-01,San Diego,221,28,20,94
-2020-09-02,San Diego,225,41,17,90
+2020-09-01,San Diego,220,28,19,93
+2020-09-02,San Diego,225,41,18,90
 2020-09-03,San Diego,238,49,21,96
 2020-09-04,San Diego,247,51,11,95
 2020-09-05,San Diego,255,51,8,99
 2020-09-06,San Diego,255,51,0,99
 2020-09-07,San Diego,255,53,2,79
-2020-09-08,San Diego,271,64,28,87
+2020-09-08,San Diego,271,64,28,88
 2020-09-09,San Diego,288,69,22,92
 2020-09-10,San Diego,293,81,17,88
 2020-09-11,San Diego,296,93,15,92
