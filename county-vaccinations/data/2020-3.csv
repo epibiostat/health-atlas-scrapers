@@ -71,26 +71,26 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-08,Alameda,43,10,3,11
 2020-09-09,Alameda,44,17,8,16
 2020-09-10,Alameda,46,18,3,17
-2020-09-11,Alameda,51,19,6,20
-2020-09-12,Alameda,51,19,0,20
-2020-09-13,Alameda,51,19,0,20
-2020-09-14,Alameda,51,20,1,21
-2020-09-15,Alameda,52,23,4,22
-2020-09-16,Alameda,54,26,5,19
-2020-09-17,Alameda,55,28,3,19
-2020-09-18,Alameda,55,30,2,15
-2020-09-19,Alameda,55,31,1,16
-2020-09-20,Alameda,55,31,0,16
-2020-09-21,Alameda,55,34,3,18
-2020-09-22,Alameda,55,34,0,14
-2020-09-23,Alameda,55,36,2,11
-2020-09-24,Alameda,55,38,2,10
-2020-09-25,Alameda,55,39,1,9
-2020-09-26,Alameda,55,39,0,8
-2020-09-27,Alameda,55,39,0,8
-2020-09-28,Alameda,56,40,2,7
-2020-09-29,Alameda,56,41,1,8
-2020-09-30,Alameda,57,46,6,12
+2020-09-11,Alameda,50,19,5,19
+2020-09-12,Alameda,50,19,0,19
+2020-09-13,Alameda,50,19,0,19
+2020-09-14,Alameda,50,20,1,20
+2020-09-15,Alameda,51,23,4,21
+2020-09-16,Alameda,53,26,5,18
+2020-09-17,Alameda,54,28,3,18
+2020-09-18,Alameda,54,30,2,15
+2020-09-19,Alameda,54,31,1,16
+2020-09-20,Alameda,54,31,0,16
+2020-09-21,Alameda,54,34,3,18
+2020-09-22,Alameda,54,34,0,14
+2020-09-23,Alameda,54,36,2,11
+2020-09-24,Alameda,54,38,2,10
+2020-09-25,Alameda,54,39,1,9
+2020-09-26,Alameda,54,39,0,8
+2020-09-27,Alameda,54,39,0,8
+2020-09-28,Alameda,55,40,2,7
+2020-09-29,Alameda,55,41,1,8
+2020-09-30,Alameda,56,45,5,11
 2020-07-01,Alpine,0,0,0,0
 2020-07-02,Alpine,0,0,0,0
 2020-07-03,Alpine,0,0,0,0
@@ -890,35 +890,35 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-30,Fresno,2,0,0,0
 2020-08-31,Fresno,3,0,1,1
 2020-09-01,Fresno,3,0,0,1
-2020-09-02,Fresno,4,0,1,2
-2020-09-03,Fresno,4,0,0,2
-2020-09-04,Fresno,4,0,0,2
-2020-09-05,Fresno,4,0,0,2
-2020-09-06,Fresno,4,0,0,2
-2020-09-07,Fresno,4,0,0,1
-2020-09-08,Fresno,5,0,1,2
-2020-09-09,Fresno,5,0,0,1
-2020-09-10,Fresno,5,0,0,1
-2020-09-11,Fresno,5,0,0,1
-2020-09-12,Fresno,5,0,0,1
-2020-09-13,Fresno,5,0,0,1
-2020-09-14,Fresno,5,0,0,1
-2020-09-15,Fresno,5,0,0,0
-2020-09-16,Fresno,5,0,0,0
-2020-09-17,Fresno,5,0,0,0
-2020-09-18,Fresno,5,0,0,0
-2020-09-19,Fresno,5,0,0,0
-2020-09-20,Fresno,5,0,0,0
-2020-09-21,Fresno,5,1,1,1
-2020-09-22,Fresno,5,1,0,1
-2020-09-23,Fresno,5,1,0,1
-2020-09-24,Fresno,5,1,0,1
-2020-09-25,Fresno,5,2,1,2
-2020-09-26,Fresno,5,2,0,2
-2020-09-27,Fresno,5,2,0,2
-2020-09-28,Fresno,5,2,0,1
-2020-09-29,Fresno,5,2,0,1
-2020-09-30,Fresno,5,2,0,1
+2020-09-02,Fresno,3,0,0,1
+2020-09-03,Fresno,3,0,0,1
+2020-09-04,Fresno,3,0,0,1
+2020-09-05,Fresno,3,0,0,1
+2020-09-06,Fresno,3,0,0,1
+2020-09-07,Fresno,3,0,0,0
+2020-09-08,Fresno,4,0,1,1
+2020-09-09,Fresno,4,0,0,1
+2020-09-10,Fresno,4,0,0,1
+2020-09-11,Fresno,4,0,0,1
+2020-09-12,Fresno,4,0,0,1
+2020-09-13,Fresno,4,0,0,1
+2020-09-14,Fresno,4,0,0,1
+2020-09-15,Fresno,4,0,0,0
+2020-09-16,Fresno,4,0,0,0
+2020-09-17,Fresno,4,0,0,0
+2020-09-18,Fresno,4,0,0,0
+2020-09-19,Fresno,4,0,0,0
+2020-09-20,Fresno,4,0,0,0
+2020-09-21,Fresno,4,1,1,1
+2020-09-22,Fresno,4,1,0,1
+2020-09-23,Fresno,4,1,0,1
+2020-09-24,Fresno,4,1,0,1
+2020-09-25,Fresno,4,1,0,1
+2020-09-26,Fresno,4,1,0,1
+2020-09-27,Fresno,4,1,0,1
+2020-09-28,Fresno,4,1,0,0
+2020-09-29,Fresno,4,1,0,0
+2020-09-30,Fresno,4,1,0,0
 2020-07-01,Glenn,0,0,0,0
 2020-07-02,Glenn,0,0,0,0
 2020-07-03,Glenn,0,0,0,0
@@ -1727,26 +1727,26 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-08,Los Angeles,281,22,23,89
 2020-09-09,Los Angeles,295,25,17,87
 2020-09-10,Los Angeles,312,36,28,94
-2020-09-11,Los Angeles,326,42,20,96
-2020-09-12,Los Angeles,332,46,10,102
-2020-09-13,Los Angeles,332,46,0,101
-2020-09-14,Los Angeles,340,54,16,114
-2020-09-15,Los Angeles,347,67,20,111
-2020-09-16,Los Angeles,353,77,16,110
-2020-09-17,Los Angeles,364,86,21,103
-2020-09-18,Los Angeles,372,101,24,107
-2020-09-19,Los Angeles,378,109,14,111
-2020-09-20,Los Angeles,381,111,5,116
-2020-09-21,Los Angeles,390,134,32,132
-2020-09-22,Los Angeles,405,146,27,139
-2020-09-23,Los Angeles,420,172,41,164
-2020-09-24,Los Angeles,428,190,26,169
-2020-09-25,Los Angeles,441,206,29,174
-2020-09-26,Los Angeles,443,210,6,166
-2020-09-27,Los Angeles,444,210,1,162
-2020-09-28,Los Angeles,445,217,8,138
-2020-09-29,Los Angeles,447,231,14,125
-2020-09-30,Los Angeles,448,240,9,93
+2020-09-11,Los Angeles,325,42,19,95
+2020-09-12,Los Angeles,331,46,10,101
+2020-09-13,Los Angeles,331,46,0,100
+2020-09-14,Los Angeles,339,54,16,113
+2020-09-15,Los Angeles,346,67,20,110
+2020-09-16,Los Angeles,352,77,16,109
+2020-09-17,Los Angeles,363,86,21,102
+2020-09-18,Los Angeles,371,101,24,107
+2020-09-19,Los Angeles,377,109,14,111
+2020-09-20,Los Angeles,380,111,5,116
+2020-09-21,Los Angeles,389,134,32,132
+2020-09-22,Los Angeles,404,146,27,139
+2020-09-23,Los Angeles,419,172,41,164
+2020-09-24,Los Angeles,427,190,26,169
+2020-09-25,Los Angeles,440,206,29,174
+2020-09-26,Los Angeles,442,210,6,166
+2020-09-27,Los Angeles,443,210,1,162
+2020-09-28,Los Angeles,444,217,8,138
+2020-09-29,Los Angeles,446,231,14,125
+2020-09-30,Los Angeles,447,240,9,93
 2020-07-01,Madera,0,0,0,0
 2020-07-02,Madera,0,0,0,0
 2020-07-03,Madera,0,0,0,0
@@ -3282,35 +3282,35 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-30,San Bernardino,10,1,0,1
 2020-08-31,San Bernardino,10,1,0,1
 2020-09-01,San Bernardino,12,1,2,3
-2020-09-02,San Bernardino,12,1,0,2
-2020-09-03,San Bernardino,12,2,1,3
-2020-09-04,San Bernardino,12,2,0,3
-2020-09-05,San Bernardino,12,2,0,3
-2020-09-06,San Bernardino,12,2,0,3
-2020-09-07,San Bernardino,12,2,0,3
-2020-09-08,San Bernardino,14,2,2,3
-2020-09-09,San Bernardino,14,4,2,5
-2020-09-10,San Bernardino,15,4,1,5
-2020-09-11,San Bernardino,15,4,0,5
-2020-09-12,San Bernardino,15,4,0,5
-2020-09-13,San Bernardino,15,4,0,5
-2020-09-14,San Bernardino,15,5,1,6
-2020-09-15,San Bernardino,15,6,1,5
-2020-09-16,San Bernardino,15,6,0,3
-2020-09-17,San Bernardino,16,7,2,4
-2020-09-18,San Bernardino,16,7,0,4
-2020-09-19,San Bernardino,17,7,1,5
-2020-09-20,San Bernardino,17,7,0,5
-2020-09-21,San Bernardino,18,7,1,5
-2020-09-22,San Bernardino,19,8,2,6
-2020-09-23,San Bernardino,19,8,0,6
-2020-09-24,San Bernardino,20,8,2,6
-2020-09-25,San Bernardino,20,8,0,6
-2020-09-26,San Bernardino,20,8,0,5
-2020-09-27,San Bernardino,20,8,0,5
-2020-09-28,San Bernardino,20,8,0,4
-2020-09-29,San Bernardino,20,9,1,3
-2020-09-30,San Bernardino,20,9,0,3
+2020-09-02,San Bernardino,13,1,1,3
+2020-09-03,San Bernardino,13,2,1,4
+2020-09-04,San Bernardino,13,2,0,4
+2020-09-05,San Bernardino,13,2,0,4
+2020-09-06,San Bernardino,13,2,0,4
+2020-09-07,San Bernardino,13,2,0,4
+2020-09-08,San Bernardino,15,2,2,4
+2020-09-09,San Bernardino,15,4,2,5
+2020-09-10,San Bernardino,16,4,1,5
+2020-09-11,San Bernardino,16,4,0,5
+2020-09-12,San Bernardino,16,4,0,5
+2020-09-13,San Bernardino,16,4,0,5
+2020-09-14,San Bernardino,16,5,1,6
+2020-09-15,San Bernardino,16,6,1,5
+2020-09-16,San Bernardino,16,6,0,3
+2020-09-17,San Bernardino,17,7,2,4
+2020-09-18,San Bernardino,17,7,0,4
+2020-09-19,San Bernardino,18,7,1,5
+2020-09-20,San Bernardino,18,7,0,5
+2020-09-21,San Bernardino,19,7,1,5
+2020-09-22,San Bernardino,20,8,2,6
+2020-09-23,San Bernardino,20,8,0,6
+2020-09-24,San Bernardino,21,8,2,6
+2020-09-25,San Bernardino,21,9,1,7
+2020-09-26,San Bernardino,21,9,0,6
+2020-09-27,San Bernardino,21,9,0,6
+2020-09-28,San Bernardino,21,9,0,5
+2020-09-29,San Bernardino,21,10,1,4
+2020-09-30,San Bernardino,21,10,0,4
 2020-07-01,San Diego,0,0,0,0
 2020-07-02,San Diego,0,0,0,0
 2020-07-03,San Diego,0,0,0,0
@@ -3451,50 +3451,50 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-15,San Francisco,2,0,0,1
 2020-08-16,San Francisco,2,0,0,1
 2020-08-17,San Francisco,4,0,2,3
-2020-08-18,San Francisco,6,0,2,5
-2020-08-19,San Francisco,6,0,0,4
-2020-08-20,San Francisco,6,0,0,4
-2020-08-21,San Francisco,6,0,0,4
-2020-08-22,San Francisco,6,0,0,4
-2020-08-23,San Francisco,6,0,0,4
-2020-08-24,San Francisco,7,0,1,3
-2020-08-25,San Francisco,8,0,1,2
-2020-08-26,San Francisco,8,0,0,2
-2020-08-27,San Francisco,9,0,1,3
-2020-08-28,San Francisco,10,0,1,4
-2020-08-29,San Francisco,10,0,0,4
-2020-08-30,San Francisco,10,0,0,4
-2020-08-31,San Francisco,11,0,1,4
-2020-09-01,San Francisco,11,1,1,4
-2020-09-02,San Francisco,13,1,2,6
-2020-09-03,San Francisco,14,1,1,6
-2020-09-04,San Francisco,17,1,3,8
-2020-09-05,San Francisco,17,1,0,8
-2020-09-06,San Francisco,17,1,0,8
-2020-09-07,San Francisco,17,1,0,7
-2020-09-08,San Francisco,17,4,3,9
-2020-09-09,San Francisco,18,5,2,9
-2020-09-10,San Francisco,18,5,0,8
-2020-09-11,San Francisco,18,5,0,5
-2020-09-12,San Francisco,18,5,0,5
-2020-09-13,San Francisco,18,5,0,5
-2020-09-14,San Francisco,20,6,4,9
-2020-09-15,San Francisco,22,7,3,9
-2020-09-16,San Francisco,23,7,1,8
-2020-09-17,San Francisco,25,8,3,11
-2020-09-18,San Francisco,25,9,1,12
-2020-09-19,San Francisco,25,9,0,12
-2020-09-20,San Francisco,25,9,0,12
-2020-09-21,San Francisco,26,9,1,9
-2020-09-22,San Francisco,26,11,2,8
-2020-09-23,San Francisco,27,13,2,9
-2020-09-24,San Francisco,27,14,1,7
-2020-09-25,San Francisco,27,14,0,6
-2020-09-26,San Francisco,27,15,1,7
-2020-09-27,San Francisco,27,15,0,7
-2020-09-28,San Francisco,27,15,0,6
-2020-09-29,San Francisco,27,15,0,4
-2020-09-30,San Francisco,27,17,2,4
+2020-08-18,San Francisco,5,0,1,4
+2020-08-19,San Francisco,5,0,0,3
+2020-08-20,San Francisco,5,0,0,3
+2020-08-21,San Francisco,5,0,0,3
+2020-08-22,San Francisco,5,0,0,3
+2020-08-23,San Francisco,5,0,0,3
+2020-08-24,San Francisco,6,0,1,2
+2020-08-25,San Francisco,7,0,1,2
+2020-08-26,San Francisco,7,0,0,2
+2020-08-27,San Francisco,8,0,1,3
+2020-08-28,San Francisco,9,0,1,4
+2020-08-29,San Francisco,9,0,0,4
+2020-08-30,San Francisco,9,0,0,4
+2020-08-31,San Francisco,10,0,1,4
+2020-09-01,San Francisco,10,1,1,4
+2020-09-02,San Francisco,12,1,2,6
+2020-09-03,San Francisco,13,1,1,6
+2020-09-04,San Francisco,16,1,3,8
+2020-09-05,San Francisco,16,1,0,8
+2020-09-06,San Francisco,16,1,0,8
+2020-09-07,San Francisco,16,1,0,7
+2020-09-08,San Francisco,16,4,3,9
+2020-09-09,San Francisco,17,4,1,8
+2020-09-10,San Francisco,17,4,0,7
+2020-09-11,San Francisco,17,4,0,4
+2020-09-12,San Francisco,17,4,0,4
+2020-09-13,San Francisco,17,4,0,4
+2020-09-14,San Francisco,19,5,4,8
+2020-09-15,San Francisco,21,6,3,8
+2020-09-16,San Francisco,22,6,1,8
+2020-09-17,San Francisco,24,7,3,11
+2020-09-18,San Francisco,24,8,1,12
+2020-09-19,San Francisco,24,8,0,12
+2020-09-20,San Francisco,24,8,0,12
+2020-09-21,San Francisco,25,8,1,9
+2020-09-22,San Francisco,25,10,2,8
+2020-09-23,San Francisco,26,12,2,9
+2020-09-24,San Francisco,26,13,1,7
+2020-09-25,San Francisco,26,13,0,6
+2020-09-26,San Francisco,26,14,1,7
+2020-09-27,San Francisco,26,14,0,7
+2020-09-28,San Francisco,26,14,0,6
+2020-09-29,San Francisco,26,14,0,4
+2020-09-30,San Francisco,26,16,2,4
 2020-07-01,San Joaquin,0,0,0,0
 2020-07-02,San Joaquin,0,0,0,0
 2020-07-03,San Joaquin,0,0,0,0
@@ -3935,26 +3935,26 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-08,Santa Clara,61,12,8,23
 2020-09-09,Santa Clara,63,16,6,23
 2020-09-10,Santa Clara,66,18,5,25
-2020-09-11,Santa Clara,70,21,7,27
-2020-09-12,Santa Clara,70,21,0,27
-2020-09-13,Santa Clara,70,21,0,26
-2020-09-14,Santa Clara,71,26,6,32
-2020-09-15,Santa Clara,71,26,0,24
-2020-09-16,Santa Clara,72,27,2,20
-2020-09-17,Santa Clara,72,30,3,18
-2020-09-18,Santa Clara,73,31,2,13
-2020-09-19,Santa Clara,73,31,0,13
-2020-09-20,Santa Clara,74,31,1,14
-2020-09-21,Santa Clara,76,34,5,13
-2020-09-22,Santa Clara,76,37,3,16
-2020-09-23,Santa Clara,77,39,3,17
-2020-09-24,Santa Clara,78,47,9,23
-2020-09-25,Santa Clara,78,47,0,21
-2020-09-26,Santa Clara,78,47,0,21
-2020-09-27,Santa Clara,78,47,0,20
-2020-09-28,Santa Clara,78,50,3,18
-2020-09-29,Santa Clara,78,51,1,16
-2020-09-30,Santa Clara,79,55,5,18
+2020-09-11,Santa Clara,72,21,9,29
+2020-09-12,Santa Clara,72,21,0,29
+2020-09-13,Santa Clara,72,21,0,28
+2020-09-14,Santa Clara,73,26,6,34
+2020-09-15,Santa Clara,73,26,0,26
+2020-09-16,Santa Clara,74,27,2,22
+2020-09-17,Santa Clara,74,30,3,20
+2020-09-18,Santa Clara,75,31,2,13
+2020-09-19,Santa Clara,75,31,0,13
+2020-09-20,Santa Clara,76,31,1,14
+2020-09-21,Santa Clara,78,34,5,13
+2020-09-22,Santa Clara,78,37,3,16
+2020-09-23,Santa Clara,79,39,3,17
+2020-09-24,Santa Clara,80,47,9,23
+2020-09-25,Santa Clara,80,47,0,21
+2020-09-26,Santa Clara,80,47,0,21
+2020-09-27,Santa Clara,80,47,0,20
+2020-09-28,Santa Clara,80,50,3,18
+2020-09-29,Santa Clara,80,51,1,16
+2020-09-30,Santa Clara,81,56,6,19
 2020-07-01,Santa Cruz,0,0,0,0
 2020-07-02,Santa Cruz,0,0,0,0
 2020-07-03,Santa Cruz,0,0,0,0
@@ -4095,50 +4095,50 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-15,Shasta,38,0,0,29
 2020-08-16,Shasta,38,0,0,29
 2020-08-17,Shasta,48,0,10,33
-2020-08-18,Shasta,57,0,9,36
-2020-08-19,Shasta,64,0,7,39
-2020-08-20,Shasta,73,0,9,41
-2020-08-21,Shasta,80,0,7,42
-2020-08-22,Shasta,84,0,4,46
-2020-08-23,Shasta,84,0,0,46
-2020-08-24,Shasta,89,0,5,41
-2020-08-25,Shasta,95,0,6,38
-2020-08-26,Shasta,102,0,7,38
-2020-08-27,Shasta,109,0,7,36
-2020-08-28,Shasta,115,0,6,35
-2020-08-29,Shasta,115,0,0,31
-2020-08-30,Shasta,115,0,0,31
-2020-08-31,Shasta,121,0,6,32
-2020-09-01,Shasta,126,0,5,31
-2020-09-02,Shasta,134,1,9,33
-2020-09-03,Shasta,143,1,9,35
-2020-09-04,Shasta,143,14,13,42
-2020-09-05,Shasta,145,14,2,44
-2020-09-06,Shasta,145,14,0,44
-2020-09-07,Shasta,145,14,0,38
-2020-09-08,Shasta,146,28,15,48
-2020-09-09,Shasta,146,46,18,57
-2020-09-10,Shasta,152,48,8,56
-2020-09-11,Shasta,156,49,5,48
-2020-09-12,Shasta,160,49,4,50
-2020-09-13,Shasta,160,49,0,50
-2020-09-14,Shasta,160,57,8,58
-2020-09-15,Shasta,160,67,10,53
-2020-09-16,Shasta,160,74,7,42
-2020-09-17,Shasta,160,88,14,48
-2020-09-18,Shasta,161,97,10,53
-2020-09-19,Shasta,161,97,0,49
-2020-09-20,Shasta,161,97,0,49
-2020-09-21,Shasta,161,102,5,46
-2020-09-22,Shasta,161,106,4,40
-2020-09-23,Shasta,163,114,10,43
-2020-09-24,Shasta,163,115,1,30
-2020-09-25,Shasta,163,121,6,26
-2020-09-26,Shasta,163,121,0,26
-2020-09-27,Shasta,163,121,0,26
-2020-09-28,Shasta,163,131,10,31
-2020-09-29,Shasta,163,131,0,27
-2020-09-30,Shasta,163,135,4,21
+2020-08-18,Shasta,58,0,10,37
+2020-08-19,Shasta,65,0,7,40
+2020-08-20,Shasta,74,0,9,42
+2020-08-21,Shasta,81,0,7,43
+2020-08-22,Shasta,85,0,4,47
+2020-08-23,Shasta,85,0,0,47
+2020-08-24,Shasta,90,0,5,42
+2020-08-25,Shasta,96,0,6,38
+2020-08-26,Shasta,103,0,7,38
+2020-08-27,Shasta,110,0,7,36
+2020-08-28,Shasta,116,0,6,35
+2020-08-29,Shasta,116,0,0,31
+2020-08-30,Shasta,116,0,0,31
+2020-08-31,Shasta,122,0,6,32
+2020-09-01,Shasta,127,0,5,31
+2020-09-02,Shasta,135,1,9,33
+2020-09-03,Shasta,144,1,9,35
+2020-09-04,Shasta,144,14,13,42
+2020-09-05,Shasta,146,14,2,44
+2020-09-06,Shasta,146,14,0,44
+2020-09-07,Shasta,146,14,0,38
+2020-09-08,Shasta,147,28,15,48
+2020-09-09,Shasta,147,47,19,58
+2020-09-10,Shasta,153,49,8,57
+2020-09-11,Shasta,157,50,5,49
+2020-09-12,Shasta,161,50,4,51
+2020-09-13,Shasta,161,50,0,51
+2020-09-14,Shasta,161,58,8,59
+2020-09-15,Shasta,161,68,10,54
+2020-09-16,Shasta,161,75,7,42
+2020-09-17,Shasta,161,89,14,48
+2020-09-18,Shasta,162,98,10,53
+2020-09-19,Shasta,162,98,0,49
+2020-09-20,Shasta,162,98,0,49
+2020-09-21,Shasta,162,103,5,46
+2020-09-22,Shasta,162,107,4,40
+2020-09-23,Shasta,164,115,10,43
+2020-09-24,Shasta,164,116,1,30
+2020-09-25,Shasta,164,122,6,26
+2020-09-26,Shasta,164,122,0,26
+2020-09-27,Shasta,164,122,0,26
+2020-09-28,Shasta,164,132,10,31
+2020-09-29,Shasta,164,132,0,27
+2020-09-30,Shasta,164,136,4,21
 2020-07-01,Sierra,0,0,0,0
 2020-07-02,Sierra,0,0,0,0
 2020-07-03,Sierra,0,0,0,0
