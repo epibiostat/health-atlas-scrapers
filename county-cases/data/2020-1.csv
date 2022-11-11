@@ -1135,9 +1135,9 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-25,Los Angeles,4197,10,2123,10
 2020-03-26,Los Angeles,4596,19,2277,19
 2020-03-27,Los Angeles,5003,26,2393,25
-2020-03-28,Los Angeles,5409,64,2570,62
-2020-03-29,Los Angeles,5794,37,2678,34
-2020-03-30,Los Angeles,6441,44,2995,40
+2020-03-28,Los Angeles,5410,64,2571,62
+2020-03-29,Los Angeles,5795,37,2679,34
+2020-03-30,Los Angeles,6442,44,2996,40
 2020-03-31,Los Angeles,7102,53,3348,46
 2020-02-01,Madera,0,0,N,N
 2020-02-02,Madera,0,0,N,N
@@ -2032,13 +2032,13 @@ date,county,cases,deaths,new_cases,new_deaths
 2020-03-22,Sacramento,361,4,187,3
 2020-03-23,Sacramento,393,4,183,3
 2020-03-24,Sacramento,426,4,189,3
-2020-03-25,Sacramento,446,5,189,2
-2020-03-26,Sacramento,472,5,192,2
-2020-03-27,Sacramento,505,6,192,2
-2020-03-28,Sacramento,528,14,194,11
-2020-03-29,Sacramento,546,7,185,3
-2020-03-30,Sacramento,586,8,193,4
-2020-03-31,Sacramento,610,8,184,4
+2020-03-25,Sacramento,445,5,188,2
+2020-03-26,Sacramento,471,5,191,2
+2020-03-27,Sacramento,504,6,191,2
+2020-03-28,Sacramento,527,14,193,11
+2020-03-29,Sacramento,545,7,184,3
+2020-03-30,Sacramento,585,8,192,4
+2020-03-31,Sacramento,609,8,183,4
 2020-02-01,San Benito,0,0,N,N
 2020-02-02,San Benito,0,0,N,N
 2020-02-03,San Benito,0,0,N,N
