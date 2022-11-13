@@ -1712,41 +1712,41 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-24,Los Angeles,84,1,8,44
 2020-08-25,Los Angeles,94,1,10,52
 2020-08-26,Los Angeles,108,1,14,56
-2020-08-27,Los Angeles,123,6,20,68
-2020-08-28,Los Angeles,141,9,21,79
-2020-08-29,Los Angeles,150,9,9,83
-2020-08-30,Los Angeles,153,10,4,86
-2020-08-31,Los Angeles,174,12,23,101
-2020-09-01,Los Angeles,202,16,32,123
-2020-09-02,Los Angeles,221,16,19,128
-2020-09-03,Los Angeles,241,16,20,128
-2020-09-04,Los Angeles,261,16,20,127
-2020-09-05,Los Angeles,265,16,4,122
-2020-09-06,Los Angeles,266,16,1,119
-2020-09-07,Los Angeles,269,16,3,99
-2020-09-08,Los Angeles,285,23,23,90
-2020-09-09,Los Angeles,299,25,16,87
-2020-09-10,Los Angeles,316,36,28,95
-2020-09-11,Los Angeles,329,42,19,94
-2020-09-12,Los Angeles,335,46,10,100
-2020-09-13,Los Angeles,336,46,1,100
-2020-09-14,Los Angeles,344,53,15,112
-2020-09-15,Los Angeles,351,66,20,109
-2020-09-16,Los Angeles,357,76,16,109
-2020-09-17,Los Angeles,368,86,22,103
-2020-09-18,Los Angeles,376,100,23,107
-2020-09-19,Los Angeles,382,108,14,111
-2020-09-20,Los Angeles,385,110,5,115
-2020-09-21,Los Angeles,394,132,31,131
-2020-09-22,Los Angeles,409,143,26,137
-2020-09-23,Los Angeles,424,169,41,162
-2020-09-24,Los Angeles,433,186,26,166
-2020-09-25,Los Angeles,447,203,31,174
-2020-09-26,Los Angeles,449,207,6,166
-2020-09-27,Los Angeles,450,207,1,162
-2020-09-28,Los Angeles,452,214,9,140
-2020-09-29,Los Angeles,454,228,14,128
-2020-09-30,Los Angeles,455,237,9,96
+2020-08-27,Los Angeles,124,6,21,69
+2020-08-28,Los Angeles,142,9,21,80
+2020-08-29,Los Angeles,151,9,9,84
+2020-08-30,Los Angeles,154,10,4,87
+2020-08-31,Los Angeles,175,12,23,102
+2020-09-01,Los Angeles,203,16,32,124
+2020-09-02,Los Angeles,222,16,19,129
+2020-09-03,Los Angeles,242,16,20,128
+2020-09-04,Los Angeles,262,16,20,127
+2020-09-05,Los Angeles,266,16,4,122
+2020-09-06,Los Angeles,267,16,1,119
+2020-09-07,Los Angeles,270,16,3,99
+2020-09-08,Los Angeles,286,23,23,90
+2020-09-09,Los Angeles,300,25,16,87
+2020-09-10,Los Angeles,317,36,28,95
+2020-09-11,Los Angeles,330,42,19,94
+2020-09-12,Los Angeles,336,46,10,100
+2020-09-13,Los Angeles,337,46,1,100
+2020-09-14,Los Angeles,345,53,15,112
+2020-09-15,Los Angeles,352,66,20,109
+2020-09-16,Los Angeles,358,76,16,109
+2020-09-17,Los Angeles,370,86,23,104
+2020-09-18,Los Angeles,378,100,23,108
+2020-09-19,Los Angeles,384,108,14,112
+2020-09-20,Los Angeles,387,110,5,116
+2020-09-21,Los Angeles,396,132,31,132
+2020-09-22,Los Angeles,411,143,26,138
+2020-09-23,Los Angeles,426,169,41,163
+2020-09-24,Los Angeles,435,186,26,166
+2020-09-25,Los Angeles,449,203,31,174
+2020-09-26,Los Angeles,451,207,6,166
+2020-09-27,Los Angeles,452,207,1,162
+2020-09-28,Los Angeles,454,214,9,140
+2020-09-29,Los Angeles,456,228,14,128
+2020-09-30,Los Angeles,457,237,9,96
 2020-07-01,Madera,0,0,0,0
 2020-07-02,Madera,0,0,0,0
 2020-07-03,Madera,0,0,0,0
@@ -2913,36 +2913,36 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-29,Plumas,0,0,0,0
 2020-08-30,Plumas,0,0,0,0
 2020-08-31,Plumas,0,0,0,0
-2020-09-01,Plumas,0,0,0,0
-2020-09-02,Plumas,0,0,0,0
-2020-09-03,Plumas,0,0,0,0
-2020-09-04,Plumas,0,0,0,0
-2020-09-05,Plumas,0,0,0,0
-2020-09-06,Plumas,0,0,0,0
-2020-09-07,Plumas,0,0,0,0
-2020-09-08,Plumas,0,0,0,0
-2020-09-09,Plumas,0,0,0,0
-2020-09-10,Plumas,0,0,0,0
-2020-09-11,Plumas,0,0,0,0
-2020-09-12,Plumas,0,0,0,0
-2020-09-13,Plumas,0,0,0,0
-2020-09-14,Plumas,0,0,0,0
-2020-09-15,Plumas,0,0,0,0
-2020-09-16,Plumas,0,0,0,0
-2020-09-17,Plumas,0,0,0,0
-2020-09-18,Plumas,0,0,0,0
-2020-09-19,Plumas,0,0,0,0
-2020-09-20,Plumas,0,0,0,0
-2020-09-21,Plumas,0,0,0,0
-2020-09-22,Plumas,0,0,0,0
-2020-09-23,Plumas,0,0,0,0
-2020-09-24,Plumas,0,0,0,0
-2020-09-25,Plumas,0,0,0,0
-2020-09-26,Plumas,0,0,0,0
-2020-09-27,Plumas,0,0,0,0
-2020-09-28,Plumas,0,0,0,0
-2020-09-29,Plumas,0,0,0,0
-2020-09-30,Plumas,0,0,0,0
+2020-09-01,Plumas,1,0,1,1
+2020-09-02,Plumas,1,0,0,1
+2020-09-03,Plumas,1,0,0,1
+2020-09-04,Plumas,1,0,0,1
+2020-09-05,Plumas,1,0,0,1
+2020-09-06,Plumas,1,0,0,1
+2020-09-07,Plumas,1,0,0,1
+2020-09-08,Plumas,1,0,0,0
+2020-09-09,Plumas,1,0,0,0
+2020-09-10,Plumas,1,0,0,0
+2020-09-11,Plumas,1,0,0,0
+2020-09-12,Plumas,1,0,0,0
+2020-09-13,Plumas,1,0,0,0
+2020-09-14,Plumas,1,0,0,0
+2020-09-15,Plumas,1,0,0,0
+2020-09-16,Plumas,1,0,0,0
+2020-09-17,Plumas,1,0,0,0
+2020-09-18,Plumas,1,0,0,0
+2020-09-19,Plumas,1,0,0,0
+2020-09-20,Plumas,1,0,0,0
+2020-09-21,Plumas,1,0,0,0
+2020-09-22,Plumas,1,0,0,0
+2020-09-23,Plumas,1,0,0,0
+2020-09-24,Plumas,1,0,0,0
+2020-09-25,Plumas,1,0,0,0
+2020-09-26,Plumas,1,0,0,0
+2020-09-27,Plumas,1,0,0,0
+2020-09-28,Plumas,1,0,0,0
+2020-09-29,Plumas,1,0,0,0
+2020-09-30,Plumas,1,0,0,0
 2020-07-01,Riverside,0,0,0,0
 2020-07-02,Riverside,0,0,0,0
 2020-07-03,Riverside,0,0,0,0
@@ -3297,20 +3297,20 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-14,San Bernardino,19,6,1,7
 2020-09-15,San Bernardino,19,7,1,6
 2020-09-16,San Bernardino,19,7,0,3
-2020-09-17,San Bernardino,20,8,2,4
-2020-09-18,San Bernardino,20,8,0,4
-2020-09-19,San Bernardino,21,8,1,5
-2020-09-20,San Bernardino,21,8,0,5
-2020-09-21,San Bernardino,22,8,1,5
-2020-09-22,San Bernardino,23,9,2,6
-2020-09-23,San Bernardino,23,9,0,6
-2020-09-24,San Bernardino,24,9,2,6
-2020-09-25,San Bernardino,24,10,1,7
-2020-09-26,San Bernardino,25,10,1,7
-2020-09-27,San Bernardino,25,10,0,7
-2020-09-28,San Bernardino,25,10,0,6
-2020-09-29,San Bernardino,25,11,1,5
-2020-09-30,San Bernardino,25,11,0,5
+2020-09-17,San Bernardino,19,8,1,3
+2020-09-18,San Bernardino,19,8,0,3
+2020-09-19,San Bernardino,20,8,1,4
+2020-09-20,San Bernardino,20,8,0,4
+2020-09-21,San Bernardino,21,8,1,4
+2020-09-22,San Bernardino,22,9,2,5
+2020-09-23,San Bernardino,22,9,0,5
+2020-09-24,San Bernardino,23,9,2,6
+2020-09-25,San Bernardino,23,10,1,7
+2020-09-26,San Bernardino,24,10,1,7
+2020-09-27,San Bernardino,24,10,0,7
+2020-09-28,San Bernardino,24,10,0,6
+2020-09-29,San Bernardino,24,11,1,5
+2020-09-30,San Bernardino,24,11,0,5
 2020-07-01,San Diego,0,0,0,0
 2020-07-02,San Diego,0,0,0,0
 2020-07-03,San Diego,0,0,0,0
