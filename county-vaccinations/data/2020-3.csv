@@ -3637,48 +3637,48 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-17,San Luis Obispo,2,0,0,1
 2020-08-18,San Luis Obispo,2,0,0,1
 2020-08-19,San Luis Obispo,2,0,0,0
-2020-08-20,San Luis Obispo,3,0,1,1
-2020-08-21,San Luis Obispo,3,0,0,1
-2020-08-22,San Luis Obispo,3,0,0,1
-2020-08-23,San Luis Obispo,3,0,0,1
-2020-08-24,San Luis Obispo,3,0,0,1
-2020-08-25,San Luis Obispo,3,0,0,1
-2020-08-26,San Luis Obispo,3,0,0,1
-2020-08-27,San Luis Obispo,3,0,0,0
-2020-08-28,San Luis Obispo,3,0,0,0
-2020-08-29,San Luis Obispo,3,0,0,0
-2020-08-30,San Luis Obispo,3,0,0,0
-2020-08-31,San Luis Obispo,3,0,0,0
-2020-09-01,San Luis Obispo,4,0,1,1
-2020-09-02,San Luis Obispo,4,0,0,1
-2020-09-03,San Luis Obispo,4,0,0,1
-2020-09-04,San Luis Obispo,4,0,0,1
-2020-09-05,San Luis Obispo,4,0,0,1
-2020-09-06,San Luis Obispo,4,0,0,1
-2020-09-07,San Luis Obispo,4,0,0,1
-2020-09-08,San Luis Obispo,4,1,1,1
-2020-09-09,San Luis Obispo,4,1,0,1
-2020-09-10,San Luis Obispo,4,1,0,1
-2020-09-11,San Luis Obispo,4,1,0,1
-2020-09-12,San Luis Obispo,4,1,0,1
-2020-09-13,San Luis Obispo,4,1,0,1
-2020-09-14,San Luis Obispo,4,1,0,1
-2020-09-15,San Luis Obispo,4,2,1,1
-2020-09-16,San Luis Obispo,4,2,0,1
-2020-09-17,San Luis Obispo,4,2,0,1
-2020-09-18,San Luis Obispo,4,2,0,1
-2020-09-19,San Luis Obispo,4,2,0,1
-2020-09-20,San Luis Obispo,4,2,0,1
-2020-09-21,San Luis Obispo,4,2,0,1
-2020-09-22,San Luis Obispo,4,2,0,0
-2020-09-23,San Luis Obispo,4,2,0,0
-2020-09-24,San Luis Obispo,4,2,0,0
-2020-09-25,San Luis Obispo,4,2,0,0
-2020-09-26,San Luis Obispo,4,2,0,0
-2020-09-27,San Luis Obispo,4,2,0,0
-2020-09-28,San Luis Obispo,4,2,0,0
-2020-09-29,San Luis Obispo,4,2,0,0
-2020-09-30,San Luis Obispo,4,2,0,0
+2020-08-20,San Luis Obispo,2,0,0,0
+2020-08-21,San Luis Obispo,2,0,0,0
+2020-08-22,San Luis Obispo,2,0,0,0
+2020-08-23,San Luis Obispo,2,0,0,0
+2020-08-24,San Luis Obispo,2,0,0,0
+2020-08-25,San Luis Obispo,2,0,0,0
+2020-08-26,San Luis Obispo,2,0,0,0
+2020-08-27,San Luis Obispo,2,0,0,0
+2020-08-28,San Luis Obispo,2,0,0,0
+2020-08-29,San Luis Obispo,2,0,0,0
+2020-08-30,San Luis Obispo,2,0,0,0
+2020-08-31,San Luis Obispo,2,0,0,0
+2020-09-01,San Luis Obispo,3,0,1,1
+2020-09-02,San Luis Obispo,3,0,0,1
+2020-09-03,San Luis Obispo,3,0,0,1
+2020-09-04,San Luis Obispo,3,0,0,1
+2020-09-05,San Luis Obispo,3,0,0,1
+2020-09-06,San Luis Obispo,3,0,0,1
+2020-09-07,San Luis Obispo,3,0,0,1
+2020-09-08,San Luis Obispo,3,1,1,1
+2020-09-09,San Luis Obispo,3,1,0,1
+2020-09-10,San Luis Obispo,3,1,0,1
+2020-09-11,San Luis Obispo,3,1,0,1
+2020-09-12,San Luis Obispo,3,1,0,1
+2020-09-13,San Luis Obispo,3,1,0,1
+2020-09-14,San Luis Obispo,3,1,0,1
+2020-09-15,San Luis Obispo,3,1,0,0
+2020-09-16,San Luis Obispo,3,1,0,0
+2020-09-17,San Luis Obispo,3,1,0,0
+2020-09-18,San Luis Obispo,3,1,0,0
+2020-09-19,San Luis Obispo,3,1,0,0
+2020-09-20,San Luis Obispo,3,1,0,0
+2020-09-21,San Luis Obispo,3,1,0,0
+2020-09-22,San Luis Obispo,3,1,0,0
+2020-09-23,San Luis Obispo,3,1,0,0
+2020-09-24,San Luis Obispo,3,1,0,0
+2020-09-25,San Luis Obispo,3,1,0,0
+2020-09-26,San Luis Obispo,3,1,0,0
+2020-09-27,San Luis Obispo,3,1,0,0
+2020-09-28,San Luis Obispo,3,1,0,0
+2020-09-29,San Luis Obispo,3,1,0,0
+2020-09-30,San Luis Obispo,3,1,0,0
 2020-07-01,San Mateo,0,0,0,0
 2020-07-02,San Mateo,0,0,0,0
 2020-07-03,San Mateo,0,0,0,0
@@ -5201,48 +5201,48 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-08-17,Yolo,6,0,1,1
 2020-08-18,Yolo,7,0,1,2
 2020-08-19,Yolo,7,0,0,2
-2020-08-20,Yolo,7,0,0,2
-2020-08-21,Yolo,8,0,1,3
-2020-08-22,Yolo,8,0,0,3
-2020-08-23,Yolo,10,0,2,5
-2020-08-24,Yolo,12,2,4,8
-2020-08-25,Yolo,14,2,2,9
-2020-08-26,Yolo,16,2,2,11
-2020-08-27,Yolo,17,2,1,12
-2020-08-28,Yolo,19,3,3,14
-2020-08-29,Yolo,19,3,0,14
-2020-08-30,Yolo,19,3,0,12
-2020-08-31,Yolo,20,3,1,9
-2020-09-01,Yolo,21,3,1,8
-2020-09-02,Yolo,22,3,1,7
-2020-09-03,Yolo,24,3,2,8
-2020-09-04,Yolo,26,3,2,7
-2020-09-05,Yolo,26,3,0,7
-2020-09-06,Yolo,26,3,0,7
-2020-09-07,Yolo,26,3,0,6
-2020-09-08,Yolo,26,3,0,5
-2020-09-09,Yolo,28,3,2,6
-2020-09-10,Yolo,29,3,1,5
-2020-09-11,Yolo,31,3,2,5
-2020-09-12,Yolo,31,5,2,7
-2020-09-13,Yolo,31,7,2,9
-2020-09-14,Yolo,31,11,4,13
-2020-09-15,Yolo,32,12,2,15
-2020-09-16,Yolo,34,12,2,15
-2020-09-17,Yolo,35,13,2,16
-2020-09-18,Yolo,36,14,2,16
-2020-09-19,Yolo,36,14,0,14
-2020-09-20,Yolo,36,14,0,12
-2020-09-21,Yolo,37,16,3,11
-2020-09-22,Yolo,39,18,4,13
-2020-09-23,Yolo,40,18,1,12
-2020-09-24,Yolo,40,21,3,13
-2020-09-25,Yolo,40,24,3,14
-2020-09-26,Yolo,40,24,0,14
-2020-09-27,Yolo,40,24,0,14
-2020-09-28,Yolo,40,25,1,12
-2020-09-29,Yolo,40,26,1,9
-2020-09-30,Yolo,40,26,0,8
+2020-08-20,Yolo,8,0,1,3
+2020-08-21,Yolo,9,0,1,4
+2020-08-22,Yolo,9,0,0,4
+2020-08-23,Yolo,11,0,2,6
+2020-08-24,Yolo,13,2,4,9
+2020-08-25,Yolo,15,2,2,10
+2020-08-26,Yolo,17,2,2,12
+2020-08-27,Yolo,18,2,1,12
+2020-08-28,Yolo,20,3,3,14
+2020-08-29,Yolo,20,3,0,14
+2020-08-30,Yolo,20,3,0,12
+2020-08-31,Yolo,21,3,1,9
+2020-09-01,Yolo,22,3,1,8
+2020-09-02,Yolo,23,3,1,7
+2020-09-03,Yolo,25,3,2,8
+2020-09-04,Yolo,27,3,2,7
+2020-09-05,Yolo,27,3,0,7
+2020-09-06,Yolo,27,3,0,7
+2020-09-07,Yolo,27,3,0,6
+2020-09-08,Yolo,27,3,0,5
+2020-09-09,Yolo,29,3,2,6
+2020-09-10,Yolo,30,3,1,5
+2020-09-11,Yolo,32,3,2,5
+2020-09-12,Yolo,32,5,2,7
+2020-09-13,Yolo,32,7,2,9
+2020-09-14,Yolo,32,11,4,13
+2020-09-15,Yolo,33,13,3,16
+2020-09-16,Yolo,35,13,2,16
+2020-09-17,Yolo,36,14,2,17
+2020-09-18,Yolo,37,15,2,17
+2020-09-19,Yolo,37,15,0,15
+2020-09-20,Yolo,37,15,0,13
+2020-09-21,Yolo,38,17,3,12
+2020-09-22,Yolo,40,19,4,13
+2020-09-23,Yolo,41,19,1,12
+2020-09-24,Yolo,41,22,3,13
+2020-09-25,Yolo,41,25,3,14
+2020-09-26,Yolo,41,25,0,14
+2020-09-27,Yolo,41,25,0,14
+2020-09-28,Yolo,41,26,1,12
+2020-09-29,Yolo,41,27,1,9
+2020-09-30,Yolo,41,27,0,8
 2020-07-01,Yuba,0,0,0,0
 2020-07-02,Yuba,0,0,0,0
 2020-07-03,Yuba,0,0,0,0
