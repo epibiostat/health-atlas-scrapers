@@ -634,15 +634,15 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-19,Contra Costa,54,34,0,15
 2020-09-20,Contra Costa,54,34,0,15
 2020-09-21,Contra Costa,54,34,0,11
-2020-09-22,Contra Costa,54,35,1,8
-2020-09-23,Contra Costa,55,40,5,10
-2020-09-24,Contra Costa,55,43,4,14
-2020-09-25,Contra Costa,55,43,0,10
-2020-09-26,Contra Costa,55,43,0,10
-2020-09-27,Contra Costa,55,43,0,10
-2020-09-28,Contra Costa,55,43,0,10
-2020-09-29,Contra Costa,55,45,2,11
-2020-09-30,Contra Costa,55,46,1,7
+2020-09-22,Contra Costa,55,35,2,9
+2020-09-23,Contra Costa,56,40,5,11
+2020-09-24,Contra Costa,56,43,4,15
+2020-09-25,Contra Costa,56,43,0,11
+2020-09-26,Contra Costa,56,43,0,11
+2020-09-27,Contra Costa,56,43,0,11
+2020-09-28,Contra Costa,56,43,0,11
+2020-09-29,Contra Costa,56,45,2,11
+2020-09-30,Contra Costa,56,46,1,7
 2020-07-01,Del Norte,0,0,0,0
 2020-07-02,Del Norte,0,0,0,0
 2020-07-03,Del Norte,0,0,0,0
@@ -2014,15 +2014,15 @@ date,county,at_least_one_dose,fully_vaccinated,new_doses_administered,weekly_new
 2020-09-19,Mariposa,0,0,0,0
 2020-09-20,Mariposa,0,0,0,0
 2020-09-21,Mariposa,0,0,0,0
-2020-09-22,Mariposa,1,0,1,1
-2020-09-23,Mariposa,1,0,0,1
-2020-09-24,Mariposa,1,0,0,1
-2020-09-25,Mariposa,1,0,0,1
-2020-09-26,Mariposa,1,0,0,1
-2020-09-27,Mariposa,1,0,0,1
-2020-09-28,Mariposa,1,0,0,1
-2020-09-29,Mariposa,1,0,0,0
-2020-09-30,Mariposa,1,0,0,0
+2020-09-22,Mariposa,0,0,0,0
+2020-09-23,Mariposa,0,0,0,0
+2020-09-24,Mariposa,0,0,0,0
+2020-09-25,Mariposa,0,0,0,0
+2020-09-26,Mariposa,0,0,0,0
+2020-09-27,Mariposa,0,0,0,0
+2020-09-28,Mariposa,0,0,0,0
+2020-09-29,Mariposa,0,0,0,0
+2020-09-30,Mariposa,0,0,0,0
 2020-07-01,Mendocino,0,0,0,0
 2020-07-02,Mendocino,0,0,0,0
 2020-07-03,Mendocino,0,0,0,0
