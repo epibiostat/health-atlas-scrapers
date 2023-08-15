@@ -45,10 +45,10 @@ def main():
     url = "https://raw.githubusercontent.com/datadesk/california-coronavirus-data/master/cdph-county-cases-deaths.csv"
     df = pd.read_csv(url)
 
-    df = df[['date', 'county', 'confirmed_cases', 'reported_deaths']] \
+    df = df[['date', 'county', 'confirmed_cases', 'confirmed_deaths']] \
             .rename(columns={
                 'confirmed_cases': 'cases',
-                'reported_deaths': 'deaths',
+                'confirmed_deaths': 'deaths',
             })
 
     df['date'] = pd.to_datetime(df['date'])

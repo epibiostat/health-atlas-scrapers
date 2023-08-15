@@ -29,9 +29,9 @@ def write_quarterly_csv(df, quarter):
 
 def process_county(group):
     g = group.sort_values('date').set_index('date')
-    g_sum = g.resample('D').asfreq().rolling(7).sum()
+    g_sum = g.drop(['county'], axis='columns').resample('D').asfreq().rolling(7).sum()
     g['weekly_new_doses'] = g_sum['new_doses_administered']
-    return g.drop(['county'], axis='columns')
+    return g.reset_index()
 
 
 def main():
@@ -46,7 +46,7 @@ def main():
     df['date'] = pd.to_datetime(df['date'])
 
     df = df[['date', 'county', 'at_least_one_dose', 'fully_vaccinated', 'new_doses_administered']]
-    df = df.groupby('county').apply(process_county).reset_index()
+    df = df.groupby('county').apply(process_county) # .reset_index()
 
     df['year'] = df['date'].dt.year.astype(str)
     df['quarter'] = df['date'].dt.quarter.astype(str)
